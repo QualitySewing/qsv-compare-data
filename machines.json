@@ -12253,19 +12253,21 @@
         "Maximum sewing speed: 1,300 spm",
         "2, 3 or 4 thread capacity",
         "Flatlock, overlock and rolled hem stitches",
-        "Differential feed ratio: 0.7mm to 2.0mm",
+        "Differential feed ratio: 0.7 to 2.0",
         "One-touch jet-air looper threading"
       ],
       "Threading": [
         "One-touch jet-air looper threading, which sends thread through the loopers on a blast of air",
         "One-touch needle threading for two needles",
         "Color-coded thread guides",
-        "Manual thread tension"
+        "Manual thread tension",
+        "Stitch width: 2.8 mm to 7.5 mm",
+        "Stitch length: 2 mm to 4 mm",
+        "Needle system: 130/705H"
       ],
       "Workspace & Display": [
         "LED lit work area",
         "Dial stitch selector",
-        "5.1\" x 3.1\" workspace",
         "Machine dimensions: 14.6 in. W x 14.0 in. D x 15.9 in. H",
         "Machine weight: 21.5 lbs"
       ],
@@ -12275,16 +12277,19 @@
         "Safety sensor lights an error LED when a cover is open or the presser foot is raised"
       ],
       "Included Accessories": [
-        "Standard foot",
-        "2-piece needle set",
-        "4-piece spool cap set",
-        "4-piece thread net set",
-        "Screwdriver",
+        "Standard foot (fitted to the machine)",
+        "Blind stitch foot (SA214)",
+        "Needle set, 130/705H: two #80 and two #90",
+        "4 thread spool caps",
+        "4 thread nets",
+        "Threading wire",
         "Tweezers",
         "Cleaning brush",
-        "Accessories box",
-        "Dust cover",
-        "Foot controller"
+        "Hexagonal driver",
+        "Accessory box",
+        "Soft dust cover",
+        "Foot controller",
+        "Operation manual"
       ],
       "Warranty": [
         "25 years on the chassis",
@@ -16268,16 +16273,17 @@
       "Cutting Features": [
         "Auto Blade reads material thickness and adjusts automatically",
         "Maximum cutting thickness: 0.1 in. (3 mm)",
-        "Extended cutting up to 12 x 70.2 in. with the optional roll feeder",
+        "Cuts from rolled material with the optional roll feeder",
         "Built-in seam allowance for quilt assembly and garment sewing",
         "Scan-to-cut detection: outline, region and line thinning",
         "Background scan adjustment, darker or lighter",
         "76 bonus SVG files, available through CanvasWorkspace for web"
       ],
       "Workspace & Mat": [
-        "Cutting area: 12 x 12 in. on the standard mat",
+        "Maximum cutting and drawing area: 11.65 x 11.73 in. on the 12 x 12 in. mat",
         "Maximum scanning width: 11.7 in.",
         "5 in. LCD touchscreen with a zoom function",
+        "Machine dimensions: 20.9 x 8.5 x 6.8 in.",
         "Machine weight: 12.79 lbs"
       ],
       "Smart Features": [
@@ -16294,16 +16300,15 @@
         "Delicate and raw-edge applique fabric, with the optional Thin Fabric Auto Blade"
       ],
       "Included Accessories": [
-        "Standard tack mat, 12 x 12 in. (replacement mats available)",
         "Auto Blade",
-        "Auto Blade holder",
-        "Touch pen stylus",
+        "Auto blade holder",
+        "12 x 12 in. cutting mat (replacement mats available)",
+        "Touch pen (stylus)",
         "Black pen",
         "Pen holder",
         "Spatula",
-        "Accessory pouch",
-        "Sample cardstock",
-        "Pattern collection"
+        "Sample cardstock, 12 x 12 in.",
+        "Power cord"
       ],
       "Warranty": [
         "1 year on parts and labor",
@@ -18261,7 +18266,8 @@
     },
     "specs": {
       "Software Features": [
-        "Tablet app with built-in step-by-step guides on every screen",
+        "Tablet app with a built-in step-by-step guide on every tool and screen, so on-screen help sits where the question comes up",
+        "Quilters Playground live online sessions with Grace's Director of Education, plus a recorded episode library and a Grace support YouTube channel",
         "Pick, place, and quilt workflow with a digital quilting zone that mirrors the frame one to one",
         "Included designs: Foundations 50, Discovery 60, Mastery 70",
         "Grace Design Store access with 10 design credits per month: Foundations 6 months, Discovery 12 months, Mastery 18 months",
@@ -18291,7 +18297,8 @@
         "Evolution Hoop Frame",
         "Q-Zone Hoop Frame",
         "Evolution Elite Rolling Frame",
-        "Q-Zone Queen Frame"
+        "Q-Zone Queen Frame",
+        "Continuum II Frame"
       ],
       "Included Accessories": [
         "QMX automation hardware with quick-release belts (same kit on every tier)"
