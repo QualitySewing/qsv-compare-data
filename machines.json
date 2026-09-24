@@ -20603,7 +20603,7 @@
       "embroideryArea": null,
       "maxSpeed": 1200,
       "screenSize": null,
-      "includedFeet": 12,
+      "includedFeet": 14,
       "throatSpace": "10\"",
       "threadCount": null
     },
@@ -20634,7 +20634,8 @@
         "Speed Control: Speed slider",
         "Knee Lift / Hands-Free Lift: Knee lift",
         "Workspace Right of Needle: 10\" to the right of the needle",
-        "Lighting: 6 LED lights in 3 locations"
+        "Lighting: 6 LED lights in 3 locations",
+        "Dimensions: 20.3 x 11.8 x 8.7 in. (W x H x D)"
       ],
       "Smart Features": [
         "Start/stop button",
@@ -20647,17 +20648,19 @@
         "Dimensions: W 20.3\" x H 11.8\" x D 8.7\""
       ],
       "Included Feet": [
-        "1/4\" seam foot O",
+        "1/4 in. seam foot O",
         "Automatic buttonhole foot R",
-        "Blind hem foot G",
+        "Blind hemming foot G",
         "Button sewing foot T",
-        "Convertible free-motion quilting foot (3 heads)",
+        "Convertible free motion quilting foot (closed-toe, open-toe, clear view)",
         "Darning foot PD-H",
-        "Open-toe satin stitch foot F2",
-        "Overlock foot M",
+        "Dual feed foot AD",
+        "Open toe satin stitch foot F2",
+        "Overedge foot M",
+        "Professional grade foot HP",
         "Rolled hem foot D",
         "Satin stitch foot F",
-        "Standard foot A",
+        "Zigzag foot A (on machine)",
         "Zipper foot E"
       ],
       "Included Accessories": [
@@ -20669,8 +20672,8 @@
         "1-Year Quality Sewing Warranty"
       ]
     },
-    "weightLbs": 24.2,
-    "dimensions": null,
+    "weightLbs": 24.3,
+    "dimensions": "20.3 x 11.8 x 8.7 in. (W x H x D)",
     "warrantySource": "Machine Manufacturer Warranties/Janome and Elna Machine Warranty.docx (the 1-year service tier is covered by the 1-Year Quality Sewing line)",
     "ks": {
       "stitchCount": "200",
@@ -20680,7 +20683,7 @@
       "threadCutter": "Automatic",
       "display": "LCD",
       "throatSpace": "10\"",
-      "includedFeet": "12",
+      "includedFeet": "14",
       "warranty": "25/5/1 Year Limited Warranty"
     },
     "ws": {
@@ -20688,7 +20691,8 @@
       "speedControl": "Speed slider",
       "kneeLift": "Knee lift",
       "workspace": "10\" to the right of the needle",
-      "lighting": "6 LED lights in 3 locations"
+      "lighting": "6 LED lights in 3 locations",
+      "dimensions": "20.3 x 11.8 x 8.7 in. (W x H x D)"
     },
     "shippingWeightLbs": 24
   },
@@ -20754,7 +20758,8 @@
         "Display: 5\" Touchscreen",
         "Knee Lift / Hands-Free Lift: Knee lift",
         "Workspace Right of Needle: 11\" to the right of the needle",
-        "Lighting: 9 LED lights in 4 locations + 1 retractable front spotlight"
+        "Lighting: 9 LED lights in 4 locations + 1 retractable front spotlight",
+        "Dimensions: 21.1 x 12.8 x 9.6 in. (W x H x D)"
       ],
       "Smart Features": [
         "Accurate Stitch Regulator (A.S.R.) included",
@@ -20766,6 +20771,29 @@
         "Feed dog: 7-piece retractable",
         "Dimensions: W 21.06\" x H 12.83\" x D 9.56\""
       ],
+      "Included Feet": [
+        "1/4 in. seam foot O",
+        "1/4 in. seam foot O (without guide)",
+        "Automatic buttonhole foot R",
+        "Blind hemming foot G",
+        "Button sewing foot T",
+        "Darning foot PD-H",
+        "Darning foot PD-H (open-toe)",
+        "Dual feed foot AD",
+        "Dual feed plus professional foot HP2",
+        "Free motion quilting closed-toe foot QC",
+        "Free motion quilting open-toe foot QO",
+        "Free motion quilting zigzag foot QV",
+        "Open-toe satin stitch foot F2",
+        "Overcasting foot M",
+        "Professional grade foot HP",
+        "Rolled hem foot D",
+        "Ruler work foot QR",
+        "Satin stitch foot F",
+        "Variable zigzag open-toe foot QZ",
+        "Zigzag foot A (on machine)",
+        "Zipper foot E"
+      ],
       "Included Accessories": [
         "Extension table, fabric guide, knee lifter, bobbins, needles, seam ripper, screwdriver, spool holders, lint brush, stylus, dust cover, foot controller, straight stitch and HP needle plates"
       ],
@@ -20776,7 +20804,7 @@
       ]
     },
     "weightLbs": 29.8,
-    "dimensions": null,
+    "dimensions": "21.1 x 12.8 x 9.6 in. (W x H x D)",
     "warrantySource": "Machine Manufacturer Warranties/Janome and Elna Machine Warranty.docx (the 1-year service tier is covered by the 1-Year Quality Sewing line)",
     "ks": {
       "stitchCount": "400",
@@ -20793,7 +20821,8 @@
       "display": "5\" Touchscreen",
       "kneeLift": "Knee lift",
       "workspace": "11\" to the right of the needle",
-      "lighting": "9 LED lights in 4 locations + 1 retractable front spotlight"
+      "lighting": "9 LED lights in 4 locations + 1 retractable front spotlight",
+      "dimensions": "21.1 x 12.8 x 9.6 in. (W x H x D)"
     },
     "shippingWeightLbs": 30
   },
@@ -20826,7 +20855,7 @@
       "maxSpeed": 1300,
       "screenSize": "7\"",
       "includedFeet": 22,
-      "throatSpace": "5.5\"",
+      "throatSpace": "13.5\"",
       "threadCount": null
     },
     "specs": {
@@ -20860,8 +20889,9 @@
       "Workspace & Display": [
         "Display: 7\" Touchscreen",
         "Knee Lift / Hands-Free Lift: Knee lift",
-        "Workspace Right of Needle: 5.5\" to the right of the needle",
-        "Lighting: 9 LED lights in 4 locations"
+        "Workspace Right of Needle: 13.5\" to the right of the needle",
+        "Lighting: 9 LED lights in 4 locations",
+        "Dimensions: 25.6 x 14.6 x 10.2 in. (W x H x D)"
       ],
       "Smart Features": [
         "Accurate Stitch Regulator (A.S.R.) included",
@@ -20870,6 +20900,30 @@
         "Knee lifter",
         "Pivot function",
         "Dimensions: W 25.6\" x H 14.6\" x D 10.2\""
+      ],
+      "Included Feet": [
+        "1/4 in. seam foot O",
+        "1/4 in. seam foot O (without guide)",
+        "Automatic buttonhole foot R",
+        "Blind hemming foot G",
+        "Button sewing foot T",
+        "Darning foot PD-H",
+        "Darning foot PD-H (open-toe)",
+        "Dual feed foot AD",
+        "Dual feed plus professional foot HP2",
+        "Free motion quilting closed-toe foot QC",
+        "Free motion quilting open-toe foot QO",
+        "Free motion quilting zigzag foot QV",
+        "Invisible zipper foot Z",
+        "Open-toe satin stitch foot F2",
+        "Overcasting foot M",
+        "Professional grade foot HP",
+        "Rolled hem foot D",
+        "Ruler work foot QR",
+        "Satin stitch foot F",
+        "Variable zigzag open-toe foot QZ",
+        "Zigzag foot A (on machine)",
+        "Zipper foot E"
       ],
       "Included Accessories": [
         "Extension table, fabric guide, knee lifter, bobbins, needles, seam ripper, screwdriver, spool holders, lint brush, stylus, semi-hard cover, foot controller, straight stitch and HP needle plates"
@@ -20881,7 +20935,7 @@
       ]
     },
     "weightLbs": 38.4,
-    "dimensions": null,
+    "dimensions": "25.6 x 14.6 x 10.2 in. (W x H x D)",
     "warrantySource": "Machine Manufacturer Warranties/Janome and Elna Machine Warranty.docx (the 1-year service tier is covered by the 1-Year Quality Sewing line)",
     "ks": {
       "stitchCount": "450",
@@ -20890,15 +20944,16 @@
       "needleThreader": "Built-in",
       "threadCutter": "Built-in",
       "display": "7\" Touchscreen",
-      "throatSpace": "5.5\"",
+      "throatSpace": "13.5\"",
       "includedFeet": "22",
       "warranty": "25/5/1 Year Limited Warranty"
     },
     "ws": {
       "display": "7\" Touchscreen",
       "kneeLift": "Knee lift",
-      "workspace": "5.5\" to the right of the needle",
-      "lighting": "9 LED lights in 4 locations"
+      "workspace": "13.5\" to the right of the needle",
+      "lighting": "9 LED lights in 4 locations",
+      "dimensions": "25.6 x 14.6 x 10.2 in. (W x H x D)"
     },
     "shippingWeightLbs": 38
   },
@@ -20928,7 +20983,7 @@
       "embroideryArea": null,
       "maxSpeed": 820,
       "screenSize": null,
-      "includedFeet": 3,
+      "includedFeet": 4,
       "throatSpace": "6.25\"",
       "threadCount": null
     },
@@ -20965,9 +21020,10 @@
         "Feed dog: 4-piece"
       ],
       "Included Feet": [
-        "Buttonhole Foot J",
-        "Satin Foot F",
-        "Zipper Foot E"
+        "Satin stitch foot F",
+        "Sliding buttonhole foot",
+        "Zigzag foot A (on machine)",
+        "Zipper foot E"
       ],
       "Included Accessories": [
         "Bobbin, seam ripper, screwdriver, needle set, spool holders, lint brush, spool pin, dust cover, foot controller"
@@ -20989,7 +21045,7 @@
       "threadCutter": "Manual",
       "display": "LCD",
       "throatSpace": "6.25\"",
-      "includedFeet": "3",
+      "includedFeet": "4",
       "warranty": "25/5/1 Year Limited Warranty"
     },
     "ws": {
@@ -21069,7 +21125,7 @@
         "Assembly Instructions & Reference Card"
       ],
       "Warranty": [
-        "1-Year Limited Warranty on Materials and Workmanship",
+        "1-Year Limited Warranty on Frame Parts",
         "1-Year Quality Sewing Warranty"
       ]
     },
@@ -21163,11 +21219,11 @@
       ],
       "Warranty": [
         "5-Year Limited Warranty on Cast Metal Body",
-        "2-Year Limited Warranty on All Parts (electronic parts per Grace warranty page)",
+        "2-Year Limited Warranty on Parts",
         "1-Year Quality Sewing Warranty"
       ],
       "Included Feet": [
-        "Hopping foot (on machine)"
+        "Hopping foot"
       ]
     },
     "weightLbs": 47.5,
@@ -21267,11 +21323,11 @@
       ],
       "Warranty": [
         "5-Year Limited Warranty on Cast Metal Body",
-        "2-Year Limited Warranty on All Parts (electronic parts per Grace warranty page)",
+        "2-Year Limited Warranty on Parts",
         "1-Year Quality Sewing Warranty"
       ],
       "Included Feet": [
-        "Hopping foot (on machine)"
+        "Hopping foot"
       ]
     },
     "weightLbs": 47.5,
@@ -21350,7 +21406,8 @@
         "Display: 7\" Touchscreen",
         "Speed Control: Speed control",
         "Workspace Right of Needle: 19\" to the right of the needle",
-        "Lighting: Bright LED lighting along the machine body; adjustable needle light with dimmer control"
+        "Lighting: Bright LED lighting along the machine body; adjustable needle light with dimmer control",
+        "Dimensions: 6.77 x 28.12 x 28.94 in. (W x H x D)"
       ],
       "Smart Features": [
         "Edge Warning® System: Lights and sound alerts as you reach the edge",
@@ -21362,7 +21419,7 @@
         "Table: Includes extension leaves for added flat surface area"
       ],
       "Included Feet": [
-        "Standard hopping foot"
+        "Hopping foot"
       ],
       "Included Accessories": [
         "Ergonomic sit-down table with foldable extension leaves",
@@ -21372,13 +21429,13 @@
       ],
       "Warranty": [
         "5-Year Limited Warranty on Cast Metal Body",
-        "2-Year Limited Warranty on All Parts",
-        "1-Year Limited Warranty on Table",
+        "2-Year Limited Warranty on Parts",
+        "1-Year Limited Warranty on Sit-Down Table",
         "1-Year Quality Sewing Warranty"
       ]
     },
     "weightLbs": 43.5,
-    "dimensions": null,
+    "dimensions": "6.77 x 28.12 x 28.94 in. (W x H x D)",
     "warrantySource": "https://graceframe.com/storage/instruction_files/IkUW5NejiffVI01wjBQbSWhBvcdB7KAhe75DHKUG.pdf",
     "ks": {
       "maxSpeed": "2,600 SPM",
@@ -21391,7 +21448,8 @@
       "display": "7\" Touchscreen",
       "speedControl": "Speed control",
       "workspace": "19\" to the right of the needle",
-      "lighting": "Bright LED lighting along the machine body; adjustable needle light with dimmer control"
+      "lighting": "Bright LED lighting along the machine body; adjustable needle light with dimmer control",
+      "dimensions": "6.77 x 28.12 x 28.94 in. (W x H x D)"
     },
     "shippingWeightLbs": 50
   },
@@ -21482,11 +21540,11 @@
       ],
       "Warranty": [
         "10-Year Limited Warranty on Cast Metal Body",
-        "2-Year Limited Warranty on All Parts (electronic parts per Grace warranty page)",
+        "2-Year Limited Warranty on Parts",
         "1-Year Quality Sewing Warranty"
       ],
       "Included Feet": [
-        "Hopping foot (on machine)"
+        "Hopping foot"
       ]
     },
     "weightLbs": 43.5,
@@ -21596,7 +21654,7 @@
         "1-Year Quality Sewing Warranty"
       ],
       "Included Feet": [
-        "Hopping foot (on machine)"
+        "Hopping foot"
       ]
     },
     "weightLbs": 43.5,
@@ -21696,11 +21754,11 @@
       ],
       "Warranty": [
         "10-Year Limited Warranty on Cast Metal Body",
-        "2-Year Limited Warranty on All Parts (electronic parts per Grace warranty page)",
+        "2-Year Limited Warranty on Parts",
         "1-Year Quality Sewing Warranty"
       ],
       "Included Feet": [
-        "Hopping foot (on machine)"
+        "Hopping foot"
       ]
     },
     "weightLbs": 54,
@@ -21803,7 +21861,7 @@
         "1-Year Quality Sewing Warranty"
       ],
       "Included Feet": [
-        "Hopping foot (on machine)"
+        "Hopping foot"
       ]
     },
     "weightLbs": 54,
@@ -21883,7 +21941,7 @@
         "Lighting: LED (throat and bobbin area)"
       ],
       "Included Feet": [
-        "Quilter foot (pre-installed)",
+        "Quilter foot (1/4 in.)",
         "Quilter foot with edge guide",
         "Sit-down quilting foot",
         "Standard hopping foot",
@@ -21915,7 +21973,7 @@
       ],
       "Warranty": [
         "5-Year Limited Warranty on Cast Metal Body",
-        "2-Year Limited Warranty on All Parts",
+        "2-Year Limited Warranty on Parts",
         "1-Year Quality Sewing Warranty"
       ],
       "Smart Features": [
@@ -22000,7 +22058,7 @@
         "Lighting: LED (throat and bobbin area)"
       ],
       "Included Feet": [
-        "Quilter foot (pre-installed)",
+        "Quilter foot (1/4 in.)",
         "Quilter foot with edge guide",
         "Sit-down quilting foot",
         "Standard hopping foot",
@@ -22117,7 +22175,7 @@
         "Bungee Clamps (easy-release)"
       ],
       "Warranty": [
-        "1-Year Limited Warranty on Materials and Workmanship",
+        "1-Year Limited Warranty on Frame Parts",
         "1-Year Quality Sewing Warranty"
       ],
       "Workspace & Display": [
@@ -22205,7 +22263,7 @@
         "Machine and carriage channel locks"
       ],
       "Warranty": [
-        "1-Year Limited Warranty on Materials and Workmanship",
+        "1-Year Limited Warranty on Frame Parts",
         "1-Year Quality Sewing Warranty"
       ]
     },
@@ -22295,13 +22353,13 @@
         "Tablet Not Included (optional purchase)"
       ],
       "Warranty": [
-        "2-Year Limited Warranty on QuiltMotion System",
+        "2-Year Limited Warranty on Parts",
         "1-Year Quality Sewing Warranty"
       ]
     },
     "weightLbs": null,
     "dimensions": null,
-    "warrantySource": "https://graceframe.com/storage/instruction_files/iDA53vOniY7I3mA86QkTC7spP85B96CuHMEzvoIC.pdf",
+    "warrantySource": "https://graceframe.com/en/warranty/info",
     "ks": {
       "warranty": "2 Year Limited Warranty"
     },
@@ -22417,7 +22475,7 @@
       "maxSpeed": 2500,
       "screenSize": null,
       "includedFeet": 2,
-      "throatSpace": "20\"",
+      "throatSpace": "20.5\"",
       "threadCount": null
     },
     "specs": {
@@ -22445,7 +22503,7 @@
       ],
       "Workspace & Display": [
         "Display: 7\" Touchscreen",
-        "Workspace Right of Needle: 20\" to the right of the needle",
+        "Workspace Right of Needle: 20.5\" to the right of the needle",
         "Lighting: QuiltMaster LED Package (throat, needlebar, bobbin)"
       ],
       "Smart Features": [
@@ -22470,8 +22528,8 @@
         "1-Year Quality Sewing Warranty"
       ],
       "Included Feet": [
-        "Open-toe foot",
-        "Ruler foot"
+        "Closed-toe hopping foot (installed)",
+        "Open-toe hopping foot"
       ]
     },
     "weightLbs": null,
@@ -22481,13 +22539,13 @@
       "stitchCount": "24",
       "maxSpeed": "2,500 SPM",
       "display": "7\" Touchscreen",
-      "throatSpace": "20\"",
+      "throatSpace": "20.5\"",
       "includedFeet": "2",
       "warranty": "10/5/5 Year Limited Warranty"
     },
     "ws": {
       "display": "7\" Touchscreen",
-      "workspace": "20\" to the right of the needle",
+      "workspace": "20.5\" to the right of the needle",
       "lighting": "QuiltMaster LED Package (throat, needlebar, bobbin)"
     },
     "shippingWeightLbs": 80
@@ -22521,7 +22579,7 @@
       "maxSpeed": 2500,
       "screenSize": null,
       "includedFeet": 2,
-      "throatSpace": "24\"",
+      "throatSpace": "24.5\"",
       "threadCount": null
     },
     "specs": {
@@ -22549,7 +22607,7 @@
       ],
       "Workspace & Display": [
         "Display: 7\" Touchscreen",
-        "Workspace Right of Needle: 24\" to the right of the needle",
+        "Workspace Right of Needle: 24.5\" to the right of the needle",
         "Lighting: Menu-controlled QuiltMaster LED Lighting Package (throat, needle bar, and bobbin)"
       ],
       "Smart Features": [
@@ -22581,8 +22639,8 @@
         "1-Year Quality Sewing Warranty"
       ],
       "Included Feet": [
-        "Open-toe foot",
-        "Ruler foot"
+        "Closed-toe hopping foot (installed)",
+        "Open-toe hopping foot"
       ]
     },
     "weightLbs": null,
@@ -22592,13 +22650,13 @@
       "stitchCount": "24",
       "maxSpeed": "2,500 SPM",
       "display": "7\" Touchscreen",
-      "throatSpace": "24\"",
+      "throatSpace": "24.5\"",
       "includedFeet": "2",
       "warranty": "10/5/5 Year Limited Warranty"
     },
     "ws": {
       "display": "7\" Touchscreen",
-      "workspace": "24\" to the right of the needle",
+      "workspace": "24.5\" to the right of the needle",
       "lighting": "Menu-controlled QuiltMaster LED Lighting Package (throat, needle bar, and bobbin)"
     },
     "shippingWeightLbs": 80
@@ -22627,7 +22685,7 @@
       "maxSpeed": 2500,
       "screenSize": null,
       "includedFeet": 2,
-      "throatSpace": "20\"",
+      "throatSpace": "20.5\"",
       "threadCount": null
     },
     "specs": {
@@ -22655,7 +22713,7 @@
       ],
       "Workspace & Display": [
         "Display: 7\" Touchscreen",
-        "Workspace Right of Needle: 20\" W x 7\" H",
+        "Workspace Right of Needle: 20.5\" W x 7\" H",
         "Lighting: QuiltMaster LED Package (throat, needle bar, bobbin)"
       ],
       "Smart Features": [
@@ -22701,8 +22759,8 @@
         "1-Year Quality Sewing Warranty"
       ],
       "Included Feet": [
-        "Open-toe foot",
-        "Quarter-inch ruler foot (installed on machine)"
+        "Closed-toe hopping foot (installed)",
+        "Open-toe hopping foot"
       ]
     },
     "weightLbs": null,
@@ -22712,13 +22770,13 @@
       "stitchCount": "24",
       "maxSpeed": "2,500 SPM",
       "display": "7\" Touchscreen",
-      "throatSpace": "20\"",
+      "throatSpace": "20.5\"",
       "includedFeet": "2",
       "warranty": "10/5/5 Year Limited Warranty"
     },
     "ws": {
       "display": "7\" Touchscreen",
-      "workspace": "20\" W x 7\" H",
+      "workspace": "20.5\" W x 7\" H",
       "lighting": "QuiltMaster LED Package (throat, needle bar, bobbin)"
     },
     "shippingWeightLbs": 30
@@ -22751,7 +22809,7 @@
       "embroideryArea": null,
       "maxSpeed": 820,
       "screenSize": null,
-      "includedFeet": 8,
+      "includedFeet": 6,
       "throatSpace": "6.7\"",
       "threadCount": null
     },
@@ -22785,18 +22843,15 @@
       ],
       "Workspace & Display": [
         "Display: LCD",
-        "Workspace Right of Needle: 6.7\" to the right of the needle",
-        "Dimensions: 20 x 16 x 12 in."
+        "Workspace Right of Needle: 6.7\" to the right of the needle"
       ],
       "Included Feet": [
-        "Automatic Buttonhole Foot: R",
-        "Blind Hem Foot: G",
-        "Even Feed Foot",
-        "Overedge Foot: C",
-        "Quarter-Inch Seam Foot",
-        "Satin Stitch Foot: F",
-        "Zigzag Foot: A (installed on machine)",
-        "Zipper Foot: E"
+        "Automatic buttonhole foot R",
+        "Blind hem foot G",
+        "Overedge foot C",
+        "Satin stitch foot F",
+        "Zigzag foot A (on machine)",
+        "Zipper foot E"
       ],
       "Included Accessories": [
         "Spool holders x2 (large; one set installed on machine)",
@@ -22820,8 +22875,8 @@
         "1-Year Quality Sewing Warranty"
       ]
     },
-    "weightLbs": 22,
-    "dimensions": "20 x 16 x 12 in.",
+    "weightLbs": null,
+    "dimensions": null,
     "warrantySource": "Handi Quilter publishes no HQ Stitch warranty (machine-page-integrity warranty-terms.md)",
     "ks": {
       "stitchCount": "50",
@@ -22831,13 +22886,12 @@
       "threadCutter": "Automatic",
       "display": "LCD",
       "throatSpace": "6.7\"",
-      "includedFeet": "8",
+      "includedFeet": "6",
       "warranty": "1-Year Quality Sewing Warranty"
     },
     "ws": {
       "display": "LCD",
-      "workspace": "6.7\" to the right of the needle",
-      "dimensions": "20 x 16 x 12 in."
+      "workspace": "6.7\" to the right of the needle"
     },
     "shippingWeightLbs": 22
   },
@@ -22898,8 +22952,7 @@
       "Workspace & Display": [
         "Display: 3.6\" LCD",
         "Speed Control: Speed slider",
-        "Workspace Right of Needle: 10\" to the right of the needle",
-        "Dimensions: 26 x 22 x 16 in."
+        "Workspace Right of Needle: 10\" to the right of the needle"
       ],
       "Smart Features": [
         "One-Push Needle Plate Conversion with 2 Included Plates",
@@ -22912,18 +22965,18 @@
         "15 Languages"
       ],
       "Included Feet": [
-        "Automatic Buttonhole Foot: R",
-        "Blind Hemming Foot: G",
-        "Clear View Foot",
-        "Closed-Toe Foot",
-        "Convertible Free-Motion Quilting Foot: QB-S",
-        "Darning Foot: PD-H",
-        "Open-Toe Foot",
-        "Overcasting Foot: M",
-        "Rolled Hem Foot: D",
-        "Satin Stitch Foot: F",
-        "Zigzag Foot: A (installed on machine)",
-        "Zipper Foot: E"
+        "Automatic buttonhole foot R",
+        "Blind hemming foot G",
+        "Clear view foot",
+        "Closed-toe foot",
+        "Convertible free motion quilting foot QB-S",
+        "Darning foot PD-H",
+        "Open-toe foot",
+        "Overcasting foot M",
+        "Rolled hem foot D",
+        "Satin stitch foot F",
+        "Zigzag foot A (on machine)",
+        "Zipper foot E"
       ],
       "Included Accessories": [
         "Bobbins x5 (one set installed on machine)",
@@ -22945,8 +22998,8 @@
         "1-Year Quality Sewing Warranty"
       ]
     },
-    "weightLbs": 34,
-    "dimensions": "26 x 22 x 16 in.",
+    "weightLbs": null,
+    "dimensions": null,
     "warrantySource": "Handi Quilter publishes no HQ Stitch warranty (machine-page-integrity warranty-terms.md)",
     "ks": {
       "stitchCount": "170",
@@ -22962,8 +23015,7 @@
     "ws": {
       "display": "3.6\" LCD",
       "speedControl": "Speed slider",
-      "workspace": "10\" to the right of the needle",
-      "dimensions": "26 x 22 x 16 in."
+      "workspace": "10\" to the right of the needle"
     },
     "shippingWeightLbs": 34
   },
@@ -23028,7 +23080,7 @@
         "Tension release button"
       ],
       "Workspace & Display": [
-        "Display: Touchscreen",
+        "Display: 12\" Touchscreen",
         "Workspace Right of Needle: 28\" to the right of the needle",
         "Lighting: Multi-zone LED lighting (needle, under-throat, bobbin area, dual V-channel strip)"
       ],
@@ -23064,9 +23116,9 @@
         "1-Year Quality Sewing Warranty"
       ],
       "Included Feet": [
-        "Closed-toe foot",
+        "Closed-toe hopping foot (installed)",
         "Glide foot",
-        "Open-toe foot"
+        "Open-toe hopping foot"
       ]
     },
     "weightLbs": null,
@@ -23076,13 +23128,13 @@
       "stitchCount": "24",
       "maxSpeed": "3,100 SPM",
       "threadCutter": "Built-in",
-      "display": "Touchscreen",
+      "display": "12\" Touchscreen",
       "throatSpace": "28\"",
       "includedFeet": "3",
       "warranty": "10/5/5 Year Limited Warranty"
     },
     "ws": {
-      "display": "Touchscreen",
+      "display": "12\" Touchscreen",
       "workspace": "28\" to the right of the needle",
       "lighting": "Multi-zone LED lighting (needle, under-throat, bobbin area, dual V-channel strip)"
     },
@@ -23181,8 +23233,8 @@
         "1-Year Quality Sewing Warranty"
       ],
       "Included Feet": [
-        "Open-toe Foot",
-        "Ruler Foot (installed on machine)"
+        "Open-toe foot",
+        "Ruler foot (installed)"
       ]
     },
     "weightLbs": null,
@@ -23233,7 +23285,7 @@
       "embroideryArea": null,
       "maxSpeed": 2100,
       "screenSize": "4.3\"",
-      "includedFeet": 1,
+      "includedFeet": 2,
       "throatSpace": "18\"",
       "threadCount": null
     },
@@ -23275,7 +23327,8 @@
         "1-Year Quality Sewing Warranty"
       ],
       "Included Feet": [
-        "Open-toe foot"
+        "Closed-toe hopping foot (1/4 in., installed)",
+        "Open-toe hopping foot"
       ],
       "Smart Features": [
         "Table: HQ InSight Table (included)",
@@ -23292,7 +23345,7 @@
       "threadCutter": "Manual",
       "display": "4.3\" Touchscreen",
       "throatSpace": "18\"",
-      "includedFeet": "1",
+      "includedFeet": "2",
       "warranty": "10/5/5 Year Limited Warranty"
     },
     "ws": {
@@ -23358,7 +23411,7 @@
         "Needle Threader: Included"
       ],
       "Workspace & Display": [
-        "Display: Touchscreen",
+        "Display: 4.3\" Touchscreen",
         "Workspace Right of Needle: 18\" to the right of the needle",
         "Lighting: LED Illuminated Quilting Space"
       ],
@@ -23395,8 +23448,8 @@
         "1-Year Quality Sewing Warranty"
       ],
       "Included Feet": [
-        "Open-toe foot",
-        "Quarter-inch closed-toe foot (installed)"
+        "Closed-toe hopping foot (installed)",
+        "Open-toe hopping foot"
       ]
     },
     "weightLbs": null,
@@ -23406,13 +23459,13 @@
       "stitchCount": "18",
       "maxSpeed": "2,100 SPM",
       "needleThreader": "Built-in",
-      "display": "Touchscreen",
+      "display": "4.3\" Touchscreen",
       "throatSpace": "18\"",
       "includedFeet": "2",
       "warranty": "10/5/5 Year Limited Warranty"
     },
     "ws": {
-      "display": "Touchscreen",
+      "display": "4.3\" Touchscreen",
       "workspace": "18\" to the right of the needle",
       "lighting": "LED Illuminated Quilting Space"
     },
@@ -23448,7 +23501,7 @@
       "maxSpeed": 2500,
       "screenSize": "7\"",
       "includedFeet": 2,
-      "throatSpace": "20\"",
+      "throatSpace": "20.5\"",
       "threadCount": null
     },
     "specs": {
@@ -23480,7 +23533,7 @@
       ],
       "Workspace & Display": [
         "Display: 7\" Touchscreen",
-        "Workspace Right of Needle: 20\" to the right of the needle",
+        "Workspace Right of Needle: 20.5\" to the right of the needle",
         "Lighting: QuiltMaster LED Package (throat, needle bar, bobbin)"
       ],
       "Smart Features": [
@@ -23509,8 +23562,8 @@
         "1-Year Quality Sewing Warranty"
       ],
       "Included Feet": [
-        "Open-toe foot",
-        "Ruler foot"
+        "Closed-toe hopping foot (installed)",
+        "Open-toe hopping foot"
       ]
     },
     "weightLbs": null,
@@ -23519,13 +23572,13 @@
     "ks": {
       "maxSpeed": "2,500 SPM",
       "display": "7\" Touchscreen",
-      "throatSpace": "20\"",
+      "throatSpace": "20.5\"",
       "includedFeet": "2",
       "warranty": "10/5/5 Year Limited Warranty"
     },
     "ws": {
       "display": "7\" Touchscreen",
-      "workspace": "20\" to the right of the needle",
+      "workspace": "20.5\" to the right of the needle",
       "lighting": "QuiltMaster LED Package (throat, needle bar, bobbin)"
     },
     "shippingWeightLbs": 50

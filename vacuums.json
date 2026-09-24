@@ -1156,7 +1156,11 @@
       "weightLbs": 8,
       "bagType": "Bagless",
       "cordType": "Cordless (70 min)",
-      "vacuumType": "Mop/Vacuum Combo"
+      "vacuumType": "Mop/Vacuum Combo",
+      "cleaningPath": null,
+      "filtration": null,
+      "petFriendly": null,
+      "suctionPower": null
     },
     "specs": {
       "Color": [
@@ -1245,7 +1249,11 @@
       "weightLbs": 8,
       "bagType": "Bagless",
       "cordType": "Cordless (70 min)",
-      "vacuumType": "Cordless Stick"
+      "vacuumType": "Cordless Stick",
+      "cleaningPath": null,
+      "filtration": null,
+      "petFriendly": null,
+      "suctionPower": null
     },
     "specs": {
       "Color": [
@@ -1408,8 +1416,12 @@
     "cardSpecs": {
       "weightLbs": 8,
       "bagType": "Bagless",
-      "cordType": "Cordless (2 min)",
-      "vacuumType": "Cordless Stick"
+      "cordType": "Cordless (2 x 70 min)",
+      "vacuumType": "Cordless Stick",
+      "cleaningPath": null,
+      "filtration": null,
+      "petFriendly": null,
+      "suctionPower": null
     },
     "specs": {
       "Color": [
