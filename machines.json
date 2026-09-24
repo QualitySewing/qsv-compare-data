@@ -20564,7 +20564,7 @@
         "9 One-Step Buttonholes",
         "Maximum Speed: 1,200 SPM",
         "10\" Throat Space",
-        "12 Presser Feet Included",
+        "14 Presser Feet Included",
         "25/5/1 Year Limited Warranty"
       ],
       "Sewing Features": [
@@ -20877,7 +20877,8 @@
         "Zipper foot E"
       ],
       "Included Accessories": [
-        "Extension table, fabric guide, knee lifter, bobbins, needles, seam ripper, screwdriver, spool holders, lint brush, stylus, semi-hard cover, foot controller, straight stitch and HP needle plates"
+        "Extension table, fabric guide, knee lifter, bobbins, needles, seam ripper, screwdriver, spool holders, lint brush, stylus, semi-hard cover, foot controller, straight stitch and HP needle plates",
+        "3 needle plates: standard, straight stitch, professional grade HP"
       ],
       "Warranty": [
         "25-Year Limited Warranty on Manufacturer Defects",
@@ -20944,7 +20945,7 @@
         "1 One-Step Buttonhole",
         "Maximum Speed: 820 SPM",
         "6.25\" Throat Space",
-        "3 Presser Feet Included",
+        "4 Presser Feet Included",
         "25/5/1 Year Limited Warranty"
       ],
       "Sewing Features": [
@@ -21116,7 +21117,7 @@
     "cardSpecs": {
       "stitchCount": null,
       "embroideryArea": null,
-      "maxSpeed": 2100,
+      "maxSpeed": 2000,
       "screenSize": "7\"",
       "includedFeet": 1,
       "throatSpace": "16\"",
@@ -21124,7 +21125,7 @@
     },
     "specs": {
       "Key Specs": [
-        "2,100 SPM",
+        "2,000 SPM",
         "16\" Throat Space",
         "7\" Touchscreen",
         "Regulated Stitching",
@@ -21132,7 +21133,7 @@
         "5/2 Year Limited Warranty"
       ],
       "Features": [
-        "Max Speed: 2,100 stitches per minute",
+        "Max Speed: 2,000 stitches per minute",
         "Stitch Modes: 4 (Manual, Cruise, Precise, Baste)",
         "Regulated Stitching"
       ],
@@ -21152,6 +21153,9 @@
         "Display Features: Settings, Help Guides",
         "Handles: Ergonomic with Two-Button Layout"
       ],
+      "Included Feet": [
+        "Hopping foot"
+      ],
       "Compatible Frames": [
         "Cutie Fabric Frame",
         "Q Zone Hoop Frame",
@@ -21160,6 +21164,7 @@
         "Evolution Elite Rolling Frame"
       ],
       "Included Accessories": [
+        "Standard Presser Foot",
         "M-Class Bobbins (3)",
         "Size 18 Needles (10)",
         "Size 16 Needles (10)",
@@ -21172,9 +21177,6 @@
         "5-Year Limited Warranty on Cast Metal Body",
         "2-Year Limited Warranty on Parts",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Hopping foot"
       ]
     },
     "weightLbs": 47.5,
@@ -21256,6 +21258,9 @@
         "Edge Warning (patented safety feature)",
         "Ergonomic Handles with Simplified Two-Button Layout"
       ],
+      "Included Feet": [
+        "Hopping foot"
+      ],
       "Compatible Frames": [
         "Cutie Fabric Frame",
         "Q Zone Hoop Frame",
@@ -21264,6 +21269,7 @@
         "Evolution Elite Rolling Frame"
       ],
       "Included Accessories": [
+        "Standard Presser Foot",
         "3 M-Class Bobbins",
         "10 Size 18 Needles",
         "10 Size 16 Needles",
@@ -21276,9 +21282,6 @@
         "5-Year Limited Warranty on Cast Metal Body",
         "2-Year Limited Warranty on Parts",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Hopping foot"
       ]
     },
     "weightLbs": 47.5,
@@ -21475,6 +21478,9 @@
         "On-Screen Incremental Needle Control",
         "Dual Wheels"
       ],
+      "Included Feet": [
+        "Hopping foot"
+      ],
       "Compatible Frames": [
         "Cutie Fabric Frame",
         "Q Zone Hoop Frame",
@@ -21483,6 +21489,7 @@
         "Evolution Elite Rolling Frame"
       ],
       "Included Accessories": [
+        "Adjustable Hopping Foot (rotates for optimal needle visibility)",
         "M-Class Bobbins (3)",
         "Size 18 MR Needles (10)",
         "Size 16 MR Needles (10)",
@@ -21493,9 +21500,6 @@
         "10-Year Limited Warranty on Cast Metal Body",
         "2-Year Limited Warranty on Parts",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Hopping foot"
       ]
     },
     "weightLbs": 43.5,
@@ -21587,6 +21591,9 @@
         "On-Screen Incremental Needle Control",
         "Dual Wheels"
       ],
+      "Included Feet": [
+        "Hopping foot"
+      ],
       "Compatible Frames": [
         "Cutie Fabric Frame",
         "Q Zone Hoop Frame",
@@ -21595,6 +21602,7 @@
         "Evolution Elite Rolling Frame"
       ],
       "Included Accessories": [
+        "Adjustable Hopping Foot (rotates for optimal needle visibility)",
         "M-Class Bobbins (3)",
         "Size 18 MR Needles (10)",
         "Size 16 MR Needles (10)",
@@ -21603,9 +21611,6 @@
       ],
       "Warranty": [
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Hopping foot"
       ]
     },
     "weightLbs": 43.5,
@@ -21691,11 +21696,15 @@
         "Handles: Adjustable, Extendable Ergonomic with Quick-Access Buttons",
         "Magnifying Glass Attachment"
       ],
+      "Included Feet": [
+        "Hopping foot"
+      ],
       "Compatible Frames": [
         "Evolution Hoop Frame",
         "Evolution Elite Rolling Frame"
       ],
       "Included Accessories": [
+        "Adjustable Hopping Foot (rotates for optimal needle visibility)",
         "Magnifique LED Magnifying Glass",
         "M-Class Bobbins (3)",
         "Size 18 MR Needles (10)",
@@ -21707,9 +21716,6 @@
         "10-Year Limited Warranty on Cast Metal Body",
         "2-Year Limited Warranty on Parts",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Hopping foot"
       ]
     },
     "weightLbs": 54,
@@ -21795,12 +21801,16 @@
         "Handles: Adjustable, Extendable Ergonomic with Quick-Access Buttons",
         "Magnifying Glass Attachment"
       ],
+      "Included Feet": [
+        "Hopping foot"
+      ],
       "Compatible Frames": [
         "Q Zone Hoop Frame",
         "Evolution Hoop Frame",
         "Evolution Elite Rolling Frame"
       ],
       "Included Accessories": [
+        "Adjustable Hopping Foot (rotates for optimal needle visibility)",
         "Magnifique LED Magnifying Glass",
         "M-Class Bobbins (3)",
         "Size 18 MR Needles (10)",
@@ -21810,9 +21820,6 @@
       ],
       "Warranty": [
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Hopping foot"
       ]
     },
     "weightLbs": 54,
@@ -28043,7 +28050,7 @@
         "Thread Cutter: Automatic (Button & Foot)",
         "LCD Display with Dial Navigation",
         "8\" Throat Space to the right of the needle",
-        "4 Presser Feet Included",
+        "12 Presser Feet Included",
         "5/2 Year Limited Warranty"
       ],
       "Sewing Features": [
@@ -28159,18 +28166,18 @@
     "specs": {
       "Key Specs": [
         "80 Built-in Stitches",
-        "7 Automatic Buttonholes",
+        "5 Automatic Buttonholes",
         "800 SPM",
         "Needle Threader: Automatic",
         "Thread Cutter: Manual (Side)",
         "LCD Display",
         "6.5\" Throat Space to the right of the needle",
-        "8 Presser Feet Included",
+        "6 Presser Feet Included",
         "5/2 Year Limited Warranty"
       ],
       "Sewing Features": [
         "Utility Stitches: 80",
-        "Buttonholes: 7 (automatic)",
+        "Buttonholes: 5 (automatic)",
         "Direct Pattern Selection (one-touch for 10 popular patterns)",
         "Stitch Speed Control: 3 settings (Fast, Normal, Slow)",
         "Reverse Stitch",
@@ -28284,7 +28291,7 @@
         "Thread Cutter: Automatic",
         "LCD Display",
         "8\" Throat Space to the right of the needle",
-        "5 Presser Feet Included",
+        "12 Presser Feet Included",
         "Box Feed System for Industrial Quality",
         "5/2 Year Limited Warranty"
       ],
@@ -28420,7 +28427,7 @@
         "Needle Threader: Built-in",
         "Informational LCD Display",
         "Standard Serger Workspace (2.85\" Throat Height)",
-        "9 Presser Feet Included",
+        "1 Presser Foot Included",
         "2, 3, or 4 Thread Capacity",
         "One-Touch Easy Air Threading (Loopers)",
         "5/2 Year Limited Warranty"
@@ -28509,7 +28516,7 @@
         "1,500 SPM",
         "Needle Threader: Included",
         "Standard Serger Workspace (2.68\" Throat Height)",
-        "3 Presser Feet Included",
+        "1 Presser Foot Included",
         "2, 3, or 4 Thread Capacity",
         "One-Touch Motorized Air Threading (Loopers)",
         "TWA (Tweak Width Adjustment) Technology",
@@ -28525,6 +28532,9 @@
         "Workspace Right of Needle: 2.68\" to the right of the needle",
         "Lighting: 2 LED lights",
         "Dimensions: 13.75 x 13.4 x 12.2 in. (W x H x D)"
+      ],
+      "Included Feet": [
+        "Standard Presser Foot"
       ],
       "Included Accessories": [
         "Presser Foot Lift: By lever 6mm - 8mm, by knee lift 6mm",
@@ -28553,9 +28563,6 @@
         "5-Year Limited Warranty on All Other Parts",
         "2-Year Limited Warranty on Motors, Light Assembly, Wiring, Switches, Circuit Boards and Speed Control",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Standard Presser Foot"
       ],
       "Smart Features": [
         "Waste Collector: Included"
@@ -28617,7 +28624,7 @@
         "15 Built-in Stitches",
         "1,500 SPM",
         "Needle Threader: Included",
-        "2 Presser Feet Included",
+        "1 Presser Foot Included",
         "5/2 Year Limited Warranty"
       ],
       "Threading": [
@@ -28628,6 +28635,9 @@
       ],
       "Workspace & Display": [
         "Dimensions: 12.5 x 13.5 x 7.7 in. (W x H x D)"
+      ],
+      "Included Feet": [
+        "Standard Presser Foot"
       ],
       "Included Accessories": [
         "Presser Foot Lift: 5mm (0.2 in.)",
@@ -28652,9 +28662,6 @@
         "5-Year Limited Warranty on All Other Parts",
         "2-Year Limited Warranty on Motors, Light Assembly, Wiring, Switches, Circuit Boards and Speed Control",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Standard Presser Foot"
       ]
     },
     "weightLbs": 15.5,
@@ -28714,7 +28721,7 @@
         "Needle Threader: Automatic",
         "Thread Cutter: Automatic (Button & Foot)",
         "8.5\" Throat Space to the right of the needle",
-        "Includes 5 Presser Feet",
+        "Includes 6 Presser Feet",
         "5 Year Motors & Electrical, 2 Year Parts",
         "5/2 Year Limited Warranty"
       ],
@@ -28935,7 +28942,7 @@
         "Needle Threader: Automatic Push-Lever",
         "Thread Cutter: Automatic",
         "8.5\" Throat Space to the right of the needle",
-        "4 Presser Feet Included",
+        "2 Presser Feet Included",
         "5/2 Year Limited Warranty"
       ],
       "Sewing Features": [
