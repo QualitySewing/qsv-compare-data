@@ -17,8 +17,8 @@
     "filterType": "Upright",
     "cardSpecs": {
       "vacuumType": "Upright",
-      "weightLbs": 15.0,
-      "suctionPower": "10 Amps (107 CFM)",
+      "weightLbs": 14.8,
+      "suctionPower": null,
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded",
@@ -69,7 +69,7 @@
         "Excludes belts, squeegees, agitator brush strips, and disposable bags"
       ]
     },
-    "weightLbs": 15,
+    "weightLbs": 14.8,
     "tagline": "Heavy-duty performance for professional cleaning!",
     "highlights": [
       "Built for commercial use with durable metal components",
@@ -96,11 +96,11 @@
     "filterType": "Upright",
     "cardSpecs": {
       "vacuumType": "Upright",
-      "weightLbs": 8.0,
+      "weightLbs": 8,
       "suctionPower": "5.5 Amps",
       "filtration": "HEPA",
       "bagType": "Bagged",
-      "cordType": "Corded",
+      "cordType": "Corded (35 ft)",
       "petFriendly": true,
       "cleaningPath": "13\""
     },
@@ -159,16 +159,16 @@
     "isPromo": false,
     "isPreOwned": false,
     "types": [
-      "Cordless Stick"
+      "Upright"
     ],
-    "filterType": "Cordless",
+    "filterType": "Upright",
     "cardSpecs": {
-      "vacuumType": "Cordless Stick",
-      "weightLbs": 11.0,
-      "suctionPower": "480 watts",
+      "vacuumType": "Upright",
+      "weightLbs": 11,
+      "suctionPower": "480 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
-      "cordType": "Cordless",
+      "cordType": "Cordless (50 min)",
       "petFriendly": true,
       "cleaningPath": "13\""
     },
@@ -218,7 +218,7 @@
         "Excludes belts, squeegees, agitator brush strips, and disposable bags"
       ]
     },
-    "weightLbs": 8,
+    "weightLbs": 11,
     "tagline": "Power meets freedom with this cordless cleaning champ!",
     "highlights": [
       "44V lithium-ion battery delivers up to 50 minutes of runtime",
@@ -245,7 +245,7 @@
     "filterType": "Handheld",
     "cardSpecs": {
       "vacuumType": "Handheld",
-      "weightLbs": 10.0,
+      "weightLbs": 10,
       "suctionPower": "10 Amps",
       "filtration": "HEPA",
       "bagType": "Bagged",
@@ -283,7 +283,7 @@
         "1 Year, Parts & Labor"
       ]
     },
-    "weightLbs": 12,
+    "weightLbs": 10,
     "tagline": "Powerful, portable cleaning for small spaces",
     "highlights": [
       "10-amp motor with 135 CFM airflow and reverse blower",
@@ -310,8 +310,8 @@
     "filterType": "Canister",
     "cardSpecs": {
       "vacuumType": "Canister",
-      "weightLbs": 19.0,
-      "suctionPower": "1200 watts",
+      "weightLbs": 19,
+      "suctionPower": null,
       "filtration": "HEPA",
       "bagType": "Bagless",
       "cordType": "Corded",
@@ -346,7 +346,7 @@
         "3 Year Bumper to Bumper"
       ]
     },
-    "weightLbs": 20,
+    "weightLbs": 19,
     "tagline": "Bagless power with pet-friendly performance",
     "highlights": [
       "Powerful Vortex Technology with 100 km/h airflow",
@@ -373,8 +373,8 @@
     "filterType": "Canister",
     "cardSpecs": {
       "vacuumType": "Canister",
-      "weightLbs": 19.0,
-      "suctionPower": "1200 watts",
+      "weightLbs": 19,
+      "suctionPower": "1200 Watts",
       "filtration": "HEPA",
       "bagType": "Bagless",
       "cordType": "Corded",
@@ -438,8 +438,8 @@
     "filterType": "Canister",
     "cardSpecs": {
       "vacuumType": "Canister",
-      "weightLbs": 17.0,
-      "suctionPower": "1200 watts",
+      "weightLbs": 17,
+      "suctionPower": "1200 Watts",
       "filtration": "HEPA",
       "bagType": "Bagless",
       "cordType": "Corded (21 ft)",
@@ -482,7 +482,7 @@
         "3 Year Bumper to Bumper"
       ]
     },
-    "weightLbs": 13,
+    "weightLbs": 17,
     "tagline": "Powerful bagless cleaning with HEPA filtration for pet owners and allergy sufferers",
     "highlights": [
       "TrackDrive wheels keep the vacuum stable and on course",
@@ -508,8 +508,8 @@
     "filterType": "Canister",
     "cardSpecs": {
       "vacuumType": "Canister",
-      "weightLbs": 14.0,
-      "suctionPower": "1100 watts",
+      "weightLbs": null,
+      "suctionPower": null,
       "filtration": "HEPA",
       "bagType": "Bagless",
       "cordType": "Corded (21 ft)",
@@ -545,7 +545,7 @@
         "3 Year Bumper to Bumper"
       ]
     },
-    "weightLbs": 13,
+    "weightLbs": null,
     "tagline": "Compact power meets hygienic filtration",
     "highlights": [
       "Vortex technology delivers top-tier suction and separation",
@@ -573,8 +573,8 @@
     "filterType": "Canister",
     "cardSpecs": {
       "vacuumType": "Canister",
-      "weightLbs": 10.5,
-      "suctionPower": "1200 watts",
+      "weightLbs": null,
+      "suctionPower": "1200 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded",
@@ -614,10 +614,10 @@
         "Recommendation: all floor types including carpets, area rugs, and hard floors"
       ],
       "Warranty": [
-        "1-year bumper-to-bumper warranty covering defects in material and workmanship."
+        "1 Year Bumper to Bumper"
       ]
     },
-    "weightLbs": 26,
+    "weightLbs": null,
     "tagline": "Engineered for pet-friendly deep cleaning",
     "highlights": [
       "SEB228 Electro+ powerhead for deep carpet cleaning",
@@ -644,8 +644,8 @@
     "filterType": "Canister",
     "cardSpecs": {
       "vacuumType": "Canister",
-      "weightLbs": 13.0,
-      "suctionPower": "1200 watts",
+      "weightLbs": null,
+      "suctionPower": "1200 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded (18 ft)",
@@ -684,7 +684,7 @@
         "1 Year Bumper to Bumper"
       ]
     },
-    "weightLbs": 35,
+    "weightLbs": null,
     "tagline": "Powerful suction for hard floors and low-pile carpets",
     "highlights": [
       "Includes SBD285-3 floorhead for smooth floors and low-pile carpets",
@@ -711,8 +711,8 @@
     "filterType": "Canister",
     "cardSpecs": {
       "vacuumType": "Canister",
-      "weightLbs": 10.5,
-      "suctionPower": "1200 watts",
+      "weightLbs": null,
+      "suctionPower": "1200 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded",
@@ -751,7 +751,7 @@
         "1 Year Bumper to Bumper"
       ]
     },
-    "weightLbs": 12,
+    "weightLbs": null,
     "tagline": "Powerful cleaning without the powerhead price",
     "highlights": [
       "STB305-3 Turbo Brush for rugs and low carpet",
@@ -778,8 +778,8 @@
     "filterType": "Canister",
     "cardSpecs": {
       "vacuumType": "Canister",
-      "weightLbs": 11.0,
-      "suctionPower": "1200 watts",
+      "weightLbs": null,
+      "suctionPower": "1200 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded",
@@ -816,7 +816,7 @@
         "3 Year Bumper to Bumper"
       ]
     },
-    "weightLbs": 15,
+    "weightLbs": null,
     "tagline": "Pet-focused vacuum with TurboBrush and odor-neutralizing filtration",
     "highlights": [
       "TurboBrush: Removes embedded pet hair from carpets, rugs and upholstery",
@@ -843,8 +843,8 @@
     "filterType": "Canister",
     "cardSpecs": {
       "vacuumType": "Canister",
-      "weightLbs": 17.0,
-      "suctionPower": "1200 watts",
+      "weightLbs": 17,
+      "suctionPower": "1200 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded",
@@ -906,10 +906,10 @@
     "types": [
       "Cordless Stick"
     ],
-    "filterType": "Cordless",
+    "filterType": "Cordless Stick",
     "cardSpecs": {
       "vacuumType": "Cordless Stick",
-      "weightLbs": 8.0,
+      "weightLbs": 8,
       "suctionPower": "Digital Motor",
       "filtration": "HEPA",
       "bagType": "Bagless",
@@ -983,10 +983,10 @@
     "types": [
       "Cordless Stick"
     ],
-    "filterType": "Cordless",
+    "filterType": "Cordless Stick",
     "cardSpecs": {
       "vacuumType": "Cordless Stick",
-      "weightLbs": 8.0,
+      "weightLbs": 8,
       "suctionPower": "Digital Motor",
       "filtration": "HEPA",
       "bagType": "Bagless",
@@ -1064,10 +1064,10 @@
     "types": [
       "Cordless Stick"
     ],
-    "filterType": "Cordless",
+    "filterType": "Cordless Stick",
     "cardSpecs": {
       "vacuumType": "Cordless Stick",
-      "weightLbs": 8.0,
+      "weightLbs": 8,
       "suctionPower": "Digital Motor",
       "filtration": "HEPA",
       "bagType": "Bagless",
@@ -1129,6 +1129,178 @@
     ]
   },
   {
+    "handle": "miele-triflex-hx3-aqua",
+    "title": "Miele Triflex HX3 Aqua Cordless Vacuum and Mop - Obsidian Black",
+    "brand": "Miele",
+    "url": "/products/miele-triflex-hx3-aqua",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/20000223602.png?v=1788555552",
+    "price": 1049.0,
+    "compareAtPrice": null,
+    "isOnSale": false,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Mop/Vacuum Combo",
+      "Cordless Stick"
+    ],
+    "tagline": "Vacuum and mop from one cordless machine.",
+    "highlights": [
+      "AquaTwister floorhead two rotating pads and a 300 ml tank for wet cleaning",
+      "Three water levels selected right from the display",
+      "360-degree SpotLight shows stains the pads have not reached yet",
+      "HEPA lifetime filter captures 99.999% of fine dust and allergens",
+      "3-in-1 design converts between Comfort, Reach and Compact modes"
+    ],
+    "cardSpecs": {
+      "weightLbs": 8,
+      "bagType": "Bagless",
+      "cordType": "Cordless (70 min)",
+      "vacuumType": "Mop/Vacuum Combo"
+    },
+    "specs": {
+      "Color": [
+        "Obsidian Black"
+      ],
+      "Specifications": [
+        "Runtime: up to 70 minutes (Low, PowerUnit solo)",
+        "Runtime with electric floorhead: 38 minutes Low, 15 minutes High",
+        "Cleaning area per charge: 1,720 sq ft (160 m2)",
+        "Recharge time: 240 minutes",
+        "Battery: 1 exchangeable Li-ion, 25.2 V, 2500 mAh",
+        "Dust container: 0.5 liters",
+        "Weight: 8 lbs (3.6 kg)",
+        "Dimensions: 10-1/4\" W x 51-1/8\" H x 11\" D",
+        "Sound level: 74 dB",
+        "AquaTwister water tank: 300 ml",
+        "AquaTwister water levels: 3",
+        "AquaPads: machine washable at 140F"
+      ],
+      "Features": [
+        "AquaTwister wet cleaning floorhead with 360-degree SpotLight",
+        "Three water levels selected from the display",
+        "BrilliantLight LED strip on the dry floorhead",
+        "Digital Efficiency Motor with Vortex Technology",
+        "99.99% dust pickup on hard floors with crevices",
+        "Boost mode: 42% more power for 10 seconds",
+        "FloorDetect automatically adjusts suction and brush speed",
+        "Patented 3-in-1 design: Comfort, Reach and Compact modes",
+        "Free-standing park position",
+        "Digital display shows mode, battery percentage and remaining runtime",
+        "Twist2open bagless emptying",
+        "Exchangeable lithium-ion battery",
+        "Developed and manufactured in Germany"
+      ],
+      "Bags & Filtration": [
+        "HEPA lifetime filter, maintenance free",
+        "99.999% exhaust air filtration",
+        "Bagless 0.5 liter container with Twist2open emptying",
+        "Washable fine dust filter"
+      ],
+      "Included Accessories": [
+        "MultiFloor XXL SEB 436 electrobrush with BrilliantLight",
+        "HX-DB dusting brush",
+        "XL HX-UN upholstery nozzle",
+        "HX-CN crevice nozzle",
+        "HX-AH accessory storage",
+        "Wall mount",
+        "Power supply unit",
+        "Lithium-ion battery",
+        "AquaTwister wet cleaning floorhead",
+        "2 AquaPads Universal cleaning pads",
+        "500 ml FloorClean universal floor detergent",
+        "Storage tray"
+      ],
+      "Warranty": [
+        "2 Year Bumper to Bumper"
+      ]
+    },
+    "weightLbs": 8,
+    "filterType": "Mop/Vacuum Combo"
+  },
+  {
+    "handle": "miele-triflex-hx3-cat-dog",
+    "title": "Miele Triflex HX3 Cat & Dog Cordless Stick Vacuum - Obsidian Black",
+    "brand": "Miele",
+    "url": "/products/miele-triflex-hx3-cat-dog",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/20000223596.png?v=1788555548",
+    "price": 999.0,
+    "compareAtPrice": null,
+    "isOnSale": false,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Cordless Stick"
+    ],
+    "tagline": "Built for homes with pets and shedding.",
+    "highlights": [
+      "Electro Compact brush motorized head that pulls pet hair off upholstery and car seats",
+      "BrilliantLight floorhead LED strip reveals hair and dust under furniture",
+      "HEPA lifetime filter captures 99.999% of fine dust and dander",
+      "70-minute runtime on a single exchangeable battery",
+      "3-in-1 design converts between Comfort, Reach and Compact modes"
+    ],
+    "cardSpecs": {
+      "weightLbs": 8,
+      "bagType": "Bagless",
+      "cordType": "Cordless (70 min)",
+      "vacuumType": "Cordless Stick"
+    },
+    "specs": {
+      "Color": [
+        "Obsidian Black"
+      ],
+      "Specifications": [
+        "Runtime: up to 70 minutes (Low, PowerUnit solo)",
+        "Runtime with electric floorhead: 38 minutes Low, 15 minutes High",
+        "Cleaning area per charge: 1,720 sq ft (160 m2)",
+        "Recharge time: 240 minutes",
+        "Battery: 1 exchangeable Li-ion, 25.2 V, 2500 mAh",
+        "Dust container: 0.5 liters",
+        "Weight: 8 lbs (3.6 kg)",
+        "Dimensions: 10-1/4\" W x 51-1/8\" H x 11\" D",
+        "Sound level: 74 dB"
+      ],
+      "Features": [
+        "BrilliantLight LED strip on the floorhead",
+        "Electro Compact motorized brush for pet hair",
+        "Digital Efficiency Motor with Vortex Technology",
+        "99.99% dust pickup on hard floors with crevices",
+        "Boost mode: 42% more power for 10 seconds",
+        "FloorDetect automatically adjusts suction and brush speed",
+        "Patented 3-in-1 design: Comfort, Reach and Compact modes",
+        "Free-standing park position",
+        "Digital display shows mode, battery percentage and remaining runtime",
+        "Twist2open bagless emptying",
+        "Exchangeable lithium-ion battery",
+        "Developed and manufactured in Germany"
+      ],
+      "Bags & Filtration": [
+        "HEPA lifetime filter, maintenance free",
+        "99.999% exhaust air filtration",
+        "Bagless 0.5 liter container with Twist2open emptying",
+        "Washable fine dust filter"
+      ],
+      "Included Accessories": [
+        "MultiFloor XXL SEB 436 electrobrush with BrilliantLight",
+        "HX-DB dusting brush",
+        "XL HX-UN upholstery nozzle",
+        "HX-CN crevice nozzle",
+        "HX-AH accessory storage",
+        "Wall mount",
+        "Power supply unit",
+        "Lithium-ion battery",
+        "HX-EC 10 Electro Compact motorized handheld brush"
+      ],
+      "Warranty": [
+        "2 Year Bumper to Bumper"
+      ]
+    },
+    "weightLbs": 8,
+    "filterType": "Cordless Stick"
+  },
+  {
     "handle": "miele-triflex-hx3",
     "title": "Miele Triflex HX3 Cordless Stick Vacuum - Brilliant White",
     "brand": "Miele",
@@ -1143,14 +1315,14 @@
     "types": [
       "Cordless Stick"
     ],
-    "filterType": "Cordless",
+    "filterType": "Cordless Stick",
     "cardSpecs": {
       "vacuumType": "Cordless Stick",
-      "weightLbs": 8.0,
+      "weightLbs": 8,
       "suctionPower": "Digital Motor",
       "filtration": "HEPA",
       "bagType": "Bagless",
-      "cordType": "Cordless",
+      "cordType": "Cordless (70 min)",
       "petFriendly": false,
       "cleaningPath": null
     },
@@ -1158,7 +1330,7 @@
       "Color": [
         "Brilliant White"
       ],
-      "Key Specs": [
+      "Specifications": [
         "Runtime: up to 70 minutes (Low, PowerUnit solo)",
         "Runtime with electric floorhead: 38 minutes Low, 15 minutes High",
         "Cleaning area per charge: 1,720 sq ft (160 m2)",
@@ -1211,6 +1383,88 @@
     ]
   },
   {
+    "handle": "miele-triflex-hx3-plus",
+    "title": "Miele Triflex HX3 Plus Cordless Stick Vacuum - Titanium",
+    "brand": "Miele",
+    "url": "/products/miele-triflex-hx3-plus",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/20000223601.png?v=1788555550",
+    "price": 1099.0,
+    "compareAtPrice": null,
+    "isOnSale": false,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Cordless Stick"
+    ],
+    "tagline": "Two batteries for whole-house cleaning without a recharge.",
+    "highlights": [
+      "Two exchangeable batteries up to 140 minutes of total runtime",
+      "BrilliantLight floorhead LED strip reveals dust under furniture",
+      "HEPA lifetime filter captures 99.999% of fine dust and allergens",
+      "3-in-1 design converts between Comfort, Reach and Compact modes",
+      "FloorDetect adjusts suction and brush speed to the surface"
+    ],
+    "cardSpecs": {
+      "weightLbs": 8,
+      "bagType": "Bagless",
+      "cordType": "Cordless (2 min)",
+      "vacuumType": "Cordless Stick"
+    },
+    "specs": {
+      "Color": [
+        "Titanium"
+      ],
+      "Specifications": [
+        "Runtime: up to 2 x 70 minutes (Low, PowerUnit solo)",
+        "Runtime with electric floorhead: 2 x 38 minutes Low, 2 x 15 minutes High",
+        "Cleaning area per charge: 3,440 sq ft (2 x 160 m2)",
+        "Recharge time: 240 minutes",
+        "Battery: 2 exchangeable Li-ion, 25.2 V, 2500 mAh",
+        "Dust container: 0.5 liters",
+        "Weight: 8 lbs (3.6 kg)",
+        "Dimensions: 10-1/4\" W x 51-1/8\" H x 11\" D",
+        "Sound level: 74 dB"
+      ],
+      "Features": [
+        "BrilliantLight LED strip on the floorhead",
+        "Two batteries for up to 140 minutes of total runtime",
+        "Digital Efficiency Motor with Vortex Technology",
+        "99.99% dust pickup on hard floors with crevices",
+        "Boost mode: 42% more power for 10 seconds",
+        "FloorDetect automatically adjusts suction and brush speed",
+        "Patented 3-in-1 design: Comfort, Reach and Compact modes",
+        "Free-standing park position",
+        "Digital display shows mode, battery percentage and remaining runtime",
+        "Twist2open bagless emptying",
+        "Exchangeable lithium-ion battery",
+        "Developed and manufactured in Germany"
+      ],
+      "Bags & Filtration": [
+        "HEPA lifetime filter, maintenance free",
+        "99.999% exhaust air filtration",
+        "Bagless 0.5 liter container with Twist2open emptying",
+        "Washable fine dust filter"
+      ],
+      "Included Accessories": [
+        "MultiFloor XXL SEB 436 electrobrush with BrilliantLight",
+        "HX-DB dusting brush",
+        "XL HX-UN upholstery nozzle",
+        "HX-CN crevice nozzle",
+        "HX-AH accessory storage",
+        "Wall mount",
+        "Power supply unit",
+        "Lithium-ion battery",
+        "Second lithium-ion battery"
+      ],
+      "Warranty": [
+        "2 Year Bumper to Bumper"
+      ]
+    },
+    "weightLbs": 8,
+    "filterType": "Cordless Stick"
+  },
+  {
     "handle": "riccar-central-vac-deluxe-8000",
     "title": "Riccar Central Vac Deluxe 8000",
     "brand": "Riccar",
@@ -1228,8 +1482,8 @@
     "filterType": "Central Vacuum",
     "cardSpecs": {
       "vacuumType": "Central Vacuum",
-      "weightLbs": 30.0,
-      "suctionPower": "655 airwatts",
+      "weightLbs": 30,
+      "suctionPower": "655 Air Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded",
@@ -1261,7 +1515,7 @@
       "Availability": [
         "In-Store Only"
       ],
-      "Additional Info": [
+      "Additional Information": [
         "Visit a retail location for model details and installation"
       ],
       "Warranty": [
@@ -1292,14 +1546,14 @@
     "types": [
       "Cordless Upright"
     ],
-    "filterType": "Cordless",
+    "filterType": "Cordless Upright",
     "cardSpecs": {
       "vacuumType": "Cordless Upright",
-      "weightLbs": 11.0,
-      "suctionPower": "312 watts",
+      "weightLbs": 11,
+      "suctionPower": "312 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
-      "cordType": "Cordless",
+      "cordType": "Cordless (50 min)",
       "petFriendly": false,
       "cleaningPath": "13\""
     },
@@ -1363,8 +1617,8 @@
     "filterType": "Central Vacuum",
     "cardSpecs": {
       "vacuumType": "Central Vacuum",
-      "weightLbs": 30.0,
-      "suctionPower": "605 airwatts",
+      "weightLbs": 30,
+      "suctionPower": "605 Air Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded",
@@ -1396,7 +1650,7 @@
       "Availability": [
         "In-Store Only"
       ],
-      "Additional Info": [
+      "Additional Information": [
         "Visit a retail location for model details and installation"
       ],
       "Warranty": [
@@ -1429,8 +1683,8 @@
     "filterType": "Upright",
     "cardSpecs": {
       "vacuumType": "Upright",
-      "weightLbs": 8.0,
-      "suctionPower": "5 amps",
+      "weightLbs": 8,
+      "suctionPower": "5 Amps",
       "filtration": "Standard",
       "bagType": "Bagged",
       "cordType": "Corded (30 ft)",
@@ -1492,8 +1746,8 @@
     "filterType": "Upright",
     "cardSpecs": {
       "vacuumType": "Upright",
-      "weightLbs": 9.0,
-      "suctionPower": "5.5 Amps",
+      "weightLbs": 9,
+      "suctionPower": null,
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded (40 ft)",
@@ -1559,8 +1813,8 @@
     "filterType": "Upright",
     "cardSpecs": {
       "vacuumType": "Upright",
-      "weightLbs": 9.0,
-      "suctionPower": "5.5 Amps",
+      "weightLbs": 9,
+      "suctionPower": null,
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded (35 ft)",
@@ -1620,11 +1874,11 @@
     "types": [
       "Cordless Upright"
     ],
-    "filterType": "Cordless",
+    "filterType": "Cordless Upright",
     "cardSpecs": {
       "vacuumType": "Cordless Upright",
-      "weightLbs": 10.0,
-      "suctionPower": "11 Amps",
+      "weightLbs": 19.3,
+      "suctionPower": null,
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Cordless (50 min)",
@@ -1660,7 +1914,7 @@
         "3 years"
       ]
     },
-    "weightLbs": 15,
+    "weightLbs": 19.3,
     "tagline": "Cordless Power & Premium Filtration",
     "highlights": [
       "True Cordless Cleaning: Full-size upright vacuum with no cord restrictions",
@@ -1687,7 +1941,7 @@
     "filterType": "Upright",
     "cardSpecs": {
       "vacuumType": "Upright",
-      "weightLbs": 23.0,
+      "weightLbs": 19,
       "suctionPower": null,
       "filtration": "HEPA",
       "bagType": "Bagged",
@@ -1723,7 +1977,7 @@
         "3 years"
       ]
     },
-    "weightLbs": 20,
+    "weightLbs": 19,
     "tagline": "Riccar R27D Deluxe Upright Vacuum",
     "highlights": [
       "Metal brushroll: Long-lasting durability for heavy use",
@@ -1750,7 +2004,7 @@
     "filterType": "Upright",
     "cardSpecs": {
       "vacuumType": "Upright",
-      "weightLbs": 22.0,
+      "weightLbs": 19,
       "suctionPower": null,
       "filtration": "HEPA",
       "bagType": "Bagged",
@@ -1790,7 +2044,7 @@
         "5 years"
       ]
     },
-    "weightLbs": 20,
+    "weightLbs": 19,
     "tagline": "Riccar R27P Premium Pet Upright Vacuum",
     "highlights": [
       "Dust & allergen sensor: Detects debris amounts and ensures a thorough clean",
@@ -1817,8 +2071,8 @@
     "filterType": "Upright",
     "cardSpecs": {
       "vacuumType": "Upright",
-      "weightLbs": 22.5,
-      "suctionPower": "12 amps",
+      "weightLbs": 23,
+      "suctionPower": "12 Amps",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded (40 ft)",
@@ -1888,11 +2142,11 @@
     "types": [
       "Cordless Stick"
     ],
-    "filterType": "Cordless",
+    "filterType": "Cordless Stick",
     "cardSpecs": {
       "vacuumType": "Cordless Stick",
-      "weightLbs": 7.1,
-      "suctionPower": "420W",
+      "weightLbs": null,
+      "suctionPower": null,
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Cordless (40 min)",
@@ -1923,7 +2177,7 @@
         "2 years (vacuum), 1 year (battery)"
       ]
     },
-    "weightLbs": 8,
+    "weightLbs": null,
     "tagline": "Powerful, Smart Cordless Cleaning",
     "highlights": [
       "Up to 40 minutes of runtime on a single charge",
@@ -1951,10 +2205,10 @@
     "cardSpecs": {
       "vacuumType": "Mop/Vacuum Combo",
       "weightLbs": 11.3,
-      "suctionPower": "200 airwatts",
+      "suctionPower": null,
       "filtration": "Standard",
-      "bagType": "Bagged",
-      "cordType": "Corded",
+      "bagType": "Bagless",
+      "cordType": "Cordless (20-29 min)",
       "petFriendly": false,
       "cleaningPath": null
     },
@@ -1985,7 +2239,7 @@
         "1 year"
       ]
     },
-    "weightLbs": 11,
+    "weightLbs": 11.3,
     "tagline": "Riccar R70 Deluxe Smart Mop & Vacuum",
     "highlights": [
       "All-in-one cleaning: Vacuums & mops at the same time",
@@ -2012,10 +2266,10 @@
     "filterType": "Handheld",
     "cardSpecs": {
       "vacuumType": "Handheld",
-      "weightLbs": 3.0,
-      "suctionPower": "600 watts",
+      "weightLbs": 3,
+      "suctionPower": null,
       "filtration": "Standard",
-      "bagType": "Bagged",
+      "bagType": "Bagless",
       "cordType": "Corded",
       "petFriendly": false,
       "cleaningPath": null
@@ -2070,8 +2324,8 @@
     "filterType": "Handheld",
     "cardSpecs": {
       "vacuumType": "Handheld",
-      "weightLbs": 4.5,
-      "suctionPower": "700 watts",
+      "weightLbs": null,
+      "suctionPower": null,
       "filtration": "Standard",
       "bagType": "Bagged",
       "cordType": "Corded",
@@ -2108,7 +2362,7 @@
         "1 year"
       ]
     },
-    "weightLbs": 4,
+    "weightLbs": null,
     "tagline": "Powerful cleaning in a compact, portable vacuum",
     "highlights": [
       "Includes 10+ versatile cleaning attachments",
@@ -2134,8 +2388,8 @@
     "filterType": "Upright",
     "cardSpecs": {
       "vacuumType": "Upright",
-      "weightLbs": 22.0,
-      "suctionPower": "12 Amps",
+      "weightLbs": 22,
+      "suctionPower": null,
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded (40 ft)",
@@ -2202,7 +2456,7 @@
     "cardSpecs": {
       "vacuumType": "Canister",
       "weightLbs": 15.9,
-      "suctionPower": "1250 watts",
+      "suctionPower": "1250 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded (40 ft)",
@@ -2250,13 +2504,13 @@
         "Variable Suction Control: Yes"
       ],
       "Warranty": [
+        "7 years on motor",
         "5 years on parts",
         "5 years on labor",
-        "7 years on motor",
         "Extended to 10/10/7 after registering with Sebo"
       ]
     },
-    "weightLbs": 16,
+    "weightLbs": 15.9,
     "tagline": "Premium power for serious floor care",
     "highlights": [
       "ET-1 power head for deep carpet and pet hair cleaning",
@@ -2284,7 +2538,7 @@
     "cardSpecs": {
       "vacuumType": "Canister",
       "weightLbs": 15.9,
-      "suctionPower": "1250 watts",
+      "suctionPower": "1250 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded (40 ft)",
@@ -2338,7 +2592,7 @@
         "Extended to 10/10/7 after registering with Sebo"
       ]
     },
-    "weightLbs": 16,
+    "weightLbs": 15.9,
     "tagline": "Full-size power with unmatched reach",
     "highlights": [
       "ET-1 power head with pet hair removal",
@@ -2366,7 +2620,7 @@
     "cardSpecs": {
       "vacuumType": "Canister",
       "weightLbs": 11.4,
-      "suctionPower": "1200 watts",
+      "suctionPower": "1200 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded (25 ft)",
@@ -2423,7 +2677,7 @@
         "Extended to 10/10/7 after registering with Sebo"
       ]
     },
-    "weightLbs": 11,
+    "weightLbs": 11.4,
     "tagline": "Quiet performance with powerful results",
     "highlights": [
       "Air-driven turbo head for deep rug cleaning",
@@ -2451,7 +2705,7 @@
     "cardSpecs": {
       "vacuumType": "Canister",
       "weightLbs": 11.4,
-      "suctionPower": "1200 watts",
+      "suctionPower": "1200 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded (25 ft)",
@@ -2512,7 +2766,7 @@
         "Extended to 10/10/7 after registering with Sebo"
       ]
     },
-    "weightLbs": 13,
+    "weightLbs": 11.4,
     "tagline": "Powerful, quiet, and precise cleaning",
     "highlights": [
       "ET-1 power head with 180° steering",
@@ -2539,8 +2793,8 @@
     "filterType": "Canister",
     "cardSpecs": {
       "vacuumType": "Canister",
-      "weightLbs": 12.0,
-      "suctionPower": "1250 watts",
+      "weightLbs": 12,
+      "suctionPower": "1250 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded (25 ft)",
@@ -2598,7 +2852,7 @@
         "Extended to 10/10/7 after registering with Sebo"
       ]
     },
-    "weightLbs": 20,
+    "weightLbs": 12,
     "tagline": "Compact canister vacuum for hard floors and rugs",
     "highlights": [
       "37-foot operating range with 25-foot cord",
@@ -2625,8 +2879,8 @@
     "filterType": "Canister",
     "cardSpecs": {
       "vacuumType": "Canister",
-      "weightLbs": 12.0,
-      "suctionPower": "1250 watts",
+      "weightLbs": 12,
+      "suctionPower": "1250 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded (25 ft)",
@@ -2684,7 +2938,7 @@
         "Extended to 10/10/7 after registering with Sebo"
       ]
     },
-    "weightLbs": 18,
+    "weightLbs": 12,
     "tagline": "Compact, powerful, pet-friendly",
     "highlights": [
       "Includes air-driven Turbo Brush",
@@ -2711,8 +2965,8 @@
     "filterType": "Canister",
     "cardSpecs": {
       "vacuumType": "Canister",
-      "weightLbs": 12.0,
-      "suctionPower": "1250 watts",
+      "weightLbs": 12,
+      "suctionPower": "1250 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded (25 ft)",
@@ -2775,7 +3029,7 @@
         "Extended to 10/10/7 after registering with Sebo"
       ]
     },
-    "weightLbs": 18,
+    "weightLbs": 12,
     "tagline": "SEBO Airbelt K3 Premium",
     "highlights": [
       "ET-1 Power Head",
@@ -2803,7 +3057,7 @@
     "cardSpecs": {
       "vacuumType": "Upright",
       "weightLbs": 16.7,
-      "suctionPower": "1300 watts",
+      "suctionPower": "1300 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded (40 ft)",
@@ -2860,7 +3114,7 @@
         "Extended to 10/10/7 after registering with Sebo"
       ]
     },
-    "weightLbs": 20,
+    "weightLbs": 16.7,
     "tagline": "Smart upright vacuum with automatic height adjustment and boost mode.",
     "highlights": [
       "Auto-adjusts for carpets or hard floors",
@@ -2888,10 +3142,10 @@
     "cardSpecs": {
       "vacuumType": "Upright",
       "weightLbs": 16.7,
-      "suctionPower": "1300 watts",
+      "suctionPower": "1300 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
-      "cordType": "Corded",
+      "cordType": "Corded (40 ft)",
       "petFriendly": false,
       "cleaningPath": "12\""
     },
@@ -2942,7 +3196,7 @@
         "Extended to 10/10/7 after registering with Sebo"
       ]
     },
-    "weightLbs": 17,
+    "weightLbs": 16.7,
     "tagline": "SEBO Automatic X4 Vacuum",
     "highlights": [
       "Automatic brushroll height adjustment prevents floor damage.",
@@ -2970,7 +3224,7 @@
     "cardSpecs": {
       "vacuumType": "Upright",
       "weightLbs": 16.7,
-      "suctionPower": "1300 watts",
+      "suctionPower": "1300 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded (40 ft)",
@@ -3016,13 +3270,13 @@
         "Cord Length: 40 ft"
       ],
       "Warranty": [
+        "7 years on motor",
         "5 years on parts",
         "5 years on labor",
-        "7 years on motor",
         "Extended to 10/10/7 after registering with Sebo"
       ]
     },
-    "weightLbs": 18,
+    "weightLbs": 16.7,
     "tagline": "Premium upright vacuum with powerful pet tools and odor control.",
     "highlights": [
       "Charcoal microfilter absorbs pet odors",
@@ -3050,7 +3304,7 @@
     "cardSpecs": {
       "vacuumType": "Upright",
       "weightLbs": 17.3,
-      "suctionPower": "1300 watts",
+      "suctionPower": "1300 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded (40 ft)",
@@ -3111,7 +3365,7 @@
         "Extended to 10/10/7 after registering with Sebo"
       ]
     },
-    "weightLbs": 16,
+    "weightLbs": 17.3,
     "tagline": "Sebo Automatic X7",
     "highlights": [
       "Automatic height adjustment",
@@ -3139,7 +3393,7 @@
     "cardSpecs": {
       "vacuumType": "Upright",
       "weightLbs": 15.4,
-      "suctionPower": "8 amps",
+      "suctionPower": "8 Amps",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded (32 ft)",
@@ -3191,7 +3445,7 @@
         "Extended to 10/10/7 after registering with Sebo"
       ]
     },
-    "weightLbs": 16,
+    "weightLbs": 15.4,
     "tagline": "Professional Upright Vacuum with Smart Features",
     "highlights": [
       "Powerhead with brushroll shut-off",
@@ -3219,10 +3473,10 @@
     "cardSpecs": {
       "vacuumType": "Upright",
       "weightLbs": 15.4,
-      "suctionPower": "1300 watts",
+      "suctionPower": "1300 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
-      "cordType": "Corded",
+      "cordType": "Corded (31 ft)",
       "petFriendly": false,
       "cleaningPath": "10.5\""
     },
@@ -3273,7 +3527,7 @@
         "7 years on labor"
       ]
     },
-    "weightLbs": 15,
+    "weightLbs": 15.4,
     "tagline": "Lightweight upright with swivel steering and hospital-grade filtration.",
     "highlights": [
       "Detachable handheld unit for spot cleaning",
@@ -3301,10 +3555,10 @@
     "cardSpecs": {
       "vacuumType": "Upright",
       "weightLbs": 15.4,
-      "suctionPower": "1300 watts",
+      "suctionPower": "1300 Watts",
       "filtration": "HEPA",
       "bagType": "Bagged",
-      "cordType": "Corded",
+      "cordType": "Corded (31 ft)",
       "petFriendly": false,
       "cleaningPath": "10.5\""
     },
@@ -3356,7 +3610,7 @@
         "Extended to 10/10/7 after registering with Sebo"
       ]
     },
-    "weightLbs": 16,
+    "weightLbs": 15.4,
     "tagline": "Versatile Upright Vacuum with Premium Filtration",
     "highlights": [
       "180° steering with detachable suction unit",
@@ -3380,14 +3634,14 @@
     "types": [
       "Cordless Stick"
     ],
-    "filterType": "Cordless",
+    "filterType": "Cordless Stick",
     "cardSpecs": {
       "vacuumType": "Cordless Stick",
-      "weightLbs": 6.0,
-      "suctionPower": "350W",
+      "weightLbs": 6,
+      "suctionPower": null,
       "filtration": "HEPA",
-      "bagType": "Bagged",
-      "cordType": "Cordless",
+      "bagType": "Bagless",
+      "cordType": "Cordless (35 min)",
       "petFriendly": false,
       "cleaningPath": null
     },
@@ -3443,11 +3697,11 @@
     "filterType": "Canister",
     "cardSpecs": {
       "vacuumType": "Canister",
-      "weightLbs": 9.0,
-      "suctionPower": "10 amps",
+      "weightLbs": null,
+      "suctionPower": "10 Amps",
       "filtration": "HEPA",
       "bagType": "Bagged",
-      "cordType": "Corded",
+      "cordType": "Corded (18.5 ft)",
       "petFriendly": false,
       "cleaningPath": "11\""
     },
@@ -3475,7 +3729,7 @@
         "1 Year"
       ]
     },
-    "weightLbs": 16,
+    "weightLbs": null,
     "tagline": "Compact vacuum with surprising power and HEPA filtration.",
     "highlights": [
       "HEPA media bag and filter capture dust and allergens",
@@ -3502,8 +3756,8 @@
     "filterType": "Upright",
     "cardSpecs": {
       "vacuumType": "Upright",
-      "weightLbs": 15.0,
-      "suctionPower": "12 amps",
+      "weightLbs": 16,
+      "suctionPower": "12 Amps",
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded (30 ft)",
@@ -3565,8 +3819,8 @@
     "filterType": "Upright",
     "cardSpecs": {
       "vacuumType": "Upright",
-      "weightLbs": 18.1,
-      "suctionPower": "11 Amps",
+      "weightLbs": null,
+      "suctionPower": null,
       "filtration": "HEPA",
       "bagType": "Bagged",
       "cordType": "Corded",
@@ -3600,7 +3854,7 @@
         "1 Year"
       ]
     },
-    "weightLbs": 18,
+    "weightLbs": null,
     "tagline": "Reliable Cleaning with Advanced Filtration",
     "highlights": [
       "Extended Reach: 11-foot cleaning range with extension wand and hose",
@@ -3627,11 +3881,11 @@
     "filterType": "Handheld",
     "cardSpecs": {
       "vacuumType": "Handheld",
-      "weightLbs": 1.0,
-      "suctionPower": "55\" Water Lift",
+      "weightLbs": 1,
+      "suctionPower": null,
       "filtration": "Standard",
-      "bagType": "Bagged",
-      "cordType": "Corded",
+      "bagType": "Bagless",
+      "cordType": "Cordless",
       "petFriendly": false,
       "cleaningPath": "Tool-based"
     },
@@ -3663,7 +3917,7 @@
         "1 Year"
       ]
     },
-    "weightLbs": 5,
+    "weightLbs": 1,
     "tagline": "Compact Rechargeable Mini Vacuum",
     "highlights": [
       "Rechargeable battery with 1-hour runtime",
