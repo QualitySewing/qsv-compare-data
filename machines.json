@@ -1591,7 +1591,7 @@
     "warrantySource": "Machine Manufacturer Warranties/Baby Lock Machine Warranty.pdf (babylock.com Machine Warranties table)",
     "ks": {
       "stitchCount": "Dedicated embroidery",
-      "maxSpeed": "400 SPM",
+      "maxSpeed": "850 SPM",
       "buttonholes": "10",
       "needleThreader": "Automatic",
       "threadCutter": "Automatic",
@@ -2357,7 +2357,7 @@
     },
     "weightLbs": 16,
     "dimensions": "12.5 x 11.5 x 11 in. (W x H x D)",
-    "warrantySource": "QSV team (Jesse), confirmed 2026-09-23",
+    "warrantySource": "QSV team (Carmen confirmed), confirmed 2026-09-23",
     "ks": {
       "stitchCount": "15",
       "maxSpeed": "1,500 SPM",
@@ -3567,7 +3567,7 @@
     },
     "weightLbs": 31,
     "dimensions": "22-23/32 x 11-7/32 x 12-21/32 in. (W x H x D)",
-    "warrantySource": "QSV team (Jesse), 2026-09-23: 25/5/2 for Baby Lock models not in the Baby Lock warranty table",
+    "warrantySource": "QSV team (Carmen confirmed), 2026-09-23: 25/5/2 for Baby Lock models not in the Baby Lock warranty table",
     "ks": {
       "stitchCount": "791",
       "maxSpeed": "850 SPM",
@@ -4149,7 +4149,7 @@
     },
     "weightLbs": 43,
     "dimensions": "29-9/16 x 13-25/32 x 13-17/64 in. (W x H x D)",
-    "warrantySource": "QSV team (Jesse), 2026-09-23: 25/5/2 for Baby Lock models not in the Baby Lock warranty table",
+    "warrantySource": "QSV team (Carmen confirmed), 2026-09-23: 25/5/2 for Baby Lock models not in the Baby Lock warranty table",
     "ks": {
       "maxSpeed": "1,050 SPM",
       "buttonholes": "16",
@@ -4816,7 +4816,7 @@
     },
     "weightLbs": 25.4,
     "dimensions": "16.5 x 12 x 12 in. (W x H x D)",
-    "warrantySource": "QSV team (Jesse), Machine Compatibility Issues PDF + chat, 2026-09-23",
+    "warrantySource": "QSV team (Carmen confirmed), Machine Compatibility Issues PDF + chat, 2026-09-23",
     "ks": {
       "stitchCount": "15",
       "maxSpeed": "1,500 SPM",
@@ -5251,7 +5251,7 @@
     },
     "weightLbs": 43.2,
     "dimensions": "27-11/64 x 13-47/64 x 12-43/64 in. (W x H x D)",
-    "warrantySource": "QSV team (Jesse), 2026-09-23: 25/5/2 for Baby Lock models not in the Baby Lock warranty table",
+    "warrantySource": "QSV team (Carmen confirmed), 2026-09-23: 25/5/2 for Baby Lock models not in the Baby Lock warranty table",
     "ks": {
       "stitchCount": "1,500",
       "maxSpeed": "1,050 SPM",
@@ -6037,7 +6037,7 @@
     },
     "weightLbs": 28,
     "dimensions": "21-23/32 x 11-7/32 x 12-21/32 in. (W x H x D)",
-    "warrantySource": "QSV team (Jesse), 2026-09-23: 25/5/2 for Baby Lock models not in the Baby Lock warranty table",
+    "warrantySource": "QSV team (Carmen confirmed), 2026-09-23: 25/5/2 for Baby Lock models not in the Baby Lock warranty table",
     "ks": {
       "stitchCount": "Dedicated embroidery",
       "maxSpeed": "850 SPM",
@@ -6498,7 +6498,7 @@
     "warrantySource": "Machine Manufacturer Warranties/Baby Lock Machine Warranty.pdf (babylock.com Machine Warranties table)",
     "ks": {
       "stitchCount": "301",
-      "maxSpeed": "850 SPM",
+      "maxSpeed": "1,050 SPM",
       "buttonholes": "14",
       "needleThreader": "Automatic",
       "threadCutter": "Automatic",
@@ -8398,7 +8398,7 @@
       "embroideryArea": null,
       "maxSpeed": 1300,
       "screenSize": null,
-      "includedFeet": null,
+      "includedFeet": 1,
       "throatSpace": "3.4\" (87 mm)",
       "threadCount": "5/4/3/2 Thread"
     },
@@ -8451,6 +8451,9 @@
         "2-Year Limited Warranty on Circuit Boards",
         "2-Year Limited Warranty on Electrical Parts",
         "1-Year Quality Sewing Warranty"
+      ],
+      "Included Feet": [
+        "Standard presser foot (Overlock/Cover)"
       ]
     },
     "weightLbs": 17.2,
@@ -8463,6 +8466,7 @@
       "threadCutter": "Manual",
       "throatSpace": "3.4\" (87 mm)",
       "threadCount": "5/4/3/2 Thread",
+      "includedFeet": "1",
       "warranty": "10/2/2 Year Limited Warranty"
     },
     "ws": {
@@ -14420,59 +14424,6 @@
       "dimensions": "16.92 x 11.02 x 16.14 in."
     },
     "shippingWeightLbs": 30
-  },
-  {
-    "handle": "bernina-q-series-lift-table",
-    "title": "Bernina Q Series Lift Table",
-    "brand": "Bernina",
-    "url": "/products/bernina-q-series-lift-table",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/bernina-q-series-lift-table-sewing-serger-embroidery-machines-627449.png?v=1762443474",
-    "price": 4499.0,
-    "compareAtPrice": null,
-    "isOnSale": false,
-    "isQuoteRequest": true,
-    "isPromo": false,
-    "isPreOwned": false,
-    "types": [
-      "Quilting",
-      "Longarm"
-    ],
-    "tagline": "The Q 16, Q 16 PLUS and Q 20 Lift Table by Horn USA is a powered height-adjustable table with an integrated power strip.",
-    "highlights": [],
-    "cardSpecs": {
-      "stitchCount": null,
-      "embroideryArea": null,
-      "maxSpeed": null,
-      "screenSize": null,
-      "includedFeet": null,
-      "throatSpace": null,
-      "threadCount": null
-    },
-    "specs": {
-      "Available for purchase online": [
-        "In-Store Only"
-      ],
-      "Color": [
-        "White"
-      ],
-      "Features": [
-        "Leafs down: 46 1/2? wide & 36? deep",
-        "Leafs up: 72? wide & 36? deep",
-        "Drawer leafs installed: 72? wide & 50 3/4? deep"
-      ],
-      "Warranty": [
-        "5-Year Limited Warranty",
-        "1-Year Quality Sewing Warranty"
-      ]
-    },
-    "weightLbs": null,
-    "dimensions": null,
-    "warrantySource": "live PIT (no template)",
-    "ks": {
-      "warranty": "5 Year Limited Warranty"
-    },
-    "ws": {},
-    "shippingWeightLbs": 50
   },
   {
     "handle": "bernina-q-16-longarm-quilting-machine-with-studio-frame",
@@ -22871,13 +22822,12 @@
         "Power cable"
       ],
       "Warranty": [
-        "Manufacturer warranty: please verify current terms with the vendor",
         "1-Year Quality Sewing Warranty"
       ]
     },
     "weightLbs": null,
     "dimensions": null,
-    "warrantySource": "Handi Quilter publishes no HQ Stitch warranty (machine-page-integrity warranty-terms.md)",
+    "warrantySource": "Handi Quilter publishes no HQ Stitch warranty (manuals and product pages checked 9/24); QSV warranty only, Carmen confirmed 9/24",
     "ks": {
       "stitchCount": "50",
       "maxSpeed": "820 SPM",
@@ -22994,13 +22944,12 @@
         "Stabilizer plate"
       ],
       "Warranty": [
-        "Manufacturer warranty: please verify current terms with the vendor",
         "1-Year Quality Sewing Warranty"
       ]
     },
     "weightLbs": null,
     "dimensions": null,
-    "warrantySource": "Handi Quilter publishes no HQ Stitch warranty (machine-page-integrity warranty-terms.md)",
+    "warrantySource": "Handi Quilter publishes no HQ Stitch warranty (manuals and product pages checked 9/24); QSV warranty only, Carmen confirmed 9/24",
     "ks": {
       "stitchCount": "170",
       "maxSpeed": "1,000 SPM",
@@ -24526,7 +24475,7 @@
       "embroideryArea": "11.3 x 18.2\"",
       "maxSpeed": 1300,
       "screenSize": "5.3\"",
-      "includedFeet": 37,
+      "includedFeet": 34,
       "throatSpace": "13.5\"",
       "threadCount": null
     },
@@ -24599,40 +24548,40 @@
         "Touch Panel Stylus: Included"
       ],
       "Included Feet": [
-        "ASR Clear View Foot",
-        "ASR Closed Toe Foot",
-        "ASR Open Toe Foot",
-        "ASR Ruler Work Foot",
-        "Automatic Buttonhole Foot R",
-        "Blind Hemming Foot G",
-        "Button Sewing Foot T",
-        "Concealed Zipper Foot Z",
-        "Couching Foot PC-1",
-        "Couching Foot PC-2",
-        "Darning Foot (Open-Toe) PD-H",
-        "Darning Foot PD-H",
-        "Dual Feed Ditch Quilting Foot OD (twin)",
-        "Dual Feed Flex Professional Grade Foot OD HP2 (twin)",
-        "Dual Feed Foot AD (twin)",
-        "Dual Feed Foot VD (single)",
-        "Dual Feed Open Toe Foot UD (twin)",
-        "Dual Feed Quilt Piecing Foot OD (twin)",
-        "Dual Feed Zipper Foot ED (single)",
-        "Embroidery Foot P",
-        "Free Motion Quilting Closed Toe Foot QC",
-        "Free Motion Quilting Open Toe Foot QO",
-        "Free Motion Quilting Zigzag Foot QV",
-        "Open Toe Satin Stitch Foot F2",
-        "Overcasting Foot M",
-        "Professional Grade Foot HP",
-        "Rolled Hem Foot D",
-        "Ruler Work Foot QR",
-        "Satin Stitch Foot F",
-        "Seam Foot O",
-        "Seam Foot O (without guide)",
-        "Variable Zigzag Open Toe Foot QZ",
-        "Zigzag Foot A (set on machine)",
-        "Zipper Foot E"
+        "1/4\" Seam foot O",
+        "1/4\" Seam foot O (without guide)",
+        "A.S.R. clear-view foot ASR-QV",
+        "A.S.R. closed-toe foot ASR-QC",
+        "A.S.R. open-toe foot ASR-QO",
+        "A.S.R. ruler work foot ASR-QR",
+        "AcuFeed ditch quilting foot SD (twin)",
+        "AcuFeed foot AD (twin)",
+        "AcuFeed foot VD (single)",
+        "AcuFeed open toe foot UD (twin)",
+        "AcuFeed professional grade foot HP2",
+        "AcuFeed quilt piecing foot OD (twin)",
+        "AcuFeed zipper foot ED (single)",
+        "Automatic buttonhole foot R",
+        "Blind hemming foot G",
+        "Button sewing foot T",
+        "CONCEAL Zipper foot Z",
+        "Darning foot (open-toe) PD-H",
+        "Darning foot PD-H",
+        "Embroidery couching foot PC-1",
+        "Embroidery couching foot PC-2",
+        "Embroidery foot P",
+        "Free motion quilting closed-toe foot QC",
+        "Free motion quilting open-toe foot QO",
+        "Free motion quilting zigzag foot QV",
+        "Overcasting foot M",
+        "Professional grade foot HP",
+        "Rolled hem foot D",
+        "Ruler work foot QR",
+        "Satin stitch foot F",
+        "Satin stitch open-toe foot F2",
+        "Variable zigzag open-toe foot QZ",
+        "Zigzag foot A",
+        "Zipper foot E"
       ],
       "Included Hoops": [
         "Embroidery Hoops: 6 included"
@@ -24681,7 +24630,7 @@
       "embroideryArea": "11.3\" x 18.2\"",
       "display": "5.3\" Touchscreen",
       "throatSpace": "13.5\"",
-      "includedFeet": "37",
+      "includedFeet": "34",
       "warranty": "25/5/1 Year Limited Warranty"
     },
     "ws": {
@@ -25164,11 +25113,11 @@
       "Free on-demand training video included"
     ],
     "cardSpecs": {
-      "stitchCount": null,
+      "stitchCount": 4,
       "embroideryArea": null,
       "maxSpeed": 1000,
       "screenSize": null,
-      "includedFeet": null,
+      "includedFeet": 1,
       "throatSpace": "3.9\"",
       "threadCount": "3 Thread"
     },
@@ -25223,12 +25172,16 @@
         "25-Year Limited Warranty on Manufacturer Defects",
         "5-Year Limited Warranty on Electrical Components",
         "1-Year Quality Sewing Warranty"
+      ],
+      "Included Feet": [
+        "Standard presser foot (on machine)"
       ]
     },
     "weightLbs": 19,
     "dimensions": "19 x 14 x 17 in.",
     "warrantySource": "Machine Manufacturer Warranties/Janome and Elna Machine Warranty.docx (the 1-year service tier is covered by the 1-Year Quality Sewing line)",
     "ks": {
+      "stitchCount": "4",
       "maxSpeed": "1,000 SPM",
       "needleThreader": "Built-in",
       "threadCutter": "Manual",
@@ -25236,6 +25189,7 @@
       "display": "LCD",
       "throatSpace": "3.9\"",
       "threadCount": "3 Thread",
+      "includedFeet": "1",
       "warranty": "25/5/1 Year Limited Warranty"
     },
     "ws": {
@@ -25266,11 +25220,11 @@
     "tagline": "Janome CoverPro 2000CPX",
     "highlights": [],
     "cardSpecs": {
-      "stitchCount": null,
+      "stitchCount": 4,
       "embroideryArea": null,
       "maxSpeed": 1000,
       "screenSize": null,
-      "includedFeet": null,
+      "includedFeet": 1,
       "throatSpace": "5.5\"",
       "threadCount": "3 Thread"
     },
@@ -25314,6 +25268,9 @@
         "5-Year Limited Warranty on Electrical Components",
         "1-Year Quality Sewing Warranty"
       ],
+      "Included Feet": [
+        "Standard presser foot (on machine)"
+      ],
       "Smart Features": [
         "Bed Space: 4\" x 5.5\" (extra large)",
         "Quick Reference Guide: Built-in for stitch selection"
@@ -25323,11 +25280,13 @@
     "dimensions": null,
     "warrantySource": "Machine Manufacturer Warranties/Janome and Elna Machine Warranty.docx (the 1-year service tier is covered by the 1-Year Quality Sewing line)",
     "ks": {
+      "stitchCount": "4",
       "maxSpeed": "1,000 SPM",
       "threadCutter": "Manual",
       "threadingSystem": "Lay-In Threading",
       "throatSpace": "5.5\"",
       "threadCount": "3 Thread",
+      "includedFeet": "1",
       "warranty": "25/5/1 Year Limited Warranty"
     },
     "ws": {
@@ -25361,7 +25320,7 @@
       "Built-in needle threader for quick setup"
     ],
     "cardSpecs": {
-      "stitchCount": null,
+      "stitchCount": 5,
       "embroideryArea": null,
       "maxSpeed": 1000,
       "screenSize": null,
@@ -25394,7 +25353,8 @@
       "Workspace & Display": [
         "Free Arm: Yes",
         "Workspace Right of Needle: 5.5\" to the right of the needle",
-        "Lighting: Bright LED in 3 locations with retractable sewing light"
+        "Lighting: Bright LED in 3 locations with retractable sewing light",
+        "Dimensions: 16.22 x 13.18 x 9.64 in. (W x H x D)"
       ],
       "Smart Features": [
         "Built-in Top Cover Stitch Guide: Industry first with spreader for professional triple and double cover stitches",
@@ -25423,9 +25383,10 @@
       ]
     },
     "weightLbs": 18.95,
-    "dimensions": null,
+    "dimensions": "16.22 x 13.18 x 9.64 in. (W x H x D)",
     "warrantySource": "Machine Manufacturer Warranties/Janome and Elna Machine Warranty.docx (the 1-year service tier is covered by the 1-Year Quality Sewing line)",
     "ks": {
+      "stitchCount": "5",
       "maxSpeed": "1,000 SPM",
       "needleThreader": "Built-in",
       "threadCutter": "Manual",
@@ -25437,7 +25398,8 @@
     "ws": {
       "freeArm": "Yes",
       "workspace": "5.5\" to the right of the needle",
-      "lighting": "Bright LED in 3 locations with retractable sewing light"
+      "lighting": "Bright LED in 3 locations with retractable sewing light",
+      "dimensions": "16.22 x 13.18 x 9.64 in. (W x H x D)"
     },
     "shippingWeightLbs": 19
   },
@@ -27138,7 +27100,7 @@
       "embroideryArea": null,
       "maxSpeed": 820,
       "screenSize": null,
-      "includedFeet": 4,
+      "includedFeet": 5,
       "throatSpace": null,
       "threadCount": null
     },
@@ -27186,10 +27148,11 @@
         "Easy navigation button stitch selection"
       ],
       "Included Feet": [
-        "Even Feed Foot (for High speed Models)",
-        "Hemmer Foot",
-        "Presser Foot (High Speed)",
-        "Straight Stitch Foot - Narrow (High Speed)"
+        "Automatic buttonhole foot R",
+        "Blind hemming foot G",
+        "Satin stitch foot F",
+        "Zigzag foot A",
+        "Zipper foot E"
       ],
       "Included Accessories": [
         "Combi Trimming Attachment",
@@ -27218,7 +27181,7 @@
       "needleThreader": "Built-in",
       "threadCutter": "Built-in",
       "display": "0.75\" LCD",
-      "includedFeet": "4",
+      "includedFeet": "5",
       "warranty": "25/5/1 Year Limited Warranty"
     },
     "ws": {
@@ -27965,7 +27928,8 @@
         "Display: 5\" Touchscreen",
         "Speed Control: Speed slider",
         "Knee Lift / Hands-Free Lift: Automatic presser foot lift",
-        "Workspace Right of Needle: 8.3\" to the right of the needle"
+        "Workspace Right of Needle: 8.3\" to the right of the needle",
+        "Dimensions: 20 x 12.5 x 8.6 in. (W x H x D)"
       ],
       "Included Feet": [
         "1/4\" Seam Foot O (w/ Guide) 9mm",
@@ -28016,7 +27980,7 @@
       ]
     },
     "weightLbs": 24.3,
-    "dimensions": null,
+    "dimensions": "20 x 12.5 x 8.6 in. (W x H x D)",
     "warrantySource": "Machine Manufacturer Warranties/Janome and Elna Machine Warranty.docx (the 1-year service tier is covered by the 1-Year Quality Sewing line)",
     "ks": {
       "stitchCount": "350",
@@ -28033,7 +27997,8 @@
       "display": "5\" Touchscreen",
       "speedControl": "Speed slider",
       "kneeLift": "Automatic presser foot lift",
-      "workspace": "8.3\" to the right of the needle"
+      "workspace": "8.3\" to the right of the needle",
+      "dimensions": "20 x 12.5 x 8.6 in. (W x H x D)"
     },
     "shippingWeightLbs": 24
   },
@@ -29176,7 +29141,7 @@
       "embroideryArea": null,
       "maxSpeed": 1300,
       "screenSize": null,
-      "includedFeet": null,
+      "includedFeet": 1,
       "throatSpace": "1\"",
       "threadCount": "4/3/2 Thread"
     },
@@ -29225,6 +29190,9 @@
         "1-Year Limited Warranty on Electrical Parts and Motor (parts)",
         "1-Year Quality Sewing Warranty"
       ],
+      "Included Feet": [
+        "Universal Standard Presser Foot"
+      ],
       "Smart Features": [
         "LED Illumination",
         "Safety Switch (prevents sewing when front cover or foot is raised)"
@@ -29241,6 +29209,7 @@
       "threadingSystem": "Air Looper Threading",
       "throatSpace": "1\"",
       "threadCount": "4/3/2 Thread",
+      "includedFeet": "1",
       "warranty": "5/1 Year Limited Warranty"
     },
     "ws": {
@@ -35379,7 +35348,7 @@
         "Workspace Right of Needle: 6.5\" to the right of the needle"
       ],
       "Included Feet": [
-        "Adjustable Blind Hem Foot (no letter in manual; singer.com calls it D)",
+        "Adjustable Blind Hem Foot D",
         "Automatic Buttonhole Foot R",
         "Buttonhole Foot C",
         "Edging Foot J",
@@ -35489,7 +35458,7 @@
         "Workspace Right of Needle: 6.5\" to the right of the needle"
       ],
       "Included Feet": [
-        "Adjustable Blind Hem Foot (no letter in manual; singer.com calls it D)",
+        "Adjustable Blind Hem Foot D",
         "Automatic Buttonhole Foot R",
         "Buttonhole Foot C",
         "Edging Foot J",
@@ -35606,8 +35575,8 @@
       ],
       "Included Feet": [
         "Blind Hem Foot D",
-        "Buttonhole Foot C (manual)",
         "Edging Foot J",
+        "Manual Buttonhole Foot C",
         "Non-Stick Glide Foot H",
         "Presser Foot B",
         "Utility Foot A",

@@ -1141,7 +1141,6 @@
     "isPromo": false,
     "isPreOwned": false,
     "types": [
-      "Mop/Vacuum Combo",
       "Cordless Stick"
     ],
     "tagline": "Vacuum and mop from one cordless machine.",
@@ -1156,7 +1155,7 @@
       "weightLbs": 8,
       "bagType": "Bagless",
       "cordType": "Cordless (70 min)",
-      "vacuumType": "Mop/Vacuum Combo",
+      "vacuumType": "Cordless Stick",
       "cleaningPath": null,
       "filtration": null,
       "petFriendly": null,
@@ -1220,7 +1219,7 @@
       ]
     },
     "weightLbs": 8,
-    "filterType": "Mop/Vacuum Combo"
+    "filterType": "Cordless Stick"
   },
   {
     "handle": "miele-triflex-hx3-cat-dog",
