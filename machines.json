@@ -5,7 +5,7 @@
     "brand": "Baby Lock",
     "url": "/products/baby-lock-acclaim-serger",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Acclaim_WhatNewCatalog.jpg?v=1787179857",
-    "price": 2565.0,
+    "price": 2849.0,
     "compareAtPrice": 3849.0,
     "isOnSale": true,
     "isQuoteRequest": false,
@@ -7905,6 +7905,7 @@
     },
     "specs": {
       "Key Specs": [
+        "15 Built-in Stitches",
         "1 Buttonhole",
         "860 SPM",
         "Needle Threader: Semi-Automatic",
@@ -7913,8 +7914,8 @@
         "10/2/2 Year Limited Warranty"
       ],
       "Sewing Features": [
-        "Built-in Stitches: 14",
-        "Practical Stitches: 14",
+        "Built-in Stitches: 15",
+        "Practical Stitches: 15",
         "Buttonholes/Eyelets: 1",
         "Stitch Width: 5 mm",
         "Max Stitch Length: 4 mm"
@@ -8429,6 +8430,9 @@
         "Cover/Chainstitch Inserter: Included",
         "Spare Upper Knife: Stationary, included"
       ],
+      "Included Feet": [
+        "Standard presser foot (Overlock/Cover)"
+      ],
       "Included Accessories": [
         "Cover/Chainstitch Inserter",
         "Screwdriver (Large Size)",
@@ -8451,9 +8455,6 @@
         "2-Year Limited Warranty on Circuit Boards",
         "2-Year Limited Warranty on Electrical Parts",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Standard presser foot (Overlock/Cover)"
       ]
     },
     "weightLbs": 17.2,
@@ -22474,9 +22475,17 @@
         "Programmable Handlebar Buttons",
         "On-Screen Hand Wheel"
       ],
+      "Included Feet": [
+        "Closed-toe hopping foot (installed)",
+        "Open-toe hopping foot"
+      ],
       "Compatible Frames": [
         "HQ Studio3 Frame (included; 10-foot or 12-foot options)",
         "HQ Little Foot Frame (5-foot)"
+      ],
+      "Included Accessories": [
+        "Ruler foot",
+        "Open-toe foot"
       ],
       "Warranty": [
         "10-Year Limited Warranty on Sewing Head Casting",
@@ -22484,10 +22493,6 @@
         "5-Year Limited Warranty on Electronic and Electrical Components",
         "90-Day Limited Warranty on Parts and Labor",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Closed-toe hopping foot (installed)",
-        "Open-toe hopping foot"
       ]
     },
     "weightLbs": null,
@@ -22582,10 +22587,16 @@
         "Programmable Handlebar Buttons",
         "Front Power Switch"
       ],
+      "Included Feet": [
+        "Closed-toe hopping foot (installed)",
+        "Open-toe hopping foot"
+      ],
       "Compatible Frames": [
         "HQ Gallery 3 Frame (included; 10, 12, or 15-foot options)"
       ],
       "Included Accessories": [
+        "Ruler foot",
+        "Open-toe foot",
         "Magnetic tool minder collar",
         "Stand-alone bobbin winder"
       ],
@@ -22595,10 +22606,6 @@
         "5-Year Limited Warranty on Electronic and Electrical Components",
         "90-Day Limited Warranty on Parts and Labor",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Closed-toe hopping foot (installed)",
-        "Open-toe hopping foot"
       ]
     },
     "weightLbs": null,
@@ -22688,11 +22695,17 @@
         "Machine Type: Sit-Down Longarm",
         "Magnetic Tool Minder Collar"
       ],
+      "Included Feet": [
+        "Closed-toe hopping foot (installed)",
+        "Open-toe hopping foot"
+      ],
       "Compatible Frames": [
         "HQ Lift Table (38\" x 38\"; push-button height adjustment)",
         "HQ InSight Table (36\" x 38\")"
       ],
       "Included Accessories": [
+        "Quarter-inch ruler foot (installed on machine)",
+        "Open-toe foot",
         "HQ Bobbin Winder (stand-alone, included)",
         "Foot pedal",
         "Bobbins (5)",
@@ -22715,10 +22728,6 @@
         "5-Year Limited Warranty on Electronic and Electrical Components",
         "90-Day Limited Warranty on Parts and Labor",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Closed-toe hopping foot (installed)",
-        "Open-toe hopping foot"
       ]
     },
     "weightLbs": null,
@@ -22780,9 +22789,9 @@
         "Thread Cutter: Automatic",
         "Backlit LCD Display",
         "6.7\" Throat Space",
-        "8 Presser Feet Included",
+        "6 Presser Feet Included",
         "22 lbs",
-        "Machine Dimensions: 20 x 16 x 12 in.",
+        "Shipping Box: 20 x 16 x 12 in.",
         "1-Year Quality Sewing Warranty"
       ],
       "Sewing Features": [
@@ -22893,7 +22902,8 @@
         "Thread Cutter: Automatic",
         "3.6\" Backlit LCD Display",
         "10\" All-Metal Seamless Flatbed Throat Space",
-        "Machine Dimensions: 26\"L x 22\"W x 16\"H",
+        "Shipping Box: 26 x 22 x 16 in.",
+        "Shipping Weight: 34 lbs",
         "1-Year Quality Sewing Warranty"
       ],
       "Sewing Features": [
@@ -23002,7 +23012,7 @@
       "stitchCount": 24,
       "embroideryArea": null,
       "maxSpeed": 3100,
-      "screenSize": null,
+      "screenSize": "12\"",
       "includedFeet": 3,
       "throatSpace": "28\"",
       "threadCount": null
@@ -23053,10 +23063,18 @@
         "12-megapixel under-quilt bottom camera",
         "On-screen needle position, stitch counter, and project timer"
       ],
+      "Included Feet": [
+        "Closed-toe hopping foot (installed)",
+        "Glide foot",
+        "Open-toe hopping foot"
+      ],
       "Compatible Frames": [
         "HQ Gallery 3 Frame (included; 10, 12, or 15-foot options)"
       ],
       "Included Accessories": [
+        "Closed-toe foot",
+        "Open-toe foot",
+        "Glide foot",
         "4 extra M-class bobbins",
         "20 needles",
         "Sample thread pack",
@@ -23070,11 +23088,6 @@
         "5-Year Limited Warranty on Electronic and Electrical Components",
         "90-Day Limited Warranty on Parts and Labor",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Closed-toe hopping foot (installed)",
-        "Glide foot",
-        "Open-toe hopping foot"
       ]
     },
     "weightLbs": null,
@@ -23157,6 +23170,10 @@
         "Handlebars: Front handlebars",
         "Built-in Diagnostics"
       ],
+      "Included Feet": [
+        "Open-toe foot",
+        "Ruler foot (installed)"
+      ],
       "Compatible Frames": [
         "HQ Little Foot Frame (5-foot)",
         "HQ Loft Frame (8-foot or 10-foot)"
@@ -23176,6 +23193,8 @@
         "2.5, 3, and 4mm L hex wrenches",
         "Lint brush",
         "HQ Moxie Bobbin Winder",
+        "Ruler Foot (installed on machine)",
+        "Open-toe Foot",
         "HQ Longarm Quilting Pins",
         "Moxie decals",
         "HQ Moxie How-to Quilt Kit",
@@ -23187,10 +23206,6 @@
         "5-Year Limited Warranty on Electronic and Electrical Components",
         "90-Day Limited Warranty on Parts and Labor",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Open-toe foot",
-        "Ruler foot (installed)"
       ]
     },
     "weightLbs": null,
@@ -23266,7 +23281,12 @@
         "Workspace Right of Needle: 18\" to the right of the needle",
         "Lighting: LED"
       ],
+      "Included Feet": [
+        "Closed-toe hopping foot (1/4 in., installed)",
+        "Open-toe hopping foot"
+      ],
       "Included Accessories": [
+        "Open-toe foot",
         "HQ InSight Table",
         "Large Foot Pedal",
         "Bobbins (4)",
@@ -23281,10 +23301,6 @@
         "5-Year Limited Warranty on Electronic and Electrical Components",
         "90-Day Limited Warranty on Parts and Labor",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Closed-toe hopping foot (1/4 in., installed)",
-        "Open-toe hopping foot"
       ],
       "Smart Features": [
         "Table: HQ InSight Table (included)",
@@ -23339,7 +23355,7 @@
       "stitchCount": 18,
       "embroideryArea": null,
       "maxSpeed": 2100,
-      "screenSize": null,
+      "screenSize": "4.3\"",
       "includedFeet": 2,
       "throatSpace": "18\"",
       "threadCount": null
@@ -23380,11 +23396,17 @@
         "3-Piece Leader Set: Included",
         "Side Clamps: Included"
       ],
+      "Included Feet": [
+        "Closed-toe hopping foot (installed)",
+        "Open-toe hopping foot"
+      ],
       "Compatible Frames": [
         "HQ Little Foot Frame (5-foot)",
         "HQ Loft Frame (8-foot or 10-foot, height-adjustable)"
       ],
       "Included Accessories": [
+        "Quarter-inch closed-toe foot (installed)",
+        "Open-toe foot",
         "Bobbins (5)",
         "Needles (20)",
         "EZ-Pen Oiler",
@@ -23402,10 +23424,6 @@
         "5-Year Limited Warranty on Electronic and Electrical Components",
         "90-Day Limited Warranty on Parts and Labor",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Closed-toe hopping foot (installed)",
-        "Open-toe hopping foot"
       ]
     },
     "weightLbs": null,
@@ -23503,10 +23521,16 @@
         "Programmable Handlebar Buttons",
         "On-Screen Hand Wheel"
       ],
+      "Included Feet": [
+        "Closed-toe hopping foot (installed)",
+        "Open-toe hopping foot"
+      ],
       "Compatible Frames": [
         "HQ Studio3 Frame (included; 12-foot, only size for this edition)"
       ],
       "Included Accessories": [
+        "Ruler foot",
+        "Open-toe foot",
         "Pro-Stitcher Premium computerized quilting system",
         "HQ bobbin winder"
       ],
@@ -23516,10 +23540,6 @@
         "5-Year Limited Warranty on Electronic and Electrical Components",
         "90-Day Limited Warranty on Parts and Labor",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Closed-toe hopping foot (installed)",
-        "Open-toe hopping foot"
       ]
     },
     "weightLbs": null,
@@ -29175,6 +29195,9 @@
         "Workspace Right of Needle: 1\" to the right of the needle",
         "Dimensions: 13.8 x 11.8 x 11.2 in. (W x H x D)"
       ],
+      "Included Feet": [
+        "Universal Standard Presser Foot"
+      ],
       "Included Accessories": [
         "Screwdriver (Large and Small)",
         "Double-Ended Wrench",
@@ -29196,9 +29219,6 @@
         "5-Year Limited Warranty on Non-Electrical Parts (parts)",
         "1-Year Limited Warranty on Electrical Parts and Motor (parts)",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "Universal Standard Presser Foot"
       ],
       "Smart Features": [
         "LED Illumination",
@@ -29498,7 +29518,7 @@
     "specs": {
       "Key Specs": [
         "136 Stitches",
-        "1 Automatic Buttonhole",
+        "7 Automatic Buttonholes",
         "800 SPM",
         "Needle Threader: Automatic",
         "Thread Cutter: Automatic (Thread Snips)",
@@ -29619,7 +29639,7 @@
     "cardSpecs": {
       "stitchCount": 400,
       "embroideryArea": null,
-      "maxSpeed": 800,
+      "maxSpeed": 1000,
       "screenSize": "7\"",
       "includedFeet": 9,
       "throatSpace": "9.8\"",
@@ -29629,7 +29649,7 @@
       "Key Specs": [
         "400+ Built-in Stitches",
         "9 Buttonhole Styles (Sensormatic One-Step)",
-        "Maximum Sewing Speed: 800 SPM",
+        "Maximum Sewing Speed: 1,000 SPM",
         "Needle Threader: Automatic",
         "Thread Cutter: Automatic",
         "7\" Color Capacitive Touchscreen",
@@ -29639,7 +29659,7 @@
       "Sewing Features": [
         "Built-in Stitches: 400+",
         "Max Stitch Width: 9mm",
-        "Max Sewing Speed: 800 stitches per minute",
+        "Max Sewing Speed: 1,000 stitches per minute",
         "Buttonhole Styles: 9 (Sensormatic one-step)",
         "Needle Positions: 37",
         "Sewing Fonts: 4",
@@ -29755,7 +29775,7 @@
         "Automatic Thread Snips (Cutter)",
         "10.1\" Touchscreen",
         "12.1\" Large Throat Space (310mm)",
-        "13 Presser Feet Included",
+        "12 Presser Feet Included",
         "Over 800 Built-in Stitches",
         "20/5/1 Year Limited Warranty"
       ],
@@ -29926,7 +29946,7 @@
     },
     "specs": {
       "Key Specs": [
-        "16 Buttonholes",
+        "18 Buttonholes",
         "873 Built-in Embroidery Designs",
         "360mm x 350mm Large Embroidery Area",
         "1,050 SPM",
@@ -30092,7 +30112,7 @@
         "Automatic Thread Snips (Cutter)",
         "10.1\" Touchscreen",
         "12.1\" Large Throat Space (310mm)",
-        "13 Presser Feet Included",
+        "12 Presser Feet Included",
         "Over 800 Built-in Stitches",
         "1-Year Quality Sewing Warranty"
       ],
@@ -30257,7 +30277,7 @@
       "stitchCount": 800,
       "embroideryArea": "14.2\" x 13.8\"",
       "maxSpeed": null,
-      "screenSize": null,
+      "screenSize": "10.1\"",
       "includedFeet": 12,
       "throatSpace": "12.1\"",
       "threadCount": null
@@ -30271,7 +30291,7 @@
         "Maximum stitch width: 9 mm",
         "Maximum stitch length: 5 mm",
         "6 sewing fonts",
-        "Screen size: 10.1\" diagonal with customizable interface",
+        "Display: 10.1\" Touchscreen",
         "ActivStitch™ technology",
         "Automatic needle threader",
         "Needle up/down",
@@ -30306,6 +30326,13 @@
         "Maximum embroidery area: 14.2\" x 13.8\" (350 x 360mm)",
         "8 embroidery fonts",
         "Auto-Cut embroidery jump stitches"
+      ],
+      "Workspace & Display": [
+        "Display: 10.1\" Touchscreen",
+        "Speed Control: Speed buttons",
+        "Knee Lift / Hands-Free Lift: Automatic presser foot lift",
+        "Workspace Right of Needle: 12.1\" to the right of the needle",
+        "Dimensions: 24.7 x 14.3 x 10.8 in. (W x H x D)"
       ],
       "Included Feet": [
         "0A Standard Presser Foot for IDT System",
@@ -30350,13 +30377,6 @@
       "Warranty": [
         "Re-certified machine. Manufacturer warranty: please verify current terms with the vendor",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Workspace & Display": [
-        "Display: 10.1\" Touchscreen",
-        "Speed Control: Speed buttons",
-        "Knee Lift / Hands-Free Lift: Automatic presser foot lift",
-        "Workspace Right of Needle: 12.1\" to the right of the needle",
-        "Dimensions: 24.7 x 14.3 x 10.8 in. (W x H x D)"
       ]
     },
     "weightLbs": 33.1,
@@ -30411,7 +30431,7 @@
     "cardSpecs": {
       "stitchCount": 730,
       "embroideryArea": "360mm x 350mm",
-      "maxSpeed": 1050,
+      "maxSpeed": 1000,
       "screenSize": "8\"",
       "includedFeet": 11,
       "throatSpace": "9.8\"",
@@ -30422,7 +30442,7 @@
         "Sensormatic 1-Step Buttonhole",
         "730 Stitches, Including 6 Fonts & 638 Embroidery Designs Including 8 Fonts",
         "360mm x 350mm Large Embroidery Area",
-        "1,050 SPM",
+        "1,000 SPM",
         "Needle Threader: Automatic",
         "Thread Cutter: Automatic (Auto Snip)",
         "8\" Touchscreen",
@@ -30433,7 +30453,7 @@
       ],
       "Sewing Features": [
         "Built-in Stitches: 730",
-        "Max Sewing Speed: 1,050 stitches per minute",
+        "Max Sewing Speed: 1,000 stitches per minute",
         "Stitch Width: Up to 9 mm (Maxi Stitches up to 52 mm)",
         "Stitch Length: Up to 6 mm",
         "Buttonholes: 16 styles + 5 eyelets (Sensormatic One-Step)",
@@ -30583,7 +30603,7 @@
         "Automatic Thread Snips (Cutter)",
         "3.5\" Touchscreen",
         "9.8\" Throat Space to the right of the needle",
-        "Includes 13 Presser Feet",
+        "Includes 9 Presser Feet",
         "20/5/1 Year Limited Warranty"
       ],
       "Sewing Features": [
@@ -30683,19 +30703,20 @@
     "cardSpecs": {
       "stitchCount": 600,
       "embroideryArea": null,
-      "maxSpeed": 1050,
-      "screenSize": "3.5\"",
+      "maxSpeed": 1000,
+      "screenSize": "8\"",
       "includedFeet": 10,
       "throatSpace": "9.8\"",
       "threadCount": null
     },
     "specs": {
       "Key Specs": [
+        "600 Built-in Stitches",
         "Sensormatic 1-Step Buttonhole",
-        "1,050 SPM",
+        "1,000 SPM",
         "Needle Threader: Automatic",
         "Thread Cutter: Automatic (Auto Snip)",
-        "3.5\" Touchscreen",
+        "8\" Touchscreen",
         "9.8\" Throat Space to the right of the needle",
         "Includes 10 Presser Feet",
         "Original IDT™ Integrated Dual Feed",
@@ -30703,7 +30724,7 @@
       ],
       "Sewing Features": [
         "Built-in Stitches: 600",
-        "Max Sewing Speed: 1,050 stitches per minute",
+        "Max Sewing Speed: 1,000 stitches per minute",
         "Stitch Width: Up to 9 mm (Maxi Stitches up to 52 mm)",
         "Stitch Length: Up to 6 mm",
         "Buttonholes: 14 styles + 4 eyelets",
@@ -30822,7 +30843,7 @@
     "specs": {
       "Key Specs": [
         "70 Stitches",
-        "1 Automatic Buttonhole",
+        "4 Automatic Buttonholes",
         "800 SPM",
         "Needle Threader: Built-in",
         "Thread Cutter: Manual (Side)",
@@ -30954,7 +30975,7 @@
     "specs": {
       "Key Specs": [
         "100 Stitches",
-        "1 Automatic Buttonhole",
+        "4 Automatic Buttonholes",
         "800 SPM",
         "Needle Threader: Built-in",
         "Thread Cutter: Automatic (Thread Snips)",
@@ -31391,7 +31412,7 @@
     "specs": {
       "Key Specs": [
         "201 Stitches, Including 2 Fonts",
-        "1 Automatic Buttonhole",
+        "7 Automatic Buttonholes",
         "800 SPM",
         "Needle Threader: Semi-Automatic",
         "Automatic Thread Snips (Cutter)",
@@ -31519,7 +31540,7 @@
     "specs": {
       "Key Specs": [
         "201 Stitches, Including 2 Fonts",
-        "1 Automatic Buttonhole",
+        "7 Automatic Buttonholes",
         "800 SPM",
         "Needle Threader: Semi-Automatic",
         "Automatic Thread Snips (Cutter)",
@@ -31632,8 +31653,8 @@
     "cardSpecs": {
       "stitchCount": 730,
       "embroideryArea": null,
-      "maxSpeed": 1050,
-      "screenSize": "3.5\"",
+      "maxSpeed": 1000,
+      "screenSize": "8\"",
       "includedFeet": 10,
       "throatSpace": "9.8\"",
       "threadCount": null
@@ -31642,10 +31663,10 @@
       "Key Specs": [
         "730 Stitches, Including 4 Fonts",
         "Sensormatic One-Step Buttonhole",
-        "1,050 SPM",
+        "1,000 SPM",
         "Needle Threader: Automatic",
         "Automatic Thread Snips (Cutter)",
-        "3.5\" Touchscreen",
+        "8\" Touchscreen",
         "9.8\" Throat Space to the right of the needle",
         "Includes 10 Presser Feet",
         "20/5/1 Year Limited Warranty"
@@ -32079,7 +32100,7 @@
     "cardSpecs": {
       "stitchCount": 27,
       "embroideryArea": null,
-      "maxSpeed": 750,
+      "maxSpeed": 800,
       "screenSize": "1.2\"",
       "includedFeet": 5,
       "throatSpace": "6.3\"",
@@ -32089,7 +32110,7 @@
       "Key Specs": [
         "27 Built-in Stitches",
         "1 Automatic Buttonhole",
-        "750 SPM",
+        "800 SPM",
         "Needle Threader: Built-in",
         "Thread Cutter: Manual (Side)",
         "1.2\" LCD Display Information System",
@@ -32099,13 +32120,12 @@
       ],
       "Sewing Features": [
         "Total Stitches: 27",
-        "Max Sewing Speed: 750 stitches per minute",
+        "Max Sewing Speed: 800 stitches per minute",
         "Max Stitch Width: 6mm",
         "Max Stitch Length: 4.5mm",
         "1-Step Buttonhole",
         "Auto Stitch Width & Length",
-        "PFAFF Original Presser Foot System",
-        "Snap-On/Snap-Off Presser Feet"
+        "PFAFF Original Presser Foot System"
       ],
       "Threading & Bobbin": [
         "Built-in Needle Threader",
@@ -32271,120 +32291,6 @@
       "workspace": "6.5\" to the right of the needle"
     },
     "shippingWeightLbs": 14
-  },
-  {
-    "handle": "singer-5523-scholastic-heavy-duty-sewing-machine",
-    "title": "Singer 5523 Scholastic Heavy Duty Sewing Machine",
-    "brand": "Singer",
-    "url": "/products/singer-5523-scholastic-heavy-duty-sewing-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/singer-5523-scholastic-heavy-duty-sewing-machine-sewing-serger-embroidery-machines-354644.jpg?v=1762443048",
-    "price": 289.99,
-    "compareAtPrice": 359.99,
-    "isOnSale": true,
-    "isQuoteRequest": false,
-    "isPromo": false,
-    "isPreOwned": false,
-    "types": [
-      "Sewing"
-    ],
-    "tagline": "Heavy-duty construction for thick fabrics and everyday sewing",
-    "highlights": [
-      "23 stitches including basic, stretch, decorative, and 1-step buttonhole",
-      "1,100 stitches per minute for faster project completion",
-      "Adjustable stitch width up to 5mm and three needle positions",
-      "25-year limited warranty on sewing machine head"
-    ],
-    "cardSpecs": {
-      "stitchCount": 23,
-      "embroideryArea": null,
-      "maxSpeed": 1100,
-      "screenSize": null,
-      "includedFeet": 4,
-      "throatSpace": "6.5\"",
-      "threadCount": null
-    },
-    "specs": {
-      "Key Specs": [
-        "23 Built-in Stitches",
-        "1 Automatic Buttonhole",
-        "1,100 SPM",
-        "Needle Threader: Built-in Automatic",
-        "Thread Cutter: Manual (Side)",
-        "6.5\" Throat Space to the right of the needle",
-        "Heavy-Duty Metal Interior Frame",
-        "25/2/90 Day Limited Warranty"
-      ],
-      "Sewing Features": [
-        "Built-in Stitches: 23",
-        "Max Sewing Speed: 1,100 stitches per minute",
-        "60% Stronger Motor",
-        "Max Stitch Width: 5mm",
-        "Adjustable Stitch Length",
-        "Needle Positions: 3",
-        "Automatic Reverse",
-        "Snap-On Presser Feet System"
-      ],
-      "Threading & Bobbin": [
-        "Automatic Needle Threader",
-        "Top Drop-in Bobbin",
-        "Fully Automatic 1-Step Buttonhole"
-      ],
-      "Workspace & Display": [
-        "Free Arm: Yes",
-        "Workspace Right of Needle: 6.5\" to the right of the needle"
-      ],
-      "Included Feet": [
-        "All-Purpose Foot",
-        "Button Sewing Foot",
-        "Buttonhole Foot",
-        "Zipper Foot"
-      ],
-      "Included Accessories": [
-        "Seam Ripper / Lint Brush",
-        "Quilting Guide",
-        "Needles",
-        "Thread Spool Caps",
-        "Bobbins",
-        "Screwdriver",
-        "Spool Pin",
-        "Spool Felt",
-        "Soft Dust Cover",
-        "Foot Pedal",
-        "Power Cord",
-        "Instruction Manual"
-      ],
-      "Warranty": [
-        "25-Year Limited Warranty on Machine Head",
-        "2-Year Limited Warranty on Electrical Components",
-        "90-Day Limited Warranty on Labor and Adjustments",
-        "1-Year Quality Sewing Warranty"
-      ],
-      "Smart Features": [
-        "Stainless Steel Bed Plate",
-        "Heavy Duty Metal Frame",
-        "Extra-High Presser Foot Lifter",
-        "Adjustable Presser Foot Pressure Control",
-        "On Board Storage"
-      ]
-    },
-    "weightLbs": null,
-    "dimensions": null,
-    "warrantySource": "https://help.singer.com/en-US/singers-warranty-coverage-395288",
-    "ks": {
-      "stitchCount": "23",
-      "maxSpeed": "1,100 SPM",
-      "buttonholes": "1",
-      "needleThreader": "Automatic",
-      "threadCutter": "Manual",
-      "throatSpace": "6.5\"",
-      "includedFeet": "4",
-      "warranty": "25/2/90 Day Limited Warranty"
-    },
-    "ws": {
-      "freeArm": "Yes",
-      "workspace": "6.5\" to the right of the needle"
-    },
-    "shippingWeightLbs": 20
   },
   {
     "handle": "singer-hd500-classic-black-sewing-machine",
@@ -32680,111 +32586,6 @@
       "dimensions": "15.5 x 6.25 x 12 in."
     },
     "shippingWeightLbs": 19
-  },
-  {
-    "handle": "singer-heavy-duty-4452-sewing-machine",
-    "title": "Singer Heavy Duty 4452 Sewing Machine",
-    "brand": "Singer",
-    "url": "/products/singer-heavy-duty-4452-sewing-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/products/singer-heavy-duty-4452-sewing-machine-sewing-serger-embroidery-machines-1966479.jpg?v=1774888330",
-    "price": 249.99,
-    "compareAtPrice": 319.99,
-    "isOnSale": true,
-    "isQuoteRequest": false,
-    "isPromo": false,
-    "isPreOwned": false,
-    "types": [
-      "Sewing"
-    ],
-    "tagline": "32-Stitch Heavy Duty Machine with Bonus Accessories",
-    "highlights": [
-      "1,100 SPM with 60% stronger motor",
-      "32 built-in stitches including 1-step buttonhole",
-      "Automatic needle threader and top drop-in bobbin",
-      "Bonus accessories: Walking foot, non-stick foot, clearance plate, size 16 needles"
-    ],
-    "cardSpecs": {
-      "stitchCount": 32,
-      "embroideryArea": null,
-      "maxSpeed": 1100,
-      "screenSize": null,
-      "includedFeet": 6,
-      "throatSpace": "6.25\"",
-      "threadCount": null
-    },
-    "specs": {
-      "Key Specs": [
-        "32 built-in stitches, 110 applications",
-        "Sews up to 1,100 stitches per minute",
-        "Motor 60% stronger than a standard machine",
-        "6 presser feet included",
-        "25/2/90 Day Limited Warranty"
-      ],
-      "Sewing Features": [
-        "32 built-in stitches, 110 applications",
-        "One-step buttonhole",
-        "Maximum stitch width 6 mm, adjustable stitch length",
-        "3 variable needle positions",
-        "Drop feed for free-motion and button sewing",
-        "Sews up to 1,100 stitches per minute"
-      ],
-      "Threading & Bobbin": [
-        "Built-in needle threader",
-        "Top drop-in bobbin, Class 15 transparent"
-      ],
-      "Workspace & Display": [
-        "Free Arm: Yes",
-        "Workspace Right of Needle: 6.25\" to the right of the needle",
-        "Dimensions: 15.5 x 6.25 x 12 in."
-      ],
-      "Smart Features": [
-        "Adjustable presser foot pressure",
-        "Extra-high presser foot lifter",
-        "Drop feed for free-motion sewing",
-        "Heavy duty metal frame",
-        "Stainless steel bed plate"
-      ],
-      "Included Feet": [
-        "Button Sewing Foot",
-        "Buttonhole Foot",
-        "Even Feed/Walking Foot",
-        "General Purpose Foot",
-        "Non-Stick Foot",
-        "Zipper Foot"
-      ],
-      "Included Accessories": [
-        "Edge/quilting guide",
-        "Heavy duty needles and bobbins",
-        "Spool caps, auxiliary spool pin, spool pin felt",
-        "Screwdriver, seam ripper/lint brush",
-        "Soft dust cover"
-      ],
-      "Warranty": [
-        "25-Year Limited Warranty on Machine Head",
-        "2-Year Limited Warranty on Electrical Components",
-        "90-Day Limited Warranty on Labor and Adjustments",
-        "1-Year Quality Sewing Warranty"
-      ]
-    },
-    "sku": "SIHD4452",
-    "weightLbs": 14.6,
-    "dimensions": "15.5 x 6.25 x 12 in.",
-    "warrantySource": "https://help.singer.com/en-US/singers-warranty-coverage-395288",
-    "ks": {
-      "stitchCount": "32",
-      "maxSpeed": "1,100 SPM",
-      "buttonholes": "1 (one-step)",
-      "needleThreader": "Built-in",
-      "throatSpace": "6.25\"",
-      "includedFeet": "6",
-      "warranty": "25/2/90 Day Limited Warranty"
-    },
-    "ws": {
-      "freeArm": "Yes",
-      "workspace": "6.25\" to the right of the needle",
-      "dimensions": "15.5 x 6.25 x 12 in."
-    },
-    "shippingWeightLbs": 25
   },
   {
     "handle": "singer-heavy-duty-sewing-machine-hd6380",
@@ -33143,6 +32944,9 @@
         "Extra-high presser foot lifter",
         "Attached clean pocket for trimmings"
       ],
+      "Included Feet": [
+        "General Purpose Foot"
+      ],
       "Included Accessories": [
         "General Purpose Foot",
         "Extra knife",
@@ -33156,9 +32960,6 @@
         "2-Year Limited Warranty on Electrical Components",
         "90-Day Limited Warranty on Labor and Adjustments",
         "1-Year Quality Sewing Warranty"
-      ],
-      "Included Feet": [
-        "General Purpose Foot"
       ]
     },
     "weightLbs": 19.8,
@@ -33406,6 +33207,111 @@
       "dimensions": "19 x 8 x 12 in."
     },
     "shippingWeightLbs": 25
+  },
+  {
+    "handle": "singer-heavy-duty-4452-sewing-machine",
+    "title": "SINGER® Heavy Duty 4452 Sewing Machine",
+    "brand": "Singer",
+    "url": "/products/singer-heavy-duty-4452-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/HD-1_4452_Beauty__1166_no_HD_logo_f004630a-086a-4083-a1dd-683d1247a94c.jpg?v=1790025124",
+    "price": 219.99,
+    "compareAtPrice": 319.99,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing"
+    ],
+    "tagline": "32-Stitch Heavy Duty Machine with Bonus Accessories",
+    "highlights": [
+      "1,100 SPM with 60% stronger motor",
+      "32 built-in stitches including 1-step buttonhole",
+      "Automatic needle threader and top drop-in bobbin",
+      "Bonus accessories: Walking foot, non-stick foot, clearance plate, size 16 needles"
+    ],
+    "cardSpecs": {
+      "stitchCount": 32,
+      "embroideryArea": null,
+      "maxSpeed": 1100,
+      "screenSize": null,
+      "includedFeet": 6,
+      "throatSpace": "6.25\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "32 built-in stitches, 110 applications",
+        "Sews up to 1,100 stitches per minute",
+        "Motor 60% stronger than a standard machine",
+        "6 presser feet included",
+        "25/2/90 Day Limited Warranty"
+      ],
+      "Sewing Features": [
+        "32 built-in stitches, 110 applications",
+        "One-step buttonhole",
+        "Maximum stitch width 6 mm, adjustable stitch length",
+        "3 variable needle positions",
+        "Drop feed for free-motion and button sewing",
+        "Sews up to 1,100 stitches per minute"
+      ],
+      "Threading & Bobbin": [
+        "Built-in needle threader",
+        "Top drop-in bobbin, Class 15 transparent"
+      ],
+      "Workspace & Display": [
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 6.25\" to the right of the needle",
+        "Dimensions: 15.5 x 6.25 x 12 in."
+      ],
+      "Smart Features": [
+        "Adjustable presser foot pressure",
+        "Extra-high presser foot lifter",
+        "Drop feed for free-motion sewing",
+        "Heavy duty metal frame",
+        "Stainless steel bed plate"
+      ],
+      "Included Feet": [
+        "Button Sewing Foot",
+        "Buttonhole Foot",
+        "Even Feed/Walking Foot",
+        "General Purpose Foot",
+        "Non-Stick Foot",
+        "Zipper Foot"
+      ],
+      "Included Accessories": [
+        "Edge/quilting guide",
+        "Heavy duty needles and bobbins",
+        "Spool caps, auxiliary spool pin, spool pin felt",
+        "Screwdriver, seam ripper/lint brush",
+        "Soft dust cover"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Machine Head",
+        "2-Year Limited Warranty on Electrical Components",
+        "90-Day Limited Warranty on Labor and Adjustments",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "sku": "SIHD4452",
+    "weightLbs": 14.6,
+    "dimensions": "15.5 x 6.25 x 12 in.",
+    "warrantySource": "https://help.singer.com/en-US/singers-warranty-coverage-395288",
+    "ks": {
+      "stitchCount": "32",
+      "maxSpeed": "1,100 SPM",
+      "buttonholes": "1 (one-step)",
+      "needleThreader": "Built-in",
+      "throatSpace": "6.25\"",
+      "includedFeet": "6",
+      "warranty": "25/2/90 Day Limited Warranty"
+    },
+    "ws": {
+      "freeArm": "Yes",
+      "workspace": "6.25\" to the right of the needle",
+      "dimensions": "15.5 x 6.25 x 12 in."
+    },
+    "shippingWeightLbs": 19
   },
   {
     "handle": "viking-designer-epic-2",
