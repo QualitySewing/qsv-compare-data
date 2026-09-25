@@ -14971,6 +14971,95 @@
     "shippingWeightLbs": 0
   },
   {
+    "handle": "brother-1034d",
+    "title": "Brother 1034D Serger",
+    "brand": "Brother",
+    "url": "/products/brother-1034d",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/1034D_webimage.webp?v=1762441413",
+    "price": 284.99,
+    "compareAtPrice": 579.99,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger",
+      "Embroidery",
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": null,
+      "maxSpeed": 1300,
+      "screenSize": null,
+      "includedFeet": 3,
+      "throatSpace": null,
+      "threadCount": "4/3 Thread"
+    },
+    "specs": {
+      "Key Specs": [
+        "3/4 thread overlock serger with differential feed",
+        "Maximum sewing speed: 1,300 stitches per minute",
+        "Adjustable stitch width: 3.0 mm to 7.0 mm",
+        "Stitch length: 2 mm to 4 mm",
+        "Built-in rolled hem",
+        "3 accessory feet included",
+        "25/2/1 Year Limited Warranty"
+      ],
+      "Threading": [
+        "Color-coded, easy lay-in tension threading with no eyelets",
+        "Self-threading lower looper behind a single door",
+        "2-point thread tension control, adjustable per needle",
+        "Two needles, uses standard sewing machine needles",
+        "Needle system: SCHMETZ 130/705H"
+      ],
+      "Workspace & Display": [
+        "Free Arm: Yes",
+        "Dimensions: 11.73 x 10.98 x 13.19 in."
+      ],
+      "Included Accessories": [
+        "4 large spools of serger thread",
+        "Accessory bag with needle set (two #80 and two #90), 4 thread nets and 4 spool caps",
+        "Tweezers, cleaning brush and hexagonal driver",
+        "Trim trap, which also stores the foot controller",
+        "Soft dust cover",
+        "Foot controller",
+        "Printed instruction manual"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Chassis Casting",
+        "2-Year Limited Warranty on Electronic Components and Circuit Boards (replacement labor excluded)",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Included Feet": [
+        "Blindstitch foot",
+        "Gathering foot",
+        "Standard foot"
+      ],
+      "Smart Features": [
+        "Brightly lit work area",
+        "Retractable knife blade guards against accidental fabric cuts",
+        "Overlock seam width: 5.0 mm to 7.0 mm"
+      ]
+    },
+    "weightLbs": 13.4,
+    "shippingWeightLbs": 18,
+    "dimensions": "11.73 x 10.98 x 13.19 in.",
+    "warrantySource": "Machine Manufacturer Warranties/Brother-Limited-Warranty.md (Standard XF5055-101; the 1-year parts, labor and accessories tier is covered by the 1-Year Quality Sewing line)",
+    "ks": {
+      "maxSpeed": "1,300 SPM",
+      "threadCount": "4/3 Thread",
+      "includedFeet": "3",
+      "warranty": "25/2/1 Year Limited Warranty"
+    },
+    "ws": {
+      "freeArm": "Yes",
+      "dimensions": "11.73 x 10.98 x 13.19 in."
+    }
+  },
+  {
     "handle": "brother-air1800-air-thread-serger",
     "title": "Brother AIR1800 Air Threading Serger",
     "brand": "Brother",
@@ -15838,6 +15927,110 @@
       "dimensions": "24.09 x 12.74 x 13.68 in."
     },
     "shippingWeightLbs": 34
+  },
+  {
+    "handle": "brother-cs7000x-computerized-sewing-and-quilting-machine",
+    "title": "Brother CS7000X Computerized Sewing and Quilting Machine",
+    "brand": "Brother",
+    "url": "/products/brother-cs7000x-computerized-sewing-and-quilting-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/13524_CS7000X_WT_FRONT_1128x846-png.jpg?v=1790096937",
+    "price": 279.99,
+    "compareAtPrice": 579.99,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger",
+      "Embroidery",
+      "Quilting"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 70,
+      "embroideryArea": null,
+      "maxSpeed": 750,
+      "screenSize": null,
+      "includedFeet": 10,
+      "throatSpace": null,
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "70 built-in stitches",
+        "Maximum sewing speed: 750 spm",
+        "7 one-step, auto-size buttonhole styles",
+        "Wide table included",
+        "Free-motion quilting capable",
+        "25/2/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "70 built-in stitches",
+        "7 one-step, auto-size buttonhole styles",
+        "Maximum stitch width: 7 mm",
+        "Maximum stitch length: 5 mm",
+        "Drop feed for free-motion quilting",
+        "Free arm for cuffs and sleeves"
+      ],
+      "Threading & Bobbin": [
+        "Automatic needle threader",
+        "Quick-set drop-in top bobbin"
+      ],
+      "Workspace & Display": [
+        "Display: LCD",
+        "Free Arm: Yes",
+        "Dimensions: 12.2 x 6.65 x 16.26 in."
+      ],
+      "Included Feet": [
+        "1/4\" piecing foot",
+        "Blind stitch foot",
+        "Button sewing foot",
+        "Buttonhole foot",
+        "Monogramming foot",
+        "Overcasting foot",
+        "Quilting foot",
+        "Walking foot",
+        "Zigzag foot",
+        "Zipper foot"
+      ],
+      "Included Accessories": [
+        "Wide table",
+        "Quilt guide",
+        "Accessory pouch",
+        "Needle set, ball point needle and twin needle",
+        "3 bobbins",
+        "Spool pin",
+        "Cleaning brush",
+        "Seam ripper",
+        "Eyelet punch",
+        "Screwdriver and L driver",
+        "Hard protective cover",
+        "Operation manual"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Chassis Casting",
+        "2-Year Limited Warranty on Electronic Components and Circuit Boards (replacement labor excluded)",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 10.5,
+    "shippingWeightLbs": 11,
+    "dimensions": "12.2 x 6.65 x 16.26 in.",
+    "warrantySource": "Machine Manufacturer Warranties/Brother-Limited-Warranty.md (Standard XF5055-101; the 1-year parts, labor and accessories tier is covered by the 1-Year Quality Sewing line)",
+    "ks": {
+      "stitchCount": "70",
+      "maxSpeed": "750 SPM",
+      "needleThreader": "Automatic",
+      "display": "LCD",
+      "includedFeet": "10",
+      "warranty": "25/2/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "LCD",
+      "freeArm": "Yes",
+      "dimensions": "12.2 x 6.65 x 16.26 in."
+    }
   },
   {
     "handle": "brother-cv3550-double-sided-cover-stitch-machine",
@@ -19941,6 +20134,255 @@
     "shippingWeightLbs": 13
   },
   {
+    "handle": "brother-se2000-sewing-and-embroidery-machine",
+    "title": "Brother SE2000 Sewing and Embroidery Machine",
+    "brand": "Brother",
+    "url": "/products/brother-se2000-sewing-and-embroidery-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/brother-se2000-sewing-and-embroidery-machine-sewing-serger-embroidery-machines-174068.jpg?v=1762441446",
+    "price": 1499.99,
+    "compareAtPrice": 2899.99,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger",
+      "Embroidery",
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": "130mm x 180mm",
+      "maxSpeed": 850,
+      "screenSize": null,
+      "includedFeet": 8,
+      "throatSpace": "7.4\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "241 built-in sewing stitches",
+        "193 built-in embroidery designs",
+        "Maximum embroidery area: 5 x 7 in.",
+        "Maximum sewing speed: 850 spm, embroidery speed: 650 spm",
+        "8 presser feet included",
+        "Wireless LAN with Artspira app compatibility",
+        "25/2/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "241 built-in sewing stitches",
+        "10 one-step, auto-size buttonhole styles",
+        "5 built-in sewing lettering fonts",
+        "My Custom Stitch for creating and saving your own stitch",
+        "Jump Stitch Trimming trims excess thread jumps automatically",
+        "Maximum sewing speed: 850 stitches per minute",
+        "Adjustable presser foot leveling",
+        "7-point feed dog system",
+        "Knee lifter for hands-free presser foot control"
+      ],
+      "Embroidery Features": [
+        "193 built-in embroidery designs",
+        "Color Sort reorders a multi-color design to reduce thread changes",
+        "On-screen editing: letter editing, zoom, resize, rotate, reposition and combine designs",
+        "Compatible with Brother iBroidery for additional design downloads",
+        "Maximum embroidery area: 5 x 7 in. (130mm x 180mm)",
+        "Adjustable embroidery speed settings, up to 650 stitches per minute",
+        "13 built-in embroidery lettering fonts"
+      ],
+      "Threading & Bobbin": [
+        "Automatic needle threading system",
+        "Automatic thread cutter",
+        "Quick-set drop-in bobbin"
+      ],
+      "Workspace & Display": [
+        "Display: 3.7\" LCD",
+        "Knee Lift / Hands-Free Lift: Knee lift",
+        "Workspace Right of Needle: 7.4\" to the right of the needle",
+        "Dimensions: 9.49 x 17.56 x 11.81 in."
+      ],
+      "Smart Features": [
+        "Wireless LAN with software update notifications",
+        "Design Database Transfer sends embroidery files from a PC wirelessly",
+        "Artspira app draws original patterns on a mobile device, with a Stitch Simulator preview",
+        "Start/Stop button for sewing without the foot controller",
+        "Compatible with PE-Design 11 for creating and sending designs (software sold separately)"
+      ],
+      "Included Feet": [
+        "Blind stitch foot \"R\"",
+        "Button fitting foot \"M\"",
+        "Buttonhole foot \"A\"",
+        "Embroidery foot \"Q\"",
+        "Monogramming foot \"N\"",
+        "Overcasting foot \"G\"",
+        "Zigzag foot \"J\"",
+        "Zipper foot \"I\""
+      ],
+      "Included Hoops": [
+        "5 x 7 in. embroidery frame set"
+      ],
+      "Included Accessories": [
+        "Needle set and twin needle",
+        "4 bobbins (one on machine)",
+        "Standard bobbin case and alternate bobbin case",
+        "Foot controller",
+        "Knee lifter",
+        "Embroidery bobbin thread (60 weight, white)",
+        "Seam ripper and scissors",
+        "Cleaning brush and eyelet punch",
+        "Large, small and disc-shaped screwdrivers",
+        "Bobbin center pin and instruction sheet",
+        "Horizontal spool pin",
+        "Large, medium (2) and small spool caps",
+        "Thread spool insert and spool net",
+        "Accessory bag",
+        "Grid sheet set",
+        "Operation manual, quick reference guide and embroidery design guide"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Chassis Casting",
+        "2-Year Limited Warranty on Electronic Components and Circuit Boards (replacement labor excluded)",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 20.5,
+    "shippingWeightLbs": 40,
+    "dimensions": "9.49 x 17.56 x 11.81 in.",
+    "warrantySource": "Machine Manufacturer Warranties/Brother-Limited-Warranty.md (Standard XF5055-101; the 1-year parts, labor and accessories tier is covered by the 1-Year Quality Sewing line)",
+    "ks": {
+      "maxSpeed": "850 SPM",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "193",
+      "embroideryArea": "130mm x 180mm",
+      "display": "3.7\" LCD",
+      "throatSpace": "7.4\"",
+      "includedFeet": "8",
+      "warranty": "25/2/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "3.7\" LCD",
+      "kneeLift": "Knee lift",
+      "workspace": "7.4\" to the right of the needle",
+      "dimensions": "9.49 x 17.56 x 11.81 in."
+    }
+  },
+  {
+    "handle": "brother-se700-sewing-and-embroidery-machine",
+    "title": "Brother SE700 Sewing and Embroidery Machine",
+    "brand": "Brother",
+    "url": "/products/brother-se700-sewing-and-embroidery-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/18486_20_SE700_emb_front_w-png.jpg?v=1790096933",
+    "price": 579.99,
+    "compareAtPrice": 1159.99,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger",
+      "Embroidery",
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 103,
+      "embroideryArea": null,
+      "maxSpeed": 710,
+      "screenSize": null,
+      "includedFeet": 8,
+      "throatSpace": null,
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "103 built-in sewing stitches",
+        "135 built-in embroidery designs",
+        "Maximum embroidery area: 4 x 4 in.",
+        "Maximum sewing speed: 710 spm",
+        "8 presser feet included",
+        "25/2/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "103 built-in stitches",
+        "10 one-step buttonhole styles",
+        "Drop feed for free-motion sewing and button attachment",
+        "Maximum sewing speed: 710 spm"
+      ],
+      "Embroidery Features": [
+        "135 built-in embroidery designs",
+        "Artspira app compatible for additional designs",
+        "Maximum embroidery area: 4 x 4 in.",
+        "10 embroidery lettering fonts"
+      ],
+      "Threading & Bobbin": [
+        "Automatic needle threader",
+        "Quick-set drop-in top bobbin",
+        "Automatic thread cutter"
+      ],
+      "Workspace & Display": [
+        "Display: 1.8\" Touchscreen",
+        "Dimensions: 7.76 x 16.50 x 12.09 in."
+      ],
+      "Smart Features": [
+        "Wireless LAN for wireless design transfer",
+        "Artspira app connectivity",
+        "6.4 x 4.0 in. work area"
+      ],
+      "Included Feet": [
+        "Blind stitch foot \"R\"",
+        "Button fitting foot \"M\"",
+        "Buttonhole foot \"A\"",
+        "Embroidery foot \"Q\"",
+        "Monogramming foot \"N\"",
+        "Overcasting foot \"G\"",
+        "Zigzag foot \"J\"",
+        "Zipper foot \"I\""
+      ],
+      "Included Hoops": [
+        "4 x 4 in. embroidery hoop"
+      ],
+      "Included Accessories": [
+        "Needle set and twin needle",
+        "2 bobbins and 3 pre-wound bobbins",
+        "Bobbin clips and bobbin case",
+        "Seam ripper and scissors",
+        "Cleaning brush and eyelet punch",
+        "Screwdrivers",
+        "Spool pins and spool caps",
+        "Foot controller",
+        "Dust cover",
+        "Operation manual and accessories guide"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Chassis Casting",
+        "2-Year Limited Warranty on Electronic Components and Circuit Boards (replacement labor excluded)",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 15.1,
+    "shippingWeightLbs": 15,
+    "dimensions": "7.76 x 16.50 x 12.09 in.",
+    "warrantySource": "Machine Manufacturer Warranties/Brother-Limited-Warranty.md (Standard XF5055-101; the 1-year parts, labor and accessories tier is covered by the 1-Year Quality Sewing line)",
+    "ks": {
+      "stitchCount": "103",
+      "maxSpeed": "710 SPM",
+      "buttonholes": "10",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "135",
+      "display": "1.8\" Touchscreen",
+      "includedFeet": "8",
+      "warranty": "25/2/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "1.8\" Touchscreen",
+      "dimensions": "7.76 x 16.50 x 12.09 in."
+    }
+  },
+  {
     "handle": "brother-skitch-pp1-single-needle-embroidery-machine",
     "title": "Brother Skitch PP1 Single Needle Embroidery Machine",
     "brand": "Brother",
@@ -20437,6 +20879,106 @@
       "dimensions": "24.094 x 12.638 x 13.701 in."
     },
     "shippingWeightLbs": 44
+  },
+  {
+    "handle": "brother-xr9550-computerized-sewing-and-quilting-machine",
+    "title": "Brother XR9550 Computerized Sewing and Quilting Machine",
+    "brand": "Brother",
+    "url": "/products/brother-xr9550-computerized-sewing-and-quilting-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/13092109336352.jpg?v=1790101680",
+    "price": 239.99,
+    "compareAtPrice": 559.99,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger",
+      "Embroidery",
+      "Quilting"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 165,
+      "embroideryArea": null,
+      "maxSpeed": null,
+      "screenSize": null,
+      "includedFeet": 8,
+      "throatSpace": null,
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "165 built-in stitches",
+        "55 alphanumeric stitches",
+        "8 one-step, auto-size buttonhole styles",
+        "8 sewing feet included",
+        "Wide table included",
+        "25/2/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "165 built-in stitches, including 55 alphanumeric stitches",
+        "8 one-step, auto-size buttonhole styles",
+        "1 built-in lettering font",
+        "Upper thread sensor"
+      ],
+      "Threading & Bobbin": [
+        "Advanced easy needle threading system",
+        "Jam-resistant quick-set drop-in top bobbin"
+      ],
+      "Workspace & Display": [
+        "Display: LCD",
+        "Dimensions: 16.26 x 7.01 x 12.48 in."
+      ],
+      "Included Feet": [
+        "Blind hem stitch / multi-purpose guide foot",
+        "Button sewing foot",
+        "Buttonhole foot",
+        "Monogramming foot",
+        "Overcasting foot",
+        "Spring action quilting foot",
+        "Zigzag foot",
+        "Zipper foot"
+      ],
+      "Included Accessories": [
+        "Wide table",
+        "Hard case",
+        "Accessory pouch",
+        "4 bobbins",
+        "Seam ripper",
+        "Needle set, ball point needle and twin needle",
+        "Cleaning brush",
+        "Eyelet punch",
+        "Screwdriver",
+        "3 spool caps and extra spool pin",
+        "Power cord",
+        "Operation manual"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Chassis Casting",
+        "2-Year Limited Warranty on Electronic Components and Circuit Boards (replacement labor excluded)",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "LED-lit work area"
+      ]
+    },
+    "weightLbs": 10.1,
+    "shippingWeightLbs": 10,
+    "dimensions": "16.26 x 7.01 x 12.48 in.",
+    "warrantySource": "Machine Manufacturer Warranties/Brother-Limited-Warranty.md (Standard XF5055-101; the 1-year parts, labor and accessories tier is covered by the 1-Year Quality Sewing line)",
+    "ks": {
+      "stitchCount": "165",
+      "needleThreader": "Automatic",
+      "display": "LCD",
+      "includedFeet": "8",
+      "warranty": "25/2/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "LCD",
+      "dimensions": "16.26 x 7.01 x 12.48 in."
+    }
   },
   {
     "handle": "luminaire-innov-is-xp1-pre-owned",
