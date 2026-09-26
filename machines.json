@@ -14994,7 +14994,7 @@
       "embroideryArea": null,
       "maxSpeed": 1300,
       "screenSize": null,
-      "includedFeet": 3,
+      "includedFeet": null,
       "throatSpace": null,
       "threadCount": "4/3 Thread"
     },
@@ -15005,7 +15005,6 @@
         "Adjustable stitch width: 3.0 mm to 7.0 mm",
         "Stitch length: 2 mm to 4 mm",
         "Built-in rolled hem",
-        "3 accessory feet included",
         "25/2/1 Year Limited Warranty"
       ],
       "Threading": [
@@ -15033,11 +15032,6 @@
         "2-Year Limited Warranty on Electronic Components and Circuit Boards (replacement labor excluded)",
         "1-Year Quality Sewing Warranty"
       ],
-      "Included Feet": [
-        "Blindstitch foot",
-        "Gathering foot",
-        "Standard foot"
-      ],
       "Smart Features": [
         "Brightly lit work area",
         "Retractable knife blade guards against accidental fabric cuts",
@@ -15051,7 +15045,6 @@
     "ks": {
       "maxSpeed": "1,300 SPM",
       "threadCount": "4/3 Thread",
-      "includedFeet": "3",
       "warranty": "25/2/1 Year Limited Warranty"
     },
     "ws": {
@@ -15081,7 +15074,7 @@
       "embroideryArea": null,
       "maxSpeed": 1300,
       "screenSize": null,
-      "includedFeet": 2,
+      "includedFeet": 1,
       "throatSpace": "3.1\"",
       "threadCount": "4 Thread"
     },
@@ -15117,7 +15110,6 @@
       ],
       "Included Accessories": [
         "Standard foot (fitted to the machine)",
-        "Blind stitch foot (SA214)",
         "Needle set, 130/705H: two #80 and two #90",
         "4 thread spool caps",
         "4 thread nets",
@@ -15146,7 +15138,7 @@
       "threadingSystem": "Jet-Air Looper Threading",
       "throatSpace": "3.1\"",
       "threadCount": "4 Thread",
-      "includedFeet": "2",
+      "includedFeet": "1",
       "warranty": "25/5/1 Year Limited Warranty"
     },
     "ws": {
