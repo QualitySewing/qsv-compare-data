@@ -1510,6 +1510,7 @@
     "isPromo": false,
     "isPreOwned": false,
     "types": [
+      "Sewing",
       "Embroidery"
     ],
     "tagline": "Baby Lock Aurora Sewing & Embroidery Machine",
@@ -1590,7 +1591,6 @@
     "dimensions": "16.5 x 12.1 x 7.64 in. (W x H x D)",
     "warrantySource": "Machine Manufacturer Warranties/Baby Lock Machine Warranty.pdf (babylock.com Machine Warranties table)",
     "ks": {
-      "stitchCount": "Dedicated embroidery",
       "maxSpeed": "850 SPM",
       "buttonholes": "10",
       "needleThreader": "Automatic",
@@ -6258,6 +6258,7 @@
     "isPromo": false,
     "isPreOwned": false,
     "types": [
+      "Multi-Needle",
       "Embroidery"
     ],
     "tagline": "10 needles",
@@ -14976,7 +14977,7 @@
     "brand": "Brother",
     "url": "/products/brother-1034d",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/1034D_webimage.webp?v=1762441413",
-    "price": 284.99,
+    "price": 319.99,
     "compareAtPrice": 579.99,
     "isOnSale": true,
     "isQuoteRequest": false,
@@ -16131,7 +16132,7 @@
     "isPromo": false,
     "isPreOwned": false,
     "types": [
-      "Multi-Needle"
+      "Embroidery"
     ],
     "tagline": "The Entrepreneur One PR1X is built with makers like you in mind! It’s a machine that you can do a lot with. It’s a single-needle free-arm embroidery machine that’s incredibly versatile.",
     "highlights": [
@@ -19424,6 +19425,7 @@
     "isPromo": false,
     "isPreOwned": false,
     "types": [
+      "Multi-Needle",
       "Embroidery"
     ],
     "tagline": "Commercial-grade embroidery in a compact, high-tech package.",
