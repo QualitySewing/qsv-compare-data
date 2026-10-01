@@ -3386,6 +3386,81 @@
     ]
   },
   {
+    "handle": "sebo-balance-a1-cordless-stick-vacuum",
+    "title": "SEBO Balance A1 Cordless Stick Vacuum",
+    "brand": "SEBO",
+    "url": "/products/sebo-balance-a1-cordless-stick-vacuum",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/BALANCE_20A1_20Gray_20-_20Slide_201_20-_201600.jpg?v=1790797507",
+    "price": 549.0,
+    "compareAtPrice": null,
+    "isOnSale": false,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Cordless Stick"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "bagType": "Bagless",
+      "cleaningPath": null,
+      "cordType": "Cordless (48 min)",
+      "filtration": null,
+      "petFriendly": null,
+      "suctionPower": null,
+      "vacuumType": "Cordless Stick",
+      "weightLbs": 5
+    },
+    "specs": {
+      "Color": [
+        "Gray, Blue"
+      ],
+      "Features": [
+        "Digital brushless motor, 100,000+ rpm",
+        "3 adjustable power levels",
+        "Trigger on/off switch",
+        "Digital LED display with battery percentage",
+        "Soft-start feature",
+        "Automatic shut-off on clogs or jams",
+        "Low-profile LED swivel-head power brush with LED headlamp and shock protection",
+        "Self-cleaning anti-hair-wrap technology"
+      ],
+      "Bags & Filtration": [
+        "Bagless, four-stage filtration",
+        "Main cyclone (stage 1)",
+        "Six downstream mini-cyclones (stage 2)",
+        "Motor protection filter (stage 3)",
+        "Micro-hygiene filter (stage 4)"
+      ],
+      "Included Accessories": [
+        "LED power brush",
+        "Mini power brush",
+        "LED crevice nozzle",
+        "Dusting/upholstery nozzle",
+        "Dusting brush",
+        "Extension hose",
+        "MicroCare hard floor roller",
+        "MultiCare universal roller",
+        "Station with stand, base and wall mount (two attachment clips)"
+      ],
+      "Specifications": [
+        "Weight: 5 lbs",
+        "Battery: Lithium-ion",
+        "Runtime: 48 minutes (Level 1) to 20 minutes (Level 3)",
+        "Sound Level: 69-70 dB at Level 1"
+      ],
+      "Warranty": [
+        "2 years parts",
+        "2 years labor",
+        "1 year battery",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 5,
+    "filterType": "Cordless Stick"
+  },
+  {
     "handle": "sebo-dart-upright-vacuum",
     "title": "SEBO Dart Upright Vacuum",
     "brand": "Sebo",
