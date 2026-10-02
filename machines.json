@@ -32829,6 +32829,231 @@
     "shippingWeightLbs": 14
   },
   {
+    "handle": "singer-brilliance-6180-sewing-machine",
+    "title": "Singer Brilliance 6180 Sewing Machine",
+    "brand": "Singer",
+    "url": "/products/singer-brilliance-6180-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/84b3d6d7178306859c14e860ef8b600237d95753_c5caafdc-f7fb-426e-907d-e2108eed86d6.jpg?v=1790025123",
+    "price": 169.99,
+    "compareAtPrice": 229.99,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger",
+      "Embroidery",
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 180,
+      "embroideryArea": null,
+      "maxSpeed": 750,
+      "screenSize": null,
+      "includedFeet": 3,
+      "throatSpace": null,
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "180 stitch applications",
+        "6 one-step buttonhole styles",
+        "Maximum sewing speed: 750 SPM",
+        "Built-in needle threader",
+        "3 presser feet included",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "180 stitch applications, 80 built-in stitches",
+        "6 one-step buttonhole styles: 2 bartack, 2 round end, 2 keyhole",
+        "13 needle positions",
+        "Adjustable stitch length and width",
+        "Reverse (touch button)",
+        "Maximum sewing speed: 750 SPM",
+        "Darning plate for free-motion sewing",
+        "Heavy duty metal frame",
+        "Free arm",
+        "Snap-on presser feet",
+        "Extra-high presser foot lifter"
+      ],
+      "Threading & Bobbin": [
+        "Built-in needle threader",
+        "Front-loading bobbin",
+        "Class 15 metal bobbins"
+      ],
+      "Workspace & Display": [
+        "Display: LCD",
+        "Free Arm: Yes",
+        "Dimensions: 16 x 8.5 x 12.5 in."
+      ],
+      "Smart Features": [
+        "Touch-button stitch selection with preselected stitch length and width"
+      ],
+      "Included Feet": [
+        "All Purpose Foot",
+        "Buttonhole Foot",
+        "Zipper Foot"
+      ],
+      "Included Accessories": [
+        "Pack of needles",
+        "Bobbins (Class 15 metal)",
+        "Thread spool cap",
+        "Auxiliary spool pin",
+        "Spool pin felt",
+        "Darning plate",
+        "Screwdriver",
+        "Seam ripper/lint brush",
+        "Soft dust cover"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Machine Head",
+        "5-Year Limited Warranty on Electronic and Electrical Components",
+        "1-Year Limited Warranty on Mechanical Parts and Adjustments",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 13.8,
+    "shippingWeightLbs": 22,
+    "dimensions": "16 x 8.5 x 12.5 in.",
+    "warrantySource": "https://help.singer.com/en-US/singers-warranty-coverage-395288",
+    "ks": {
+      "stitchCount": "180",
+      "maxSpeed": "750 SPM",
+      "buttonholes": "6",
+      "needleThreader": "Built-in",
+      "display": "LCD",
+      "includedFeet": "3",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "LCD",
+      "freeArm": "Yes",
+      "dimensions": "16 x 8.5 x 12.5 in."
+    }
+  },
+  {
+    "handle": "singer-c7290q-sewing-quilting-machine-with-extension-table",
+    "title": "Singer C7290Q Sewing & Quilting Machine with Extension Table",
+    "brand": "Singer",
+    "url": "/products/singer-c7290q-sewing-quilting-machine-with-extension-table",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/ebdcb9640c372cb26ade9973aa12a5216d835378_eedbdec3-10ac-4783-b016-07d548530c2f.jpg?v=1790025121",
+    "price": 419.99,
+    "compareAtPrice": 529.99,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger",
+      "Embroidery",
+      "Quilting"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 417,
+      "embroideryArea": null,
+      "maxSpeed": null,
+      "screenSize": null,
+      "includedFeet": 12,
+      "throatSpace": "6.4\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "417 stitch applications",
+        "8 one-step buttonhole styles",
+        "Built-in thread cutter",
+        "6.4 inch sewing space",
+        "12 presser feet included",
+        "Extension table included",
+        "25/2/90 Day Limited Warranty"
+      ],
+      "Sewing Features": [
+        "417 stitch applications",
+        "Built-in lettering, 1 font",
+        "8 one-step buttonhole styles",
+        "Drop feed",
+        "Free arm",
+        "Heavy duty metal frame"
+      ],
+      "Threading & Bobbin": [
+        "Built-in needle threader",
+        "Built-in thread cutter",
+        "Top drop-in bobbin with transparent cover",
+        "Class 15 bobbins"
+      ],
+      "Workspace & Display": [
+        "Display: LCD",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 6.4\" to the right of the needle",
+        "Lighting: LED lighting",
+        "Dimensions: 18.5 x 7.9 x 11 in."
+      ],
+      "Smart Features": [
+        "Touch-button stitch selection",
+        "Start/stop button (sew without the foot control)",
+        "Needle up/down button",
+        "Extension table included"
+      ],
+      "Included Feet": [
+        "1/4 Inch Piecing Foot",
+        "All Purpose Foot",
+        "Blind Hem Foot",
+        "Button Sewing Foot",
+        "Buttonhole Foot",
+        "Cording Foot",
+        "Even Feed / Walking Foot",
+        "Free-Motion / Darning Foot",
+        "Open Toe Foot",
+        "Parallel Sewing Foot",
+        "Satin Stitch Foot",
+        "Zipper Foot"
+      ],
+      "Included Accessories": [
+        "Extension table",
+        "Pack of needles",
+        "4 bobbins (Class 15)",
+        "Felt pad",
+        "Spool caps (2 sizes)",
+        "Auxiliary spool pin",
+        "L-screwdriver",
+        "Brush / seam ripper",
+        "Edge/quilting guide",
+        "Removable accessory tray"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Machine Head",
+        "2-Year Limited Warranty on Electrical Components",
+        "90-Day Limited Warranty on Labor and Adjustments",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 14,
+    "shippingWeightLbs": 19,
+    "dimensions": "18.5 x 7.9 x 11 in.",
+    "warrantySource": "https://help.singer.com/en-US/singers-warranty-coverage-395288",
+    "ks": {
+      "stitchCount": "417",
+      "buttonholes": "8",
+      "needleThreader": "Built-in",
+      "threadCutter": "Manual",
+      "display": "LCD",
+      "throatSpace": "6.4\"",
+      "includedFeet": "12",
+      "warranty": "25/2/90 Day Limited Warranty"
+    },
+    "ws": {
+      "display": "LCD",
+      "freeArm": "Yes",
+      "workspace": "6.4\" to the right of the needle",
+      "lighting": "LED lighting",
+      "dimensions": "18.5 x 7.9 x 11 in."
+    }
+  },
+  {
     "handle": "singer-hd500-classic-black-sewing-machine",
     "title": "Singer HD500 Classic Black Heavy Duty Sewing Machine",
     "brand": "Singer",
@@ -33122,6 +33347,127 @@
       "dimensions": "15.5 x 6.25 x 12 in."
     },
     "shippingWeightLbs": 19
+  },
+  {
+    "handle": "singer-heavy-duty-6700c-computerized-sewing-machine",
+    "title": "Singer Heavy Duty 6700C Computerized Sewing Machine",
+    "brand": "Singer",
+    "url": "/products/singer-heavy-duty-6700c-computerized-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/HD-Heavy_Duty_6700C_Beauty__674_2e124f18-0258-428d-bc0b-11ea6d8a2cde.jpg?v=1790025134",
+    "price": 329.99,
+    "compareAtPrice": 419.99,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger",
+      "Embroidery",
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 411,
+      "embroideryArea": null,
+      "maxSpeed": 1100,
+      "screenSize": null,
+      "includedFeet": 10,
+      "throatSpace": "6.4\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "411 stitch applications",
+        "7 one-step buttonhole styles",
+        "Maximum sewing speed: 1,100 SPM",
+        "6.4 inch sewing space",
+        "10 presser feet included",
+        "1 built-in lettering font",
+        "25/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "411 stitch applications",
+        "Built-in lettering, 1 font (7 mm letters)",
+        "7 one-step buttonhole styles",
+        "Adjustable stitch length and width",
+        "Adjustable presser foot pressure",
+        "Drop feed",
+        "Speed control",
+        "Maximum sewing speed: 1,100 SPM",
+        "Free arm",
+        "Heavy duty metal frame",
+        "Stainless steel bed plate"
+      ],
+      "Threading & Bobbin": [
+        "Built-in needle threader",
+        "Top drop-in bobbin with transparent cover",
+        "SINGER Class 15 transparent bobbins"
+      ],
+      "Workspace & Display": [
+        "Display: LCD",
+        "Speed Control: Speed control",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 6.4\" to the right of the needle",
+        "Lighting: LED lighting",
+        "Dimensions: 17.3 x 7.5 x 10.9 in."
+      ],
+      "Smart Features": [
+        "Touch-button stitch selection",
+        "Recommended presser foot shown on the LCD",
+        "Tie-off button, programmable to tie off at the end of a stitch"
+      ],
+      "Included Feet": [
+        "All Purpose Foot",
+        "Blind Hem Foot",
+        "Button Sewing Foot",
+        "Buttonhole Foot",
+        "Cording Foot",
+        "Even Feed / Walking Foot",
+        "Open Toe Foot",
+        "Satin Stitch Foot",
+        "Sew Easy Foot",
+        "Zipper Foot"
+      ],
+      "Included Accessories": [
+        "4 bobbins (SINGER Class 15 transparent)",
+        "Large spool holder",
+        "Small spool holder",
+        "Spool pin felt",
+        "Auxiliary spool pin",
+        "L-screwdriver",
+        "Brush / seam ripper",
+        "Soft cover",
+        "Pack of needles"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Machine Head",
+        "1-Year Limited Warranty on Parts and Labor",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "shippingWeightLbs": 17,
+    "dimensions": "17.3 x 7.5 x 10.9 in.",
+    "warrantySource": "https://help.singer.com/en-US/singers-warranty-coverage-395288",
+    "ks": {
+      "stitchCount": "411",
+      "maxSpeed": "1,100 SPM",
+      "buttonholes": "7",
+      "needleThreader": "Built-in",
+      "display": "LCD",
+      "throatSpace": "6.4\"",
+      "includedFeet": "10",
+      "warranty": "25/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "LCD",
+      "speedControl": "Speed control",
+      "freeArm": "Yes",
+      "workspace": "6.4\" to the right of the needle",
+      "lighting": "LED lighting",
+      "dimensions": "17.3 x 7.5 x 10.9 in."
+    }
   },
   {
     "handle": "singer-heavy-duty-sewing-machine-hd6380",
@@ -34030,6 +34376,101 @@
       "dimensions": "19 x 8 x 12 in."
     },
     "shippingWeightLbs": 25
+  },
+  {
+    "handle": "singer-sew-mate-5400-sewing-machine",
+    "title": "Singer Sew Mate 5400 Sewing Machine",
+    "brand": "Singer",
+    "url": "/products/singer-sew-mate-5400-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Singer-SewMate5400-1.jpg?v=1790025133",
+    "price": 179.99,
+    "compareAtPrice": 229.99,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger",
+      "Embroidery",
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 154,
+      "embroideryArea": null,
+      "maxSpeed": null,
+      "screenSize": null,
+      "includedFeet": 3,
+      "throatSpace": null,
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "154 stitch applications",
+        "4 one-step buttonhole styles",
+        "Built-in needle threader",
+        "3 presser feet included",
+        "13 needle positions",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "154 stitch applications, 60 built-in stitches",
+        "4 one-step buttonhole styles: 2 bartack, 2 keyhole",
+        "13 needle positions",
+        "Adjustable stitch length",
+        "Adjustable stitch width (7 mm)",
+        "Drop feed",
+        "Darning plate for free-motion sewing",
+        "Free arm"
+      ],
+      "Threading & Bobbin": [
+        "Built-in needle threader",
+        "Front-loading bobbin",
+        "Class 15 metal bobbins"
+      ],
+      "Workspace & Display": [
+        "Display: LCD",
+        "Free Arm: Yes",
+        "Lighting: LED lighting"
+      ],
+      "Smart Features": [
+        "Push-button stitch selection with preselected stitch length and width"
+      ],
+      "Included Feet": [
+        "All Purpose Foot",
+        "Buttonhole Foot",
+        "Zipper Foot"
+      ],
+      "Included Accessories": [
+        "Darning plate",
+        "Pack of needles",
+        "Bobbins (Class 15 metal)"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Machine Head",
+        "5-Year Limited Warranty on Electronic and Electrical Components",
+        "1-Year Limited Warranty on Mechanical Parts and Adjustments",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "shippingWeightLbs": 18,
+    "dimensions": null,
+    "warrantySource": "https://help.singer.com/en-US/singers-warranty-coverage-395288",
+    "ks": {
+      "stitchCount": "154",
+      "buttonholes": "4",
+      "needleThreader": "Built-in",
+      "display": "LCD",
+      "includedFeet": "3",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "LCD",
+      "freeArm": "Yes",
+      "lighting": "LED lighting"
+    }
   },
   {
     "handle": "singer-simple-3337-sewing-machine",
