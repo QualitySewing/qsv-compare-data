@@ -23646,6 +23646,120 @@
     "shippingWeightLbs": 595
   },
   {
+    "handle": "pink-limited-edition-handi-quilter-amara-20",
+    "title": "Handi Quilter Limited Edition Pink Amara 20 with 12-Foot Frame",
+    "brand": "Handi Quilter",
+    "url": "/products/pink-limited-edition-handi-quilter-amara-20",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/limited-edition-pink-handi-quilter-amara-20-with-12-foot-frame-sewing-serger-embroidery-machines-5007146.png?v=1781627112",
+    "price": 28990.0,
+    "compareAtPrice": null,
+    "isOnSale": false,
+    "isQuoteRequest": true,
+    "isPromo": true,
+    "isPreOwned": false,
+    "types": [
+      "Quilting",
+      "Longarm"
+    ],
+    "tagline": "✨ Back to School with HQ! ✨",
+    "highlights": [
+      "Pro-Stitcher Premium computerized quilting included",
+      "HQ Studio3 12-foot frame included (no smaller size with this edition)",
+      "20\" throat with stitch regulation up to 2,500 stitches per minute",
+      "QuiltMaster LED lighting at the throat, needlebar, and bobbin",
+      "Single unit available. Contact us to reserve it."
+    ],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": null,
+      "maxSpeed": 2500,
+      "screenSize": "7\"",
+      "includedFeet": 2,
+      "throatSpace": "20.5\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "20\" Throat Space",
+        "2,500 Stitches Per Minute",
+        "QuiltMaster Servo-Controlled Stitch Regulation (Precision & Cruise)",
+        "7\" Color Touchscreen",
+        "Pro-Stitcher Premium Included",
+        "10/5/5 Year Limited Warranty"
+      ],
+      "Features": [
+        "Max Stitching Speed: 2,500 stitches per minute",
+        "Stitch Regulation: QuiltMaster Servo-Controlled",
+        "Stitch Range: 4-24 stitches per inch",
+        "Regulation Modes: Precision and Cruise",
+        "Manual Mode: 3 customizable preset speeds",
+        "Built-in Tie-off Stitches",
+        "Stitch Counter"
+      ],
+      "Threading": [
+        "Hook System: High-Speed Rotary",
+        "Bobbin Type: Large-Capacity M-Class",
+        "Thread Tension: Easy-Set Tension",
+        "Thread-Break Sensor and Alarm",
+        "Bobbin-Use Estimator",
+        "Easy Needle Change",
+        "Needle Stop Up/Down Control"
+      ],
+      "Workspace & Display": [
+        "Display: 7\" Touchscreen",
+        "Workspace Right of Needle: 20.5\" to the right of the needle",
+        "Lighting: QuiltMaster LED Package (throat, needle bar, bobbin)"
+      ],
+      "Smart Features": [
+        "Pro-Stitcher Ready (cabling pre-installed)",
+        "Front Power Switch",
+        "Stitch Counter",
+        "Easy Needle Change",
+        "Magnetic Tool Minder Collar",
+        "Handlebars: QuiltMaster Front (independently adjustable, ergonomic micro handles)",
+        "Pinpoint Needle Laser",
+        "Programmable Handlebar Buttons",
+        "On-Screen Hand Wheel"
+      ],
+      "Included Feet": [
+        "Closed-toe hopping foot (installed)",
+        "Open-toe hopping foot"
+      ],
+      "Compatible Frames": [
+        "HQ Studio3 Frame (included; 12-foot, only size for this edition)"
+      ],
+      "Included Accessories": [
+        "Ruler foot",
+        "Open-toe foot",
+        "Pro-Stitcher Premium computerized quilting system",
+        "HQ bobbin winder"
+      ],
+      "Warranty": [
+        "10-Year Limited Warranty on Sewing Head Casting",
+        "5-Year Limited Warranty on Mechanical Parts",
+        "5-Year Limited Warranty on Electronic and Electrical Components",
+        "90-Day Limited Warranty on Parts and Labor",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "warrantySource": "Machine Manufacturer Warranties/Handi Quilter Machine Warranty.pdf",
+    "ks": {
+      "maxSpeed": "2,500 SPM",
+      "display": "7\" Touchscreen",
+      "throatSpace": "20.5\"",
+      "includedFeet": "2",
+      "warranty": "10/5/5 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "7\" Touchscreen",
+      "workspace": "20.5\" to the right of the needle",
+      "lighting": "QuiltMaster LED Package (throat, needle bar, bobbin)"
+    },
+    "shippingWeightLbs": 50
+  },
+  {
     "handle": "moxie-quilting-machine-handi-quilter",
     "title": "Handi Quilter Moxie 15\" Longarm Quilting Machine",
     "brand": "Handi Quilter",
@@ -23980,120 +24094,6 @@
       "lighting": "LED Illuminated Quilting Space"
     },
     "shippingWeightLbs": 70
-  },
-  {
-    "handle": "pink-limited-edition-handi-quilter-amara-20",
-    "title": "Limited Edition Pink Handi Quilter Amara 20 with 12 Foot Frame",
-    "brand": "Handi Quilter",
-    "url": "/products/pink-limited-edition-handi-quilter-amara-20",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/limited-edition-pink-handi-quilter-amara-20-with-12-foot-frame-sewing-serger-embroidery-machines-5007146.png?v=1781627112",
-    "price": 28990.0,
-    "compareAtPrice": null,
-    "isOnSale": false,
-    "isQuoteRequest": false,
-    "isPromo": true,
-    "isPreOwned": false,
-    "types": [
-      "Quilting",
-      "Longarm"
-    ],
-    "tagline": "✨ Back to School with HQ! ✨",
-    "highlights": [
-      "Pro-Stitcher Premium computerized quilting included",
-      "HQ Studio3 12-foot frame included (no smaller size with this edition)",
-      "20\" throat with stitch regulation up to 2,500 stitches per minute",
-      "QuiltMaster LED lighting at the throat, needlebar, and bobbin",
-      "Single unit available. Contact us to reserve it."
-    ],
-    "cardSpecs": {
-      "stitchCount": null,
-      "embroideryArea": null,
-      "maxSpeed": 2500,
-      "screenSize": "7\"",
-      "includedFeet": 2,
-      "throatSpace": "20.5\"",
-      "threadCount": null
-    },
-    "specs": {
-      "Key Specs": [
-        "20\" Throat Space",
-        "2,500 Stitches Per Minute",
-        "QuiltMaster Servo-Controlled Stitch Regulation (Precision & Cruise)",
-        "7\" Color Touchscreen",
-        "Pro-Stitcher Premium Included",
-        "10/5/5 Year Limited Warranty"
-      ],
-      "Features": [
-        "Max Stitching Speed: 2,500 stitches per minute",
-        "Stitch Regulation: QuiltMaster Servo-Controlled",
-        "Stitch Range: 4-24 stitches per inch",
-        "Regulation Modes: Precision and Cruise",
-        "Manual Mode: 3 customizable preset speeds",
-        "Built-in Tie-off Stitches",
-        "Stitch Counter"
-      ],
-      "Threading": [
-        "Hook System: High-Speed Rotary",
-        "Bobbin Type: Large-Capacity M-Class",
-        "Thread Tension: Easy-Set Tension",
-        "Thread-Break Sensor and Alarm",
-        "Bobbin-Use Estimator",
-        "Easy Needle Change",
-        "Needle Stop Up/Down Control"
-      ],
-      "Workspace & Display": [
-        "Display: 7\" Touchscreen",
-        "Workspace Right of Needle: 20.5\" to the right of the needle",
-        "Lighting: QuiltMaster LED Package (throat, needle bar, bobbin)"
-      ],
-      "Smart Features": [
-        "Pro-Stitcher Ready (cabling pre-installed)",
-        "Front Power Switch",
-        "Stitch Counter",
-        "Easy Needle Change",
-        "Magnetic Tool Minder Collar",
-        "Handlebars: QuiltMaster Front (independently adjustable, ergonomic micro handles)",
-        "Pinpoint Needle Laser",
-        "Programmable Handlebar Buttons",
-        "On-Screen Hand Wheel"
-      ],
-      "Included Feet": [
-        "Closed-toe hopping foot (installed)",
-        "Open-toe hopping foot"
-      ],
-      "Compatible Frames": [
-        "HQ Studio3 Frame (included; 12-foot, only size for this edition)"
-      ],
-      "Included Accessories": [
-        "Ruler foot",
-        "Open-toe foot",
-        "Pro-Stitcher Premium computerized quilting system",
-        "HQ bobbin winder"
-      ],
-      "Warranty": [
-        "10-Year Limited Warranty on Sewing Head Casting",
-        "5-Year Limited Warranty on Mechanical Parts",
-        "5-Year Limited Warranty on Electronic and Electrical Components",
-        "90-Day Limited Warranty on Parts and Labor",
-        "1-Year Quality Sewing Warranty"
-      ]
-    },
-    "weightLbs": null,
-    "dimensions": null,
-    "warrantySource": "Machine Manufacturer Warranties/Handi Quilter Machine Warranty.pdf",
-    "ks": {
-      "maxSpeed": "2,500 SPM",
-      "display": "7\" Touchscreen",
-      "throatSpace": "20.5\"",
-      "includedFeet": "2",
-      "warranty": "10/5/5 Year Limited Warranty"
-    },
-    "ws": {
-      "display": "7\" Touchscreen",
-      "workspace": "20.5\" to the right of the needle",
-      "lighting": "QuiltMaster LED Package (throat, needle bar, bobbin)"
-    },
-    "shippingWeightLbs": 50
   },
   {
     "handle": "janome-3160qdc-g-computerized-sewing-quilting-machine",
