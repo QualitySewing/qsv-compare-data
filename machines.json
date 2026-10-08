@@ -38239,5 +38239,40 @@
       "workspace": "9.8\" to the right of the needle",
       "lighting": "3 LED Lights"
     }
+  },
+  {
+    "handle": "singer-heavy-duty-0420-beige-serger",
+    "title": "Singer Heavy Duty 0420 Beige Serger",
+    "brand": "Singer",
+    "url": "/products/singer-heavy-duty-0420-beige-serger",
+    "image": null,
+    "price": null,
+    "compareAtPrice": null,
+    "isOnSale": false,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger",
+      "Embroidery",
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "includedFeet": null
+    },
+    "specs": {
+      "Warranty": [
+        "Manufacturer warranty: please verify current terms with the vendor",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "warranty": "See warranty details"
+    },
+    "ws": {}
   }
 ]
