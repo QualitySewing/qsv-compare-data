@@ -6449,12 +6449,10 @@
         "1,300 SPM",
         "Needle Threader: Easy Color-Coded Threading",
         "Thread Cutter: Retractable Thread Cutter with Lever",
-        "Standard Serger Workspace",
         "Includes 1 Presser Foot",
         "4/3/2 Thread Serging Built-in Stitches",
         "Manual Color-Coded Threading System",
         "Manual Color-Coded Lay-in Threading System",
-        "Standard Serger Footprint",
         "25/10/2/1 Year Limited Warranty"
       ],
       "Threading": [
@@ -6465,10 +6463,6 @@
         "Lighting: 1 LED",
         "Dimensions: 12.6 x 12.6 x 11 in. (W x H x D)"
       ],
-      "Smart Features": [
-        "Feeding System: Differential",
-        "Accessory Storage"
-      ],
       "Included Accessories": [
         "General purpose presser foot (snap-on)",
         "General purpose presser foot"
@@ -6478,6 +6472,9 @@
         "10-Year Limited Warranty on Defective Parts",
         "2-Year Limited Warranty on Electrical Components",
         "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Accessory Storage"
       ]
     },
     "weightLbs": 19.84,
@@ -32627,6 +32624,99 @@
       "freeArm": "Yes",
       "workspace": "6\" to the right of the needle",
       "dimensions": "17.8 x 7.8 x 11.0 in."
+    }
+  },
+  {
+    "handle": "singer-heavy-duty-0460-charcoal-serger",
+    "title": "Singer Heavy Duty 0460 Charcoal Serger",
+    "brand": "Singer",
+    "url": "/products/singer-heavy-duty-0460-charcoal-serger",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Singer-HD0460S-PDP-Front-2026.jpg?v=1791239412",
+    "price": 329.99,
+    "compareAtPrice": 399.99,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger",
+      "Embroidery",
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 13,
+      "embroideryArea": null,
+      "maxSpeed": null,
+      "screenSize": null,
+      "includedFeet": 1,
+      "throatSpace": null,
+      "threadCount": "4/3/2 Thread"
+    },
+    "specs": {
+      "Key Specs": [
+        "13 built-in stitches",
+        "4/3/2-thread stitching",
+        "Heavy duty motor",
+        "Differential feed",
+        "Full metal interior frame",
+        "Lifetime/1 Year Limited Warranty"
+      ],
+      "Threading": [
+        "Easy View Threading with LED-lit looper area",
+        "Color-coded threading paths",
+        "4/3/2-thread stitching",
+        "Stitch functions: trim, overcast, hem, embellish",
+        "Rolled hem capability",
+        "Overlock and flatlock stitches",
+        "Large cutting blade",
+        "Adjustable stitch length",
+        "Adjustable cutting width",
+        "Adjustable presser foot pressure"
+      ],
+      "Workspace & Display": [
+        "Free Arm: Yes",
+        "Lighting: LED lighting"
+      ],
+      "Included Accessories": [
+        "Spool holders",
+        "Tweezers",
+        "2-thread converter",
+        "Screwdriver",
+        "Lint brush",
+        "Serger oil",
+        "Spare lower-cutter knife blade",
+        "Pack of needles",
+        "Waste tray",
+        "Soft dust cover and accessory storage box"
+      ],
+      "Warranty": [
+        "Lifetime Limited Warranty on Metal Frame",
+        "1-Year Limited Warranty on Parts and Adjustments",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Included Feet": [
+        "Standard presser foot"
+      ],
+      "Smart Features": [
+        "Stainless steel bed plate",
+        "Upper cutter can be moved or disengaged",
+        "Waste tray can be attached or removed"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "13",
+      "threadingSystem": "Color-Coded Threading",
+      "threadCount": "4/3/2 Thread",
+      "includedFeet": "1",
+      "warranty": "Lifetime/1 Year Limited Warranty"
+    },
+    "ws": {
+      "freeArm": "Yes",
+      "lighting": "LED lighting"
     }
   },
   {
