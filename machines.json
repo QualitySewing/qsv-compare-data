@@ -14820,11 +14820,11 @@
     "brand": "Brother",
     "url": "/products/brother-air1800-air-thread-serger",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/brother-air1800-air-threading-serger-sewing-serger-embroidery-machines-161782.jpg?v=1762441014",
-    "price": 899.99,
-    "compareAtPrice": null,
-    "isOnSale": false,
+    "price": 879.99,
+    "compareAtPrice": 899.99,
+    "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Serger"
@@ -15676,11 +15676,11 @@
     "brand": "Brother",
     "url": "/products/brother-cs7000x-computerized-sewing-and-quilting-machine",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/13524_CS7000X_WT_FRONT_1128x846-png.jpg?v=1790096937",
-    "price": 279.99,
+    "price": 249.99,
     "compareAtPrice": 579.99,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Sewing",
@@ -28990,9 +28990,9 @@
     "brand": "Juki",
     "url": "/products/juki-tl-2000qi-high-speed-sewing-quilting-machine",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/juki-tl-2000qi-high-speed-sewing-quilting-machine-sewing-serger-embroidery-machines-632026.jpg?v=1762442235",
-    "price": 1799.0,
-    "compareAtPrice": null,
-    "isOnSale": false,
+    "price": 899.0,
+    "compareAtPrice": 1799.0,
+    "isOnSale": true,
     "isQuoteRequest": false,
     "isPromo": false,
     "isPreOwned": false,
@@ -32615,6 +32615,97 @@
       "freeArm": "Yes",
       "workspace": "6\" to the right of the needle",
       "dimensions": "17.8 x 7.8 x 11.0 in."
+    }
+  },
+  {
+    "handle": "singer-heavy-duty-0420-beige-serger",
+    "title": "Singer Heavy Duty 0420 Beige Serger",
+    "brand": "Singer",
+    "url": "/products/singer-heavy-duty-0420-beige-serger",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Singer-HD0420-PDP-Front-2026.jpg?v=1791229222",
+    "price": 269.99,
+    "compareAtPrice": 379.99,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 13,
+      "embroideryArea": null,
+      "maxSpeed": null,
+      "screenSize": null,
+      "includedFeet": 1,
+      "throatSpace": null,
+      "threadCount": "4/3/2 Thread"
+    },
+    "specs": {
+      "Key Specs": [
+        "13 built-in stitches",
+        "Standard presser foot included",
+        "4/3/2-thread stitching",
+        "Heavy duty motor",
+        "Differential feed",
+        "Full metal interior frame",
+        "1 Year Limited Warranty"
+      ],
+      "Threading": [
+        "Color-coded threading paths",
+        "4/3/2-thread stitching",
+        "Stitch functions: trim, overcast, hem, embellish",
+        "Rolled hem capability",
+        "Overlock and flatlock stitches",
+        "Large cutting blade",
+        "Adjustable stitch length (1 to 4 mm)",
+        "Adjustable cutting width",
+        "Adjustable presser foot pressure",
+        "Upper cutter can be moved or disengaged"
+      ],
+      "Workspace & Display": [
+        "Free Arm: Yes",
+        "Lighting: LED lighting",
+        "Dimensions: 12.2 x 11.3 x 10.9 in."
+      ],
+      "Smart Features": [
+        "Stitch safety lock"
+      ],
+      "Included Accessories": [
+        "Standard presser foot",
+        "Cone holders (4)",
+        "Upper looper converter",
+        "Tweezers",
+        "Screwdriver",
+        "Brush",
+        "Sewing machine oil",
+        "Spare stationary cutter knife blade",
+        "Pack of 90/14 needles",
+        "Soft dust cover",
+        "Flat bed extension with accessory storage",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "Lifetime limited warranty (metal frame): free replacement parts and labor, shipping at your cost",
+        "1-year limited warranty (parts and adjustments): parts and labor covered",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 14.8,
+    "dimensions": "12.2 x 11.3 x 10.9 in.",
+    "ks": {
+      "stitchCount": "13",
+      "threadingSystem": "Color-Coded Threading",
+      "threadCount": "4/3/2 Thread",
+      "includedFeet": "1",
+      "warranty": "1 Year Limited Warranty"
+    },
+    "ws": {
+      "freeArm": "Yes",
+      "lighting": "LED lighting",
+      "dimensions": "12.2 x 11.3 x 10.9 in."
     }
   },
   {
