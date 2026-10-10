@@ -34853,9 +34853,9 @@
         "6 built-in stitches",
         "Maximum sewing speed: 1,300 SPM",
         "4/3/2-thread stitching",
-        "Differential feed",
-        "Built-in rolled hem",
+        "Extra-high presser foot lifter",
         "Color-coded threading paths",
+        "Dimensions 14 x 11 x 11.5 in",
         "25/2/90 Day Limited Warranty"
       ],
       "Threading": [
@@ -34865,23 +34865,19 @@
         "2, 3 or 4 thread stitching",
         "Adjustable stitch length",
         "Adjustable stitch width",
-        "Differential feed",
         "Built-in rolled hem",
         "Movable upper knife",
         "Heavy duty metal frame",
         "Extra-high presser foot lifter"
       ],
       "Workspace & Display": [
-        "Speed Control: Speed control",
         "Free Arm: Yes",
         "Lighting: 2 LED lights",
         "Dimensions: 14 x 11 x 11.5 in."
       ],
-      "Smart Features": [
-        "Speed control"
-      ],
       "Included Accessories": [
         "General Purpose Foot",
+        "2-thread converter",
         "Tweezers",
         "Extra needles",
         "Cone adapters",
@@ -34906,7 +34902,6 @@
       "warranty": "25/2/90 Day Limited Warranty"
     },
     "ws": {
-      "speedControl": "Speed control",
       "freeArm": "Yes",
       "lighting": "2 LED lights",
       "dimensions": "14 x 11 x 11.5 in."
