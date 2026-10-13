@@ -2283,7 +2283,6 @@
         "Includes 1 Presser Foot",
         "4/3/2 Thread Serging Built-in Stitches",
         "Threading System: Jet-Air Threading™ (Loopers)",
-        "Standard Serger Footprint",
         "25/5/2 Year Limited Warranty"
       ],
       "Threading": [
@@ -6528,12 +6527,10 @@
         "15 Built-in Stitches",
         "1,500 SPM",
         "Needle Threader: Built-in & Jet-Air Threading™ for Looper Threads",
-        "Standard Serger Workspace",
         "Includes 1 Presser Foot",
         "4/3/2 Thread Serging Built-in Stitches",
         "Threading System: Jet-Air Threading",
         "Automatic Thread Delivery™ (No Tension Dials)",
-        "Standard Serger Footprint",
         "25/10/5/1 Year Limited Warranty"
       ],
       "Threading": [
@@ -6622,12 +6619,10 @@
         "15 Built-in Stitches",
         "1,500 SPM",
         "Needle Threader: Built-in & Jet-Air Threading™ for Looper Threads",
-        "Standard Serger Workspace",
         "Includes 1 Presser Foot",
         "4/3/2 Thread Serging Built-in Stitches",
         "Threading System: Jet-Air Threading",
         "Automatic Thread Delivery™ (No Tension Dials)",
-        "Standard Serger Footprint",
         "25/2 Year Limited Warranty"
       ],
       "Threading": [
@@ -13377,7 +13372,6 @@
         "2, 3, or 4 Thread Capacity",
         "Manual Threading with Color-Coded Paths",
         "Micro Thread Control (mtc) System",
-        "Standard Serger Footprint",
         "5/1/1 Year Limited Warranty"
       ],
       "Threading": [
@@ -14946,7 +14940,6 @@
         "5.1\" x 3.1\" Large Workspace",
         "2, 3, or 4 Thread Capacity",
         "Threading System: One-Touch Jet-Air Threading",
-        "Standard Serger Footprint",
         "25/5/1 Year Limited Warranty"
       ],
       "Threading & Convenience": [
@@ -24259,7 +24252,6 @@
       "Key Specs": [
         "1,300 SPM",
         "Thread Cutter: Manual (Side)",
-        "Standard Compact Serger Workspace",
         "3 or 4 Thread Capacity",
         "Manual Threading System",
         "Compact Serger Flatbed",
@@ -26883,7 +26875,6 @@
       "Key Specs": [
         "1,300 SPM",
         "Needle Threader: Included",
-        "Standard Serger Workspace",
         "2, 3, or 4 Thread Capacity",
         "Manual Color-Coded Lay-in Threading System",
         "Easily Accessible Lower Looper Threading",
@@ -28518,7 +28509,7 @@
         "1,500 SPM",
         "Needle Threader: Built-in",
         "Informational LCD Display",
-        "Standard Serger Workspace (2.85\" Throat Height)",
+        "Workspace height 2.85\"",
         "1 Presser Foot Included",
         "2, 3, or 4 Thread Capacity",
         "One-Touch Easy Air Threading (Loopers)",
@@ -28530,7 +28521,7 @@
       ],
       "Workspace & Display": [
         "Display: LCD",
-        "Workspace Right of Needle: 2.85\" to the right of the needle",
+        "Workspace Right of Needle: 2.85\" W x 2.85\" H",
         "Dimensions: 13 x 12.2 x 11 in. (W x H x D)"
       ],
       "Included Accessories": [
@@ -28565,7 +28556,7 @@
     },
     "ws": {
       "display": "LCD",
-      "workspace": "2.85\" to the right of the needle",
+      "workspace": "2.85\" W x 2.85\" H",
       "dimensions": "13 x 12.2 x 11 in. (W x H x D)"
     }
   },
@@ -28605,7 +28596,7 @@
       "Key Specs": [
         "1,500 SPM",
         "Needle Threader: Included",
-        "Standard Serger Workspace (2.68\" Throat Height)",
+        "Workspace height 2.68\"",
         "1 Presser Foot Included",
         "2, 3, or 4 Thread Capacity",
         "One-Touch Motorized Air Threading (Loopers)",
@@ -28619,7 +28610,7 @@
         "Spare Lower Knife: Included"
       ],
       "Workspace & Display": [
-        "Workspace Right of Needle: 2.68\" to the right of the needle",
+        "Workspace Right of Needle: 2.68\" W x 2.68\" H",
         "Lighting: 2 LED lights",
         "Dimensions: 13.75 x 13.4 x 12.2 in. (W x H x D)"
       ],
@@ -28670,7 +28661,7 @@
       "warranty": "5/2 Year Limited Warranty"
     },
     "ws": {
-      "workspace": "2.68\" to the right of the needle",
+      "workspace": "2.68\" W x 2.68\" H",
       "lighting": "2 LED lights",
       "dimensions": "13.75 x 13.4 x 12.2 in. (W x H x D)"
     }
@@ -29239,7 +29230,6 @@
         "1\" Throat Space",
         "2, 3, or 4 Thread Capacity",
         "One-Touch Air Threading System",
-        "Standard Serger Footprint",
         "Threading System: One-Touch Air Threading (Loopers)",
         "Differential Feed for even seams",
         "5/1 Year Limited Warranty"
@@ -35657,7 +35647,6 @@
         "1\" Throat Space",
         "2, 3, or 4 Thread Capacity",
         "Threading System: One-Touch Air Threading",
-        "Standard Serger Footprint",
         "LED Lighting",
         "One-Touch Air Threading System (Loopers)",
         "Threading System: One-Touch Air Threading (Loopers)",
