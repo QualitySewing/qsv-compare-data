@@ -7614,7 +7614,7 @@
     "title": "bernette 59 Sewing & Embroidery Machine",
     "brand": "Bernette",
     "url": "/products/bernette-59-sewing-embroidery-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/bernette-59-new_4d062c5f-107a-498c-8ce5-bf4986c71b11.jpg?v=1789488719",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/bernette-59_aa7db6bf-daf4-46a4-a555-7cca2d6e95d4.jpg?v=1789488719",
     "price": 1699.0,
     "compareAtPrice": 2249.0,
     "isOnSale": true,
@@ -9882,7 +9882,7 @@
     "title": "Bernina 495 Liberty Edition Sewing Machine",
     "brand": "Bernina",
     "url": "/products/bernina-495-liberty-edition-sewing-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/bernina-495-liberty-new_93c2f687-150c-4942-ac2d-798d3ef300f0.jpg?v=1789488709",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/bernina-495-liberty_713b0862-ae46-4492-bd5a-ebca8641ae79.jpg?v=1789488709",
     "price": 3749.0,
     "compareAtPrice": null,
     "isOnSale": false,
@@ -10299,7 +10299,7 @@
     "title": "BERNINA 580 E Liberty Special Edition Sewing & Embroidery Machine (Pre-Order)",
     "brand": "Bernina",
     "url": "/products/bernina-580-e-liberty-edition-sewing-embroidery-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/bernina-580-liberty-new_038fe2d8-72ae-4c29-9474-1a87aafe6cac.jpg?v=1789488714",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/bernina-580-liberty_c0cfdbb0-b3aa-4d5e-bcf7-028eb2a620b0.jpg?v=1789488713",
     "price": 6999.0,
     "compareAtPrice": null,
     "isOnSale": false,
@@ -12549,7 +12549,7 @@
     "title": "BERNINA 790 Ultra Sewing & Embroidery Machine",
     "brand": "Bernina",
     "url": "/products/bernina-790-ultra-sewing-embroidery-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/bernina-790-ultra-new_96b950ee-b9d5-42bf-9edd-69ea939808da.jpg?v=1789488713",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/bernina-790-ultra_b54ead5b-54c4-4472-b30e-c065055d17f3.jpg?v=1789488713",
     "price": 17999.0,
     "compareAtPrice": null,
     "isOnSale": false,
@@ -13544,7 +13544,7 @@
     "title": "Bernina L 620 Coverstitch Machine",
     "brand": "Bernina",
     "url": "/products/bernina-l-620-coverstitch-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Ursa-BLRSA-BUN-NewCallout_5_-new_9124a57f-0e15-44b1-bd25-deacf6e9d854.jpg?v=1789488720",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/bernina-l-620-coverstitch_e499fc7d-5ae1-426d-a50b-477fbf62f1f3.jpg?v=1789488720",
     "price": 2999.0,
     "compareAtPrice": null,
     "isOnSale": false,
@@ -13638,7 +13638,7 @@
     "title": "BERNINA L 660 Overlocker Serger (Pre-Order Deposit)",
     "brand": "Bernina",
     "url": "/products/bernina-l-660-overlocker",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/bernina-l-660-overlocker-new_ac5493c1-8a4f-4a3e-89d6-bd14bf7032ac.jpg?v=1789488719",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/bernina-l-660-overlocker_76b80e86-0fa1-4a94-a557-4832ed499348.jpg?v=1789488719",
     "price": 500.0,
     "compareAtPrice": 3499.0,
     "isOnSale": true,
@@ -28501,7 +28501,7 @@
       "maxSpeed": 1500,
       "screenSize": null,
       "includedFeet": 1,
-      "throatSpace": null,
+      "throatSpace": "2.85\"",
       "threadCount": "4/3/2 Thread"
     },
     "specs": {
@@ -28521,7 +28521,7 @@
       ],
       "Workspace & Display": [
         "Display: LCD",
-        "Workspace Right of Needle: Workspace height 2.85\"",
+        "Workspace Right of Needle: 2.85\" W x 2.85\" H",
         "Dimensions: 13 x 12.2 x 11 in. (W x H x D)"
       ],
       "Included Accessories": [
@@ -28549,13 +28549,14 @@
       "needleThreader": "Built-in",
       "threadingSystem": "Air Looper Threading",
       "display": "LCD",
+      "throatSpace": "2.85\"",
       "threadCount": "4/3/2 Thread",
       "includedFeet": "1",
       "warranty": "5/2 Year Limited Warranty"
     },
     "ws": {
       "display": "LCD",
-      "workspace": "Workspace height 2.85\"",
+      "workspace": "2.85\" W x 2.85\" H",
       "dimensions": "13 x 12.2 x 11 in. (W x H x D)"
     }
   },
@@ -28588,7 +28589,7 @@
       "maxSpeed": 1500,
       "screenSize": null,
       "includedFeet": 1,
-      "throatSpace": null,
+      "throatSpace": "2.68\"",
       "threadCount": "4 Thread"
     },
     "specs": {
@@ -28609,7 +28610,7 @@
         "Spare Lower Knife: Included"
       ],
       "Workspace & Display": [
-        "Workspace Right of Needle: Workspace height 2.68\"",
+        "Workspace Right of Needle: 2.68\" W x 2.68\" H",
         "Lighting: 2 LED lights",
         "Dimensions: 13.75 x 13.4 x 12.2 in. (W x H x D)"
       ],
@@ -28654,12 +28655,13 @@
       "maxSpeed": "1,500 SPM",
       "needleThreader": "Built-in",
       "threadingSystem": "Air Looper Threading",
+      "throatSpace": "2.68\"",
       "threadCount": "4 Thread",
       "includedFeet": "1",
       "warranty": "5/2 Year Limited Warranty"
     },
     "ws": {
-      "workspace": "Workspace height 2.68\"",
+      "workspace": "2.68\" W x 2.68\" H",
       "lighting": "2 LED lights",
       "dimensions": "13.75 x 13.4 x 12.2 in. (W x H x D)"
     }
