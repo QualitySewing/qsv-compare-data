@@ -28501,7 +28501,7 @@
       "maxSpeed": 1500,
       "screenSize": null,
       "includedFeet": 1,
-      "throatSpace": "2.85\"",
+      "throatSpace": null,
       "threadCount": "4/3/2 Thread"
     },
     "specs": {
@@ -28521,7 +28521,7 @@
       ],
       "Workspace & Display": [
         "Display: LCD",
-        "Workspace Right of Needle: 2.85\" W x 2.85\" H",
+        "Workspace Right of Needle: Workspace height 2.85\"",
         "Dimensions: 13 x 12.2 x 11 in. (W x H x D)"
       ],
       "Included Accessories": [
@@ -28549,14 +28549,13 @@
       "needleThreader": "Built-in",
       "threadingSystem": "Air Looper Threading",
       "display": "LCD",
-      "throatSpace": "2.85\"",
       "threadCount": "4/3/2 Thread",
       "includedFeet": "1",
       "warranty": "5/2 Year Limited Warranty"
     },
     "ws": {
       "display": "LCD",
-      "workspace": "2.85\" W x 2.85\" H",
+      "workspace": "Workspace height 2.85\"",
       "dimensions": "13 x 12.2 x 11 in. (W x H x D)"
     }
   },
@@ -28589,7 +28588,7 @@
       "maxSpeed": 1500,
       "screenSize": null,
       "includedFeet": 1,
-      "throatSpace": "2.68\"",
+      "throatSpace": null,
       "threadCount": "4 Thread"
     },
     "specs": {
@@ -28610,7 +28609,7 @@
         "Spare Lower Knife: Included"
       ],
       "Workspace & Display": [
-        "Workspace Right of Needle: 2.68\" W x 2.68\" H",
+        "Workspace Right of Needle: Workspace height 2.68\"",
         "Lighting: 2 LED lights",
         "Dimensions: 13.75 x 13.4 x 12.2 in. (W x H x D)"
       ],
@@ -28655,13 +28654,12 @@
       "maxSpeed": "1,500 SPM",
       "needleThreader": "Built-in",
       "threadingSystem": "Air Looper Threading",
-      "throatSpace": "2.68\"",
       "threadCount": "4 Thread",
       "includedFeet": "1",
       "warranty": "5/2 Year Limited Warranty"
     },
     "ws": {
-      "workspace": "2.68\" W x 2.68\" H",
+      "workspace": "Workspace height 2.68\"",
       "lighting": "2 LED lights",
       "dimensions": "13.75 x 13.4 x 12.2 in. (W x H x D)"
     }
