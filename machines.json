@@ -33556,7 +33556,6 @@
         "Snap-on presser feet",
         "Maximum sewing speed: 1,100 SPM",
         "High-performance motor",
-        "Slide-out presser foot recommendation chart",
         "Heavy duty metal frame",
         "Stainless steel bed plate"
       ],
@@ -33574,12 +33573,6 @@
         "Workspace Right of Needle: 6.4\" to the right of the needle",
         "Lighting: LED lighting",
         "Dimensions: 17.3 x 7.5 x 10.9 in."
-      ],
-      "Smart Features": [
-        "Touch-button stitch selection",
-        "Needle up/down button",
-        "Reverse button sews in reverse on stitches 1 to 5 and sews 3 tie-off stitches on most other stitches",
-        "Display shows the selected stitch and its settings"
       ],
       "Included Feet": [
         "All Purpose Foot",
@@ -33605,6 +33598,9 @@
         "25-Year Limited Warranty on Machine Head",
         "1-Year Limited Warranty on Parts and Labor",
         "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Display shows the selected stitch and its settings"
       ]
     },
     "weightLbs": 15.4,
@@ -35288,108 +35284,6 @@
       "workspace": "6.1\" to the right of the needle",
       "lighting": "LED lighting",
       "dimensions": "16.4 x 7.4 x 13 in."
-    }
-  },
-  {
-    "handle": "singer-heavy-duty-4452-sewing-machine",
-    "title": "SINGER® Heavy Duty 4452 Sewing Machine",
-    "brand": "Singer",
-    "url": "/products/singer-heavy-duty-4452-sewing-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/HD-1_4452_Beauty__1166_no_HD_logo_f004630a-086a-4083-a1dd-683d1247a94c.jpg?v=1790025124",
-    "price": 219.99,
-    "compareAtPrice": 319.99,
-    "isOnSale": true,
-    "isQuoteRequest": false,
-    "isPromo": false,
-    "isPreOwned": false,
-    "types": [
-      "Sewing"
-    ],
-    "tagline": "32-Stitch Heavy Duty Machine with Bonus Accessories",
-    "highlights": [
-      "1,100 SPM with 60% stronger motor",
-      "32 built-in stitches including 1-step buttonhole",
-      "Automatic needle threader and top drop-in bobbin",
-      "Bonus accessories: Walking foot, non-stick foot, clearance plate, size 16 needles"
-    ],
-    "cardSpecs": {
-      "stitchCount": 32,
-      "embroideryArea": null,
-      "maxSpeed": 1100,
-      "screenSize": null,
-      "includedFeet": 6,
-      "throatSpace": "6.25\"",
-      "threadCount": null
-    },
-    "specs": {
-      "Key Specs": [
-        "32 built-in stitches, 110 applications",
-        "Sews up to 1,100 stitches per minute",
-        "Motor 60% stronger than a standard machine",
-        "6 presser feet included",
-        "25/2/90 Day Limited Warranty"
-      ],
-      "Sewing Features": [
-        "32 built-in stitches, 110 applications",
-        "One-step buttonhole",
-        "Maximum stitch width 6 mm, adjustable stitch length",
-        "3 variable needle positions",
-        "Drop feed for free-motion and button sewing",
-        "Sews up to 1,100 stitches per minute"
-      ],
-      "Threading & Convenience": [
-        "Built-in needle threader",
-        "Top drop-in bobbin, Class 15 transparent"
-      ],
-      "Workspace & Display": [
-        "Free Arm: Yes",
-        "Workspace Right of Needle: 6.25\" to the right of the needle",
-        "Dimensions: 15.5 x 6.25 x 12 in."
-      ],
-      "Smart Features": [
-        "Adjustable presser foot pressure",
-        "Extra-high presser foot lifter",
-        "Drop feed for free-motion sewing",
-        "Heavy duty metal frame",
-        "Stainless steel bed plate"
-      ],
-      "Included Feet": [
-        "Button Sewing Foot",
-        "Buttonhole Foot",
-        "Even Feed/Walking Foot",
-        "General Purpose Foot",
-        "Non-Stick Foot",
-        "Zipper Foot"
-      ],
-      "Included Accessories": [
-        "Edge/quilting guide",
-        "Heavy duty needles and bobbins",
-        "Spool caps, auxiliary spool pin, spool pin felt",
-        "Screwdriver, seam ripper/lint brush",
-        "Soft dust cover"
-      ],
-      "Warranty": [
-        "25-Year Limited Warranty on Machine Head",
-        "2-Year Limited Warranty on Electrical Components",
-        "90-Day Limited Warranty on Labor and Adjustments",
-        "1-Year Quality Sewing Warranty"
-      ]
-    },
-    "weightLbs": 14.6,
-    "dimensions": "15.5 x 6.25 x 12 in.",
-    "ks": {
-      "stitchCount": "32",
-      "maxSpeed": "1,100 SPM",
-      "buttonholes": "1 (one-step)",
-      "needleThreader": "Built-in",
-      "throatSpace": "6.25\"",
-      "includedFeet": "6",
-      "warranty": "25/2/90 Day Limited Warranty"
-    },
-    "ws": {
-      "freeArm": "Yes",
-      "workspace": "6.25\" to the right of the needle",
-      "dimensions": "15.5 x 6.25 x 12 in."
     }
   },
   {
