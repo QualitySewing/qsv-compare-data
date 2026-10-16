@@ -34893,6 +34893,97 @@
     }
   },
   {
+    "handle": "singer-s0600-serger",
+    "title": "Singer S0600 Serger",
+    "brand": "Singer",
+    "url": "/products/singer-s0600-serger",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/SINGER_S0600_1800x1800_bba6aad6-3f5e-48e5-a40d-af5224ffb487.jpg?v=1790025125",
+    "price": 699.99,
+    "compareAtPrice": 879.99,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": null,
+      "maxSpeed": 1500,
+      "screenSize": null,
+      "includedFeet": null,
+      "throatSpace": null,
+      "threadCount": "4/3/2 Thread"
+    },
+    "specs": {
+      "Key Specs": [
+        "Maximum sewing speed: 1,500 SPM",
+        "4/3/2-thread stitching",
+        "Color-coded threading paths",
+        "Automatic needle stop up",
+        "Full metal frame",
+        "25/1 Year Limited Warranty"
+      ],
+      "Threading": [
+        "Color-coded threading paths, with a threading diagram inside the front cover",
+        "Four color-coded thread tension dials",
+        "Precise Thread Control lever fine-tunes the loops at the fabric edge",
+        "Adjustable presser foot pressure",
+        "Snap-on presser feet"
+      ],
+      "Workspace & Display": [
+        "Lighting: EASY VIEW THREADING LED lighting in the looper area",
+        "Dimensions: 12.7 x 12.0 x 11.7 in."
+      ],
+      "Smart Features": [
+        "Automatic needle stop up",
+        "Stitch safety lock with warning light: the machine will not sew if the front cover is open or the presser foot is raised",
+        "Standby mode after about 20 minutes idle",
+        "Flat bed extension"
+      ],
+      "Included Accessories": [
+        "4 cone holders",
+        "4 spool caps",
+        "4 thread nets",
+        "Seam guide",
+        "Upper looper converter",
+        "Needle threader",
+        "Pack of needles",
+        "Tweezers",
+        "Allen key",
+        "Wrench",
+        "Screwdriver",
+        "Lint brush",
+        "Sewing machine oil",
+        "Knife blade for upper cutter",
+        "Waste tray",
+        "Accessory storage box",
+        "Soft dust cover",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Machine Head",
+        "1-Year Limited Warranty on Parts and Labor",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 21.6,
+    "dimensions": "12.7 x 12.0 x 11.7 in.",
+    "ks": {
+      "maxSpeed": "1,500 SPM",
+      "threadingSystem": "Color-Coded Threading",
+      "threadCount": "4/3/2 Thread",
+      "warranty": "25/1 Year Limited Warranty"
+    },
+    "ws": {
+      "lighting": "EASY VIEW THREADING LED lighting in the looper area",
+      "dimensions": "12.7 x 12.0 x 11.7 in."
+    }
+  },
+  {
     "handle": "singer-se9180-sewing-embroidery-machine",
     "title": "Singer SE9180 Sewing & Embroidery Machine",
     "brand": "Singer",
