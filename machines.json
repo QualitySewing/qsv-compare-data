@@ -19662,7 +19662,7 @@
     "types": [
       "Cutting"
     ],
-    "tagline": "Need a fun way to up your Disney crafting and sewing game? Look no further than the ScanNCut DX SDX330D electronic cutting machine. The SDX330D is the only electronic cutting machine on the market with a fun light blue Disney cosmetic, included Disney designs, and a built-in scanner (up to 900 dpi for the scan to USB function).",
+    "tagline": "Need a fun way to up your Disney crafting and sewing game? The ScanNCut DX SDX330D electronic cutting machine is built for it. The SDX330D is the only electronic cutting machine on the market with a fun light blue Disney cosmetic, included Disney designs, and a built-in scanner (up to 900 dpi for the scan to USB function).",
     "highlights": [],
     "cardSpecs": {
       "stitchCount": null,
@@ -22443,7 +22443,7 @@
       ],
       "Features": [
         "2-rail system for simplified setup and breakdown",
-        "Quilt Clips for fast, even fabric tension - no rolling fabric onto the rail",
+        "Quilt Clips for fast, even fabric tension, with no rolling fabric onto the rail",
         "Configurable as crib size (52.5\" wide, 32.5\" quilting area) or queen size (102\" wide, 82\" quilting area)",
         "SR2+ smooth carriage system for precise machine movement",
         "Height-adjustable legs: 37\" to 45\" (sit or stand)",
@@ -28957,7 +28957,8 @@
       ],
       "Threading & Convenience": [
         "Needle System: 130R / 705H",
-        "Bobbin Type: 15 Class"
+        "Bobbin Type: 15 Class",
+        "Programmable foot control with heel tap functions"
       ],
       "Workspace & Display": [
         "Display: LCD",
@@ -29199,7 +29200,8 @@
         "Needle Threader: Automatic",
         "Thread Trimmer: Automatic (button or heel-activated)",
         "Needle System: 130R / 705H",
-        "Bobbin Type: 15 Class"
+        "Bobbin Type: 15 Class",
+        "Needle up/down positioning"
       ],
       "Workspace & Display": [
         "Display: LCD",
@@ -29213,6 +29215,7 @@
         "Lock Stitch: Two kinds of reverse stitch and lock stitch options",
         "Adjustable Starting and Reverse Stitch Speed",
         "Corner Sewing for Appliqué: Automatic stitch width gradation",
+        "Customizable sewing settings",
         "Wide Table: Included"
       ],
       "Included Feet": [
@@ -29602,7 +29605,6 @@
         "Thread Cutter: Automatic (Button & Foot)",
         "8.5\" Throat Space to the right of the needle",
         "Includes 6 Presser Feet",
-        "5 Year Motors & Electrical, 2 Year Parts",
         "5/2 Year Limited Warranty"
       ],
       "Sewing Features": [
@@ -29709,7 +29711,6 @@
         "8.5\" Throat Space to the right of the needle",
         "Includes 7 Presser Feet",
         "Float Function (Micro-Lifter) for thick seams",
-        "5 Year Motors & Electrical, 2 Year Parts",
         "5/2 Year Limited Warranty"
       ],
       "Sewing Features": [
@@ -34528,15 +34529,13 @@
       "Sewing Features": [
         "32 built-in stitches (utility, stretch, and decorative)",
         "One-step buttonhole",
-        "Adjustable stitch width (up to 6mm)",
-        "Adjustable stitch length (up to 4mm)",
+        "Stitch width up to 6mm",
         "3 needle positions (left, center, right)",
         "Adjustable presser foot pressure",
         "Drop feed",
         "Speed control",
         "Maximum sewing speed: 1,000 SPM",
         "Reverse lever",
-        "Extra-high presser foot lifter",
         "Snap-on presser feet",
         "Twin needle sewing",
         "DC motor",
@@ -37748,7 +37747,7 @@
       "Embroidery",
       "Sewing"
     ],
-    "tagline": "Viking Designer Epic 3 - Pre-Owned & Certified\nFully serviced & certified pre-owned model!",
+    "tagline": "Viking Designer Epic 3 - Pre-Owned & Certified",
     "highlights": [],
     "cardSpecs": {
       "stitchCount": 871,
