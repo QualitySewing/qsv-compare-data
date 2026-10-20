@@ -14690,16 +14690,47 @@
     "cardSpecs": {
       "stitchCount": null,
       "embroideryArea": null,
-      "maxSpeed": null,
-      "screenSize": null,
+      "maxSpeed": 2200,
+      "screenSize": "4.3\"",
       "includedFeet": 1,
       "throatSpace": "20\"",
       "threadCount": null
     },
     "specs": {
+      "Key Specs": [
+        "20\" throat space",
+        "Maximum sewing speed: 2,200 SPM",
+        "BERNINA Stitch Regulator (BSR) plus manual mode",
+        "4.3\" color touch screen",
+        "Powered lift table: 28 3/8\" to 47 1/4\" working height",
+        "See warranty details"
+      ],
+      "Features": [
+        "BERNINA Stitch Regulator with two optical sensors: three regulated modes plus a manual mode with no stitch regulation",
+        "KickStart: quilt continuously without holding the foot control",
+        "Maximum stitch length: 25.4 mm (1 stitch per inch)",
+        "M Class rotary hook",
+        "Lower thread sensor",
+        "Electronic presser foot lift"
+      ],
+      "Threading & Convenience": [
+        "Spool holders at the front of the machine with a short threading path",
+        "Electronically adjustable, numeric thread tension",
+        "On-board bobbin winder (M Class bobbins), independent of machine operation"
+      ],
       "Workspace & Display": [
         "Display: 4.3\" Touchscreen",
-        "Workspace Right of Needle: 20\" to the right of the needle"
+        "Workspace Right of Needle: 20\" to the right of the needle",
+        "Lighting: 50 LED lights along the throat space and above the needle"
+      ],
+      "Compatible Frames": [
+        "BERNINA Studio Frame (Q 20 is frame ready)"
+      ],
+      "Included Accessories": [
+        "Bobbin Case M Class",
+        "Bobbins M Class",
+        "Sewing Machine Oil",
+        "Silicone Fluid"
       ],
       "Warranty": [
         "Machine head: 5-year limited warranty on mechanical parts, or 200 million stitches, whichever comes first",
@@ -14712,8 +14743,9 @@
         "Darning Foot #9"
       ],
       "Smart Features": [
-        "Leafs down: 47 1/4\" wide & 39 3/8\" deep",
-        "Leafs up: 78 3/4\" wide & 39 3/8\" deep"
+        "Lift table, leaves down: 47 1/4\" W x 39 3/8\" D",
+        "Lift table, leaves up: 78 3/4\" W x 39 3/8\" D",
+        "Lift table working height: 28 3/8\" to 47 1/4\""
       ]
     },
     "weightLbs": 63.9,
@@ -14727,7 +14759,8 @@
     },
     "ws": {
       "display": "4.3\" Touchscreen",
-      "workspace": "20\" to the right of the needle"
+      "workspace": "20\" to the right of the needle",
+      "lighting": "50 LED lights along the throat space and above the needle"
     }
   },
   {
@@ -19444,6 +19477,14 @@
       "threadCount": null
     },
     "specs": {
+      "Key Specs": [
+        "Print width: 11.6 in.",
+        "CMYK Brother Genuine ink cartridges",
+        "Prints on printable cotton fabric",
+        "Built-in trimmer for finished edges",
+        "Artspira mobile app wireless integration",
+        "2 Year Limited Warranty"
+      ],
       "Smart Features": [
         "Design Software: Artspira mobile app (wireless integration)",
         "Design Editor: Move/Rotate functions",
@@ -20202,6 +20243,14 @@
       "threadCount": null
     },
     "specs": {
+      "Key Specs": [
+        "Print resolution: 1200 x 2400 dpi",
+        "Max paper size: 8.5 x 14 in. (Legal)",
+        "4-color CMYK sublimation ink, 47 ml cartridges",
+        "Dual band WiFi and Gigabit Ethernet",
+        "Artspira app compatible",
+        "2 Year Limited Warranty"
+      ],
       "Workspace & Display": [
         "Dimensions: 17.1 x 13.5 x 6.2 in. (W x D x H)"
       ],
@@ -20657,14 +20706,22 @@
     "highlights": [],
     "cardSpecs": {
       "stitchCount": 821,
-      "embroideryArea": "272 x 408 mm",
-      "maxSpeed": null,
+      "embroideryArea": "272mm x 408mm",
+      "maxSpeed": 1050,
       "screenSize": null,
       "includedFeet": 9,
       "throatSpace": "13.1\"",
       "threadCount": null
     },
     "specs": {
+      "Key Specs": [
+        "750+ utility and decorative stitches",
+        "Largest embroidery area: 272mm x 408mm (10.7\" x 16\")",
+        "Maximum sewing speed: 1,050 SPM",
+        "Needle Threader: Automatic electronic",
+        "13.1\" Throat Space to the right of the needle (332 mm)",
+        "See warranty details"
+      ],
       "Sewing Features": [
         "Super long arm 13.1\" (332 mm) workspace",
         "Automatic electronic needle threading",
@@ -20712,7 +20769,7 @@
       "buttonholes": "15",
       "needleThreader": "Automatic",
       "threadCutter": "Automatic",
-      "embroideryArea": "272 x 408 mm",
+      "embroideryArea": "272mm x 408mm",
       "throatSpace": "13.1\"",
       "includedFeet": "9",
       "warranty": "See warranty details"
@@ -21226,36 +21283,41 @@
       "maxSpeed": null,
       "screenSize": null,
       "includedFeet": null,
-      "throatSpace": null,
+      "throatSpace": "19\"",
       "threadCount": null
     },
     "specs": {
+      "Key Specs": [
+        "Fits machines up to 11\" wide with 8.5\" to 19\" throat length",
+        "Frame base: 52\" W x 27\" D",
+        "Baby to king-size quilts using zoning",
+        "Free-motion and pantograph quilting (pantograph with laser)",
+        "Stores under a bed or in a closet",
+        "1 Year Limited Warranty"
+      ],
+      "Features": [
+        "Dual tracks for smooth quilting motion",
+        "Fabric coils for rolling fabric",
+        "Machine base clamp secures the machine to the carriage",
+        "Rear handle cushion for pantograph work",
+        "Adjustable height"
+      ],
       "Frame Dimensions": [
-        "Frame Base: 52 in. wide x 27 in. deep",
-        "Frame Weight: 35 lbs (without machine)",
-        "Height: Adjustable",
-        "Table Requirement: Sturdy table at least 52 in. x 27 in."
+        "Frame base: 52\" W x 27\" D",
+        "Frame weight: 35 lbs (without machine)",
+        "Table requirement: sturdy table at least 52\" x 27\" that holds 35 lbs plus the weight of your machine"
       ],
-      "Machine Compatibility": [
-        "Machine Bed Height: 1.5 in. to 4.5 in.",
-        "Max Machine Width: 11 in.",
-        "Throat Length: 8.5 in. to 19 in.",
-        "Max Machine Height: 16 in.",
-        "Foot Pedal Cable: Minimum 4.5 ft.",
-        "Works With: Domestic sewing machines"
+      "Compatible Machines": [
+        "Works with domestic sewing machines",
+        "Machine bed height: 1.5\" to 4.5\"",
+        "Maximum machine width: 11\"",
+        "Throat length: 8.5\" to 19\"",
+        "Maximum machine height: 16\"",
+        "Foot pedal cable at least 4.5 feet long",
+        "Feed dogs must disengage",
+        "Grace machines: 16X Manual, 16X, 16X Elite, 19X, 19X Elite"
       ],
-      "Quilting Capacity": [
-        "Quilt Size Range: Baby to King (using zoning technique)",
-        "Quilting Methods: Free-Motion, Pantograph (with laser)",
-        "Portable: Yes (stores under beds or in closets)"
-      ],
-      "Key Features": [
-        "Dual Tracks: Yes, for smooth quilting motion",
-        "Fabric Coils: Yes, for rolling fabric",
-        "Machine Base Clamp: Yes, secures machine to carriage",
-        "Rear Handle Cushion: Yes, for pantograph work"
-      ],
-      "What's Included": [
+      "Included Accessories": [
         "Cutie Breeze Frame",
         "Machine Base Clamp",
         "Top Plate and Handles",
@@ -21268,14 +21330,22 @@
       "Warranty": [
         "1-Year Limited Warranty on Frame Parts",
         "1-Year Quality Sewing Warranty"
+      ],
+      "Workspace & Display": [
+        "Workspace Right of Needle: 19\" to the right of the needle",
+        "Lighting: Machine base clamp secures the machine to the carriage"
       ]
     },
     "weightLbs": 35,
     "dimensions": null,
     "ks": {
+      "throatSpace": "19\"",
       "warranty": "1 Year Limited Warranty"
     },
-    "ws": {}
+    "ws": {
+      "workspace": "19\" to the right of the needle",
+      "lighting": "Machine base clamp secures the machine to the carriage"
+    }
   },
   {
     "handle": "grace-16x-elite-longarm-quilting-machine",
@@ -31040,14 +31110,23 @@
     ],
     "cardSpecs": {
       "stitchCount": 800,
-      "embroideryArea": "14.2\" x 13.8\"",
-      "maxSpeed": null,
+      "embroideryArea": "350mm x 360mm",
+      "maxSpeed": 1000,
       "screenSize": "10.1\"",
       "includedFeet": 12,
       "throatSpace": "12.1\"",
       "threadCount": null
     },
     "specs": {
+      "Key Specs": [
+        "800 built-in stitches",
+        "840 built-in embroidery designs",
+        "Largest embroidery area: 350mm x 360mm (14.2\" x 13.8\")",
+        "Maximum sewing speed: 1,000 SPM",
+        "Needle Threader: Automatic",
+        "12.1\" Throat Space to the right of the needle (310 mm)",
+        "See warranty details"
+      ],
       "Sewing Features": [
         "mySewnet™ WiFi connectivity (30-day free trial of mySewnet subscription and Library is available for new subscribers.)",
         "Updatable firmware",
@@ -34244,13 +34323,11 @@
       ],
       "Sewing Features": [
         "11 built-in stitches (utility and decorative)",
-        "Adjustable stitch length (up to 4mm)",
         "Adjustable stitch width (up to 6mm)",
         "4-step buttonhole",
         "3 needle positions (left, center, right)",
         "Drop feed",
         "Adjustable presser foot pressure",
-        "Reverse lever",
         "Snap-on presser feet",
         "Extra-high presser foot lifter",
         "Full metal interior frame",
@@ -34259,7 +34336,7 @@
       ],
       "Threading & Convenience": [
         "Top drop-in bobbin with transparent cover plate",
-        "Class 15 transparent bobbins",
+        "Class 15 plastic bobbins",
         "Manual thread cutter"
       ],
       "Workspace & Display": [
@@ -35555,6 +35632,14 @@
       "threadCount": null
     },
     "specs": {
+      "Key Specs": [
+        "24\" cutting width",
+        "Max cutting area: 24\" x 24\" with mat, 24\" x 144\" without mat",
+        "LCD touchscreen",
+        "WiFi and USB connectivity",
+        "Basic and rotary blades included",
+        "1 Year Limited Warranty"
+      ],
       "Smart Features": [
         "Display: LCD Touchscreen",
         "WiFi Connectivity",
