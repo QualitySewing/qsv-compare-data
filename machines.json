@@ -7036,7 +7036,7 @@
       "embroideryArea": null,
       "maxSpeed": 1100,
       "screenSize": null,
-      "includedFeet": 11,
+      "includedFeet": 12,
       "throatSpace": "6.5\" (165 mm)",
       "threadCount": null
     },
@@ -7045,9 +7045,9 @@
         "30 Built-in Stitches",
         "1 Automatic Buttonhole",
         "1,100 SPM",
-        "Needle Threader: Manual Built-in Lever",
+        "Needle Threader: Semi-Automatic",
         "Thread Cutter: Manual (Side)",
-        "6.5\" Throat Space to the right of the needle",
+        "6.5\" Throat Space to the right of the needle (165 mm)",
         "10/2/2 Year Limited Warranty"
       ],
       "Sewing Features": [
@@ -7081,6 +7081,7 @@
         "Concealed Zipper Foot",
         "Darning Foot/Embroidery",
         "Edgestitch Foot",
+        "Hemmer Foot",
         "Open Transparent Embroidery Foot",
         "Overlock Foot",
         "Zigzag Foot",
@@ -7115,10 +7116,10 @@
       "stitchCount": "30",
       "maxSpeed": "1,100 SPM",
       "buttonholes": "1",
-      "needleThreader": "Built-in",
+      "needleThreader": "Automatic",
       "threadCutter": "Manual",
       "throatSpace": "6.5\" (165 mm)",
-      "includedFeet": "11",
+      "includedFeet": "12",
       "warranty": "10/2/2 Year Limited Warranty"
     },
     "ws": {
@@ -7167,10 +7168,9 @@
         "1,600 Stitches Per Minute",
         "Needle Threader: Semi-Automatic",
         "Thread Cutter: Automatic",
-        "8.8\" Throat Space to the right of the needle",
+        "8.8\" Throat Space to the right of the needle (225 mm)",
         "Includes 2 Presser Feet",
         "Powerful DC Motor",
-        "2 Year Electrical, 5 Year Circuit Boards, 20 Year Defects",
         "10/2/2 Year Limited Warranty"
       ],
       "Sewing Features": [
@@ -7204,7 +7204,7 @@
         "Standard Straight Stitch Foot"
       ],
       "Included Accessories": [
-        "Extension Table (25.6\" x 15.7\" / 60 x 40 cm)",
+        "Extension Table (23.6\" x 15.7\" / 60 x 40 cm)",
         "Standard Stitch Plate",
         "Foot Controller",
         "Knee Lifter",
@@ -7289,10 +7289,10 @@
         "394 Built-in Stitches",
         "8 Buttonholes",
         "820 SPM",
-        "Needle Threader: Semi-Automatic",
+        "Needle Threader: Manual",
         "Thread Cutter: Automatic",
         "LCD Display",
-        "6.7\" Throat Space to the right of the needle",
+        "6.7\" Throat Space to the right of the needle (170 mm)",
         "10/2/2 Year Limited Warranty"
       ],
       "Sewing Features": [
@@ -7408,10 +7408,10 @@
         "394 Built-in Stitches",
         "8 Buttonholes",
         "820 SPM",
-        "Needle Threader: Semi-Automatic",
+        "Needle Threader: Manual",
         "Thread Cutter: Automatic",
         "LCD Display",
-        "6.7\" Throat Space to the right of the needle",
+        "6.7\" Throat Space to the right of the needle (170 mm)",
         "10/2/2 Year Limited Warranty"
       ],
       "Sewing Features": [
@@ -7525,7 +7525,7 @@
       "Key Specs": [
         "515 stitches (including 3 fonts)",
         "Maximum sewing speed 800 stitches per minute",
-        "6.7\" (170 mm) to the right of the needle",
+        "6.7\" Throat Space to the right of the needle (170 mm)",
         "7 presser feet included",
         "10/2/2 Year Limited Warranty"
       ],
@@ -7779,12 +7779,12 @@
         "860 SPM",
         "Needle Threader: Semi-Automatic",
         "Thread Cutter: Manual (Side)",
-        "6.7\" Throat Space to the right of the needle",
+        "6.7\" Throat Space to the right of the needle (170 mm)",
         "10/2/2 Year Limited Warranty"
       ],
       "Sewing Features": [
         "Built-in Stitches: 15",
-        "Practical Stitches: 15",
+        "Practical Stitches: 14",
         "Buttonholes/Eyelets: 1",
         "Stitch Width: 5 mm",
         "Max Stitch Length: 4 mm"
@@ -7870,9 +7870,9 @@
         "23 Built-in Stitches",
         "1 Automatic Buttonhole",
         "860 SPM",
-        "Needle Threader: Semi-Automatic",
+        "Needle Threader: Manual",
         "Thread Cutter: Manual (Side)",
-        "6.7\" Throat Space to the right of the needle",
+        "6.7\" Throat Space to the right of the needle (170 mm)",
         "10/2/2 Year Limited Warranty"
       ],
       "Sewing Features": [
@@ -7924,7 +7924,7 @@
       "stitchCount": "23",
       "maxSpeed": "860 SPM",
       "buttonholes": "1",
-      "needleThreader": "Automatic",
+      "needleThreader": "Built-in",
       "threadCutter": "Manual",
       "throatSpace": "6.7\"",
       "includedFeet": "7",
@@ -7970,7 +7970,7 @@
         "Needle Threader: Semi-Automatic",
         "Thread Cutter: Manual (Side)",
         "LCD Display",
-        "6.7\" Throat Space to the right of the needle",
+        "6.7\" Throat Space to the right of the needle (170 mm)",
         "10/2/2 Year Limited Warranty"
       ],
       "Sewing Features": [
@@ -8084,7 +8084,7 @@
         "Needle Threader: Semi-Automatic",
         "Thread Cutter: Automatic",
         "LCD Display",
-        "6.7\" Throat Space to the right of the needle",
+        "6.7\" Throat Space to the right of the needle (170 mm)",
         "10/2/2 Year Limited Warranty"
       ],
       "Sewing Features": [
@@ -8190,8 +8190,8 @@
       "Key Specs": [
         "15 Built-in Stitches",
         "1,300 SPM",
-        "Needle Threader: Color-Coded Threading",
-        "3.4\" Throat Space to the right of the needle",
+        "Needle Threader: Manual",
+        "3.4\" Throat Space to the right of the needle (87 mm)",
         "2, 3, or 4 Thread Capacity",
         "Manual Color-Coded Threading",
         "10/2/2 Year Limited Warranty"
@@ -8266,9 +8266,9 @@
       "Key Specs": [
         "23 Built-in Stitches",
         "1,300 SPM",
-        "Needle Threader: /Inserter: Manual",
+        "Needle Threader: Manual",
         "Thread Cutter: Manual (Side)",
-        "3.4\" Throat Space to the right of the needle",
+        "3.4\" Throat Space to the right of the needle (87 mm)",
         "2, 3, 4, or 5 Thread Capacity (Serger + Coverstitch)",
         "Manual Threading System with Color-Coded Paths",
         "Includes 1 Standard Overlock/Cover Combo Foot",
@@ -8363,14 +8363,13 @@
       "Key Specs": [
         "1,300 SPM",
         "Needle Threader: Air Threader for Looper Threads",
-        "5.1\" Throat Space to the right of the needle",
+        "5.1\" Throat Space to the right of the needle (130 mm)",
         "2, 3, or 4 Thread Capacity",
         "16 Overlock Stitches",
         "Includes Standard Overlock Foot",
         "Automatic Air Threader (Loopers)",
         "Includes FHS Knee Lifter",
         "Manual Color-Coded Lay-in Threading System",
-        "2 Year Electrical, 5 Year Circuit Boards, 20 Year Defects",
         "10/2/2 Year Limited Warranty"
       ],
       "Threading": [
@@ -8387,7 +8386,7 @@
         "Free Arm: Yes",
         "Workspace Right of Needle: 5.1\" (130 mm) to the right of the needle",
         "Lighting: 5 LEDs",
-        "Dimensions: 16 x 11 x 12 in."
+        "Dimensions: 16.92 x 11.41 x 10.62 in."
       ],
       "Smart Features": [
         "Automatic Air Threader: For loopers",
@@ -8425,8 +8424,8 @@
         "1-Year Quality Sewing Warranty"
       ]
     },
-    "weightLbs": 21,
-    "dimensions": "16 x 11 x 12 in.",
+    "weightLbs": 20.5,
+    "dimensions": "16.92 x 11.41 x 10.62 in.",
     "ks": {
       "stitchCount": "16",
       "maxSpeed": "1,300 SPM",
@@ -8443,7 +8442,7 @@
       "freeArm": "Yes",
       "workspace": "5.1\" (130 mm) to the right of the needle",
       "lighting": "5 LEDs",
-      "dimensions": "16 x 11 x 12 in."
+      "dimensions": "16.92 x 11.41 x 10.62 in."
     }
   },
   {
@@ -8484,13 +8483,12 @@
         "1,300 SPM",
         "Needle Threader: Air Threader for Looper Threads",
         "Thread Cutter: Manual (Side)",
-        "5\" Throat Space to the right of the needle",
+        "5\" Throat Space to the right of the needle (130 mm)",
         "2, 3, 4, or 5 Thread Capacity (Serger + Coverstitch)",
         "16 Overlock Stitches, 7 Cover Stitches, 8 Combo Stitches",
         "Includes Standard Overlock/Coverstitch Combo Foot",
         "Automatic Air Threader (Loopers)",
         "Manual Color-Coded Lay-in Threading System",
-        "2 Year Electrical, 5 Year Circuit Boards, 20 Year Defects",
         "10/2/2 Year Limited Warranty"
       ],
       "Threading": [
@@ -8584,14 +8582,13 @@
         "1,300 SPM",
         "Needle Threader: Air Threader for Looper Threads",
         "Thread Cutter: Manual (Side)",
-        "5\" Throat Space to the right of the needle",
+        "5.1\" Throat Space to the right of the needle (130 mm)",
         "2, 3, 4, or 5 Thread Capacity (Serger + Coverstitch)",
         "16 Overlock Stitches, 7 Cover Stitches, 8 Combo Stitches",
         "Includes Maker Presser Foot Set",
         "Automatic Air Threader (Loopers)",
         "Maker Edition Bonus Accessories",
         "Manual Color-Coded Lay-in Threading System",
-        "2 Year Electrical, 5 Year Circuit Boards, 20 Year Defects",
         "10/2/2 Year Limited Warranty"
       ],
       "Threading": [
@@ -8677,7 +8674,7 @@
       "embroideryArea": "260mm x 160mm",
       "maxSpeed": 850,
       "screenSize": "5\"",
-      "includedFeet": 1,
+      "includedFeet": 2,
       "throatSpace": "9\"",
       "threadCount": null
     },
@@ -8689,8 +8686,8 @@
         "Needle Threader: Semi-Automatic",
         "Thread Cutter: Automatic",
         "5\" Touchscreen",
-        "9\" Throat Space to the right of the needle",
-        "Standard Embroidery Foot Included",
+        "9\" Throat Space to the right of the needle (230 mm)",
+        "Embroidery Foot and Hopper Embroidery Foot Included",
         "10/2/2 Year Limited Warranty"
       ],
       "Embroidery Features": [
@@ -8699,7 +8696,6 @@
         "Max Embroidery Area: 260 x 160 mm (10.2 in. x 6.3 in.)",
         "Max Embroidery Speed: 850 stitches per minute",
         "Embroidery Alphabets: 7",
-        "BERNINA Toolbox Software: Included (Lettering and Editing modules)",
         "On-Screen Editing"
       ],
       "Threading & Convenience": [
@@ -8717,13 +8713,12 @@
         "Dimensions: 20.0 x 12.4 x 7.9 in. (W x H x D)"
       ],
       "Smart Features": [
-        "USB Connectivity",
         "Compatible Design Formats: Most embroidery formats",
-        "BERNINA Toolbox Software: Included",
         "Presser Foot Pressure: Adjustable"
       ],
       "Included Feet": [
-        "Embroidery Foot"
+        "Embroidery Foot",
+        "Hopper Embroidery Foot"
       ],
       "Included Hoops": [
         "3 Embroidery Hoops Included",
@@ -8732,7 +8727,6 @@
       "Included Accessories": [
         "3 Embroidery Hoops",
         "Embroidery Foot",
-        "BERNINA Toolbox Software",
         "Bobbins (3)",
         "Spool Nets",
         "Brush/Seam Ripper",
@@ -8765,7 +8759,7 @@
       "embroideryArea": "6.3\" x 10.2\" (160 x 260 mm)",
       "display": "5\" Touchscreen",
       "throatSpace": "9\"",
-      "includedFeet": "1",
+      "includedFeet": "2",
       "warranty": "10/2/2 Year Limited Warranty"
     },
     "ws": {
@@ -8815,9 +8809,8 @@
         "Needle Threader: Semi-Automatic",
         "Thread Cutter: Automatic",
         "5\" Touchscreen",
-        "9\" Throat Space to the right of the needle",
+        "9\" Throat Space to the right of the needle (230 mm)",
         "Includes 8 Presser Feet",
-        "2 Year Electrical, 5 Year Circuit Boards, 20 Year Defects",
         "10/2/2 Year Limited Warranty"
       ],
       "Sewing Features": [
@@ -8948,13 +8941,12 @@
         "Needle Threader: Semi-Automatic",
         "Thread Cutter: Automatic",
         "5\" Touchscreen",
-        "9\" Throat Space to the right of the needle",
+        "9\" Throat Space to the right of the needle (230 mm)",
         "Includes 10 Presser Feet",
-        "2 Year Electrical, 5 Year Circuit Boards, 20 Year Defects",
         "10/2/2 Year Limited Warranty"
       ],
       "Sewing Features": [
-        "Utility Stitches: 500",
+        "Practical Stitches: 22",
         "Decorative Stitches: 133",
         "Quilting Stitches: 35",
         "Buttonholes: 17",
@@ -8995,7 +8987,7 @@
       "Included Hoops": [
         "Large Hoop: 160 x 260 mm (6.3 x 10.2 in.)",
         "Medium Hoop: 120 x 180 mm (4.7 x 7.1 in.)",
-        "Small Hoop: 50 x 50 mm (2 x 2 in.)"
+        "Small Hoop: 50 x 70 mm (2 x 2.75 in.)"
       ],
       "Included Accessories": [
         "Embroidery Module",
@@ -9087,14 +9079,13 @@
         "Needle Threader: Semi-Automatic",
         "Thread Cutter: Automatic",
         "5\" Touchscreen",
-        "9\" Throat Space to the right of the needle",
+        "9\" Throat Space to the right of the needle (230 mm)",
         "Includes 10 Presser Feet",
         "10 Exclusive Harry Potter Embroidery Motifs",
-        "2 Year Electrical, 5 Year Circuit Boards, 20 Year Defects",
         "10/2/2 Year Limited Warranty"
       ],
       "Sewing Features": [
-        "Utility Stitches: 500",
+        "Practical Stitches: 22",
         "Decorative Stitches: 133",
         "Quilting Stitches: 35",
         "Buttonholes: 17",
@@ -9106,7 +9097,7 @@
         "Needle Stop Up/Down"
       ],
       "Embroidery Features": [
-        "Built-in Designs: 208",
+        "Built-in Designs: 260",
         "Max Embroidery Area: 10.2 x 6.3 in. (260 x 160 mm)",
         "Embroidery Speed: 850 stitches per minute",
         "Embroidery Alphabets: 7"
@@ -9135,7 +9126,7 @@
       "Included Hoops": [
         "Large Hoop: 160 x 260 mm (6.3 x 10.2 in.)",
         "Medium Hoop: 120 x 180 mm (4.7 x 7.1 in.)",
-        "Small Hoop: 50 x 50 mm (2 x 2 in.)"
+        "Small Hoop: 50 x 70 mm (2 x 2.75 in.)"
       ],
       "Included Accessories": [
         "Embroidery Module",
