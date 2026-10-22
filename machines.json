@@ -3358,7 +3358,7 @@
     "title": "Baby Lock Luna Sewing and Embroidery Machine",
     "brand": "Baby Lock",
     "url": "/products/baby-lock-luna-sewing-and-embroidery-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Luna-BLA-SR-LOK.jpg?v=1790793929",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/luna_BLA-SR.jpg?v=1792621905",
     "price": 6999.0,
     "compareAtPrice": 7999.0,
     "isOnSale": true,
@@ -33970,102 +33970,6 @@
     "ws": {
       "freeArm": "Yes",
       "workspace": "6.25\" W x 4.25\" H",
-      "dimensions": "15.5 x 6.25 x 12 in."
-    }
-  },
-  {
-    "handle": "singer-heavy-duty-4423-sewing-machine",
-    "title": "Singer Heavy Duty 4423 Sewing Machine",
-    "brand": "Singer",
-    "url": "/products/singer-heavy-duty-4423-sewing-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/HD-30637_HD4423_FrontAngle_b1a7f526-610c-42ed-85f9-5203e83804a2.jpg?v=1782852948",
-    "price": 229.99,
-    "compareAtPrice": 289.99,
-    "isOnSale": true,
-    "isQuoteRequest": false,
-    "isPromo": false,
-    "isPreOwned": false,
-    "types": [
-      "Sewing"
-    ],
-    "tagline": "Strong, simple, and reliable heavy-duty sewing",
-    "highlights": [
-      "23 built-in stitches with a one-step buttonhole",
-      "Motor 60% stronger with 50% more piercing power",
-      "Built-in needle threader and top drop-in bobbin",
-      "Sews up to 1,100 stitches per minute"
-    ],
-    "cardSpecs": {
-      "stitchCount": 23,
-      "embroideryArea": null,
-      "maxSpeed": 1100,
-      "screenSize": null,
-      "includedFeet": 4,
-      "throatSpace": "6.25\"",
-      "threadCount": null
-    },
-    "specs": {
-      "Key Specs": [
-        "23 built-in stitches, 97 applications",
-        "Sews up to 1,100 stitches per minute",
-        "Motor 60% stronger than a standard machine",
-        "4 presser feet included",
-        "25/2/90 Day Limited Warranty"
-      ],
-      "Sewing Features": [
-        "23 built-in stitches, 97 applications",
-        "One-step buttonhole",
-        "Maximum stitch width 6 mm, adjustable stitch length",
-        "Drop feed for free-motion and button sewing",
-        "Sews up to 1,100 stitches per minute"
-      ],
-      "Threading & Convenience": [
-        "Built-in needle threader",
-        "Top drop-in bobbin, transparent"
-      ],
-      "Workspace & Display": [
-        "Free Arm: Yes",
-        "Workspace Right of Needle: 6.25\" to the right of the needle",
-        "Dimensions: 15.5 x 6.25 x 12 in."
-      ],
-      "Included Feet": [
-        "Button Sewing Foot",
-        "Buttonhole Foot",
-        "General Purpose Foot",
-        "Zipper Foot"
-      ],
-      "Included Accessories": [
-        "Edge/quilting guide",
-        "Needles and bobbins",
-        "Spool caps and auxiliary spool pin",
-        "Screwdriver, seam ripper",
-        "Soft dust cover"
-      ],
-      "Warranty": [
-        "25-Year Limited Warranty on Machine Head",
-        "2-Year Limited Warranty on Electrical Components",
-        "90-Day Limited Warranty on Labor and Adjustments",
-        "1-Year Quality Sewing Warranty"
-      ],
-      "Smart Features": [
-        "Heavy duty metal frame",
-        "Stainless steel bed plate"
-      ]
-    },
-    "weightLbs": 14.6,
-    "dimensions": "15.5 x 6.25 x 12 in.",
-    "ks": {
-      "stitchCount": "23",
-      "maxSpeed": "1,100 SPM",
-      "buttonholes": "1 (one-step)",
-      "needleThreader": "Built-in",
-      "throatSpace": "6.25\"",
-      "includedFeet": "4",
-      "warranty": "25/2/90 Day Limited Warranty"
-    },
-    "ws": {
-      "freeArm": "Yes",
-      "workspace": "6.25\" to the right of the needle",
       "dimensions": "15.5 x 6.25 x 12 in."
     }
   },
