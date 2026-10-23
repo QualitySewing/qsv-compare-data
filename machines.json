@@ -21449,7 +21449,7 @@
     "brand": "Grace",
     "url": "/products/grace-16x-longarm-quilting-machine",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/grace-qnique-16x-longarm-quilting-machine-with-free-accessory-bundle-sewing-serger-embroidery-machines-518238.jpg?v=1775597480",
-    "price": 4449.0,
+    "price": 3559.2,
     "compareAtPrice": 5499.95,
     "isOnSale": true,
     "isQuoteRequest": false,
@@ -27027,6 +27027,283 @@
     }
   },
   {
+    "handle": "janome-memory-craft-1000-sewing-and-embroidery-machine",
+    "title": "Janome Memory Craft 1000 Sewing and Embroidery Machine",
+    "brand": "Janome",
+    "url": "/products/janome-memory-craft-1000-sewing-and-embroidery-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/MC1000.png?v=1791221368",
+    "price": 1399.0,
+    "compareAtPrice": 1799.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing",
+      "Embroidery"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 300,
+      "embroideryArea": "140 x 140 mm",
+      "maxSpeed": 860,
+      "screenSize": null,
+      "includedFeet": 10,
+      "throatSpace": "7.1\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "300 built-in stitches",
+        "12 one-step buttonholes",
+        "241 built-in embroidery designs",
+        "5.5 x 5.5 in. maximum embroidery area",
+        "Maximum sewing speed: 860 SPM",
+        "7.1\" Throat Space to the right of the needle",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "300 stitches with 3 fonts",
+        "12 one-step buttonholes",
+        "Maximum stitch width: 7 mm",
+        "Maximum stitch length: 5 mm",
+        "Maximum sewing speed: 860 SPM",
+        "Twin needle setting",
+        "Up to 100 stitch combinations",
+        "Superior Feed System Plus with 7-piece feed dog",
+        "Drop feed",
+        "Foot pressure adjustment",
+        "Extra high presser foot lift",
+        "Snap-on presser feet",
+        "Easy-lift magnetic needle plate with sensor",
+        "Straight stitch needle plate included"
+      ],
+      "Embroidery Features": [
+        "241 built-in designs",
+        "Maximum embroidery area: 5.5 x 5.5 in. (140 x 140 mm)",
+        "Embroidery speed: 400-660 SPM",
+        "Adjustable speed while embroidering",
+        "11+ embroidery fonts",
+        "Adjustable hoop positioning",
+        "On-screen editing: resize, rotate, combine, duplicate, flip, arc, group, zoom, single-color stitching",
+        "Embroidery formats: .JEF, .JEF+",
+        "2 and 3 letter monogramming",
+        "Flexible stitch traveling in units of 1, 10, and 100",
+        "Programmable jump thread trimming",
+        "Auto return after a thread break"
+      ],
+      "Threading & Convenience": [
+        "Superior Needle Threader 2",
+        "Automatic thread cutter",
+        "Top-loading full rotary hook bobbin",
+        "Easy set bobbin",
+        "Auto declutch bobbin winder",
+        "Bobbin winder with plate and cutting blade",
+        "Optical bobbin sensor",
+        "Horizontal spool pin"
+      ],
+      "Workspace & Display": [
+        "Speed Control: Speed slider",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 7.1\" W x 4.3\" H",
+        "Lighting: 2 LEDs in 2 locations",
+        "Dimensions: 17.0 x 11.9 x 10.6 in."
+      ],
+      "Smart Features": [
+        "Memory capacity: 2.5 MB for combination stitches and embroidery designs",
+        "Thread break detection",
+        "Memorized needle up/down",
+        "Start/stop button",
+        "Last stitch resume mode",
+        "Speed control slider",
+        "Lock stitch button",
+        "Easy reverse button",
+        "Interface in 16 languages",
+        "3.5 in. LCD color touchscreen with stylus",
+        "Accessory storage"
+      ],
+      "Included Feet": [
+        "1/4 in. Seam Foot O",
+        "Automatic Buttonhole Foot",
+        "Blind Hem Foot (5-7 mm, non-adjustable)",
+        "Embroidery Foot P (plastic)",
+        "New shape Foot",
+        "Overedge Foot C (5-7 mm)",
+        "Overedge Foot M",
+        "Satin Stitch Foot (5-7 mm)",
+        "Zig-Zag Foot (5-7 mm)",
+        "Zipper Foot E (7 mm)"
+      ],
+      "Included Hoops": [
+        "SQ14e: 5.5 x 5.5 in. (140 x 140 mm)"
+      ],
+      "Included Accessories": [
+        "Additional spool pin",
+        "Assorted needle set",
+        "Bobbin (standard)",
+        "Bobbin holder for embroidery (high tension)",
+        "Large screwdriver",
+        "Lint brush",
+        "Seam ripper",
+        "Spool holder, large",
+        "Spool holder, small",
+        "Straight stitch needle plate",
+        "Thread snips",
+        "Touch panel stylus",
+        "Hard cover",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 22.9,
+    "dimensions": "17.0 x 11.9 x 10.6 in.",
+    "ks": {
+      "stitchCount": "300",
+      "maxSpeed": "860 SPM",
+      "buttonholes": "12",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "241",
+      "embroideryArea": "140 x 140 mm",
+      "throatSpace": "7.1\"",
+      "includedFeet": "10",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "speedControl": "Speed slider",
+      "freeArm": "Yes",
+      "workspace": "7.1\" W x 4.3\" H",
+      "lighting": "2 LEDs in 2 locations",
+      "dimensions": "17.0 x 11.9 x 10.6 in."
+    }
+  },
+  {
+    "handle": "janome-memory-craft-100e-embroidery-machine",
+    "title": "Janome Memory Craft 100E Embroidery Machine",
+    "brand": "Janome",
+    "url": "/products/janome-memory-craft-100e-embroidery-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/MC100E-PP-01.jpg?v=1791221368",
+    "price": 1099.0,
+    "compareAtPrice": 1299.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Embroidery"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": "140 x 140 mm",
+      "maxSpeed": 660,
+      "screenSize": null,
+      "includedFeet": 1,
+      "throatSpace": "7.1\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "274 built-in embroidery designs",
+        "5.5 x 5.5 in. maximum embroidery area",
+        "Maximum sewing speed: 660 SPM",
+        "Superior Needle Threader 2",
+        "3.5 in. LCD touchscreen with stylus",
+        "11+ embroidery fonts",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Embroidery Features": [
+        "274 built-in designs",
+        "Maximum embroidery area: 5.5 x 5.5 in. (140 x 140 mm)",
+        "Embroidery speed: 400-660 SPM",
+        "Adjustable speed while embroidering",
+        "11+ embroidery fonts",
+        "Adjustable hoop positioning",
+        "On-screen editing: resize, rotate, combine, duplicate, flip, arc, group, zoom, single-color stitching",
+        "Embroidery formats: .JEF, .JEF+, .JPX",
+        "2 and 3 letter monogramming",
+        "Flexible stitch traveling in units of 1, 10, and 100",
+        "Programmable jump thread trimming",
+        "Auto return after a thread break",
+        "Memory capacity: up to 2.5 MB",
+        "Top-loading full rotary hook bobbin",
+        "Easy set bobbin",
+        "Optical bobbin sensor"
+      ],
+      "Threading & Convenience": [
+        "Superior Needle Threader 2",
+        "Automatic thread cutter",
+        "Bobbin winder with plate and cutting blade",
+        "Auto declutch bobbin winder",
+        "Horizontal spool pin"
+      ],
+      "Workspace & Display": [
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 7.1\" W x 4.3\" H",
+        "Lighting: 2 LEDs in 2 locations",
+        "Dimensions: 17.0 x 11.8 x 10.6 in."
+      ],
+      "Smart Features": [
+        "Interface in 16 languages",
+        "Thread brand selection on screen: Janome, Robison-Anton, Madeira, Mettler",
+        "Start/stop button",
+        "3.5 in. LCD touchscreen with stylus",
+        "Extra high presser foot lift",
+        "Accessory storage"
+      ],
+      "Included Feet": [
+        "Embroidery Foot P"
+      ],
+      "Included Hoops": [
+        "SQ14e: 5.5 x 5.5 in. (140 x 140 mm)"
+      ],
+      "Included Accessories": [
+        "Bobbin (standard)",
+        "Bobbin holder for embroidery (high tension)",
+        "Bobbin holder cleaner",
+        "Spool holder, large",
+        "Spool holder, small",
+        "Extra spool pin",
+        "Needle set",
+        "Large screwdriver",
+        "Lint brush",
+        "Thread snips",
+        "Touch panel stylus",
+        "Dust cover"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 20,
+    "dimensions": "17.0 x 11.8 x 10.6 in.",
+    "ks": {
+      "stitchCount": "Dedicated embroidery",
+      "maxSpeed": "660 SPM",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "274",
+      "embroideryArea": "140 x 140 mm",
+      "throatSpace": "7.1\"",
+      "includedFeet": "1",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "freeArm": "Yes",
+      "workspace": "7.1\" W x 4.3\" H",
+      "lighting": "2 LEDs in 2 locations",
+      "dimensions": "17.0 x 11.8 x 10.6 in."
+    }
+  },
+  {
     "handle": "janome-memory-craft-6650-sewing-quilting-machine",
     "title": "Janome Memory Craft 6650 Sewing & Quilting Machine",
     "brand": "Janome",
@@ -27437,6 +27714,90 @@
       "workspace": "8.3\" to the right of the needle",
       "lighting": "5 White LEDs in 3 Locations",
       "dimensions": "19.6 x 9.1 x 12.7 in."
+    }
+  },
+  {
+    "handle": "janome-mylock-454d-sailing-line-serger",
+    "title": "Janome MyLock 454D Sailing Line Serger",
+    "brand": "Janome",
+    "url": "/products/janome-mylock-454d-sailing-line-serger",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/mylock454d-front-1536x1536.jpg?v=1791221368",
+    "price": 649.0,
+    "compareAtPrice": 699.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": null,
+      "maxSpeed": 1300,
+      "screenSize": null,
+      "includedFeet": 1,
+      "throatSpace": null,
+      "threadCount": "4 Thread"
+    },
+    "specs": {
+      "Key Specs": [
+        "3 and 4 thread convertible",
+        "1 and 2 needle operation",
+        "Maximum sewing speed: 1,300 SPM",
+        "Differential feed: 0.5-2.25",
+        "Stitch length: 1.0-4.0 mm",
+        "8-piece feed dog",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Threading": [
+        "Threading chart",
+        "Color-coded thread guides",
+        "Easy threading lower looper",
+        "Easily accessible lower looper guides",
+        "Lay-in tension dials, manual",
+        "Tension release lever",
+        "Lower looper pretension setting slider",
+        "Changeable thread guide",
+        "Easily retractable upper knife"
+      ],
+      "Workspace & Display": [
+        "Dimensions: 12.2 x 11.0 x 10.6 in."
+      ],
+      "Included Accessories": [
+        "Serger foot (long)",
+        "Needle set",
+        "Screwdriver, large",
+        "Screwdriver, small",
+        "Tweezers"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Cutting width: 5.3-7.3 mm",
+        "Stitch length: 1.0-4.0 mm",
+        "Adjustable foot pressure",
+        "Snap-on presser feet",
+        "Spool stand",
+        "Carrying handle",
+        "Hanenite rubber feet"
+      ]
+    },
+    "weightLbs": 13.4,
+    "dimensions": "12.2 x 11.0 x 10.6 in.",
+    "ks": {
+      "maxSpeed": "1,300 SPM",
+      "threadCount": "4 Thread",
+      "includedFeet": "1",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "dimensions": "12.2 x 11.0 x 10.6 in."
     }
   },
   {
@@ -28230,6 +28591,133 @@
       "kneeLift": "Automatic presser foot lift",
       "workspace": "8.5\" to the right of the needle",
       "dimensions": "20 x 12 x 9 in. (W x H x D)"
+    }
+  },
+  {
+    "handle": "janome-skyline-s3-anniversary-edition-sewing-machine",
+    "title": "Janome Skyline S3 Anniversary Edition Sewing Machine",
+    "brand": "Janome",
+    "url": "/products/janome-skyline-s3-anniversary-edition-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/s3-hero-1536x1536.jpg?v=1791221368",
+    "price": 1199.0,
+    "compareAtPrice": 1499.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 120,
+      "embroideryArea": null,
+      "maxSpeed": 820,
+      "screenSize": null,
+      "includedFeet": 5,
+      "throatSpace": "8.3\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "120 built-in stitches",
+        "7 one-step buttonholes",
+        "Maximum sewing speed: 820 SPM",
+        "Superior Needle Threader 2",
+        "Automatic thread cutter",
+        "8.3\" Throat Space to the right of the needle",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "120 built-in stitches including 1 alphabet",
+        "7 one-step buttonholes",
+        "Maximum stitch width: 7 mm",
+        "Maximum stitch length: 5 mm",
+        "Maximum sewing speed: 820 SPM",
+        "15 needle positions",
+        "Twin needle setting",
+        "Up to 50 stitch combinations",
+        "Superior Feed System Plus with 7-piece feed dog",
+        "Drop feed",
+        "Mirror image stitch patterns",
+        "Foot pressure adjustment",
+        "Extra high presser foot lift",
+        "Snap-on presser feet",
+        "Needle plate with drop position, angle, and foot guide markings"
+      ],
+      "Threading & Convenience": [
+        "Superior Needle Threader 2",
+        "Automatic thread cutter",
+        "Automatic thread tension",
+        "Top-loading full rotary hook bobbin",
+        "Easy set bobbin",
+        "Bobbin winder with plate and cutting blade"
+      ],
+      "Workspace & Display": [
+        "Display: LCD",
+        "Speed Control: Speed slider",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 8.3\" W x 4.7\" H",
+        "Lighting: 4 LED lights in 2 locations",
+        "Dimensions: 20 x 8.6 x 8.6 in."
+      ],
+      "Smart Features": [
+        "Memorized needle up/down",
+        "Stitch memory",
+        "Start/stop button",
+        "Speed control slider",
+        "Lock stitch button",
+        "Easy reverse button",
+        "Direct select buttons for 8 utility stitches",
+        "Accessory storage"
+      ],
+      "Included Feet": [
+        "Automatic Buttonhole Foot R",
+        "Blind Hem Foot G (5-7 mm, non-adjustable)",
+        "Border guide foot (5-7 mm)",
+        "Zig-Zag Foot A (5-7 mm)",
+        "Zipper Foot E (7 mm)"
+      ],
+      "Included Accessories": [
+        "Extension table",
+        "Assorted needle set",
+        "Bobbin (standard)",
+        "Large screwdriver",
+        "Lint brush",
+        "Seam ripper",
+        "Spool holder, large",
+        "Spool holder, small",
+        "Spool holder, special",
+        "Semi-hard cover",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 20.9,
+    "dimensions": "20 x 8.6 x 8.6 in.",
+    "ks": {
+      "stitchCount": "120",
+      "maxSpeed": "820 SPM",
+      "buttonholes": "7",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "display": "LCD",
+      "throatSpace": "8.3\"",
+      "includedFeet": "5",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "LCD",
+      "speedControl": "Speed slider",
+      "freeArm": "Yes",
+      "workspace": "8.3\" W x 4.7\" H",
+      "lighting": "4 LED lights in 2 locations",
+      "dimensions": "20 x 8.6 x 8.6 in."
     }
   },
   {
