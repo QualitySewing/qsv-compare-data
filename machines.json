@@ -1399,7 +1399,6 @@
         "Advanced Editing Features",
         "Built-in Memory: 10MB",
         "6 Needle Configuration",
-        "USB Connectivity",
         "Wireless Capability (with optional Palette 11 software)",
         "Crosshair Positioning Laser",
         "Color Visualizer",
@@ -2170,7 +2169,6 @@
         "Built-in Fonts: 39 fonts + 1 monogram font",
         "Frame Combinations: 120",
         "Built-in Memory: 1 MB",
-        "USB Connectivity",
         "Character/Text Array Function",
         "Multi-Line Text",
         "Character Spacing",
@@ -14346,7 +14344,6 @@
         "Lighting: 50 LEDs (full length of free arm)"
       ],
       "Smart Features": [
-        "USB Connection",
         "HDMI Connection",
         "User Profiles: 5 customizable settings",
         "User Profiles: 5",
@@ -14448,7 +14445,6 @@
         "Lighting: 50 LEDs (full length of free arm)"
       ],
       "Smart Features": [
-        "USB Connection",
         "HDMI Connection",
         "User Profiles: 5 customizable settings",
         "User Profiles: 5",
@@ -14544,7 +14540,6 @@
         "Lighting: 50 LEDs (full throat space and above needle)"
       ],
       "Smart Features": [
-        "USB Connection",
         "HDMI Connection",
         "Customizable Interface",
         "User Profiles: 5 customizable",
@@ -23114,7 +23109,7 @@
         "Needle Threader",
         "Thread Cutter: Automatic",
         "3.6\" Backlit LCD Display",
-        "10\" All-Metal Seamless Flatbed Throat Space",
+        "10\" All-Metal Smooth Flatbed Throat Space",
         "Shipping Box: 26 x 22 x 16 in.",
         "Shipping Weight: 34 lbs",
         "1-Year Quality Sewing Warranty"
@@ -23137,7 +23132,7 @@
       "Smart Features": [
         "One-Push Needle Plate Conversion with 2 Included Plates",
         "Memorized Needle Up/Down",
-        "10\" All-Metal Seamless Flatbed",
+        "10\" All-Metal Smooth Flatbed",
         "6 LEDs in 3 Locations",
         "Drop Feed",
         "Foot Pressure Adjustment Dial",
@@ -25504,9 +25499,9 @@
         "Variable Zig Zag: For free motion quilting",
         "Sewing Applications: On-screen support",
         "StitchComposer: Stitch creation PC software",
-        "Flatbed: 17.81 in. all-metal seamless",
+        "Flatbed: 17.81 in. all-metal smooth",
         "Needle Plate: Advanced plate markings, automatic one-touch needle plate conversion",
-        "Streamlined Profile: For broader sewing field view"
+        "Simplified Profile: For broader sewing field view"
       ],
       "Included Feet": [
         "1/4\" Seam Foot O (w/ Guide) 9mm",
@@ -26426,10 +26421,10 @@
       ],
       "Smart Features": [
         "Industrial Strength: Heavy-duty construction for thick fabrics (leather, cork)",
-        "Streamlined Design: Closed bed design with no lubrication holes for cleaner workspace",
+        "Simplified Design: Closed bed design with no lubrication holes for cleaner workspace",
         "Quilt Frame Compatible: Speed, size, and side-loading bobbin ideal for quilt frames",
         "Heavy Weight Thread Guide: Stabilizes thread tension for heavy-duty fabrics",
-        "Flatbed: 12.25 x 7 in. seamless, heavy-duty, powder-coated, all-metal"
+        "Flatbed: 12.25 x 7 in. smooth, heavy-duty, powder-coated, all-metal"
       ],
       "Included Feet": [
         "Hemmer Foot",
@@ -27491,7 +27486,7 @@
         "AcuFeed Flex™: Detachable dual feed layered fabric feeding system with AD foot",
         "Professional HP Needle Plate and Foot",
         "Free Motion Quilting Holder (QB-S)",
-        "Flatbed: 10 in. all-metal seamless flatbed",
+        "Flatbed: 10 in. all-metal smooth flatbed",
         "Extension Table: Large extension table included",
         "Detachable Stitch Chart: Included"
       ],
@@ -28024,16 +28019,14 @@
       "embroideryArea": null,
       "maxSpeed": null,
       "screenSize": null,
-      "includedFeet": 3,
+      "includedFeet": 4,
       "throatSpace": "6.7\"",
       "threadCount": null
     },
     "specs": {
       "Key Specs": [
         "23 built-in stitches",
-        "4-step buttonhole",
         "Maximum stitch width: 5 mm",
-        "Maximum stitch length: 4 mm",
         "Built-in one-hand needle threader",
         "6.7\" Throat Space to the right of the needle",
         "25/5/1 Year Limited Warranty"
@@ -28047,16 +28040,14 @@
         "4-piece feed dog",
         "Drop feed",
         "Reverse lever",
-        "Extra high presser foot lift",
+        "Extra high pressure foot lift",
         "Foot pressure adjustment",
-        "Snap-on presser feet",
-        "Stitch selection dials"
+        "Snap-on presser feet"
       ],
       "Threading & Convenience": [
         "Built-in one-hand needle threader",
         "Manual thread tension control",
-        "Top-loading full rotary hook bobbin",
-        "Auto declutch bobbin winder"
+        "Top-loading full rotary hook bobbin"
       ],
       "Workspace & Display": [
         "Free Arm: Yes",
@@ -28065,6 +28056,7 @@
       ],
       "Included Feet": [
         "Blind Hem Foot (Adjustable)",
+        "Standard Sewing Foot",
         "Zig-Zag Foot",
         "Zipper Foot E"
       ],
@@ -28088,10 +28080,10 @@
     "dimensions": "16 x 11.9 x 7 in.",
     "ks": {
       "stitchCount": "23",
-      "buttonholes": "4-step",
+      "buttonholes": "1",
       "needleThreader": "Built-in",
       "throatSpace": "6.7\"",
-      "includedFeet": "3",
+      "includedFeet": "4",
       "warranty": "25/5/1 Year Limited Warranty"
     },
     "ws": {
@@ -30611,7 +30603,7 @@
         "26 Built-in Stitches",
         "1,300 SPM",
         "Needle Threader: Automatic",
-        "4.8\" Sewing Space to the right of the needle",
+        "4.8\" Throat Space to the right of the needle",
         "Manual Color-Coded Lay-in Threading System",
         "5/1 Year Limited Warranty"
       ],
@@ -36014,7 +36006,7 @@
         "24\" cutting width",
         "Max cutting area: 24\" x 24\" with mat, 24\" x 144\" without mat",
         "LCD touchscreen",
-        "WiFi and USB connectivity",
+        "WiFi connectivity",
         "Basic and rotary blades included",
         "1 Year Limited Warranty"
       ],
@@ -36040,7 +36032,7 @@
         "Max Cutting Area (without mat): 24\" x 144\" (adhesive-backed materials)",
         "Cutting Force: Adjustable",
         "Cutting Speed: Adjustable",
-        "High Precision (cuts small letters and intricate details)",
+        "High Precision (cuts small letters and detailed details)",
         "Mat-Free Cutting (for adhesive-backed materials)",
         "Built-in Quilting Shapes: 5 presets"
       ],
