@@ -23192,6 +23192,87 @@
     }
   },
   {
+    "handle": "handi-quilter-hq-super-sixteen-16-inch-longarm",
+    "title": "Handi Quilter HQ Super Sixteen 16-Inch Longarm Quilting Machine",
+    "brand": "Handi Quilter",
+    "url": "/products/handi-quilter-hq-super-sixteen-16-inch-longarm",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/p-003.png?v=1791566106",
+    "price": 10495.0,
+    "compareAtPrice": null,
+    "isOnSale": false,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Quilting",
+      "Longarm"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 24,
+      "embroideryArea": null,
+      "maxSpeed": 2500,
+      "screenSize": null,
+      "includedFeet": null,
+      "throatSpace": "16\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "16\" Throat Space",
+        "Up to 2,500 Stitches per Minute",
+        "QuiltMaster Stitch Regulation",
+        "4 to 24 Stitches per Inch",
+        "Compatible with Pro-Stitcher Premium only",
+        "Available on Little Foot (5 ft) or Studio3 (10 ft or 12 ft) Frame",
+        "10/5/5 Year Limited Warranty"
+      ],
+      "Features": [
+        "Cast aluminum body",
+        "Up to 2,500 stitches per minute",
+        "4 to 24 stitches per inch (SPI)",
+        "Magnetic Tool Minder"
+      ],
+      "Threading & Convenience": [
+        "Thread-break sensor",
+        "Low-bobbin alarm"
+      ],
+      "Workspace & Display": [
+        "Workspace Right of Needle: 16\" to the right of the needle",
+        "Lighting: Multi-point LED lighting"
+      ],
+      "Smart Features": [
+        "Pro-Stitcher Premium compatible",
+        "QuiltMotion stitch regulator",
+        "Easy-Set Tension with Quick Controls"
+      ],
+      "Compatible Frames": [
+        "HQ Little Foot Frame (5 ft)",
+        "HQ Studio3 Frame (10 ft or 12 ft)"
+      ],
+      "Warranty": [
+        "10-Year Limited Warranty on Sewing Head Casting",
+        "5-Year Limited Warranty on Mechanical Parts",
+        "5-Year Limited Warranty on Electronic and Electrical Components",
+        "90-Day Limited Warranty on Parts and Labor",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "24",
+      "maxSpeed": "2,500 SPM",
+      "throatSpace": "16\"",
+      "warranty": "10/5/5 Year Limited Warranty"
+    },
+    "ws": {
+      "workspace": "16\" to the right of the needle",
+      "lighting": "Multi-point LED lighting"
+    }
+  },
+  {
     "handle": "handi-quilter-infinity-28-system",
     "title": "Handi Quilter Infinity 28 Longarm Quilting System",
     "brand": "Handi Quilter",
