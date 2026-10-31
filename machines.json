@@ -28590,13 +28590,11 @@
         "Superior Needle Threader 2",
         "Automatic thread cutter",
         "Automatic thread tension",
-        "Top-loading full rotary hook bobbin",
         "Easy set bobbin",
         "Bobbin winder with plate and cutting blade"
       ],
       "Workspace & Display": [
         "Display: LCD",
-        "Speed Control: Speed slider",
         "Free Arm: Yes",
         "Workspace Right of Needle: 8.3\" W x 4.7\" H",
         "Lighting: 4 LED lights in 2 locations",
@@ -28605,10 +28603,6 @@
       "Smart Features": [
         "Memorized needle up/down",
         "Stitch memory",
-        "Start/stop button",
-        "Speed control slider",
-        "Lock stitch button",
-        "Easy reverse button",
         "Direct select buttons for 8 utility stitches",
         "Accessory storage"
       ],
@@ -28653,7 +28647,6 @@
     },
     "ws": {
       "display": "LCD",
-      "speedControl": "Speed slider",
       "freeArm": "Yes",
       "workspace": "8.3\" W x 4.7\" H",
       "lighting": "4 LED lights in 2 locations",
@@ -35666,13 +35659,9 @@
         "16 built-in stitches for basic sewing, decorative stitching, mending, and crafts",
         "Stitch selector dial",
         "Preset stitch length and stitch width",
-        "Adjustable stitch width (0 to 5.0 mm)",
-        "Adjustable stitch length (0 to 4.0 mm)",
         "4-step buttonhole with buttonhole balance dial",
         "Thread tension dial",
-        "Reverse lever",
-        "Snap-on presser feet",
-        "Presser foot lifter with extra room under the foot for thick projects"
+        "Snap-on presser feet"
       ],
       "Threading & Convenience": [
         "Manual thread cutter",
@@ -35761,9 +35750,7 @@
         "Preset stitch length and width",
         "4-step buttonhole",
         "Thread tension dial",
-        "Reverse lever",
         "Snap-on presser feet",
-        "Presser foot lifter with extra room under the foot for thick projects",
         "Sturdy metal frame"
       ],
       "Threading & Convenience": [
@@ -36050,11 +36037,8 @@
         "Stitch selector dial",
         "Adjustable stitch length",
         "Adjustable stitch width (5 mm)",
-        "Infinite straight stitch needle position",
         "One-step buttonhole",
-        "Reverse lever",
-        "Darning plate for free-motion sewing",
-        "Two-step presser foot lifter"
+        "Darning plate for free-motion sewing"
       ],
       "Threading & Convenience": [
         "Built-in needle threader",
