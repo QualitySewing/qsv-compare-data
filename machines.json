@@ -12863,7 +12863,7 @@
       "Includes Patchwork Foot #97 for accurate ¼\" seams",
       "Dual Feed system ensures even fabric feeding",
       "Automatic thread cutter saves time with every seam",
-      "240 built-in stitches and intuitive color touchscreen"
+      "1,450 stitch patterns and intuitive color touchscreen"
     ],
     "cardSpecs": {
       "stitchCount": 1450,
@@ -20531,6 +20531,254 @@
     }
   },
   {
+    "handle": "elna-3210-designed-for-jeans-sewing-machine",
+    "title": "Elna 3210 Designed for Jeans Sewing Machine",
+    "brand": "Elna",
+    "url": "/products/elna-3210-designed-for-jeans-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/3210-Gabarit-WEB_2023.jpg?v=1791229296",
+    "price": 499.0,
+    "compareAtPrice": 599.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 19,
+      "embroideryArea": null,
+      "maxSpeed": 860,
+      "screenSize": null,
+      "includedFeet": 8,
+      "throatSpace": null,
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "19 Stitches Including 1-Step Buttonhole",
+        "Maximum Sewing Speed: 860 SPM",
+        "Built-In Needle Threader",
+        "8 Presser Feet Included",
+        "Maximum Stitch Width: 6.5 mm",
+        "Strong Needle Penetration",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "19 stitches including a 1-step buttonhole",
+        "Maximum stitch width: 6.5 mm",
+        "Maximum stitch length: 4 mm",
+        "Maximum sewing speed: 860 SPM",
+        "Strong needle penetration",
+        "Variable needle positions",
+        "Buttonhole fine adjustment",
+        "Drop feed dog",
+        "Retractable feed dog",
+        "Manual thread tension",
+        "Foot pressure adjustment",
+        "Extra-high presser foot lifter",
+        "Clip-on presser foot",
+        "Reverse sewing lever",
+        "Stitch reference chart on the top cover"
+      ],
+      "Threading & Convenience": [
+        "Built-in needle threader",
+        "Built-in manual thread cutter",
+        "Horizontal rotary hook with transparent bobbin cover",
+        "Bobbin winder with automatic declutch",
+        "Horizontal spool pin"
+      ],
+      "Workspace & Display": [
+        "Display: LCD",
+        "Free Arm: Yes",
+        "Lighting: 1 LED light"
+      ],
+      "Included Feet": [
+        "Automatic buttonhole foot R",
+        "Blind hem foot G",
+        "Extra-large buttonhole foot B",
+        "Overedge foot C",
+        "Rolled hem foot D",
+        "Satin stitch foot F",
+        "Standard foot A",
+        "Zipper foot E"
+      ],
+      "Included Accessories": [
+        "Quilting guide bar",
+        "Bobbins (5)",
+        "Needle set",
+        "Seam ripper",
+        "Lint brush",
+        "Screwdriver",
+        "Spool holders: 1 small, 1 large",
+        "Additional spool pin",
+        "Spool stand",
+        "Spool felt",
+        "Jeans carrying bag",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "2-digit stitch selection display",
+        "Accessory storage in the free arm and top cover",
+        "Carrying handle"
+      ]
+    },
+    "weightLbs": 20.5,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "19",
+      "maxSpeed": "860 SPM",
+      "buttonholes": "1 (one-step)",
+      "needleThreader": "Built-in",
+      "threadCutter": "Manual",
+      "display": "LCD",
+      "includedFeet": "8",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "LCD",
+      "freeArm": "Yes",
+      "lighting": "1 LED light"
+    }
+  },
+  {
+    "handle": "elna-excellence-580-plus-fashion-decor-sewing-machine",
+    "title": "Elna eXcellence 580 Plus Fashion & Decor Edition Sewing Machine",
+    "brand": "Elna",
+    "url": "/products/elna-excellence-580-plus-fashion-decor-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/2-4_produits-580_large-1.jpg?v=1791229734",
+    "price": 1299.0,
+    "compareAtPrice": 1399.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 120,
+      "embroideryArea": null,
+      "maxSpeed": 820,
+      "screenSize": null,
+      "includedFeet": 13,
+      "throatSpace": "8.3\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "120 Stitches Including 7 One-Step Sensor Buttonholes and Alphabet",
+        "Maximum Sewing Speed: 820 SPM",
+        "Built-in Superior System Needle Threader",
+        "Automatic and Programmable Thread Cutter",
+        "8.3\" Throat Space to the right of the needle (210 mm)",
+        "13 Presser Feet Included (9 Standard + 4 Fashion & Decor Bonus)",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "120 stitches",
+        "7 one-step sensor buttonholes",
+        "Maximum stitch width: 7 mm",
+        "Maximum stitch length: 5 mm",
+        "Maximum sewing speed: 820 SPM",
+        "15 needle positions",
+        "Pattern combinations of up to 50 stitches",
+        "Direct selection of 4 patterns on the touch panel",
+        "Twin-needle sewing",
+        "7-piece retractable feed dog",
+        "Semi-automatic thread tension",
+        "Manual presser foot pressure adjustment",
+        "Manual extra-high presser foot position",
+        "Clip-on presser foot conversion system",
+        "Start/stop button, reverse sewing, and automatic lock stitch",
+        "Needle up/down position",
+        "Speed control slider",
+        "Mirroring of patterns",
+        "Resuming a pattern combination from the beginning"
+      ],
+      "Threading & Convenience": [
+        "Built-in Superior System needle threader",
+        "Automatic and programmable thread cutter",
+        "Easy guided bobbin threader with built-in thread cutter",
+        "Horizontal rotary hook with clear bobbin cover",
+        "Bobbin winder with automatic declutch",
+        "Horizontal spool pin"
+      ],
+      "Workspace & Display": [
+        "Display: Touchscreen",
+        "Speed Control: Speed slider",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 8.3\" to the right of the needle",
+        "Lighting: 4 white LED lamps in 2 areas"
+      ],
+      "Included Feet": [
+        "1/4 in. seam foot O",
+        "Automatic buttonhole foot R",
+        "Blind hem foot G",
+        "Invisible zipper foot Z",
+        "Open-toe embroidery and darning foot P-2",
+        "Open-toe satin stitch foot F2",
+        "Overedge foot C",
+        "Piping foot I",
+        "Rolled hem foot D",
+        "Satin stitch foot F",
+        "Standard foot A",
+        "Ultra-glide no-stick foot U",
+        "Zipper foot E"
+      ],
+      "Included Accessories": [
+        "Extra-wide extension table",
+        "Circular sewing pivot pin",
+        "4 bobbins and needle set",
+        "Seam ripper and lint brush",
+        "Spool holders: 2 small, 2 large, 2 special",
+        "Additional spool pin",
+        "Screwdriver (small) and touch panel stylus",
+        "Semi-hard cover",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Extra-wide extension table: 50 x 30 cm (19.7 x 11.8 in.)",
+        "Accessory storage at the front and in the arm",
+        "Stitch reference chart on the top cover"
+      ]
+    },
+    "weightLbs": 21.6,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "120",
+      "maxSpeed": "820 SPM",
+      "buttonholes": "7",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "display": "Touchscreen",
+      "throatSpace": "8.3\"",
+      "includedFeet": "13",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "Touchscreen",
+      "speedControl": "Speed slider",
+      "freeArm": "Yes",
+      "workspace": "8.3\" to the right of the needle",
+      "lighting": "4 white LED lamps in 2 areas"
+    }
+  },
+  {
     "handle": "elna-excellence-720-pro-quilting-machine",
     "title": "Elna eXcellence 720 PRO Quilting Machine",
     "brand": "Elna",
@@ -23725,8 +23973,7 @@
     "isPromo": false,
     "isPreOwned": false,
     "types": [
-      "Sewing",
-      "Quilting"
+      "Sewing"
     ],
     "tagline": null,
     "highlights": [],
@@ -24467,8 +24714,7 @@
     "isPromo": false,
     "isPreOwned": false,
     "types": [
-      "Sewing",
-      "Quilting"
+      "Sewing"
     ],
     "tagline": null,
     "highlights": [],
@@ -27144,6 +27390,228 @@
     }
   },
   {
+    "handle": "janome-memory-craft-500e-embroidery-machine",
+    "title": "Janome Memory Craft 500E Limited Edition Embroidery Machine",
+    "brand": "Janome",
+    "url": "/products/janome-memory-craft-500e-embroidery-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/janome-memory-craft-500e-dedicated-embroidery-machine-sewing-serger-embroidery-machines-911814.webp?v=1762442185",
+    "price": 2299.0,
+    "compareAtPrice": 3499.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Embroidery"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": null,
+      "maxSpeed": 860,
+      "screenSize": null,
+      "includedFeet": null,
+      "throatSpace": "12\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "160 built-in designs",
+        "7.9 x 11 in. maximum embroidery area",
+        "Embroidery speed: 400-860 SPM",
+        "LCD full color touchscreen",
+        "4 hoops included",
+        "6 monogramming fonts",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Embroidery Features": [
+        "160 built-in designs",
+        "Maximum embroidery area: 7.9 x 11 in.",
+        "Embroidery speed: 400-860 SPM",
+        "Adjustable speed while embroidering",
+        "6 fonts for monogramming",
+        "Adjustable hoop positioning",
+        "On-screen editing: enlarge/reduce, rotate, flip, drag and drop, arc, combine, copy and paste, grouping, corner layout, single color sewing, zoom",
+        "Embroidery format: .JEF",
+        "2 and 3 letter monogramming",
+        "Flexible stitch traveling in units of 1, 10, and 100",
+        "Programmable jump thread trimming",
+        "Auto return after a thread break",
+        "AcuStitch PC-compatible software (online download)"
+      ],
+      "Threading & Convenience": [
+        "Built-in needle threader",
+        "Automatic thread cutter",
+        "Automatic thread tension",
+        "Top-loading full rotary hook bobbin",
+        "Bobbin winder with plate and cutting blade"
+      ],
+      "Workspace & Display": [
+        "Display: Touchscreen",
+        "Workspace Right of Needle: 12\" W x 4.7\" H",
+        "Dimensions: 23 x 12.9 x 17.7 in."
+      ],
+      "Smart Features": [
+        "USB design transfer",
+        "Start/stop button",
+        "Thread brand selection on screen: Janome, Robison-Anton, Madeira, Mettler"
+      ],
+      "Included Hoops": [
+        "RE28b: 7.9 x 11 in. (200 x 280 mm)",
+        "SQ20b: 7.9 x 7.9 in.",
+        "RE20b: 5.5 x 7.9 in.",
+        "SQ14b: 5.5 x 5.5 in."
+      ],
+      "Included Accessories": [
+        "Extra wide extension table",
+        "USB drive with 30 large exclusive designs",
+        "AcuStitch software (online download)",
+        "Standard bobbin",
+        "Bobbin holder for embroidery (high tension)",
+        "Spool holder, large",
+        "Spool holder, small",
+        "Spool holder, special",
+        "Large screwdriver",
+        "Triangle screwdriver",
+        "Lint brush",
+        "Thread snips",
+        "Touch panel stylus"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 11.5,
+    "dimensions": "23 x 12.9 x 17.7 in.",
+    "ks": {
+      "stitchCount": "Dedicated embroidery",
+      "maxSpeed": "860 SPM",
+      "needleThreader": "Built-in",
+      "threadCutter": "Automatic",
+      "display": "Touchscreen",
+      "throatSpace": "12\"",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "Touchscreen",
+      "workspace": "12\" W x 4.7\" H",
+      "dimensions": "23 x 12.9 x 17.7 in."
+    }
+  },
+  {
+    "handle": "janome-memory-craft-550e-embroidery-machine",
+    "title": "Janome Memory Craft 550E Embroidery Machine",
+    "brand": "Janome",
+    "url": "/products/janome-memory-craft-550e-embroidery-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/janome-memory-craft-550e-embroidery-machine-sewing-serger-embroidery-machines-602052.webp?v=1762442186",
+    "price": 2999.0,
+    "compareAtPrice": 4999.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Embroidery"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": null,
+      "maxSpeed": 860,
+      "screenSize": null,
+      "includedFeet": null,
+      "throatSpace": "12\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "180 built-in designs",
+        "7.9 x 14.2 in. maximum embroidery area",
+        "Embroidery speed: 400-860 SPM",
+        "LCD full color touchscreen",
+        "4 hoops included",
+        "6 monogramming fonts",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Embroidery Features": [
+        "180 built-in designs: classic designs, floral alphabets, in-the-hoop monsters, Sashiko designs",
+        "Maximum embroidery area: 7.9 x 14.2 in. (with magnetic clips)",
+        "Embroidery speed: 400-860 SPM",
+        "Adjustable speed while embroidering",
+        "6 fonts for monogramming",
+        "Adjustable hoop positioning",
+        "On-screen editing: enlarge/reduce, rotate, flip, drag and drop, arc, combine, copy and paste, grouping, corner layout, single color sewing, zoom",
+        "Embroidery formats: .JEF, .JEF+, .JPX",
+        "2 and 3 letter monogramming",
+        "Flexible stitch traveling in units of 1, 10, 100, and 500",
+        "Programmable jump thread trimming",
+        "Auto return after a thread break"
+      ],
+      "Threading & Convenience": [
+        "Built-in needle threader",
+        "Automatic thread cutter",
+        "Anti-kink thread guide",
+        "Automatic thread tension",
+        "Top-loading full rotary hook bobbin",
+        "Bobbin winder with plate and cutting blade"
+      ],
+      "Workspace & Display": [
+        "Display: Touchscreen",
+        "Workspace Right of Needle: 12\" W x 4.7\" H",
+        "Dimensions: 23 x 12.9 x 17.7 in."
+      ],
+      "Smart Features": [
+        "USB design transfer",
+        "Start/stop button",
+        "Thread brand selection on screen: Janome, Robison-Anton, Madeira, Mettler"
+      ],
+      "Included Hoops": [
+        "RE36b: 7.9 x 14.2 in. (200 x 360 mm), magnetic clips, patent pending hoop levers",
+        "SQ20b: 7.9 x 7.9 in.",
+        "RE20b: 5.5 x 7.9 in.",
+        "SQ14b: 5.5 x 5.5 in."
+      ],
+      "Included Accessories": [
+        "Extra wide extension table",
+        "Assorted needle set",
+        "Bobbin holder for embroidery (high tension)",
+        "Spool holder, large",
+        "Spool holder, small",
+        "Spool holder, special",
+        "Large screwdriver",
+        "Triangle screwdriver",
+        "Lint brush",
+        "Thread snips",
+        "Touch panel stylus"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 11.5,
+    "dimensions": "23 x 12.9 x 17.7 in.",
+    "ks": {
+      "stitchCount": "Dedicated embroidery",
+      "maxSpeed": "860 SPM",
+      "needleThreader": "Built-in",
+      "threadCutter": "Automatic",
+      "display": "Touchscreen",
+      "throatSpace": "12\"",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "Touchscreen",
+      "workspace": "12\" W x 4.7\" H",
+      "dimensions": "23 x 12.9 x 17.7 in."
+    }
+  },
+  {
     "handle": "janome-memory-craft-6650-sewing-quilting-machine",
     "title": "Janome Memory Craft 6650 Sewing & Quilting Machine",
     "brand": "Janome",
@@ -27747,6 +28215,103 @@
     }
   },
   {
+    "handle": "janome-mylock-654d-sailing-line-serger",
+    "title": "Janome MyLock 654D Sailing Line Serger",
+    "brand": "Janome",
+    "url": "/products/janome-mylock-654d-sailing-line-serger",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/MyLock-654_front-1536x1198.jpg?v=1791221375",
+    "price": 799.0,
+    "compareAtPrice": 899.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": null,
+      "maxSpeed": 1300,
+      "screenSize": null,
+      "includedFeet": 1,
+      "throatSpace": null,
+      "threadCount": "4 Thread"
+    },
+    "specs": {
+      "Key Specs": [
+        "2, 3, or 4 thread serger",
+        "1 and 2 needle operation",
+        "Maximum sewing speed: 1,300 SPM",
+        "Differential feed: 0.5-2.25",
+        "Stitch length: 1.0-5.0 mm",
+        "8-piece feed dog",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Threading": [
+        "Threading chart",
+        "Color-coded thread guides",
+        "Easy threading lower looper",
+        "Easily accessible lower looper guides",
+        "Slide-in tension dials, manual",
+        "Tension release lever",
+        "Lower looper pretension setting slider",
+        "Quick change rolled hem",
+        "Changeable thread guide",
+        "Easily retractable rubber upper knife"
+      ],
+      "Workspace & Display": [
+        "Dimensions: 11.3 x 10.5 x 10.6 in."
+      ],
+      "Included Accessories": [
+        "Waste chip box",
+        "Serger foot (long)",
+        "Needle set",
+        "Upper knife",
+        "Needle threader",
+        "Accessory box",
+        "Tweezers",
+        "Screwdriver, large",
+        "Screwdriver, small",
+        "Spanner",
+        "Spreader",
+        "Spool nets",
+        "Spool cap, large",
+        "Spool holder",
+        "Machine oil",
+        "Lint brush"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Cutting width: 3.1-7.3 mm",
+        "Stitch length: 1.0-5.0 mm",
+        "Adjustable foot pressure",
+        "Snap-on presser feet",
+        "Wide chaining finger",
+        "Spool stand",
+        "Metal base cover",
+        "Vibration-dampening rubber feet"
+      ]
+    },
+    "weightLbs": 15.4,
+    "dimensions": "11.3 x 10.5 x 10.6 in.",
+    "ks": {
+      "maxSpeed": "1,300 SPM",
+      "threadCount": "4 Thread",
+      "includedFeet": "1",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "dimensions": "11.3 x 10.5 x 10.6 in."
+    }
+  },
+  {
     "handle": "janome-mystyle-100-sewing-machine",
     "title": "Janome MyStyle 100 Sewing Machine",
     "brand": "Janome",
@@ -27854,8 +28419,7 @@
     "isPromo": false,
     "isPreOwned": false,
     "types": [
-      "Sewing",
-      "Quilting"
+      "Sewing"
     ],
     "tagline": null,
     "highlights": [],
@@ -28443,7 +29007,8 @@
     "isPromo": false,
     "isPreOwned": false,
     "types": [
-      "Sewing"
+      "Sewing",
+      "Quilting"
     ],
     "tagline": null,
     "highlights": [],
@@ -29616,7 +30181,7 @@
       "maxSpeed": 1500,
       "screenSize": null,
       "includedFeet": 1,
-      "throatSpace": "2.85\"",
+      "throatSpace": null,
       "threadCount": "4/3/2 Thread"
     },
     "specs": {
@@ -29636,7 +30201,7 @@
       ],
       "Workspace & Display": [
         "Display: LCD",
-        "Workspace Right of Needle: 2.85\" W x 2.85\" H",
+        "Workspace Right of Needle: Workspace height 2.85\"",
         "Dimensions: 13 x 12.2 x 11 in. (W x H x D)"
       ],
       "Included Accessories": [
@@ -29664,14 +30229,13 @@
       "needleThreader": "Built-in",
       "threadingSystem": "Air Looper Threading",
       "display": "LCD",
-      "throatSpace": "2.85\"",
       "threadCount": "4/3/2 Thread",
       "includedFeet": "1",
       "warranty": "5/2 Year Limited Warranty"
     },
     "ws": {
       "display": "LCD",
-      "workspace": "2.85\" W x 2.85\" H",
+      "workspace": "Workspace height 2.85\"",
       "dimensions": "13 x 12.2 x 11 in. (W x H x D)"
     }
   },
@@ -29704,7 +30268,7 @@
       "maxSpeed": 1500,
       "screenSize": null,
       "includedFeet": 1,
-      "throatSpace": "2.68\"",
+      "throatSpace": null,
       "threadCount": "4 Thread"
     },
     "specs": {
@@ -29725,7 +30289,7 @@
         "Spare Lower Knife: Included"
       ],
       "Workspace & Display": [
-        "Workspace Right of Needle: 2.68\" W x 2.68\" H",
+        "Workspace Right of Needle: Workspace height 2.68\"",
         "Lighting: 2 LED lights",
         "Dimensions: 13.75 x 13.4 x 12.2 in. (W x H x D)"
       ],
@@ -29770,13 +30334,12 @@
       "maxSpeed": "1,500 SPM",
       "needleThreader": "Built-in",
       "threadingSystem": "Air Looper Threading",
-      "throatSpace": "2.68\"",
       "threadCount": "4 Thread",
       "includedFeet": "1",
       "warranty": "5/2 Year Limited Warranty"
     },
     "ws": {
-      "workspace": "2.68\" W x 2.68\" H",
+      "workspace": "Workspace height 2.68\"",
       "lighting": "2 LED lights",
       "dimensions": "13.75 x 13.4 x 12.2 in. (W x H x D)"
     }
