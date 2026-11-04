@@ -20779,6 +20779,290 @@
     }
   },
   {
+    "handle": "elna-excellence-680-plus-fashion-decor-sewing-machine",
+    "title": "Elna eXcellence 680 Plus Fashion & Decor Edition Sewing Machine",
+    "brand": "Elna",
+    "url": "/products/elna-excellence-680-plus-fashion-decor-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/680plus-Gabarit-WEB_2023-2.jpg?v=1791221428",
+    "price": 1699.0,
+    "compareAtPrice": 1799.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing",
+      "Quilting"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 170,
+      "embroideryArea": null,
+      "maxSpeed": 1000,
+      "screenSize": null,
+      "includedFeet": 20,
+      "throatSpace": "8.3\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "170 Stitches Including One-Step Automatic Buttonholes and Alphabet",
+        "Maximum Sewing Speed: 1,000 SPM",
+        "Built-in Superior System Needle Threader",
+        "Automatic and Programmable Thread Cutter",
+        "8.3\" Throat Space to the right of the needle (210 mm)",
+        "20 Presser Feet Included (15 Standard + 5 Fashion & Decor Bonus)",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "170 stitches",
+        "One-step automatic buttonholes",
+        "Alphabet in 2 fonts",
+        "Capital letters and numbers in 9 mm",
+        "Maximum stitch width: 9 mm",
+        "Maximum stitch length: 5 mm",
+        "Maximum sewing speed: 1,000 SPM",
+        "91 needle positions",
+        "Pattern combinations of up to 50 stitches",
+        "Twin-needle sewing",
+        "7-piece retractable feed dog",
+        "Semi-automatic thread tension",
+        "Manual presser foot pressure adjustment",
+        "Manual extra-high presser foot position",
+        "Clip-on presser foot conversion system",
+        "One-step needle plate conversion",
+        "Start/stop button, reverse sewing, and automatic lock stitch",
+        "Needle up/down position",
+        "Speed control slider",
+        "Mirroring of patterns",
+        "Resuming a pattern combination from the beginning",
+        "Convertible free-motion quilting kit QB-S with closed-toe, open-toe, and clear-view feet"
+      ],
+      "Threading & Convenience": [
+        "Built-in Superior System needle threader",
+        "Automatic and programmable thread cutter",
+        "Easy guided bobbin threader with built-in thread cutter",
+        "Horizontal rotary hook with clear bobbin cover",
+        "Bobbin winder with automatic declutch",
+        "Horizontal spool pin"
+      ],
+      "Workspace & Display": [
+        "Display: Touchscreen",
+        "Speed Control: Speed slider",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 8.3\" W x 4.7\" H",
+        "Lighting: 6 white LED lamps in 3 areas"
+      ],
+      "Smart Features": [
+        "Direct selection of 4 patterns on the touch panel",
+        "Temporary memory for pattern combinations",
+        "Drop feed sensor",
+        "Remote thread cutter port",
+        "Extra-wide extension table: 50 x 30 cm (19.7 x 11.8 in.)",
+        "Accessory storage at the front and in the arm",
+        "Stitch reference chart on the top cover"
+      ],
+      "Included Feet": [
+        "1/4 in. seam foot O",
+        "Automatic buttonhole foot R with stabilizer plate",
+        "Bias binder foot W",
+        "Blind hem foot G",
+        "Button sewing foot T",
+        "Darning foot PD-H",
+        "Even feed foot",
+        "Gathering foot V",
+        "Invisible zipper foot Z",
+        "Open-toe satin stitch foot F2",
+        "Overlock foot M",
+        "Piping foot I",
+        "Rolled hem foot D",
+        "Satin stitch foot F",
+        "Standard foot A",
+        "Ultra-glide no-stick foot U",
+        "Zipper foot E"
+      ],
+      "Included Accessories": [
+        "Extra-wide extension table",
+        "Knee lifter",
+        "Circular pivot pin",
+        "Quilting guide bar and quilting guide bar for the even feed foot",
+        "Straight stitch needle plate",
+        "5 bobbins and a 10-unit Easy bobbin kit",
+        "Needle set",
+        "Seam ripper and lint brush",
+        "Spool holders: 2 small, 2 large, 2 special",
+        "Additional spool pin",
+        "Screwdriver (small) and touch panel stylus",
+        "Semi-hard cover",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 22.1,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "170",
+      "maxSpeed": "1,000 SPM",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "display": "Touchscreen",
+      "throatSpace": "8.3\"",
+      "includedFeet": "20",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "Touchscreen",
+      "speedControl": "Speed slider",
+      "freeArm": "Yes",
+      "workspace": "8.3\" W x 4.7\" H",
+      "lighting": "6 white LED lamps in 3 areas"
+    }
+  },
+  {
+    "handle": "elna-excellence-710-sewing-machine",
+    "title": "Elna eXcellence 710 Sewing Machine",
+    "brand": "Elna",
+    "url": "/products/elna-excellence-710-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/710-Gabarit-WEB_2023.jpg?v=1791229687",
+    "price": 2099.0,
+    "compareAtPrice": 3499.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing",
+      "Quilting"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 170,
+      "embroideryArea": null,
+      "maxSpeed": 1000,
+      "screenSize": null,
+      "includedFeet": 15,
+      "throatSpace": "11.0\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "170 Stitches Including 10 Automatic Buttonholes and Alphabet",
+        "Maximum Sewing Speed: 1,000 SPM",
+        "Automatic and Programmable Thread Cutter",
+        "11.0\" Throat Space to the right of the needle (280 mm)",
+        "Removable Dual Feed System",
+        "15 Presser Feet Included",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "170 stitches",
+        "10 one-step automatic buttonholes",
+        "Capital letters and numbers in 9 mm",
+        "Maximum stitch width: 9 mm",
+        "Maximum stitch length: 5 mm",
+        "91 variable needle positions",
+        "Mirroring of patterns",
+        "Resuming a pattern combination from the beginning",
+        "Maximum sewing speed: 1,000 SPM",
+        "Pattern combinations of up to 50 stitches",
+        "Twin-needle sewing",
+        "Removable Dual Feed system with wide foot",
+        "7-piece retractable feed dog",
+        "Semi-automatic thread tension",
+        "Manual presser foot pressure adjustment",
+        "Manual extra-high presser foot position",
+        "Clip-on presser foot conversion system",
+        "One-step needle plate conversion",
+        "Start/stop button, reverse sewing, and automatic lock stitch",
+        "Needle up/down position",
+        "Speed control slider",
+        "Convertible free-motion quilting kit QB-S with closed-toe, open-toe, and clear-view feet"
+      ],
+      "Threading & Convenience": [
+        "Built-in needle threader",
+        "Automatic and programmable thread cutter",
+        "Easy guided bobbin threader with built-in thread cutter",
+        "Horizontal rotary hook with clear bobbin cover",
+        "Bobbin winder with automatic declutch",
+        "Horizontal spool pin"
+      ],
+      "Workspace & Display": [
+        "Display: Touchscreen",
+        "Speed Control: Speed slider",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 11.0\" W x 4.7\" H",
+        "Lighting: 5 white LED lamps in 3 areas"
+      ],
+      "Smart Features": [
+        "Direct selection of 4 patterns",
+        "Temporary memory for pattern combinations",
+        "Drop feed sensor",
+        "Automatic power-off time setting",
+        "3 built-in accessory storage compartments",
+        "Carrying handle",
+        "Stitch reference chart on the top cover"
+      ],
+      "Included Feet": [
+        "1/4 in. seam foot O",
+        "Automatic buttonhole foot R with stabilizer plate",
+        "Blind hem foot G",
+        "Button sewing foot T",
+        "Darning foot PD-H",
+        "Dual Feed foot AD (wide)",
+        "Open-toe satin stitch foot F2",
+        "Overlock foot M",
+        "Rolled hem foot D",
+        "Satin stitch foot F",
+        "Standard foot A",
+        "Zipper foot E"
+      ],
+      "Included Accessories": [
+        "Straight stitch needle plate",
+        "Knee lifter",
+        "Quilting guide bar",
+        "Bobbins and needle set",
+        "Seam ripper and lint brush",
+        "Spool holders: 2 small, 2 large, 2 special",
+        "Spool rest and felt cushion",
+        "Additional spool pin",
+        "Screwdriver and touch panel stylus",
+        "Semi-hard cover",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 26.9,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "170",
+      "maxSpeed": "1,000 SPM",
+      "buttonholes": "10",
+      "needleThreader": "Built-in",
+      "threadCutter": "Automatic",
+      "display": "Touchscreen",
+      "throatSpace": "11.0\"",
+      "includedFeet": "15",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "Touchscreen",
+      "speedControl": "Speed slider",
+      "freeArm": "Yes",
+      "workspace": "11.0\" W x 4.7\" H",
+      "lighting": "5 white LED lamps in 3 areas"
+    }
+  },
+  {
     "handle": "elna-excellence-720-pro-quilting-machine",
     "title": "Elna eXcellence 720 PRO Quilting Machine",
     "brand": "Elna",
@@ -20895,6 +21179,154 @@
       "workspace": "10\" to the right of the needle",
       "lighting": "6 LED lights in 3 locations",
       "dimensions": "20.3 x 11.8 x 8.7 in. (W x H x D)"
+    }
+  },
+  {
+    "handle": "elna-excellence-772-sewing-machine",
+    "title": "Elna eXcellence 772 Sewing Machine",
+    "brand": "Elna",
+    "url": "/products/elna-excellence-772-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/eXcellence772_00.jpg?v=1791221419",
+    "price": 3999.0,
+    "compareAtPrice": 5499.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing",
+      "Quilting"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 300,
+      "embroideryArea": null,
+      "maxSpeed": 1060,
+      "screenSize": null,
+      "includedFeet": 15,
+      "throatSpace": "11.0\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "300 Stitch Patterns Including Alphabet",
+        "11 One-Step Buttonholes",
+        "Maximum Sewing Speed: 1,060 SPM",
+        "5 in. Color HD Touch Screen",
+        "11.0\" Throat Space to the right of the needle (280 mm)",
+        "15 Presser Feet Included",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "300 stitch patterns",
+        "Alphabet in 3 fonts (Block, Script, Broadway)",
+        "Capital letters and numbers in 9 mm",
+        "Maximum stitch width: 9 mm",
+        "Maximum stitch length: 5 mm",
+        "91 needle positions",
+        "11 one-step buttonholes",
+        "Removable Dual Feed Plus system",
+        "Automatic thread tension",
+        "Automatic presser foot pressure with fabric sensor",
+        "Automatic presser foot lifter",
+        "Extra-high presser foot position",
+        "7-piece retractable feed dog",
+        "Clip-on presser foot conversion system",
+        "One-step needle plate conversion",
+        "Start/stop button, reverse sewing, and automatic lock stitch",
+        "Needle up/down position with memory",
+        "Speed control slider",
+        "Easy pivoting function",
+        "Tapering function",
+        "Ruler work function",
+        "Circular sewing pivot pin and quilting guide bar"
+      ],
+      "Threading & Convenience": [
+        "Built-in Smart System needle threader",
+        "Automatic and programmable thread cutter",
+        "Easy guided bobbin threader with built-in thread cutter",
+        "Horizontal rotary hook with clear bobbin cover",
+        "Bobbin winder with automatic declutch",
+        "Horizontal spool pin",
+        "Upper thread sensor and bobbin thread sensor"
+      ],
+      "Workspace & Display": [
+        "Display: 5\" Touchscreen",
+        "Speed Control: Speed slider",
+        "Knee Lift / Hands-Free Lift: Knee lift",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 11.0\" W x 4.7\" H",
+        "Lighting: 9 high-illuminance LED lights in 4 areas"
+      ],
+      "Smart Features": [
+        "3 MB built-in memory",
+        "Pattern combinations of up to 100 stitches",
+        "Favorite stitch function to customize and save stitch settings",
+        "Drop feed sensor",
+        "Stitch Composer stitch creation software (download)",
+        "Variable zigzag control with an optional knee lifter",
+        "Sewing Application with step-by-step guide",
+        "Multi-language display",
+        "3 built-in accessory compartments"
+      ],
+      "Included Feet": [
+        "1/4 in. seam foot O",
+        "Automatic buttonhole foot R with stabilizer plate",
+        "Blind hem foot G",
+        "Button sewing foot T",
+        "Closed-toe darning foot PD-H",
+        "Free-motion quilting closed-toe foot QC",
+        "Free-motion quilting open-toe foot QO",
+        "Free-motion quilting zigzag foot QV",
+        "Open-toe satin stitch foot F2",
+        "Overlock foot M",
+        "Rolled hem foot D",
+        "Ruler work foot QR",
+        "Satin stitch foot F",
+        "Standard foot A",
+        "Zipper foot E"
+      ],
+      "Included Accessories": [
+        "Straight stitch needle plate",
+        "Circular sewing pivot pin",
+        "Quilting guide bar",
+        "Button shank plate",
+        "Bobbins and needle set",
+        "Seam ripper and lint brush",
+        "Screwdriver (small) and touch panel stylus",
+        "Spool holders: 2 small, 2 large, 2 special",
+        "Additional spool pin",
+        "Stitch Composer stitch creation software",
+        "Semi-hard fabric cover",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 29.8,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "300",
+      "maxSpeed": "1,060 SPM",
+      "buttonholes": "11",
+      "needleThreader": "Built-in",
+      "threadCutter": "Automatic",
+      "display": "5\" Touchscreen",
+      "throatSpace": "11.0\"",
+      "includedFeet": "15",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "5\" Touchscreen",
+      "speedControl": "Speed slider",
+      "kneeLift": "Knee lift",
+      "freeArm": "Yes",
+      "workspace": "11.0\" W x 4.7\" H",
+      "lighting": "9 high-illuminance LED lights in 4 areas"
     }
   },
   {
@@ -21156,6 +21588,1600 @@
     }
   },
   {
+    "handle": "elna-experience-530-sewing-machine",
+    "title": "Elna eXperience 530 Sewing Machine",
+    "brand": "Elna",
+    "url": "/products/elna-experience-530-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/530-Gabarit-WEB_2023.jpg?v=1791221439",
+    "price": 569.0,
+    "compareAtPrice": 699.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 30,
+      "embroideryArea": null,
+      "maxSpeed": null,
+      "screenSize": null,
+      "includedFeet": 5,
+      "throatSpace": "6.7\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "30 Built-in Stitches",
+        "3 Automatic One-Step Buttonholes",
+        "Built-in Needle Threader",
+        "6.7\" Throat Space to the right of the needle (170 mm)",
+        "5 Presser Feet Included",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "30 built-in stitches",
+        "Maximum stitch width: 7 mm",
+        "Maximum stitch length: 5 mm",
+        "3 automatic one-step buttonholes",
+        "15 needle positions",
+        "7-piece retractable feed dog",
+        "Clip-on presser foot",
+        "Manual presser foot pressure adjustment",
+        "Manual extra-high presser foot lift",
+        "Speed control slider",
+        "Direct selection of 4 stitch designs"
+      ],
+      "Threading & Convenience": [
+        "Built-in needle threader",
+        "Easy guided bobbin threader with built-in thread cutter",
+        "Horizontal rotary hook with clear bobbin cover",
+        "Auto declutch bobbin winder",
+        "Manual thread tension control",
+        "Horizontal spool pin"
+      ],
+      "Workspace & Display": [
+        "Display: LCD",
+        "Speed Control: Speed slider",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 6.7\" to the right of the needle",
+        "Lighting: 1 LED light"
+      ],
+      "Smart Features": [
+        "Automatic lock stitch",
+        "Up/down needle position",
+        "Direct-access function buttons",
+        "Built-in accessory storage in the arm",
+        "Glide-in stitch reference chart stored on the right side",
+        "Carrying handle"
+      ],
+      "Included Feet": [
+        "Automatic buttonhole foot R with stabilizer plate",
+        "Overedge foot C",
+        "Satin stitch foot F",
+        "Standard foot A",
+        "Zipper foot E"
+      ],
+      "Included Accessories": [
+        "Bobbins",
+        "Needle set",
+        "Seam ripper",
+        "Lint brush",
+        "Screwdriver",
+        "Spool holders: 2 small, 2 large",
+        "Additional spool pin",
+        "Instructional video",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 14.3,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "30",
+      "buttonholes": "3",
+      "needleThreader": "Built-in",
+      "threadCutter": "Manual",
+      "display": "LCD",
+      "throatSpace": "6.7\"",
+      "includedFeet": "5",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "LCD",
+      "speedControl": "Speed slider",
+      "freeArm": "Yes",
+      "workspace": "6.7\" to the right of the needle",
+      "lighting": "1 LED light"
+    }
+  },
+  {
+    "handle": "elna-experience-550-sewing-machine",
+    "title": "Elna eXperience 550 Sewing Machine",
+    "brand": "Elna",
+    "url": "/products/elna-experience-550-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/550-Gabarit-WEB_2023.jpg?v=1791221446",
+    "price": 699.0,
+    "compareAtPrice": 799.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 50,
+      "embroideryArea": null,
+      "maxSpeed": null,
+      "screenSize": null,
+      "includedFeet": 7,
+      "throatSpace": "6.7\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "50 Built-in Stitches",
+        "3 Automatic One-Step Buttonholes",
+        "Built-in Needle Threader",
+        "6.7\" Throat Space to the right of the needle (170 mm)",
+        "7 Presser Feet Included",
+        "Extension Table Included",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "50 built-in stitches",
+        "Maximum stitch width: 7 mm",
+        "Maximum stitch length: 5 mm",
+        "3 automatic one-step buttonholes",
+        "15 needle positions",
+        "7-piece retractable feed dog",
+        "Clip-on presser foot",
+        "Manual presser foot pressure adjustment",
+        "Manual extra-high presser foot lift",
+        "Speed control slider",
+        "Direct selection of 4 stitch designs"
+      ],
+      "Threading & Convenience": [
+        "Built-in needle threader",
+        "Easy guided bobbin threader with built-in thread cutter",
+        "Horizontal rotary hook with clear bobbin cover",
+        "Auto declutch bobbin winder",
+        "Manual thread tension control",
+        "Horizontal spool pin"
+      ],
+      "Workspace & Display": [
+        "Display: LCD",
+        "Speed Control: Speed slider",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 6.7\" to the right of the needle",
+        "Lighting: 1 LED light"
+      ],
+      "Smart Features": [
+        "Automatic lock stitch",
+        "Up/down needle position",
+        "Direct-access function buttons",
+        "Extension table",
+        "Built-in accessory storage in the arm",
+        "Glide-in stitch reference chart stored on the right side",
+        "Carrying handle"
+      ],
+      "Included Feet": [
+        "1/4 in. seam foot O",
+        "Automatic buttonhole foot R with stabilizer plate",
+        "Blind hem foot G",
+        "Overedge foot C",
+        "Satin stitch foot F",
+        "Standard foot A",
+        "Zipper foot E"
+      ],
+      "Included Accessories": [
+        "Extension table",
+        "Bobbins",
+        "Needle set",
+        "Seam ripper",
+        "Lint brush",
+        "Screwdriver",
+        "Spool holders: 2 small, 2 large",
+        "Additional spool pin",
+        "Instructional video",
+        "Hard cover",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 14.3,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "50",
+      "buttonholes": "3",
+      "needleThreader": "Built-in",
+      "threadCutter": "Manual",
+      "display": "LCD",
+      "throatSpace": "6.7\"",
+      "includedFeet": "7",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "LCD",
+      "speedControl": "Speed slider",
+      "freeArm": "Yes",
+      "workspace": "6.7\" to the right of the needle",
+      "lighting": "1 LED light"
+    }
+  },
+  {
+    "handle": "elna-experience-560-sewing-machine",
+    "title": "Elna eXperience 560 Sewing Machine",
+    "brand": "Elna",
+    "url": "/products/elna-experience-560-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/560-Gabarit-WEB_2023.jpg?v=1791221446",
+    "price": 899.0,
+    "compareAtPrice": 999.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 100,
+      "embroideryArea": null,
+      "maxSpeed": null,
+      "screenSize": null,
+      "includedFeet": 7,
+      "throatSpace": "6.7\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "100 Built-in Stitches",
+        "7 Automatic One-Step Buttonholes",
+        "Automatic Thread Cutter",
+        "6.7\" Throat Space to the right of the needle (170 mm)",
+        "7 Presser Feet Included",
+        "Extension Table Included",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "100 built-in stitches",
+        "Maximum stitch width: 7 mm",
+        "Maximum stitch length: 5 mm",
+        "7 automatic one-step buttonholes",
+        "15 needle positions",
+        "7-piece retractable feed dog",
+        "Clip-on presser foot",
+        "Manual presser foot pressure adjustment",
+        "Manual extra-high presser foot lift",
+        "Speed control slider",
+        "Direct selection of 4 stitch designs"
+      ],
+      "Threading & Convenience": [
+        "Built-in needle threader",
+        "Easy guided bobbin threader with built-in thread cutter",
+        "Automatic and programmable thread cutter",
+        "Horizontal rotary hook with clear bobbin cover",
+        "Auto declutch bobbin winder",
+        "Manual thread tension control",
+        "Horizontal spool pin"
+      ],
+      "Workspace & Display": [
+        "Display: LCD",
+        "Speed Control: Speed slider",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 6.7\" to the right of the needle",
+        "Lighting: 1 LED light"
+      ],
+      "Smart Features": [
+        "Automatic lock stitch",
+        "Up/down needle position",
+        "Direct-access function buttons",
+        "Thread cutter memory",
+        "Extension table",
+        "Built-in accessory storage in the arm",
+        "Glide-in stitch reference chart stored on the right side",
+        "Carrying handle"
+      ],
+      "Included Feet": [
+        "1/4 in. seam foot O",
+        "Automatic buttonhole foot R with stabilizer plate",
+        "Blind hem foot G",
+        "Overedge foot C",
+        "Satin stitch foot F",
+        "Standard foot A",
+        "Zipper foot E"
+      ],
+      "Included Accessories": [
+        "Extension table",
+        "Bobbins",
+        "Needle set",
+        "Seam ripper",
+        "Lint brush",
+        "Screwdriver",
+        "Spool holders: 2 small, 2 large",
+        "Additional spool pin",
+        "Instructional video",
+        "Hard cover",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 14.3,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "100",
+      "buttonholes": "7",
+      "needleThreader": "Built-in",
+      "threadCutter": "Automatic",
+      "display": "LCD",
+      "throatSpace": "6.7\"",
+      "includedFeet": "7",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "LCD",
+      "speedControl": "Speed slider",
+      "freeArm": "Yes",
+      "workspace": "6.7\" to the right of the needle",
+      "lighting": "1 LED light"
+    }
+  },
+  {
+    "handle": "elna-experience-570-alpha-sewing-machine",
+    "title": "Elna eXperience 570 Alpha Sewing Machine",
+    "brand": "Elna",
+    "url": "/products/elna-experience-570-alpha-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/570a-Gabarit-WEB_2023.jpg?v=1791221446",
+    "price": 999.0,
+    "compareAtPrice": 1299.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 380,
+      "embroideryArea": null,
+      "maxSpeed": null,
+      "screenSize": null,
+      "includedFeet": 7,
+      "throatSpace": "6.7\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "380 Stitches Including Alphabet",
+        "12 Automatic One-Step Buttonholes",
+        "Automatic Thread Cutter",
+        "Memory Function",
+        "6.7\" Throat Space to the right of the needle (170 mm)",
+        "7 Presser Feet Included",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "200 built-in stitches plus 180 alphabet stitches (380 total)",
+        "Maximum stitch width: 7 mm",
+        "Maximum stitch length: 5 mm",
+        "12 automatic one-step buttonholes",
+        "15 needle positions",
+        "7-piece retractable feed dog",
+        "Clip-on presser foot",
+        "Manual presser foot pressure adjustment",
+        "Manual extra-high presser foot lift",
+        "Speed control slider",
+        "Direct selection of 4 stitch designs",
+        "Pattern combinations of up to 50 stitches"
+      ],
+      "Threading & Convenience": [
+        "Built-in needle threader",
+        "Easy guided bobbin threader with built-in thread cutter",
+        "Automatic and programmable thread cutter",
+        "Horizontal rotary hook with clear bobbin cover",
+        "Auto declutch bobbin winder",
+        "Manual thread tension control",
+        "Horizontal spool pin"
+      ],
+      "Workspace & Display": [
+        "Display: LCD",
+        "Speed Control: Speed slider",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 6.7\" to the right of the needle",
+        "Lighting: 1 LED light"
+      ],
+      "Smart Features": [
+        "Automatic lock stitch",
+        "Up/down needle position",
+        "Direct-access function buttons",
+        "Thread cutter memory",
+        "Temporary memory function",
+        "Extension table",
+        "Built-in accessory storage in the arm",
+        "Glide-in stitch reference chart stored on the right side",
+        "Carrying handle"
+      ],
+      "Included Feet": [
+        "1/4 in. seam foot O",
+        "Automatic buttonhole foot R with stabilizer plate",
+        "Blind hem foot G",
+        "Overedge foot C",
+        "Satin stitch foot F",
+        "Standard foot A",
+        "Zipper foot E"
+      ],
+      "Included Accessories": [
+        "Extension table",
+        "Bobbins",
+        "Needle set",
+        "Seam ripper",
+        "Lint brush",
+        "Screwdriver",
+        "Spool holders: 2 small, 2 large",
+        "Additional spool pin",
+        "Instructional video",
+        "Hard cover",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 14.3,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "380",
+      "buttonholes": "12",
+      "needleThreader": "Built-in",
+      "threadCutter": "Automatic",
+      "display": "LCD",
+      "throatSpace": "6.7\"",
+      "includedFeet": "7",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "LCD",
+      "speedControl": "Speed slider",
+      "freeArm": "Yes",
+      "workspace": "6.7\" to the right of the needle",
+      "lighting": "1 LED light"
+    }
+  },
+  {
+    "handle": "elna-explore-120-sewing-machine",
+    "title": "Elna eXplore 120 Sewing Machine",
+    "brand": "Elna",
+    "url": "/products/elna-explore-120-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/aplus-eXplore-120_front_close.jpg?v=1791221456",
+    "price": 199.0,
+    "compareAtPrice": 249.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 13,
+      "embroideryArea": null,
+      "maxSpeed": 800,
+      "screenSize": null,
+      "includedFeet": 4,
+      "throatSpace": null,
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "13 Stitches Including 4-Step Buttonhole",
+        "Maximum Sewing Speed: 800 SPM",
+        "Free Arm",
+        "Darning Plate Included",
+        "4 Presser Feet Included",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "13 stitches including a 4-step buttonhole",
+        "Preset stitch width",
+        "Stitch length adjustment dial",
+        "Adjustable stitch length (4 mm)",
+        "Center and left needle positions for straight stitch",
+        "Maximum sewing speed: 800 SPM",
+        "3-piece feed dog",
+        "Manual thread tension",
+        "Extra-high presser foot position",
+        "Clip-on presser foot",
+        "Reverse sewing lever",
+        "Stitch reference chart on the front cover"
+      ],
+      "Threading & Convenience": [
+        "Vertical oscillating hook",
+        "Push/pull bobbin winder",
+        "2 vertical retractable spool pins"
+      ],
+      "Workspace & Display": [
+        "Free Arm: Yes",
+        "Lighting: 1 LED light"
+      ],
+      "Included Feet": [
+        "Blind hem foot",
+        "Sliding buttonhole foot",
+        "Standard foot",
+        "Zipper foot"
+      ],
+      "Included Accessories": [
+        "Darning plate",
+        "Bobbins (3)",
+        "Needle set",
+        "Seam ripper",
+        "Instruction book",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Built-in accessory storage",
+        "Folding carrying handle"
+      ]
+    },
+    "weightLbs": 13.2,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "13",
+      "maxSpeed": "800 SPM",
+      "buttonholes": "4-step",
+      "includedFeet": "4",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "freeArm": "Yes",
+      "lighting": "1 LED light"
+    }
+  },
+  {
+    "handle": "elna-explore-130-sewing-machine",
+    "title": "Elna eXplore 130 Sewing Machine",
+    "brand": "Elna",
+    "url": "/products/elna-explore-130-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/aplus-explore-130_front.jpg?v=1791221455",
+    "price": 239.0,
+    "compareAtPrice": 299.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 23,
+      "embroideryArea": null,
+      "maxSpeed": 800,
+      "screenSize": null,
+      "includedFeet": 4,
+      "throatSpace": "6.3\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "23 Stitches Including 4-Step Buttonhole",
+        "Maximum Sewing Speed: 800 SPM",
+        "Maximum Stitch Width: 5 mm",
+        "Free Arm",
+        "Darning Plate Included",
+        "6.3\" Throat Space to the right of the needle (160 mm)",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "23 stitches including a 4-step buttonhole",
+        "Maximum stitch width: 5 mm",
+        "Maximum stitch length: 4 mm",
+        "Adjustable stitch length",
+        "Preset stitch length for stretch stitches",
+        "Stitch length for reverse stitch: 0 - 2.5 mm",
+        "Center and left needle positions for straight stitch",
+        "Maximum sewing speed: 800 SPM",
+        "3-piece feed dog",
+        "Manual thread tension",
+        "Built-in thread cutter",
+        "Extra-high presser foot position",
+        "Clip-on presser foot",
+        "Reverse sewing lever",
+        "Stitch reference chart on the front cover"
+      ],
+      "Threading & Convenience": [
+        "Vertical oscillating hook",
+        "Push/pull bobbin winder",
+        "2 vertical retractable spool pins"
+      ],
+      "Workspace & Display": [
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 6.3\" to the right of the needle",
+        "Lighting: 1 LED light"
+      ],
+      "Included Feet": [
+        "Blind hem foot",
+        "Sliding buttonhole foot",
+        "Standard foot",
+        "Zipper foot"
+      ],
+      "Included Accessories": [
+        "Darning plate",
+        "Bobbins (3)",
+        "Needle set",
+        "Seam ripper",
+        "Felt",
+        "Instruction book",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Built-in accessory storage in the arm",
+        "Folding carrying handle"
+      ]
+    },
+    "weightLbs": 13.2,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "23",
+      "maxSpeed": "800 SPM",
+      "buttonholes": "4-step",
+      "threadCutter": "Manual",
+      "throatSpace": "6.3\"",
+      "includedFeet": "4",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "freeArm": "Yes",
+      "workspace": "6.3\" to the right of the needle",
+      "lighting": "1 LED light"
+    }
+  },
+  {
+    "handle": "elna-explore-320s-sewing-machine",
+    "title": "Elna eXplore 320S Sewing Machine",
+    "brand": "Elna",
+    "url": "/products/elna-explore-320s-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/320S-Gabarit-WEB_2024.jpg?v=1791221454",
+    "price": 449.0,
+    "compareAtPrice": 499.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 19,
+      "embroideryArea": null,
+      "maxSpeed": 830,
+      "screenSize": null,
+      "includedFeet": 5,
+      "throatSpace": "6.3\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "19 Stitches Including 4-Step Buttonhole",
+        "Maximum Sewing Speed: 830 SPM",
+        "Maximum Stitch Width: 5 mm",
+        "Built-In Needle Threader",
+        "Free Arm",
+        "6.3\" Throat Space to the right of the needle (160 mm)",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "19 stitches including a 4-step buttonhole",
+        "Maximum stitch width: 5 mm",
+        "Maximum stitch length: 4 mm",
+        "Adjustable stitch width (5 mm)",
+        "Adjustable stitch length (4 mm)",
+        "Pattern selection dial",
+        "Stitch length fine-tuning for stretch stitches",
+        "Center and left needle positions for straight stitch and triple seam",
+        "Maximum sewing speed: 830 SPM",
+        "Drop feed dog",
+        "3-piece retractable feed dog",
+        "Built-in manual thread cutter",
+        "Manual thread tension",
+        "Manual foot pressure adjustment",
+        "Extra-high presser foot lifter",
+        "Clip-on presser foot",
+        "Reverse sewing lever",
+        "Stitch reference chart on the front"
+      ],
+      "Threading & Convenience": [
+        "Built-in needle threader",
+        "Top-loading horizontal rotary hook with clear bobbin cover",
+        "Bobbin winder with automatic declutch",
+        "Horizontal spool pin"
+      ],
+      "Workspace & Display": [
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 6.3\" to the right of the needle",
+        "Lighting: 1 LED light"
+      ],
+      "Included Feet": [
+        "4-step buttonhole foot J",
+        "Blind hem foot G",
+        "Satin stitch foot F",
+        "Standard foot A",
+        "Zipper foot E"
+      ],
+      "Included Accessories": [
+        "Bobbins (3)",
+        "Needle set",
+        "Seam ripper",
+        "Lint brush",
+        "Screwdriver",
+        "Spool holders: 1 small, 1 large",
+        "Additional spool pin",
+        "Spool felt",
+        "Hard cover",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Built-in accessory storage compartment under the extension table",
+        "Carrying handle"
+      ]
+    },
+    "weightLbs": 14.3,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "19",
+      "maxSpeed": "830 SPM",
+      "buttonholes": "4-step",
+      "needleThreader": "Built-in",
+      "threadCutter": "Manual",
+      "throatSpace": "6.3\"",
+      "includedFeet": "5",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "freeArm": "Yes",
+      "workspace": "6.3\" to the right of the needle",
+      "lighting": "1 LED light"
+    }
+  },
+  {
+    "handle": "elna-explore-340s-sewing-machine",
+    "title": "Elna eXplore 340S Sewing Machine",
+    "brand": "Elna",
+    "url": "/products/elna-explore-340s-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/340S-Gabarit-WEB_2024.jpg?v=1791221447",
+    "price": 499.0,
+    "compareAtPrice": 549.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 23,
+      "embroideryArea": null,
+      "maxSpeed": 830,
+      "screenSize": null,
+      "includedFeet": 6,
+      "throatSpace": "6.3\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "23 Stitches Including 1-Step Buttonhole",
+        "Maximum Sewing Speed: 830 SPM",
+        "Maximum Stitch Width: 5 mm",
+        "Built-In Needle Threader",
+        "Free Arm",
+        "6.3\" Throat Space to the right of the needle (160 mm)",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "23 stitches including a 1-step buttonhole",
+        "Maximum stitch width: 5 mm",
+        "Maximum stitch length: 4 mm",
+        "Adjustable stitch width (5 mm)",
+        "Adjustable stitch length (4 mm)",
+        "Pattern selection dial",
+        "Stitch length fine-tuning for stretch stitches",
+        "Center and left needle positions for straight stitch and triple seam",
+        "Maximum sewing speed: 830 SPM",
+        "Drop feed dog",
+        "3-piece retractable feed dog",
+        "Built-in manual thread cutter",
+        "Manual thread tension",
+        "Manual foot pressure adjustment",
+        "Extra-high presser foot lifter",
+        "Clip-on presser foot",
+        "Reverse sewing lever",
+        "Stitch reference chart on the front"
+      ],
+      "Threading & Convenience": [
+        "Built-in needle threader",
+        "Top-loading horizontal rotary hook with clear bobbin cover",
+        "Bobbin winder with automatic declutch",
+        "Horizontal spool pin"
+      ],
+      "Workspace & Display": [
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 6.3\" to the right of the needle",
+        "Lighting: 1 LED light"
+      ],
+      "Included Feet": [
+        "Automatic buttonhole foot R",
+        "Blind hem foot G",
+        "Overedge foot C",
+        "Satin stitch foot F",
+        "Standard foot A",
+        "Zipper foot E"
+      ],
+      "Included Accessories": [
+        "Quilting guide bar",
+        "Bobbins (3)",
+        "Needle set",
+        "Seam ripper",
+        "Lint brush",
+        "Screwdriver",
+        "Spool holders: 1 small, 1 large",
+        "Additional spool pin",
+        "Spool felt",
+        "Hard cover",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Built-in accessory storage compartment under the extension table",
+        "Carrying handle"
+      ]
+    },
+    "weightLbs": 14.3,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "23",
+      "maxSpeed": "830 SPM",
+      "buttonholes": "1 (one-step)",
+      "needleThreader": "Built-in",
+      "threadCutter": "Manual",
+      "throatSpace": "6.3\"",
+      "includedFeet": "6",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "freeArm": "Yes",
+      "workspace": "6.3\" to the right of the needle",
+      "lighting": "1 LED light"
+    }
+  },
+  {
+    "handle": "elna-expressive-802-embroidery-machine",
+    "title": "Elna eXpressive 802 Embroidery Machine",
+    "brand": "Elna",
+    "url": "/products/elna-expressive-802-embroidery-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Gabarit_eX-WEB_2025-802-1-2.jpg?v=1791229874",
+    "price": 1099.0,
+    "compareAtPrice": 1399.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Embroidery"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": "140 x 140 mm",
+      "maxSpeed": 660,
+      "screenSize": null,
+      "includedFeet": 1,
+      "throatSpace": null,
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "274 Built-in Embroidery Designs",
+        "Alphabet in 11 Fonts",
+        "Maximum Embroidery Area: 140 x 140 mm (5.5 x 5.5 in.)",
+        "Maximum Embroidery Speed: 660 SPM",
+        "Automatic and Programmable Thread Cutter",
+        "3.5 in. Color Touch Screen",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Embroidery Features": [
+        "274 built-in embroidery designs",
+        "Maximum embroidery area: 140 x 140 mm (5.5 x 5.5 in.)",
+        "Maximum embroidery speed: 660 SPM",
+        "Adjustable embroidery speed",
+        "Alphabet in 11 fonts",
+        "Free-arm embroidery with optional hoops",
+        "17 direct editing functions",
+        "Monogramming in 2 and 3 letters",
+        "Trace and baste",
+        "Automatic return after thread break",
+        "Programmable thread trimming after jump or color change",
+        "Integrated embroidery unit with swing-type arm"
+      ],
+      "Threading & Convenience": [
+        "Built-in needle threader",
+        "Automatic and programmable thread cutter",
+        "Easy guided bobbin threader with built-in thread cutter",
+        "Horizontal rotary hook with clear bobbin cover",
+        "Bobbin winder with automatic declutch",
+        "Upper thread sensor and bobbin thread sensor"
+      ],
+      "Workspace & Display": [
+        "Display: 3.5\" Touchscreen",
+        "Free Arm: Yes",
+        "Lighting: 2 LED lamps in 2 areas"
+      ],
+      "Smart Features": [
+        "2.5 MB built-in memory",
+        "Accessory storage in the arm"
+      ],
+      "Included Feet": [
+        "Embroidery foot P"
+      ],
+      "Included Hoops": [
+        "SQ14e: 140 x 140 mm"
+      ],
+      "Included Accessories": [
+        "Bobbin holder for embroidery",
+        "4 bobbins and needle set",
+        "Lint brush and scissors",
+        "Bobbin holder cleaner",
+        "Hook cover plate",
+        "Spool holders: 2 small, 2 large",
+        "Additional spool pin",
+        "Screwdriver and touch panel stylus",
+        "EmbroideryEditor software (download)",
+        "Soft vinyl cover"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 20.1,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "Dedicated embroidery",
+      "maxSpeed": "660 SPM",
+      "needleThreader": "Built-in",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "274",
+      "embroideryArea": "140 x 140 mm",
+      "display": "3.5\" Touchscreen",
+      "includedFeet": "1",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "3.5\" Touchscreen",
+      "freeArm": "Yes",
+      "lighting": "2 LED lamps in 2 areas"
+    }
+  },
+  {
+    "handle": "elna-expressive-808-sewing-and-embroidery-machine",
+    "title": "Elna eXpressive 808 Sewing and Embroidery Machine",
+    "brand": "Elna",
+    "url": "/products/elna-expressive-808-sewing-and-embroidery-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Gabarit_eX-WEB_2025-808-1-1.jpg?v=1791229763",
+    "price": 1399.0,
+    "compareAtPrice": 1799.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing",
+      "Embroidery"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 300,
+      "embroideryArea": "140 x 140 mm",
+      "maxSpeed": 860,
+      "screenSize": null,
+      "includedFeet": 9,
+      "throatSpace": null,
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "300 Stitches Including 15 Automatic Buttonholes and Alphabet",
+        "241 Built-in Embroidery Designs",
+        "Maximum Embroidery Area: 140 x 140 mm (5.5 x 5.5 in.)",
+        "Maximum Sewing Speed: 860 SPM",
+        "Automatic and Programmable Thread Cutter",
+        "3.5 in. Color Touch Screen",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "300 stitches including alphabet in 3 typefaces (Block, Script and Broadway)",
+        "15 one-step buttonholes (12 sensor)",
+        "Maximum stitch width: 7 mm",
+        "Maximum stitch length: 5 mm",
+        "Maximum sewing speed: 860 SPM",
+        "Pattern combinations of up to 100 stitches",
+        "Start/stop button, reverse sewing, and automatic lock stitch",
+        "Needle up/down position with memory",
+        "Speed control slider",
+        "7-piece retractable feed dog",
+        "Clip-on presser foot conversion system",
+        "Magnetic needle plate conversion system",
+        "Manual thread tension control",
+        "Manual presser foot pressure adjustment",
+        "Manual extra-high presser foot position"
+      ],
+      "Embroidery Features": [
+        "241 built-in embroidery designs",
+        "Maximum embroidery area: 140 x 140 mm (5.5 x 5.5 in.)",
+        "Maximum embroidery speed: 660 SPM",
+        "Adjustable embroidery speed",
+        "Alphabet in 11 fonts",
+        "Free-arm embroidery with optional hoops",
+        "17 direct editing functions",
+        "Monogramming in 2 and 3 letters",
+        "Trace and baste",
+        "Automatic return after thread break",
+        "Programmable thread trimming after jump or color change",
+        "Integrated embroidery unit with swing-type arm"
+      ],
+      "Threading & Convenience": [
+        "Built-in needle threader",
+        "Automatic and programmable thread cutter",
+        "Easy guided bobbin threader with built-in thread cutter",
+        "Horizontal rotary hook with clear bobbin cover",
+        "Bobbin winder with automatic declutch",
+        "Upper thread sensor and bobbin thread sensor"
+      ],
+      "Workspace & Display": [
+        "Display: 3.5\" Touchscreen",
+        "Speed Control: Speed slider",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 180 x 110 mm (7.1 x 4.3 in.)",
+        "Lighting: 2 LED lamps in 2 areas"
+      ],
+      "Smart Features": [
+        "2.5 MB built-in memory",
+        "Drop feed sensor",
+        "Accessory storage in the arm"
+      ],
+      "Included Feet": [
+        "1/4 in. seam foot O",
+        "Automatic buttonhole foot R",
+        "Blind hem foot G",
+        "Embroidery foot P",
+        "Overedge foot C",
+        "Overlock foot M",
+        "Satin stitch foot F",
+        "Standard foot A",
+        "Zipper foot E"
+      ],
+      "Included Hoops": [
+        "SQ14e: 140 x 140 mm"
+      ],
+      "Included Accessories": [
+        "Bobbin holder for embroidery",
+        "4 bobbins and needle set",
+        "Seam ripper and lint brush",
+        "Scissors",
+        "Bobbin holder cleaner",
+        "Hook cover plate",
+        "Straight stitch needle plate",
+        "Stitch reference chart",
+        "Spool holders: 2 small, 2 large",
+        "Additional spool pin",
+        "Screwdriver and touch panel stylus",
+        "EmbroideryEditor software (download)",
+        "Soft vinyl cover",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 22.1,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "300",
+      "maxSpeed": "860 SPM",
+      "buttonholes": "15",
+      "needleThreader": "Built-in",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "241",
+      "embroideryArea": "140 x 140 mm",
+      "display": "3.5\" Touchscreen",
+      "includedFeet": "9",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "3.5\" Touchscreen",
+      "speedControl": "Speed slider",
+      "freeArm": "Yes",
+      "workspace": "180 x 110 mm (7.1 x 4.3 in.)",
+      "lighting": "2 LED lamps in 2 areas"
+    }
+  },
+  {
+    "handle": "elna-expressive-830l-creative-edition-embroidery-machine",
+    "title": "Elna eXpressive 830L Creative Edition Embroidery Machine",
+    "brand": "Elna",
+    "url": "/products/elna-expressive-830l-creative-edition-embroidery-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/830LCE-Gabarit-WEB_2023-1.jpg?v=1791221419",
+    "price": 2999.0,
+    "compareAtPrice": 3999.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Embroidery"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": "200 x 360 mm",
+      "maxSpeed": 860,
+      "screenSize": null,
+      "includedFeet": 1,
+      "throatSpace": null,
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "180 Built-in Embroidery Designs",
+        "Maximum Embroidery Area: 200 x 360 mm (7.9 x 14.2 in.)",
+        "Maximum Embroidery Speed: 860 SPM",
+        "Built-in Superior System Needle Threader",
+        "5 in. Color HD Touch Screen",
+        "4 Embroidery Hoops Included",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Embroidery Features": [
+        "180 built-in embroidery designs",
+        "Maximum embroidery area: 200 x 360 mm (7.9 x 14.2 in.)",
+        "Maximum embroidery speed: 860 SPM",
+        "Adjustable embroidery speed while embroidering",
+        "2 alphabets with 3 typefaces",
+        "Adjustable hoop positioning",
+        "Direct editing functions: resize, rotate, flip, duplicate, arc, group, move, center, corner layout, single color sewing, thread color change, sewing sequence",
+        "Monograms in 2 and 3 letters",
+        "Programmable thread trimming after jump or color change",
+        "Automatic thread trimming between jumps",
+        "Flexible stitch travelling",
+        "Manual extra-high presser foot position",
+        "Flat bed with built-in, fixed embroidery carriage"
+      ],
+      "Threading & Convenience": [
+        "Built-in Superior System needle threader",
+        "Automatic thread cutter",
+        "Automatic thread tension control",
+        "Easy guided bobbin threader with built-in thread cutter",
+        "Horizontal rotary hook with clear bobbin cover",
+        "Bobbin winder with automatic declutch",
+        "Bobbin winding speed: 1,600 stitches per minute",
+        "Upper thread sensor and bobbin thread sensor"
+      ],
+      "Workspace & Display": [
+        "Display: 5\" Touchscreen",
+        "Lighting: 5 LED lamps in 3 areas"
+      ],
+      "Smart Features": [
+        "4 MB built-in memory",
+        "Automatic return after thread break",
+        "Start/stop button"
+      ],
+      "Included Feet": [
+        "Embroidery foot P"
+      ],
+      "Included Hoops": [
+        "RE36b: 200 x 360 mm",
+        "SQ20b: 200 x 200 mm",
+        "RE20b: 140 x 200 mm",
+        "SQ14b: 140 x 140 mm"
+      ],
+      "Included Accessories": [
+        "Magnetic clamps for embroidery hoops (8)",
+        "Special bobbin holder for embroidery",
+        "Extra-wide extension table",
+        "5 bobbins and needle set",
+        "Lint brush and scissors",
+        "Screwdriver and screwdriver key for needle plate",
+        "Touch panel stylus",
+        "Spool holders: 2 small, 2 large, 2 special",
+        "Additional spool pin",
+        "EmbroideryEditor PC software (download)",
+        "Large embroidery design collection on USB stick",
+        "Online tutorial video"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 25.4,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "Dedicated embroidery",
+      "maxSpeed": "860 SPM",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "180",
+      "embroideryArea": "200 x 360 mm",
+      "display": "5\" Touchscreen",
+      "includedFeet": "1",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "5\" Touchscreen",
+      "lighting": "5 LED lamps in 3 areas"
+    }
+  },
+  {
+    "handle": "elna-extend-664pro-v2-overlock-serger-machine",
+    "title": "Elna eXtend 664PRO Overlock Serger Machine",
+    "brand": "Elna",
+    "url": "/products/elna-extend-664pro-v2-overlock-serger-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/664PRO-Gabarit-WEB_2023.jpg?v=1791229259",
+    "price": 749.0,
+    "compareAtPrice": 799.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 12,
+      "embroideryArea": null,
+      "maxSpeed": 1300,
+      "screenSize": null,
+      "includedFeet": null,
+      "throatSpace": null,
+      "threadCount": "4/3/2 Thread"
+    },
+    "specs": {
+      "Key Specs": [
+        "12 Stitch Programs",
+        "Maximum Sewing Speed: 1,300 SPM",
+        "2/3/4-Thread Overlock Sewing with 1 or 2 Needles",
+        "Program Display Panel with Recommended Settings",
+        "Differential Feed: 0.5 to 2.25",
+        "Cutting Width: 3 to 7 mm",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Threading": [
+        "Color-coded threading guide",
+        "Easy-threading system for lower looper",
+        "Telescopic thread antenna",
+        "Manual thread tension control",
+        "Lower looper pre-tension setting lever",
+        "Thread tension release device",
+        "2-thread converter",
+        "Built-in thread cutter"
+      ],
+      "Workspace & Display": [
+        "Display: LCD",
+        "Lighting: LED lighting"
+      ],
+      "Included Accessories": [
+        "Screwdrivers, large and small",
+        "Lint brush",
+        "Needle set",
+        "Large spool holders",
+        "Thread nets",
+        "Tweezers",
+        "Needle threader",
+        "Spare upper knife blade",
+        "2-thread converter",
+        "Tension release clip",
+        "Clip-on thread guide",
+        "Spanner",
+        "Waste tray",
+        "Soft cover",
+        "Accessory case",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Flat bed with carrying handle",
+        "Built-in program reference panel",
+        "Stitch length: 1 to 5 mm",
+        "Cutting width: 3 to 7 mm with cutting width control window",
+        "Movable cutting blade",
+        "Differential feed: 0.5 to 2.25",
+        "Presser foot pressure adjustment dial with 5 positions",
+        "4-piece feed dog",
+        "Clip-on presser foot",
+        "Tilting needle clamp",
+        "Instant rolled hem device",
+        "Built-in accessory storage",
+        "4 spool pins"
+      ]
+    },
+    "weightLbs": 13.9,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "12",
+      "maxSpeed": "1,300 SPM",
+      "threadCutter": "Manual",
+      "threadingSystem": "Color-Coded Threading",
+      "display": "LCD",
+      "threadCount": "4/3/2 Thread",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "LCD",
+      "lighting": "LED lighting"
+    }
+  },
+  {
+    "handle": "elna-extend-covermax-coverstitch-machine",
+    "title": "Elna eXtend Covermax Coverstitch Machine",
+    "brand": "Elna",
+    "url": "/products/elna-extend-covermax-coverstitch-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/covermax-Gabarit-WEB_2023.jpg?v=1791221464",
+    "price": 1399.0,
+    "compareAtPrice": 1699.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger",
+      "Coverstitch"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 7,
+      "embroideryArea": null,
+      "maxSpeed": 1000,
+      "screenSize": null,
+      "includedFeet": 1,
+      "throatSpace": "5.6\"",
+      "threadCount": "5/4/3 Thread"
+    },
+    "specs": {
+      "Key Specs": [
+        "7 Stitch Programs Including Top Cover Stitch",
+        "Maximum Sewing Speed: 1,000 SPM",
+        "Built-In Needle Threader with Needle Selection Lever",
+        "2/3/4/5-Thread Sewing with 1, 2, or 3 Needles",
+        "Built-In Spreader for Top Cover Stitch",
+        "Automatic Tension Level Control for Fine and Standard Fabrics",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Threading": [
+        "Built-in needle threader with lever for needle selection",
+        "Color-coded threading guide",
+        "Quick reference chart",
+        "Easy release system for looper threading",
+        "Telescopic thread antenna",
+        "Manual thread tension control",
+        "Tension Level Control (TLC) with fine and standard lever",
+        "Thread tension release device",
+        "Built-in thread cutter"
+      ],
+      "Workspace & Display": [
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 5.6\" W x 3.9\" H",
+        "Lighting: 2 LED lights and 1 retractable front light"
+      ],
+      "Included Accessories": [
+        "Clear-view foot",
+        "Tension release clip",
+        "Screwdrivers, large and small",
+        "Lint brush",
+        "Needle set",
+        "Large spool holders",
+        "Thread nets",
+        "Tweezers",
+        "Needle threader",
+        "Soft cover",
+        "Accessory case",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Stitch width: 6 mm (3 needles), 6 mm wide or 3 mm narrow (2 needles)",
+        "Stitch length: 1 to 4 mm",
+        "Differential feed: 0.5 to 2.25",
+        "Presser foot pressure adjustment",
+        "Clip-on presser foot conversion system",
+        "Superior feeding capability",
+        "5 spool pins",
+        "Carrying handle",
+        "Main shaft ball bearing"
+      ]
+    },
+    "weightLbs": 19,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "7",
+      "maxSpeed": "1,000 SPM",
+      "needleThreader": "Built-in",
+      "threadCutter": "Manual",
+      "threadingSystem": "Color-Coded Threading",
+      "throatSpace": "5.6\"",
+      "threadCount": "5/4/3 Thread",
+      "includedFeet": "1",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "freeArm": "Yes",
+      "workspace": "5.6\" W x 3.9\" H",
+      "lighting": "2 LED lights and 1 retractable front light"
+    }
+  },
+  {
+    "handle": "elna-extend-easycover-v2-coverstitch-machine",
+    "title": "Elna eXtend Easycover Coverstitch Machine",
+    "brand": "Elna",
+    "url": "/products/elna-extend-easycover-v2-coverstitch-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/easycover-Gabarit-WEB_2023.jpg?v=1791221472",
+    "price": 799.0,
+    "compareAtPrice": 849.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger",
+      "Coverstitch"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 4,
+      "embroideryArea": null,
+      "maxSpeed": 1000,
+      "screenSize": null,
+      "includedFeet": null,
+      "throatSpace": "5.6\"",
+      "threadCount": "4/3/2 Thread"
+    },
+    "specs": {
+      "Key Specs": [
+        "4 Stitch Programs: Cover Stitch and Chain Stitch",
+        "Maximum Sewing Speed: 1,000 SPM",
+        "2/3/4-Thread Sewing with 1, 2, or 3 Needles",
+        "Stitch Width: 3 mm and 6 mm",
+        "Differential Feed: 0.5 to 2.25",
+        "Automatic Tension Level Control",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Threading": [
+        "Color-coded threading guide",
+        "Quick reference chart",
+        "Easy release system for looper threading",
+        "Telescopic thread antenna",
+        "Manual thread tension control",
+        "Tension Level Control (TLC) for fine and standard fabrics",
+        "Thread tension release device",
+        "Built-in thread cutter"
+      ],
+      "Workspace & Display": [
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 5.6\" W x 3.9\" H",
+        "Lighting: 1 LED light"
+      ],
+      "Included Accessories": [
+        "Accessory box",
+        "Screwdrivers (2)",
+        "Tweezers",
+        "Needle threader",
+        "Large spool holders (4)",
+        "White thread cones (4)",
+        "Thread nets (4)",
+        "Lint brush",
+        "Needle set",
+        "Dust cover",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Stitch width: 6 mm (3 needles), 6 mm wide or 3 mm narrow (2 needles)",
+        "Stitch length: 1 to 4 mm",
+        "Differential feed: 0.5 to 2.25",
+        "Presser foot pressure adjustment",
+        "Clip-on presser foot conversion system",
+        "6-piece feed dog",
+        "4 spool pins",
+        "Carrying handle"
+      ]
+    },
+    "weightLbs": 17.9,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "4",
+      "maxSpeed": "1,000 SPM",
+      "threadCutter": "Manual",
+      "threadingSystem": "Color-Coded Threading",
+      "throatSpace": "5.6\"",
+      "threadCount": "4/3/2 Thread",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "freeArm": "Yes",
+      "workspace": "5.6\" W x 3.9\" H",
+      "lighting": "1 LED light"
+    }
+  },
+  {
     "handle": "elnita-ec30-machine",
     "title": "Elnita EC30 Sewing Machine",
     "brand": "Elna",
@@ -21251,6 +23277,387 @@
       "workspace": "6.25\" to the right of the needle",
       "lighting": "LED",
       "dimensions": "15 x 10.25 x 6.5 in."
+    }
+  },
+  {
+    "handle": "elnita-ec60-sewing-machine",
+    "title": "Elnita EC60 Sewing Machine",
+    "brand": "Elna",
+    "url": "/products/elnita-ec60-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/EC60-front2.jpg?v=1791221438",
+    "price": 749.0,
+    "compareAtPrice": 999.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 60,
+      "embroideryArea": null,
+      "maxSpeed": 820,
+      "screenSize": null,
+      "includedFeet": 10,
+      "throatSpace": null,
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "60 Built-in Stitches",
+        "Memory Buttonhole",
+        "Maximum Sewing Speed: 820 SPM",
+        "Convertible free arm",
+        "Built-in Needle Threader",
+        "10 Presser Feet Included",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "60 built-in stitches",
+        "Memory buttonhole",
+        "Maximum stitch length: 4 mm",
+        "4-piece feed dog",
+        "Reverse button",
+        "Adjustable thread tension"
+      ],
+      "Threading & Convenience": [
+        "Built-in one-hand needle threader",
+        "Auto declutch bobbin winder",
+        "Adjustable thread tension"
+      ],
+      "Workspace & Display": [
+        "Display: LCD",
+        "Free Arm: Yes"
+      ],
+      "Smart Features": [
+        "Memory buttonhole",
+        "Needle up/down with memory",
+        "Lock stitch button",
+        "Bright LED screen with easy navigation keys"
+      ],
+      "Included Feet": [
+        "1/4 in. seam foot O",
+        "Automatic buttonhole foot R",
+        "Blind hem foot G",
+        "Darning foot",
+        "Even foot",
+        "Open-toe satin foot F2",
+        "Over edge foot C",
+        "Satin stitch foot F",
+        "Zigzag foot A",
+        "Zipper foot E"
+      ],
+      "Included Accessories": [
+        "Bobbin",
+        "Needle set",
+        "Screwdriver",
+        "Lint brush",
+        "Seam ripper",
+        "Spool holders: 1 small, 1 large",
+        "Extra spool pin",
+        "Quilting guide bar",
+        "Cloth guide",
+        "Instruction sheet for quilting",
+        "Instruction book",
+        "Dust cover",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "60",
+      "maxSpeed": "820 SPM",
+      "needleThreader": "Built-in",
+      "display": "LCD",
+      "includedFeet": "10",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "LCD",
+      "freeArm": "Yes"
+    }
+  },
+  {
+    "handle": "elnita-ef72-sewing-machine",
+    "title": "Elnita EF72 Sewing Machine",
+    "brand": "Elna",
+    "url": "/products/elnita-ef72-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/ef72-beauty1.jpg?v=1791221429",
+    "price": 1999.0,
+    "compareAtPrice": 2999.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing",
+      "Quilting"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": null,
+      "maxSpeed": 1000,
+      "screenSize": null,
+      "includedFeet": 12,
+      "throatSpace": null,
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "Computerized Sewing Machine",
+        "Maximum Sewing Speed: 1,000 SPM",
+        "10 in. Flatbed",
+        "Maximum Stitch Width: 9 mm",
+        "Maximum Stitch Length: 5 mm",
+        "Superior Needle Threader",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "Maximum stitch width: 9 mm",
+        "Maximum stitch length: 5 mm",
+        "Superior Feed System",
+        "7-piece feed dog",
+        "Reverse button",
+        "Straight stitch needle plate"
+      ],
+      "Threading & Convenience": [
+        "Superior Needle Threader",
+        "Automatic bobbin winder",
+        "Adjustable thread tension"
+      ],
+      "Workspace & Display": [
+        "Display: LCD"
+      ],
+      "Smart Features": [
+        "Needle up/down",
+        "Start/stop button",
+        "Bright LED screen with easy navigation keys",
+        "10 in. flatbed"
+      ],
+      "Included Feet": [
+        "Automatic buttonhole foot R",
+        "Blind hem foot G",
+        "Clear view foot",
+        "Closed-toe foot",
+        "Convertible free motion quilting foot",
+        "Darning foot PD-H",
+        "Open-toe foot",
+        "Overcast foot M",
+        "Rolled hem foot D (3 mm)",
+        "Satin stitch foot F",
+        "Zigzag foot A",
+        "Zipper foot E"
+      ],
+      "Included Accessories": [
+        "Straight stitch needle plate",
+        "Needle plate",
+        "Bobbins (5)",
+        "Needle set",
+        "Screwdriver (large)",
+        "Screwdriver",
+        "Lint brush",
+        "Seam ripper",
+        "Quilting bar",
+        "Cloth guide",
+        "Spool holders: large, small, special",
+        "Spool supporter",
+        "Spool net",
+        "Reference chart",
+        "Instruction manual and instruction DVD",
+        "Dust cover",
+        "Foot controller"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "maxSpeed": "1,000 SPM",
+      "needleThreader": "Automatic",
+      "display": "LCD",
+      "includedFeet": "12",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "LCD"
+    }
+  },
+  {
+    "handle": "elnita-em16-sewing-machine",
+    "title": "Elnita EM16 Sewing Machine",
+    "brand": "Elna",
+    "url": "/products/elnita-em16-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/em16-beauty1.jpg?v=1791221437",
+    "price": 269.0,
+    "compareAtPrice": 299.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 16,
+      "embroideryArea": null,
+      "maxSpeed": 650,
+      "screenSize": null,
+      "includedFeet": 4,
+      "throatSpace": null,
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "16 Built-in Stitches",
+        "4-Step Buttonhole",
+        "Maximum Sewing Speed: 650 SPM",
+        "Maximum Zigzag Width: 5 mm",
+        "Built-in Needle Threader",
+        "4 Presser Feet Included",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "16 built-in stitches",
+        "4-step buttonhole",
+        "Maximum zigzag stitch width: 5 mm",
+        "Maximum stitch length: 4 mm",
+        "Drop feed",
+        "Extra high presser foot lift",
+        "Adjustable thread tension"
+      ],
+      "Threading & Convenience": [
+        "Built-in needle threader",
+        "Auto declutch bobbin winder",
+        "Adjustable thread tension"
+      ],
+      "Workspace & Display": [
+        "Free Arm: Yes",
+        "Lighting: Bright LED lamp"
+      ],
+      "Included Feet": [
+        "Blind hem foot",
+        "Buttonhole foot (slide type)",
+        "Zigzag foot",
+        "Zipper foot"
+      ],
+      "Included Accessories": [
+        "Bobbins (4)",
+        "Needle set",
+        "Seam ripper",
+        "Screwdriver",
+        "Spool pin",
+        "Spool holders: 1 small, 1 large"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "16",
+      "maxSpeed": "650 SPM",
+      "buttonholes": "4-step",
+      "needleThreader": "Built-in",
+      "includedFeet": "4",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "freeArm": "Yes",
+      "lighting": "Bright LED lamp"
+    }
+  },
+  {
+    "handle": "elnita-es4-serger-machine",
+    "title": "Elnita ES4 Serger",
+    "brand": "Elna",
+    "url": "/products/elnita-es4-serger-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/es4-beauty1.jpg?v=1791221438",
+    "price": 529.0,
+    "compareAtPrice": 699.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": null,
+      "maxSpeed": 1300,
+      "screenSize": null,
+      "includedFeet": null,
+      "throatSpace": null,
+      "threadCount": "4/3/2 Thread"
+    },
+    "specs": {
+      "Key Specs": [
+        "Overlock Machine",
+        "2/3/4 Thread Overlock",
+        "Maximum Sewing Speed: 1,300 SPM",
+        "Adjustable Thread Tension",
+        "LED Lamp",
+        "25/5/1 Year Limited Warranty"
+      ],
+      "Threading": [
+        "2/3/4 thread overlock",
+        "Adjustable thread tension"
+      ],
+      "Workspace & Display": [
+        "Lighting: LED lamp"
+      ],
+      "Included Accessories": [
+        "Needle set",
+        "Needle threader",
+        "Tweezers",
+        "Screwdriver",
+        "Screwdriver (small)",
+        "Lint brush",
+        "Net",
+        "Spool holder (large)",
+        "Oil",
+        "Accessory box",
+        "Foot controller",
+        "Instruction manual",
+        "Dust cover"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Manufacturer Defects",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "maxSpeed": "1,300 SPM",
+      "threadCount": "4/3/2 Thread",
+      "warranty": "25/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "lighting": "LED lamp"
     }
   },
   {
@@ -30876,7 +33283,7 @@
     "title": "Pfaff Admire Air 5000 Jet Air 4-Thread Overlock Serger",
     "brand": "Pfaff",
     "url": "/products/pfaff-admire-air-5000",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/pfaff-admire-air-5000-jet-air-4-thread-overlock-serger-sewing-serger-embroidery-machines-272568.jpg?v=1762442557",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Admire-Air-5000-75Spree_aee208f5-03bf-466f-a338-08a0fb1addfd.jpg?v=1793752862",
     "price": 1349.0,
     "compareAtPrice": 1899.0,
     "isOnSale": true,
@@ -30972,7 +33379,7 @@
     "title": "Pfaff Admire Air 7000 Coverlock Serger",
     "brand": "Pfaff",
     "url": "/products/pfaff-admire-air-7000-overlock-serger",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/pfaff-admire-air-7000-coverlock-serger-sewing-serger-embroidery-machines-904710.webp?v=1762444004",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Admire-Air-7000-100Spree.jpg?v=1793752809",
     "price": 4899.0,
     "compareAtPrice": 6349.0,
     "isOnSale": true,
@@ -31086,8 +33493,8 @@
     "title": "Pfaff Ambition 610 Sewing Machine",
     "brand": "Pfaff",
     "url": "/products/pfaff-ambition-610",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/pfaff-ambition-610-sewing-serger-embroidery-machines-103022.jpg?v=1762442560",
-    "price": 1129.0,
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Amb610-50Spree.jpg?v=1793751179",
+    "price": 999.0,
     "compareAtPrice": 1399.0,
     "isOnSale": true,
     "isQuoteRequest": false,
@@ -31204,12 +33611,12 @@
     "title": "Pfaff Ambition 620 Sewing Machine",
     "brand": "Pfaff",
     "url": "/products/pfaff-ambition-620-sewing-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/pfaff-ambition-620-sewing-machine-sewing-serger-embroidery-machines-863387.jpg?v=1762442560",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Amb620-75Spree.jpg?v=1793751141",
     "price": 1299.0,
     "compareAtPrice": 1799.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Sewing",
@@ -31335,12 +33742,12 @@
     "title": "Pfaff Creative Elevate 680 Sewing Machine",
     "brand": "Pfaff",
     "url": "/products/pfaff-creative-elevate-680-sewing-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/pfaff-creative-elevate-680-sewing-machine-sewing-serger-embroidery-machines-4616213.webp?v=1773426312",
-    "price": 4799.0,
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Creative-Elev-680-100Spree.jpg?v=1793752778",
+    "price": 3599.0,
     "compareAtPrice": 4999.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Sewing"
@@ -31962,7 +34369,7 @@
     "title": "Pfaff Creative™ Expression 750 Sewing & Embroidery Machine",
     "brand": "Pfaff",
     "url": "/products/pfaff-creative-expression-750-sewing-and-embroidery-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/pfaff-creative-expression-750-sewing-embroidery-machine-sewing-serger-embroidery-machines-2529490.jpg?v=1776119477",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Exp750-200Spree.jpg?v=1793750785",
     "price": 8499.0,
     "compareAtPrice": 11499.0,
     "isOnSale": true,
@@ -32232,7 +34639,7 @@
     "title": "Pfaff Expression™ 715 Sewing Machine",
     "brand": "Pfaff",
     "url": "/products/pfaff-expression-715-sewing-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/pfaff-expression-715-sewing-machine-sewing-serger-embroidery-machines-4176875.jpg?v=1755633385",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Exp715-100Spree.jpg?v=1793752700",
     "price": 4299.0,
     "compareAtPrice": 5499.0,
     "isOnSale": true,
@@ -32360,12 +34767,12 @@
     "title": "Pfaff Passport 2.0 Compact Sewing Machine",
     "brand": "Pfaff",
     "url": "/products/pfaff-passport-2-0-compact-sewing-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/pfaff-passport-20-compact-sewing-machine-sewing-serger-embroidery-machines-819449.jpg?v=1762442566",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Pass2.0-50Spree.jpg?v=1793751250",
     "price": 749.0,
     "compareAtPrice": 949.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Sewing",
@@ -32490,12 +34897,12 @@
     "title": "Pfaff Passport 3.0 Compact Sewing Machine",
     "brand": "Pfaff",
     "url": "/products/pfaff-passport-3-0-compact-sewing-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/pfaff-passport-30-compact-sewing-machine-sewing-serger-embroidery-machines-772699.jpg?v=1762442567",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Pass3.0-50Spree.jpg?v=1793751214",
     "price": 849.0,
     "compareAtPrice": 1049.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Sewing",
@@ -32622,12 +35029,12 @@
     "title": "Pfaff Performance Icon Sewing & Quilting Machine",
     "brand": "Pfaff",
     "url": "/products/pfaff-performance-icon-sewing-quilting-machine-in-store",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/pfaff-performance-icon-sewing-quilting-machine-sewing-serger-embroidery-machines-280286.jpg?v=1776118771",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Perf-Icon-200Spree.jpg?v=1793750834",
     "price": 7899.0,
     "compareAtPrice": 10999.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Quilting",
@@ -32921,12 +35328,12 @@
     "title": "Pfaff Quilt Ambition 635 Sewing & Quilting Machine",
     "brand": "Pfaff",
     "url": "/products/pfaff-quilt-ambition-635-sewing-quilting-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/pfaff-quilt-ambition-635-sewing-quilting-machine-sewing-serger-embroidery-machines-5524813.webp?v=1776119300",
-    "price": 1799.0,
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/QuiltAmb635-75Spree.jpg?v=1793750893",
+    "price": 1699.0,
     "compareAtPrice": 2249.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Quilting",
@@ -33167,12 +35574,12 @@
     "title": "Pfaff Quilt expression™ 725 Sewing Machine",
     "brand": "Pfaff",
     "url": "/products/pfaff-quilt-expression-725-quilting-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/pfaff-quilt-expression-725-sewing-machine-sewing-serger-embroidery-machines-1291501.jpg?v=1755633385",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Exp725-100Spree.jpg?v=1793752651",
     "price": 4799.0,
     "compareAtPrice": 5999.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Quilting",
@@ -33511,7 +35918,7 @@
     "compareAtPrice": 429.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Sewing",
@@ -33610,7 +36017,7 @@
     "compareAtPrice": 739.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Sewing",
