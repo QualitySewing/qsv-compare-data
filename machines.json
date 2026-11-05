@@ -1,117 +1,5 @@
 [
   {
-    "handle": "baby-lock-acclaim-serger",
-    "title": "Baby Lock Acclaim Serger (Classroom Model)",
-    "brand": "Baby Lock",
-    "url": "/products/baby-lock-acclaim-serger",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Acclaim_WhatNewCatalog.jpg?v=1787179857",
-    "price": 2849.0,
-    "compareAtPrice": 3849.0,
-    "isOnSale": true,
-    "isQuoteRequest": false,
-    "isPromo": false,
-    "isPreOwned": false,
-    "types": [
-      "Serger"
-    ],
-    "tagline": "This machine comes with 60 Days of FREE Online Classes with Baby Lock! *Click HERE to register!",
-    "highlights": [
-      "Baby Lock Serger Tool Kit (BLSGTK)",
-      "Baby Lock Acclaim Inspirational Guide (STWB-BLES4)"
-    ],
-    "cardSpecs": {
-      "stitchCount": 0,
-      "embroideryArea": null,
-      "maxSpeed": 1500,
-      "screenSize": null,
-      "includedFeet": 1,
-      "throatSpace": "2\"",
-      "threadCount": "4/3/2 Thread"
-    },
-    "specs": {
-      "Key Specs": [
-        "Needle Threader: RevolutionAir™ Needle & Looper Air Threading",
-        "2\" to the Right of the Needle",
-        "Includes 1 Presser Foot",
-        "4/3/2 Thread Serging & Wave Stitch",
-        "RevolutionAir™ Threading System (Loopers & Needles)",
-        "Automatic Thread Delivery™ (No Tension Dials)",
-        "25/10/5/1 Year Limited Warranty"
-      ],
-      "Threading": [
-        "RevolutionAir Threading System",
-        "Automatic Thread Delivery System",
-        "Looper Threading Tool: Included",
-        "Needle System: Household",
-        "Enhanced Telescopic Antennae: With thread guides",
-        "4-Thread RevolutionAir Needle Threading Guide: Included"
-      ],
-      "Workspace & Display": [
-        "Workspace Right of Needle: 2\" W x 3\" H",
-        "Lighting: Pure Lighting with 3 LEDs",
-        "Dimensions: 17-1/8 x 13-7/8 x 12-3/4 in. (W x H x D)"
-      ],
-      "Smart Features": [
-        "Heavy-Duty Cutting System",
-        "Patented System: Easier sewing around curves",
-        "Bypass Port: For specialty threads",
-        "Built-in Ribbon/Tape Guide",
-        "Needle Clamp Safety Plate: Prevents lost needle screws",
-        "Safety Switches: Side door cover, front door cover, presser foot, needle threader",
-        "Power Cord Manager: On machine base",
-        "Electronic Foot Control",
-        "Full-Color Quick Reference Threading Chart",
-        "Built-in Accessory Storage",
-        "Needle Drop Tray: With magnet",
-        "Thread Stand Tray: With magnet"
-      ],
-      "Included Accessories": [
-        "Multi-Purpose Presser Foot: Snap-on",
-        "Presser Foot Pressure: Adjustable dial",
-        "Presser Foot Height: Adjustable up to 6.0 mm",
-        "Presser Foot Lever: On the right",
-        "Foot Control",
-        "Power Cord",
-        "Machine Soft Cover",
-        "Lint Brush/Needle Insert Tool",
-        "Assorted Sized Needles Package",
-        "Allen Screwdriver",
-        "Allen Wrench",
-        "Screwdriver",
-        "Tweezers",
-        "Upper Cutting Blade for Replacement",
-        "Looper Threading Tool",
-        "Thread Nets (4)",
-        "Spool Caps (4)",
-        "Sponge Disks (4)",
-        "Cone Holders (4)",
-        "4-Thread RevolutionAir Needle Threading Guide"
-      ],
-      "Warranty": [
-        "25-Year Limited Warranty on Product Casting",
-        "10-Year Limited Warranty on Defective Parts",
-        "5-Year Limited Warranty on Electrical Components",
-        "1-Year Quality Sewing Warranty"
-      ]
-    },
-    "weightLbs": 24.7,
-    "dimensions": "17-1/8 x 13-7/8 x 12-3/4 in. (W x H x D)",
-    "ks": {
-      "maxSpeed": "1,500 SPM",
-      "needleThreader": "Automatic",
-      "threadingSystem": "RevolutionAir Needle & Looper Air Threading",
-      "throatSpace": "2\"",
-      "threadCount": "4/3/2 Thread",
-      "includedFeet": "1",
-      "warranty": "25/10/5/1 Year Limited Warranty"
-    },
-    "ws": {
-      "workspace": "2\" W x 3\" H",
-      "lighting": "Pure Lighting with 3 LEDs",
-      "dimensions": "17-1/8 x 13-7/8 x 12-3/4 in. (W x H x D)"
-    }
-  },
-  {
     "handle": "baby-lock-accomplish-2-sewing-machine",
     "title": "Baby Lock Accomplish 2 Sewing Machine",
     "brand": "Baby Lock",
@@ -225,6 +113,112 @@
       "workspace": "8\" to the right of the needle",
       "lighting": "LED Lighting",
       "dimensions": "18 x 12-1/2 x 7 in. (W x H x D)"
+    }
+  },
+  {
+    "handle": "baby-lock-accomplish-2-open-box",
+    "title": "Baby Lock Accomplish 2 Sewing Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-accomplish-2-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-accomplish-2-sewing-machine-sewing-serger-embroidery-machines-8687932.jpg?v=1774888268",
+    "price": 1259.1,
+    "compareAtPrice": 1799.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Sewing",
+      "Quilting"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 1,
+      "embroideryArea": null,
+      "maxSpeed": 1500,
+      "screenSize": null,
+      "includedFeet": 7,
+      "throatSpace": "8\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "1,500 SPM",
+        "Needle Threader: Built-in",
+        "Thread Cutter: Automatic",
+        "8\" Throat Space to the right of the needle",
+        "7 Presser Feet Included",
+        "Precision Pin Feed System",
+        "25/2 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "Stitch Type: Straight Stitch Only",
+        "Max Sewing Speed: 1,500 stitches per minute",
+        "Adjustable Stitch Length: Up to 7mm",
+        "Precision Pin Feed System",
+        "Adjustable Feed Dogs (up to 4 heights)",
+        "Needle Positions: 1",
+        "Snap-On Feet System",
+        "Presser Foot Pressure Adjustment"
+      ],
+      "Threading & Convenience": [
+        "Built-in Needle Threader",
+        "Automatic Thread Cutter",
+        "Standard Bobbin Winder",
+        "Side-Loading Metal Bobbin",
+        "Thread Tension Adjustment Dial",
+        "Heavyweight Thread Guide"
+      ],
+      "Workspace & Display": [
+        "Knee Lift / Hands-Free Lift: Knee lift",
+        "Workspace Right of Needle: 8\" to the right of the needle",
+        "Lighting: LED Lighting"
+      ],
+      "Included Feet": [
+        "1/4\" Foot",
+        "Attachment Plate Foot",
+        "Flex-Reaction Foot",
+        "Free-Motion Quilting Foot",
+        "General Purpose Foot",
+        "Invisible Zipper Foot",
+        "Rolled Hem Foot",
+        "Straight Stitch Foot",
+        "Zipper Foot"
+      ],
+      "Included Accessories": [
+        "Soft Cover",
+        "Bobbins",
+        "Seam Guide"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Sewing Bed Width: 8-3/4\"",
+        "Quilting Extension Table (adds approximately 24\" of space)",
+        "Convenient Push Button Controls",
+        "Needle Up/Down",
+        "Built-in Telescoping Thread Stand"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "1 (straight stitch)",
+      "maxSpeed": "1,500 SPM",
+      "needleThreader": "Built-in",
+      "threadCutter": "Automatic",
+      "throatSpace": "8\"",
+      "includedFeet": "7",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "kneeLift": "Knee lift",
+      "workspace": "8\" to the right of the needle",
+      "lighting": "LED Lighting"
     }
   },
   {
@@ -405,6 +399,179 @@
     }
   },
   {
+    "handle": "baby-lock-aerial-open-box",
+    "title": "Baby Lock Aerial Sewing and Embroidery Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-aerial-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Aerial-LOK60D.jpg?v=1790795171",
+    "price": 6839.1,
+    "compareAtPrice": 8799.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Sewing",
+      "Quilting",
+      "Embroidery"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 757,
+      "embroideryArea": "8 x 12\"",
+      "maxSpeed": 1050,
+      "screenSize": "7\"",
+      "includedFeet": 11,
+      "throatSpace": "11.25\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "757 Built-in Stitches",
+        "14 One-Step Buttonholes",
+        "262 Built-in Embroidery Designs",
+        "8 x 12\" Max Embroidery Area",
+        "1,050 SPM",
+        "Needle Threader: Advanced",
+        "Thread Cutter: Automatic",
+        "7\" Touchscreen",
+        "11.25\" Throat Space to the right of the needle",
+        "11 Presser Feet Included",
+        "25/2 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "Built-in Stitches: 757",
+        "Utility Stitches: 138 (with 14 one-step buttonhole styles)",
+        "Decorative Stitches: 442",
+        "Satin Stitches: 20",
+        "Decorative Satin Stitches: 77",
+        "Cross Stitches: 17",
+        "Combinable Utility Stitches: 63",
+        "Built-in Alphabets: 5",
+        "Max Sewing Speed: 1,050 stitches per minute",
+        "Max Utility Stitch Width: 7 mm",
+        "Stitch Length: 0.0-5.0 mm",
+        "Total Feet Included: 11"
+      ],
+      "Embroidery Features": [
+        "Built-in Designs: 262",
+        "Baby Lock Exclusive Designs: 165",
+        "Bobbin Work Designs: 13",
+        "Combine Embroidery Designs on Screen",
+        "Design Enlargement: Up to 20%",
+        "Design Reduction: Up to 10%",
+        "Change Color Selections: Within designs",
+        "Color Sorting: On border designs",
+        "Floral Vine Alphabet Accents and Frame Patterns: 12",
+        "Font Styles: 19 (including exclusive script alphabet, large floral vine alphabet)",
+        "Frame Combinations: 140",
+        "Character/Text Array Function",
+        "Multi-Line Text Function",
+        "Character Spacing: Adjustable",
+        "Pattern Rotation: 1, 10, and 90 degree",
+        "Automatic Basting",
+        "Mirror Imaging",
+        "Monochrome Option",
+        "Programmable Custom Thread Color Selection"
+      ],
+      "Threading & Convenience": [
+        "Automatic Fabric Sensor System: Adjusts presser foot pressure and tension",
+        "Alternate Bobbin Case: For use with pre-wound bobbins",
+        "Specialty Bobbin Case: For bobbin work",
+        "Center Pin: For prewound and L class bobbins",
+        "Cord Guide Bobbin Cover: Included",
+        "Bobbins: 10 included",
+        "Embroidery Bobbin Thread: Included"
+      ],
+      "Workspace & Display": [
+        "Display: 7\" Touchscreen",
+        "Knee Lift / Hands-Free Lift: Automatic presser foot lift",
+        "Workspace Right of Needle: 11.25\" to the right of the needle",
+        "Lighting: LEDs illuminate 10 in. around needle"
+      ],
+      "Smart Features": [
+        "Automatic Fabric Sensor System: Adjusts pressure and tension for perfect stitches",
+        "Advanced Pivoting Feature",
+        "Knee Lift: Included",
+        "Automatic Drop Feed"
+      ],
+      "Included Feet": [
+        "1/4 in. Quilting Foot with Guide",
+        "10mm automatic Foot",
+        "13mm manual Foot",
+        "Blind Stitch Foot",
+        "Button Fitting Foot",
+        "Buttonhole Foot",
+        "Embroidery Foot",
+        "Free-Motion Open Toe Quilting Foot",
+        "Monogramming Foot",
+        "Overcasting Foot",
+        "Straight Stitch Foot",
+        "Zigzag Foot",
+        "Zipper Foot"
+      ],
+      "Included Hoops": [
+        "8 in. x 12 in. (200mm x 300mm) with grid",
+        "5 in. x 7 in. (130mm x 180mm) with grid"
+      ],
+      "Included Accessories": [
+        "Touch Pen (Stylus)",
+        "USB Cable",
+        "Knee Lift",
+        "11 Presser Feet",
+        "Alternate Bobbin Case",
+        "Specialty Bobbin Case",
+        "Center Pin",
+        "Cord Guide Bobbin Cover",
+        "Straight Stitch Needle Plate",
+        "Soft Cover for Machine",
+        "Bobbins (10)",
+        "Spool Cap Assortment",
+        "Seam Ripper",
+        "Twin Needle",
+        "Needle Pack",
+        "Vertical Spool Pin",
+        "Cleaning Brush",
+        "Screwdrivers",
+        "Embroidery Needle Plate Cover",
+        "Spool Net",
+        "Adapter",
+        "Eyelet Punch",
+        "Chalk Pencil",
+        "Foot Control",
+        "Embroidery Bobbin Thread",
+        "2 Embroidery Hoops with Grids"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "757",
+      "maxSpeed": "1,050 SPM",
+      "buttonholes": "14",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "262",
+      "embroideryArea": "8\" x 12\"",
+      "display": "7\" Touchscreen",
+      "throatSpace": "11.25\"",
+      "includedFeet": "11",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "7\" Touchscreen",
+      "kneeLift": "Automatic presser foot lift",
+      "workspace": "11.25\" to the right of the needle",
+      "lighting": "LEDs illuminate 10 in. around needle"
+    }
+  },
+  {
     "handle": "baby-lock-allegro-sewing-and-quilting-machine",
     "title": "Baby Lock Allegro Sewing & Quilting Machine",
     "brand": "Baby Lock",
@@ -522,6 +689,119 @@
       "freeArm": "Yes",
       "workspace": "12\" to the right of the needle",
       "dimensions": "25.2 x 12.2 x 9.45 in. (W x H x D)"
+    }
+  },
+  {
+    "handle": "baby-lock-allegro-open-box",
+    "title": "Baby Lock Allegro Sewing & Quilting Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-allegro-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-allegro-sewing-quilting-machine-sewing-serger-embroidery-machines-2968996.jpg?v=1774889531",
+    "price": 1259.1,
+    "compareAtPrice": 1999.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Sewing",
+      "Quilting"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 200,
+      "embroideryArea": null,
+      "maxSpeed": 1000,
+      "screenSize": "3\"",
+      "includedFeet": 9,
+      "throatSpace": "12\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "200 Stitches",
+        "11 Buttonholes",
+        "1,000 SPM",
+        "Needle Threader: Built-in",
+        "Thread Cutter: Automatic",
+        "3\" LCD Display",
+        "12\" Throat Space to the right of the needle",
+        "Includes 9 Presser Feet",
+        "25/2 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "Speed Control: Slide control"
+      ],
+      "Threading & Convenience": [
+        "Bobbin Winder: Built-in",
+        "Bobbin Cover: Additional seam markings for needle position preference",
+        "Bobbins: Included"
+      ],
+      "Workspace & Display": [
+        "Display: 3\" LCD",
+        "Speed Control: Speed slider",
+        "Knee Lift / Hands-Free Lift: Knee lift",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 12\" to the right of the needle"
+      ],
+      "Smart Features": [
+        "Convenient One-Touch Buttons: Start/Stop, Reverse Sewing, Reinforcement Stitch, Needle Up/Down, Thread Cutter",
+        "Speed Control Slide",
+        "Knee Lifter: Included",
+        "Needle Plate: Scale in inches and centimeters",
+        "Accessory Storage Compartments: 2"
+      ],
+      "Included Feet": [
+        "1/4 in. Quilting Foot",
+        "All Purpose Foot",
+        "Blind Hem Foot",
+        "Button Fitting Foot",
+        "Buttonhole Foot",
+        "Free-Motion/Darning Foot",
+        "Open Toe Foot",
+        "Overcasting Foot",
+        "Straight Stitch Foot",
+        "Zipper Foot"
+      ],
+      "Included Accessories": [
+        "Knee Lifter",
+        "Straight Stitch Needle Plate",
+        "Soft Cover for Machine",
+        "Bobbins",
+        "Seam Ripper with Brush",
+        "Needles",
+        "Spool Caps (2 sizes)",
+        "Screwdrivers (3 styles)",
+        "Quilting Guide",
+        "Extra Spool Pin",
+        "Foot Control Pedal"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "200",
+      "maxSpeed": "1,000 SPM",
+      "buttonholes": "11",
+      "needleThreader": "Built-in",
+      "threadCutter": "Automatic",
+      "display": "3\" LCD",
+      "throatSpace": "12\"",
+      "includedFeet": "9",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "3\" LCD",
+      "speedControl": "Speed slider",
+      "kneeLift": "Knee lift",
+      "freeArm": "Yes",
+      "workspace": "12\" to the right of the needle"
     }
   },
   {
@@ -673,11 +953,11 @@
   },
   {
     "handle": "baby-lock-altair-2-open-box",
-    "title": "Baby Lock Altair 2 Embroidery & Sewing Machine (Classroom Model)",
+    "title": "Baby Lock Altair 2 Embroidery & Sewing Machine (Open Box)",
     "brand": "Baby Lock",
     "url": "/products/baby-lock-altair-2-open-box",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Altair2-STWB-LOK60D_52d80df7-7276-44de-a2e3-137d145f0122.jpg?v=1787181274",
-    "price": 9999.0,
+    "price": 9899.1,
     "compareAtPrice": 13999.0,
     "isOnSale": true,
     "isQuoteRequest": false,
@@ -963,11 +1243,11 @@
   },
   {
     "handle": "baby-lock-anthem-quilting-and-sewing-machine",
-    "title": "Baby Lock Anthem Quilting & Sewing Machine (Classroom Model)",
+    "title": "Baby Lock Anthem Quilting & Sewing Machine (Open Box)",
     "brand": "Baby Lock",
     "url": "/products/baby-lock-anthem-quilting-and-sewing-machine",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Anthem-LOK60D.jpg?v=1787180601",
-    "price": 6299.0,
+    "price": 6299.1,
     "compareAtPrice": 8499.0,
     "isOnSale": true,
     "isQuoteRequest": false,
@@ -1226,7 +1506,7 @@
   },
   {
     "handle": "baby-lock-applaud-deluxe-coverhem-classroom-model",
-    "title": "Baby Lock Applaud Deluxe Coverhem (Classroom Model)",
+    "title": "Baby Lock Applaud Deluxe Coverhem (Open Box)",
     "brand": "Baby Lock",
     "url": "/products/baby-lock-applaud-deluxe-coverhem-classroom-model",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Applaud-9118-BL-LOK_dbf415ac-6615-47f3-90a6-9f2bd5690aa8.jpg?v=1793735860",
@@ -1475,6 +1755,128 @@
     }
   },
   {
+    "handle": "baby-lock-array-open-box",
+    "title": "Baby Lock Array 6 Needle Embroidery Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-array-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-array-6-needle-embroidery-machine-sewing-serger-embroidery-machines-543060.jpg?v=1775229988",
+    "price": 11924.1,
+    "compareAtPrice": 16999.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Embroidery",
+      "Multi-Needle"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": "200mm x 300mm",
+      "maxSpeed": 1000,
+      "screenSize": null,
+      "includedFeet": null,
+      "throatSpace": null,
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "126 Built-in Designs, Including 50 Fonts Built-in Stitches",
+        "10 One-Step Buttonhole Styles (in 3 sizes)",
+        "126 Built-in Embroidery Designs",
+        "Maximum Embroidery Field: 7-7/8\" x 11-3/4\"",
+        "1,000 SPM",
+        "Needle Threader: Push-Button, Automatic",
+        "Thread Cutter: Automatic",
+        "Touchscreen",
+        "Includes 4 Embroidery Hoops Presser Feet Included",
+        "6-Needle Dedicated Embroidery Machine",
+        "Crosshair Positioning Laser",
+        "Includes 1 Embroidery Foot",
+        "25/2 Year Limited Warranty"
+      ],
+      "Embroidery Features": [
+        "Built-in Designs: 126",
+        "Max Embroidery Area: 7-7/8\" x 11-3/4\" (200mm x 300mm)",
+        "Change Embroidery Position Using Speed Keys",
+        "Built-in Fonts: 50 font styles",
+        "Needle Bar/Frame Move Key for Easy Hoop Access",
+        "Advanced Editing Features",
+        "Built-in Memory: 10MB",
+        "6 Needle Configuration",
+        "Wireless Capability (with optional Palette 11 software)",
+        "Crosshair Positioning Laser",
+        "Color Visualizer",
+        "Embroidery Shortcut Key"
+      ],
+      "Threading & Convenience": [
+        "Bobbin System: Front Loading Vertical Rotary Hook",
+        "Pre-Wound Bobbin Compatible (Class L)",
+        "Push Button Automatic Needle Threader",
+        "Upper Thread Breakage Sensors",
+        "Manual Tension Control",
+        "Automatic Thread Trimmer (upper and lower)"
+      ],
+      "Workspace & Display": [
+        "Display: Touchscreen",
+        "Speed Control: Speed control",
+        "Lighting: 2 LED Lights"
+      ],
+      "Smart Features": [
+        "IQ Intuition Monitoring App (smartphone alerts)",
+        "24 Built-in Tutorial Videos",
+        "High Definition Touchscreen",
+        "Change Screen and Thumbnail Background Color",
+        "60-Day Trial of KnowledgeEmbroidery",
+        "Start/Stop Button with Lock Feature"
+      ],
+      "Included Hoops": [
+        "7-7/8\" x 11-3/4\" (200mm x 300mm)",
+        "7\" x 5\" (130mm x 180mm)",
+        "3-7/8\" x 3-7/8\" (100mm x 100mm)",
+        "2-1/4\" x 1-1/2\" (60mm x 40mm)"
+      ],
+      "Included Accessories": [
+        "Accessory Case",
+        "Instruction Guides",
+        "Embroidery Sheets (4 sizes)",
+        "USB Cable",
+        "Needle Set x 2",
+        "Pre-Wound Bobbins x 6",
+        "Spool Mat x 6",
+        "Touch Pen",
+        "Needle Changing and Threading Tool",
+        "Needle Plate Cover",
+        "Oiler"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "Dedicated embroidery",
+      "maxSpeed": "1,000 SPM",
+      "buttonholes": "10",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "126",
+      "embroideryArea": "200mm x 300mm",
+      "display": "Touchscreen",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "Touchscreen",
+      "speedControl": "Speed control",
+      "lighting": "2 LED Lights"
+    }
+  },
+  {
     "handle": "baby-lock-aurora-sewing-embroidery-machine",
     "title": "Baby Lock Aurora Sewing & Embroidery Machine",
     "brand": "Baby Lock",
@@ -1583,6 +1985,109 @@
       "freeArm": "Yes",
       "workspace": "6.2\" to the right of the needle",
       "dimensions": "16.5 x 12.1 x 7.64 in. (W x H x D)"
+    }
+  },
+  {
+    "handle": "baby-lock-aurora-open-box",
+    "title": "Baby Lock Aurora Sewing & Embroidery Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-aurora-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Aurora-AK6194-GAR-8041-LOK.jpg?v=1793835512",
+    "price": 1079.1,
+    "compareAtPrice": 1799.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Sewing",
+      "Embroidery"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": "4 x 4\"",
+      "maxSpeed": 850,
+      "screenSize": "3.7\"",
+      "includedFeet": 8,
+      "throatSpace": "6.2\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "10 Buttonholes",
+        "303 Built-in Embroidery Designs",
+        "4 x 4\" Max Embroidery Area",
+        "850 SPM",
+        "Needle Threader: Advanced",
+        "Thread Cutter: Automatic",
+        "3.7\" Touchscreen",
+        "6.2\" Throat Space to the right of the needle",
+        "8 Presser Feet Included",
+        "25/2 Year Limited Warranty"
+      ],
+      "Threading & Convenience": [
+        "Bobbin Cover with Seam Markings: Included"
+      ],
+      "Workspace & Display": [
+        "Display: 3.7\" Touchscreen",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 6.2\" to the right of the needle"
+      ],
+      "Smart Features": [
+        "Convenient One-Touch Buttons: Start/Stop, Reverse Sewing, Needle Up/Down, Thread Cutter",
+        "Electronic Foot Control: With separate power cord",
+        "Drop Feed Lever",
+        "Total Snap-On Feet: 8",
+        "Needle Plate: Scale in inches and centimeters",
+        "Accessory Storage Compartment",
+        "Built-In Operational Guide"
+      ],
+      "Included Feet": [
+        "Blind Stitch Foot",
+        "Button Fitting Foot",
+        "Buttonhole Foot",
+        "Embroidery Foot",
+        "Monogramming Foot",
+        "Overcasting Foot",
+        "Zigzag Foot",
+        "Zipper Foot"
+      ],
+      "Included Hoops": [
+        "4 in. x 4 in. (100mm x 100mm) Embroidery Hoop and Grid"
+      ],
+      "Included Accessories": [
+        "Hard Cover",
+        "Extension Table",
+        "4 in. x 4 in. Embroidery Hoop and Grid",
+        "Bobbin Cover with Seam Markings",
+        "60-Day Trial Online Sewing Classes"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "maxSpeed": "850 SPM",
+      "buttonholes": "10",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "303",
+      "embroideryArea": "4\" x 4\"",
+      "display": "3.7\" Touchscreen",
+      "throatSpace": "6.2\"",
+      "includedFeet": "8",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "3.7\" Touchscreen",
+      "freeArm": "Yes",
+      "workspace": "6.2\" to the right of the needle"
     }
   },
   {
@@ -1706,6 +2211,121 @@
       "freeArm": "Yes",
       "workspace": "11.25\" to the right of the needle",
       "dimensions": "22-1/2 x 13-1/16 x 11-3/16 in. (W x H x D)"
+    }
+  },
+  {
+    "handle": "baby-lock-ballad-open-box",
+    "title": "Baby Lock Ballad Sewing and Quilting Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-ballad-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-ballad-sewing-and-quilting-machine-sewing-serger-embroidery-machines-278011.jpg?v=1762441100",
+    "price": 5354.1,
+    "compareAtPrice": 6899.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Sewing",
+      "Quilting"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": null,
+      "maxSpeed": 1050,
+      "screenSize": "7\"",
+      "includedFeet": 14,
+      "throatSpace": "11.25\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "14 Buttonholes",
+        "1,050 SPM",
+        "Needle Threader: NeverMiss Automatic",
+        "Thread Cutter: Automatic",
+        "7\" Touchscreen",
+        "11.25\" Throat Space to the right of the needle",
+        "14 Presser Feet Included",
+        "Compact Digital Dual-Feed System",
+        "25/2 Year Limited Warranty"
+      ],
+      "Threading & Convenience": [
+        "Needle Threader: NeverMiss Automatic",
+        "Thread Cutter: Automatic",
+        "Bobbin Winder: Quick-Set",
+        "Bobbin Cover: Cord guide and additional seam markings for needle position preference",
+        "Specialty Bobbin Case: For bobbin work",
+        "Twin Needle: Included"
+      ],
+      "Workspace & Display": [
+        "Display: 7\" Touchscreen",
+        "Knee Lift / Hands-Free Lift: Automatic presser foot lift",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 11.25\" to the right of the needle"
+      ],
+      "Smart Features": [
+        "Convenient One-Touch Buttons: Start/Stop, Reverse Sewing, Reinforcement Stitch, Needle Up/Down, Thread Cutter, Automatic Presser Foot Lift",
+        "NeverMiss Automatic Needle Threader",
+        "Pivot Setting",
+        "Knee Lift: Included",
+        "Multi-Function Foot Control",
+        "Compact Digital Dual-Feed System",
+        "Automatic Presser Foot Lift",
+        "Needle Plate: Scale in inches and centimeters",
+        "Accessory Storage Compartments: 2"
+      ],
+      "Included Feet": [
+        "1/4 in. Quilting Foot with Guide",
+        "Blind Stitch Foot",
+        "Button Fitting Foot",
+        "Buttonhole Foot",
+        "Free-Motion Echo Quilting Foot",
+        "Free-Motion Open Toe Quilting Foot",
+        "Free-Motion Quilting Foot",
+        "Monogramming Foot",
+        "Overcasting Foot",
+        "Straight Stitch Foot",
+        "Zigzag Foot",
+        "Zipper Foot"
+      ],
+      "Included Accessories": [
+        "Touch Pen (Stylus)",
+        "Knee Lift",
+        "Multi-Function Foot Control",
+        "2-Thread Spool Stand",
+        "Specialty Bobbin Case for Bobbin Work",
+        "Cord Guide Bobbin Cover",
+        "Straight Stitch Needle Plate",
+        "Soft Cover for Machine",
+        "Twin Needle",
+        "60-Day Trial of Knowledge (Online Classes)"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "maxSpeed": "1,050 SPM",
+      "buttonholes": "14",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "display": "7\" Touchscreen",
+      "throatSpace": "11.25\"",
+      "includedFeet": "14",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "7\" Touchscreen",
+      "kneeLift": "Automatic presser foot lift",
+      "freeArm": "Yes",
+      "workspace": "11.25\" to the right of the needle"
     }
   },
   {
@@ -1835,6 +2455,129 @@
       "freeArm": "Yes",
       "workspace": "6.7\" to the right of the needle",
       "dimensions": "17-9/16 x 11-13/16 x 9-16/32 in. (W x H x D)"
+    }
+  },
+  {
+    "handle": "baby-lock-bloom-open-box",
+    "title": "Baby Lock Bloom Sewing & Embroidery Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-bloom-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-bloom-sewing-embroidery-machine-sewing-serger-embroidery-machines-4106088.jpg?v=1774889531",
+    "price": 2429.1,
+    "compareAtPrice": 3599.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Sewing",
+      "Embroidery"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 251,
+      "embroideryArea": "5 x 7\"",
+      "maxSpeed": 850,
+      "screenSize": null,
+      "includedFeet": 16,
+      "throatSpace": "6.7\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "251 Built-in Stitches",
+        "1 Automatic Buttonhole",
+        "342 Built-in Embroidery Designs",
+        "5 x 7\" Max Embroidery Area",
+        "850 SPM",
+        "Needle Threader: Advanced",
+        "Thread Cutter: Automatic",
+        "Touchscreen",
+        "6.7\" Throat Space to the right of the needle",
+        "16 Presser Feet Included",
+        "25/2 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "Sewing Speed Control: Variable",
+        "Snap-On Feet (10):",
+        "Screw-On Feet (3):",
+        "Hands-Free Presser Foot Lift"
+      ],
+      "Threading & Convenience": [
+        "Alternate Bobbin Case: Included",
+        "Center Pin for Pre-Wound Bobbins: Included"
+      ],
+      "Workspace & Display": [
+        "Display: Touchscreen",
+        "Speed Control: Speed control",
+        "Knee Lift / Hands-Free Lift: Knee lift",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 6.7\" to the right of the needle"
+      ],
+      "Smart Features": [
+        "Convenient One-Touch Buttons: Start/Stop, Reverse Sewing, Needle Up/Down, Thread Cutter",
+        "Knee Lift: Included",
+        "Electronic Foot Control: With separate power cord",
+        "Drop Feed Lever",
+        "Needle Plate: Scale in inches and centimeters",
+        "Accessory Storage Compartment"
+      ],
+      "Included Feet": [
+        "Adjustable Zipper/Piping Foot",
+        "Blind Stitch Foot",
+        "Button Fitting Foot",
+        "Buttonhole Foot",
+        "Embroidery Foot",
+        "Free-Motion Quilting Foot",
+        "Monogramming Foot",
+        "Non-Stick Foot",
+        "Open Toe Foot",
+        "Overcasting Foot",
+        "Stitch Guide Foot",
+        "Zigzag Foot",
+        "Zipper Foot"
+      ],
+      "Included Hoops": [
+        "5 in. x 7 in. (130mm x 180mm) Embroidery Hoop and Grid",
+        "5 in. x 12 in. (130mm x 300mm) Multi-Position Embroidery Hoop and Grid"
+      ],
+      "Included Accessories": [
+        "Hard Case",
+        "Knee Lift",
+        "2 Embroidery Hoops with Grids",
+        "Alternate Bobbin Case",
+        "Center Pin for Pre-Wound Bobbins",
+        "Horizontal Spool Pin",
+        "Screwdrivers"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "251",
+      "maxSpeed": "850 SPM",
+      "buttonholes": "1",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "342",
+      "embroideryArea": "5\" x 7\"",
+      "display": "Touchscreen",
+      "throatSpace": "6.7\"",
+      "includedFeet": "16",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "Touchscreen",
+      "speedControl": "Speed control",
+      "kneeLift": "Knee lift",
+      "freeArm": "Yes",
+      "workspace": "6.7\" to the right of the needle"
     }
   },
   {
@@ -1979,7 +2722,7 @@
   },
   {
     "handle": "baby-lock-brilliant-classroom-model",
-    "title": "Baby Lock Brilliant Sewing & Quilting Machine (Classroom Model)",
+    "title": "Baby Lock Brilliant Sewing & Quilting Machine (Open Box)",
     "brand": "Baby Lock",
     "url": "/products/baby-lock-brilliant-classroom-model",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Brilliant-AK6194-GAR-8041-LOK_1bf9bef8-4875-4b4b-9858-4fd936904a96.jpg?v=1793834925",
@@ -2246,6 +2989,128 @@
     }
   },
   {
+    "handle": "baby-lock-capella-open-box",
+    "title": "Baby Lock Capella Embroidery Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-capella-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-capella-embroidery-machine-sewing-serger-embroidery-machines-651874.png?v=1773954475",
+    "price": 6569.1,
+    "compareAtPrice": 8999.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Embroidery",
+      "Multi-Needle"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 500,
+      "embroideryArea": "200mm x 300mm",
+      "maxSpeed": 1000,
+      "screenSize": null,
+      "includedFeet": null,
+      "throatSpace": null,
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "175 Built-in Embroidery Designs",
+        "7-7/8 x 11-3/4\" Max Embroidery Area",
+        "1,000 SPM",
+        "Needle Threader: Push Button Automatic",
+        "Thread Cutter: Automatic",
+        "Touchscreen",
+        "Free-arm Design for sleeves and bags",
+        "Includes 1 Embroidery Foot",
+        "25/2 Year Limited Warranty"
+      ],
+      "Embroidery Features": [
+        "Built-in Designs: 175",
+        "Hoop Sensor (advises hoop size for chosen design)",
+        "Combine Embroidery Designs On-Screen",
+        "Design Size Change (10% reduction, 20% enlargement)",
+        "Design Duplication",
+        "Color Sorting on Non-Overlapping Designs",
+        "Change Color Selections Within Designs",
+        "Max Embroidery Area: 7-7/8\" x 11-3/4\" (200mm x 300mm)",
+        "Built-in Fonts: 39 fonts + 1 monogram font",
+        "Frame Combinations: 120",
+        "Built-in Memory: 1 MB",
+        "Character/Text Array Function",
+        "Multi-Line Text",
+        "Character Spacing",
+        "Pattern Rotation (1°, 10°, 90°)",
+        "Needle Position Placement (1, 10, 100, 500 stitch increments and by color)",
+        "Automatic Basting",
+        "Mirror Imaging",
+        "Continuous Border Capabilities",
+        "Monochrome Option",
+        "Instant Needle Edge Placement (9 starting and ending positions)"
+      ],
+      "Threading & Convenience": [
+        "Bobbin System: Front Loading Vertical Rotary Hook",
+        "Quick-Set Built-In Bobbin Winder with Independent Motor",
+        "Pre-Wound Bobbin Compatible (Class L)",
+        "Push Button Automatic Needle Threader",
+        "Upper Thread Breakage Sensors",
+        "Manual Tension Controls",
+        "Automatic Thread Trimmer (upper and lower)"
+      ],
+      "Workspace & Display": [
+        "Display: Touchscreen",
+        "Speed Control: Speed control",
+        "Free Arm: Yes",
+        "Lighting: 2 LED Lights"
+      ],
+      "Included Hoops": [
+        "7-7/8\" x 11-3/4\" (200mm x 300mm)",
+        "4\" x 4\" (100mm x 100mm)",
+        "Embroidery Frame Holder A",
+        "Embroidery Frame Holder B"
+      ],
+      "Included Accessories": [
+        "4-Thread Spool Stand",
+        "Built-In Holder with Stylus/Touch Pen",
+        "USB Cable",
+        "Accessory Case",
+        "Spool",
+        "Pre-Wound Bobbins",
+        "Spool Caps",
+        "Metal Bobbins"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Start/Stop Button with Lock Feature",
+        "Needle Forward/Reverse Position"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "500",
+      "maxSpeed": "1,000 SPM",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "175",
+      "embroideryArea": "200mm x 300mm",
+      "display": "Touchscreen",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "Touchscreen",
+      "speedControl": "Speed control",
+      "freeArm": "Yes",
+      "lighting": "2 LED Lights"
+    }
+  },
+  {
     "handle": "babylock-celebrate-4-3-2-serger",
     "title": "Baby Lock Celebrate Serger",
     "brand": "Baby Lock",
@@ -2332,6 +3197,91 @@
     },
     "ws": {
       "dimensions": "12.5 x 11.5 x 11 in. (W x H x D)"
+    }
+  },
+  {
+    "handle": "baby-lock-celebrate-open-box",
+    "title": "Baby Lock Celebrate Serger (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-celebrate-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Celebrate-BLSGTK-LOK.jpg?v=1793734468",
+    "price": 1106.1,
+    "compareAtPrice": 1999.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Serger"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 15,
+      "embroideryArea": null,
+      "maxSpeed": 1500,
+      "screenSize": null,
+      "includedFeet": 1,
+      "throatSpace": null,
+      "threadCount": "4/3/2 Thread"
+    },
+    "specs": {
+      "Key Specs": [
+        "15 Built-in Stitches",
+        "1,500 SPM",
+        "Needle Threader: Built-in",
+        "Includes 1 Presser Foot",
+        "4/3/2 Thread Serging Built-in Stitches",
+        "Threading System: Jet-Air Threading™ (Loopers)",
+        "25/2 Year Limited Warranty"
+      ],
+      "Threading": [
+        "Looper Threading Tool: Included",
+        "Knife and Needles Closer: For easier serging curves"
+      ],
+      "Workspace & Display": [
+        "Dimensions: 12.5 x 11.5 x 11 in."
+      ],
+      "Smart Features": [
+        "Heavy-Duty Cutting System",
+        "Side Thread Cutter",
+        "Knife and Needles Closer: For easier serging curves",
+        "Upper Cutting Blade: Replaceable (included)"
+      ],
+      "Included Accessories": [
+        "Presser Foot Pressure: Adjustable",
+        "Presser Foot Height: Adjustable up to 6 mm",
+        "Foot Control",
+        "Machine Soft Cover",
+        "Lint Brush/Needle Insert Tool",
+        "Two Needle Clamp Screws",
+        "Assorted Sized Needles Package",
+        "Small Screwdriver",
+        "Screwdriver",
+        "Tweezers",
+        "Upper Cutting Blade for Replacement",
+        "Looper Threading Tool"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": "12.5 x 11.5 x 11 in.",
+    "ks": {
+      "stitchCount": "15",
+      "maxSpeed": "1,500 SPM",
+      "needleThreader": "Built-in",
+      "threadCutter": "Manual",
+      "threadingSystem": "Jet-Air Looper Threading",
+      "threadCount": "4/3/2 Thread",
+      "includedFeet": "1",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "dimensions": "12.5 x 11.5 x 11 in."
     }
   },
   {
@@ -2437,6 +3387,103 @@
       "workspace": "5\" to the right of the needle",
       "lighting": "3 LED lights",
       "dimensions": "17-1/2 x 12 x 11-1/2 in. (W x H x D)"
+    }
+  },
+  {
+    "handle": "baby-lock-euphoria-open-box",
+    "title": "Baby Lock Euphoria Coverlock Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-euphoria-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Euphoria-BLSGTK-LOK.jpg?v=1793735147",
+    "price": 1709.1,
+    "compareAtPrice": 2599.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Serger",
+      "Coverstitch"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": null,
+      "maxSpeed": 1500,
+      "screenSize": null,
+      "includedFeet": 1,
+      "throatSpace": "5\"",
+      "threadCount": "4 Thread"
+    },
+    "specs": {
+      "Key Specs": [
+        "4-thread coverstitch capacity",
+        "Chain stitch and coverstitch (4 built-in cover stitches)",
+        "Maximum speed: 1,500 spm",
+        "ExtraordinAir one-push threading for looper threads",
+        "Automatic Thread Delivery (no tension dials)",
+        "5\" of workspace to the right of the needle",
+        "25/2 Year Limited Warranty"
+      ],
+      "Threading": [
+        "ExtraordinAir Electronic Threading System",
+        "Lever-activated automatic needle threader",
+        "Tubular Looper with Bypass Port for Specialty Threads",
+        "Automatic Thread Delivery with balanced tension",
+        "Tension dial for chain/cover stitch looper thread"
+      ],
+      "Workspace & Display": [
+        "Knee Lift / Hands-Free Lift: Knee lift",
+        "Workspace Right of Needle: 5\" to the right of the needle",
+        "Lighting: 3 LED lights",
+        "Dimensions: 17 x 13 x 13 in."
+      ],
+      "Included Accessories": [
+        "Standard presser foot (general purpose, on machine)",
+        "Foot control with power cord",
+        "Knee lifter",
+        "Machine cover",
+        "2 guide fixing screws for table",
+        "Quilting guide fixing screw",
+        "Lint brush/needle insert tool",
+        "Package of assorted sized needles (Organ ELx705CF)",
+        "Allen screwdriver and screwdriver",
+        "Tweezers",
+        "Large spool pin disk",
+        "Looper threading tool",
+        "4 thread nets",
+        "4 spool caps",
+        "4 sponge disks",
+        "4 cone holders",
+        "Instruction manual"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Presser foot height: 6mm from needle plate",
+        "Drop feed lowers automatically when the presser foot raises"
+      ]
+    },
+    "weightLbs": 25,
+    "dimensions": "17 x 13 x 13 in.",
+    "ks": {
+      "maxSpeed": "1,500 SPM",
+      "needleThreader": "Automatic",
+      "threadingSystem": "ExtraordinAir Looper Air Threading",
+      "throatSpace": "5\"",
+      "threadCount": "4 Thread",
+      "includedFeet": "1",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "kneeLift": "Knee lift",
+      "workspace": "5\" to the right of the needle",
+      "lighting": "3 LED lights",
+      "dimensions": "17 x 13 x 13 in."
     }
   },
   {
@@ -2557,6 +3604,115 @@
     }
   },
   {
+    "handle": "baby-lock-flare-open-box",
+    "title": "Baby Lock Flare Dedicated Embroidery Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-flare-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-flare-dedicated-embroidery-machine-sewing-serger-embroidery-machines-797908.jpg?v=1762443459",
+    "price": 2069.1,
+    "compareAtPrice": 4499.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Embroidery"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": "6.25\" x 10.25\"",
+      "maxSpeed": 850,
+      "screenSize": null,
+      "includedFeet": 1,
+      "throatSpace": "7.4\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "293 Built-in Embroidery Designs",
+        "6.25\" x 10.25\" Large Embroidery Area",
+        "850 SPM",
+        "Needle Threader: Advanced",
+        "Thread Cutter: Automatic (including jumps)",
+        "Touchscreen",
+        "7.4\" Throat Space to the right of the needle",
+        "Includes Embroidery Foot with LED Pointer",
+        "25/2 Year Limited Warranty"
+      ],
+      "Embroidery Features": [
+        "Built-in Designs: 293",
+        "Maximum Stitch Capacity: 200,000 stitches per design",
+        "Design Formats: .pes, .phc, .dst",
+        "Max Embroidery Area: 6-1/4\" x 10-1/4\" (160mm x 260mm)",
+        "Embroidery Speed: 850 stitches per minute",
+        "Built-in Fonts: 14",
+        "Font Editing: Size and Select Letters Individually",
+        "Frame Patterns: 140",
+        "On-Screen Hoop Sensor (recommends hoop size)",
+        "Multi-Line Text",
+        "Character/Text Array Function",
+        "Character Spacing",
+        "9-Point Trial Check Points"
+      ],
+      "Threading & Convenience": [
+        "Automatic Thread Tension Control",
+        "Upper and Lower Thread Sensors",
+        "Bobbin Center Pin Included"
+      ],
+      "Smart Features": [
+        "Color LCD Touchscreen",
+        "Estimated Embroidery Time Display and Stitch Count",
+        "Thread Color Indicator",
+        "Low Bobbin Thread Indicator",
+        "Automatic Thread Tension Control",
+        "Upper and Lower Thread Sensors (alerts when threads are broken)"
+      ],
+      "Included Hoops": [
+        "6-1/4\" x 10-1/4\" (160mm x 260mm) with Grid",
+        "5\" x 7\" (130mm x 180mm) with Grid"
+      ],
+      "Included Accessories": [
+        "Soft Cover for Machine",
+        "Bobbin Center Pin",
+        "Embroidery Bobbin Thread",
+        "Instruction Guides",
+        "Spool Caps"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Included Feet": [
+        "Embroidery Foot"
+      ],
+      "Workspace & Display": [
+        "Display: Touchscreen",
+        "Workspace Right of Needle: 7.4\" to the right of the needle"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "Dedicated embroidery",
+      "maxSpeed": "850 SPM",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "293",
+      "embroideryArea": "6.25\" x 10.25\"",
+      "display": "Touchscreen",
+      "throatSpace": "7.4\"",
+      "includedFeet": "1",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "Touchscreen",
+      "workspace": "7.4\" to the right of the needle"
+    }
+  },
+  {
     "handle": "baby-lock-gallant-longarm-quilting-machine-with-villa-frame",
     "title": "Baby Lock Gallant Longarm Quilting Machine with 8-Foot Villa Frame",
     "brand": "Baby Lock",
@@ -2650,6 +3806,98 @@
       "throatSpace": "15\"",
       "includedFeet": "2",
       "warranty": "10/5/5/5 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "LCD",
+      "workspace": "15\" W x 8\" H",
+      "lighting": "LED Light Ring"
+    }
+  },
+  {
+    "handle": "baby-lock-gallant-open-box",
+    "title": "Baby Lock Gallant Longarm Quilting Machine with 8-Foot Villa Frame (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-gallant-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-gallant-longarm-quilting-machine-with-8-foot-villa-frame-sewing-serger-embroidery-machines-3999980.jpg?v=1764020879",
+    "price": 5849.1,
+    "compareAtPrice": 7199.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Quilting",
+      "Longarm"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": null,
+      "maxSpeed": 1800,
+      "screenSize": null,
+      "includedFeet": 2,
+      "throatSpace": "15\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "1,800 SPM",
+        "Needle Threader",
+        "Thread Cutter: Manual",
+        "LCD Display",
+        "15\" Throat Space",
+        "Manual Threading",
+        "Stitch Regulation Modes: Precision and Cruise",
+        "10/5 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "Throat Height: 8\"",
+        "Max Sewing Speed: 1,800 stitches per minute",
+        "Stitch Regulation",
+        "8-Foot Villa Frame Included"
+      ],
+      "Threading & Convenience": [
+        "Bobbin Type: M-Class",
+        "Manual Tension System",
+        "Bobbin Winder",
+        "Needle Threader"
+      ],
+      "Workspace & Display": [
+        "Display: LCD",
+        "Workspace Right of Needle: 15\" W x 8\" H",
+        "Lighting: LED Light Ring"
+      ],
+      "Included Feet": [
+        "Open Toe Foot",
+        "Quarter Inch Ruler Foot"
+      ],
+      "Included Accessories": [
+        "Frame Leader Set and Two Side Clamps",
+        "Quick Reference Card",
+        "Instruction & Reference Guide",
+        "5 Bobbins",
+        "Hex Keys (2.5mm, 3.0mm, 4mm)"
+      ],
+      "Warranty": [
+        "10-Year Limited Warranty on Machine Head/Casting",
+        "5-Year Limited Electronic Warranty",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Front Handlebars"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "maxSpeed": "1,800 SPM",
+      "needleThreader": "Built-in",
+      "threadCutter": "Manual",
+      "display": "LCD",
+      "throatSpace": "15\"",
+      "includedFeet": "2",
+      "warranty": "10/5 Year Limited Warranty"
     },
     "ws": {
       "display": "LCD",
@@ -2767,6 +4015,106 @@
     }
   },
   {
+    "handle": "baby-lock-gallant-xl-open-box",
+    "title": "Baby Lock Gallant XL 18\" Longarm Quilting Machine with 8' Villa Frame (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-gallant-xl-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-gallant-xl-18-longarm-quilting-machine-with-8-villa-frame-sewing-serger-embroidery-machines-6997108.jpg?v=1764020878",
+    "price": 7379.1,
+    "compareAtPrice": 8999.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Quilting",
+      "Longarm"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 18,
+      "embroideryArea": null,
+      "maxSpeed": 2100,
+      "screenSize": null,
+      "includedFeet": 1,
+      "throatSpace": "18\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "18 Built-in Stitches",
+        "2,100 SPM",
+        "Needle Threader: Included",
+        "Touchscreen",
+        "18\" Throat Space to the right of the needle",
+        "10/5 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "Max Speed: 2,100 stitches per minute",
+        "Stitch Range: 4-18 stitches per inch",
+        "Stitch Regulation, 2 modes (Precision and Cruise)",
+        "Thread Tension: Manual",
+        "Needle Stop Positioning"
+      ],
+      "Threading & Convenience": [
+        "Bobbin Type: M-Class (high capacity)",
+        "Hook System: High-Speed Rotary",
+        "Needle Threader: Included"
+      ],
+      "Workspace & Display": [
+        "Display: 7\" Touchscreen",
+        "Workspace Right of Needle: 18\" W x 8.5\" H",
+        "Lighting: LED Light Ring",
+        "Dimensions: 60 x 36 x 39 in."
+      ],
+      "Included Accessories": [
+        "Bobbin Winder",
+        "Front Handlebars",
+        "Frame Leader Set with 2 Side Clamps",
+        "Bobbins (5)",
+        "Needle Threader",
+        "Hex Keys (2.5mm, 3mm, 4mm)",
+        "Quick Reference Card",
+        "Instruction & Reference Guide"
+      ],
+      "Warranty": [
+        "10-Year Limited Warranty on Machine Head/Casting",
+        "5-Year Limited Electronic Warranty",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Included Feet": [
+        "Open Toe Foot"
+      ],
+      "Smart Features": [
+        "Front Handlebars",
+        "Frame Length: 8 ft. (expandable to 10 ft. with optional extension)",
+        "Frame Material: Powder-Coated Steel",
+        "Height Adjustable",
+        "Leveling Feet",
+        "Loading Modes: High or Low",
+        "Ratcheted Pole Ends"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": "60 x 36 x 39 in.",
+    "ks": {
+      "stitchCount": "18",
+      "maxSpeed": "2,100 SPM",
+      "needleThreader": "Built-in",
+      "display": "7\" Touchscreen",
+      "throatSpace": "18\"",
+      "includedFeet": "1",
+      "warranty": "10/5 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "7\" Touchscreen",
+      "workspace": "18\" W x 8.5\" H",
+      "lighting": "LED Light Ring",
+      "dimensions": "60 x 36 x 39 in."
+    }
+  },
+  {
     "handle": "baby-lock-gallant-xl-18-longarm-quilting-machine",
     "title": "Baby Lock Gallant XL 18\" Sit Down Longarm Quilting Machine",
     "brand": "Baby Lock",
@@ -2860,6 +4208,100 @@
       "throatSpace": "18\"",
       "includedFeet": "2",
       "warranty": "10/5/5/5 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "4.3\" Touchscreen",
+      "speedControl": "Speed control",
+      "workspace": "18\" W x 8.5\" H",
+      "lighting": "LED Lighting"
+    }
+  },
+  {
+    "handle": "baby-lock-gallant-xl-stationary-open-box",
+    "title": "Baby Lock Gallant XL 18\" Sit Down Longarm Quilting Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-gallant-xl-stationary-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-gallant-xl-18-longarm-quilting-machine-sewing-serger-embroidery-machines-2461374.webp?v=1770138491",
+    "price": 5849.1,
+    "compareAtPrice": 8079.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Quilting",
+      "Longarm"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 18,
+      "embroideryArea": null,
+      "maxSpeed": 2100,
+      "screenSize": "4.3\"",
+      "includedFeet": 2,
+      "throatSpace": "18\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "Maximum speed: 2,100 SPM",
+        "4.3\" color LCD Display touchscreen",
+        "18\" throat space with 8.5\" height",
+        "Stitch Harmony stitch regulation (Cruise and Precision modes)",
+        "M-class bobbin system",
+        "Includes 38\" x 38\" quilting table",
+        "2\"cluded feet",
+        "10/5 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "Max Speed: 2,100 stitches per minute",
+        "Stitch Range: 4-18 stitches per inch",
+        "Stitch Regulation, 2 modes (Precision and Cruise)",
+        "Thread Tension: Manual",
+        "Needle Stop Positioning (up/down)",
+        "Variable Speed Control"
+      ],
+      "Threading & Convenience": [
+        "Bobbin Type: M-Class (large capacity)",
+        "Bobbin Winder: Electronic",
+        "Needle Threader: Included"
+      ],
+      "Workspace & Display": [
+        "Display: 4.3\" Touchscreen",
+        "Speed Control: Speed control",
+        "Workspace Right of Needle: 18\" W x 8.5\" H",
+        "Lighting: LED Lighting"
+      ],
+      "Included Feet": [
+        "Open Toe Foot"
+      ],
+      "Included Accessories": [
+        "38\" x 38\" quilting table",
+        "Electronic bobbin winder",
+        "M-class bobbins",
+        "Needle threader",
+        "Quick reference guide"
+      ],
+      "Warranty": [
+        "10-Year Limited Warranty on Machine Head/Casting",
+        "5-Year Limited Electronic Warranty",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Table Size: 38\" x 38\""
+      ]
+    },
+    "weightLbs": 44,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "18",
+      "maxSpeed": "2,100 SPM",
+      "needleThreader": "Built-in",
+      "display": "4.3\" Touchscreen",
+      "throatSpace": "18\"",
+      "includedFeet": "2",
+      "warranty": "10/5 Year Limited Warranty"
     },
     "ws": {
       "display": "4.3\" Touchscreen",
@@ -2992,6 +4434,121 @@
     }
   },
   {
+    "handle": "baby-lock-jazz-ii-open-box",
+    "title": "Baby Lock Jazz 2 Sewing and Quilting Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-jazz-ii-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-jazz-2-sewing-and-quilting-machine-sewing-serger-embroidery-machines-1373879.jpg?v=1774888268",
+    "price": 899.1,
+    "compareAtPrice": 1399.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Sewing",
+      "Quilting"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 28,
+      "embroideryArea": null,
+      "maxSpeed": 1000,
+      "screenSize": null,
+      "includedFeet": 9,
+      "throatSpace": "12\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "28 Built-in Stitches",
+        "1 Buttonholes",
+        "1,000 SPM",
+        "Needle Threader: Built-in Automatic",
+        "Thread Cutter: Manual (Side)",
+        "12\" Throat Space to the right of the needle",
+        "9 Presser Feet Included",
+        "Hands-free Presser Foot Lift (Knee Lift)",
+        "25/2 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "Total Built-in Stitches: 28",
+        "Buttonholes: 1 One-Step",
+        "Max Sewing Speed: 1,000 stitches per minute",
+        "Max Stitch Width: 7.0mm",
+        "Max Stitch Length: 4.0mm",
+        "Number of Needle Positions: 24 variable positions",
+        "Snap-On Presser Foot System"
+      ],
+      "Threading & Convenience": [
+        "Bobbin Loading: Top Drop-in",
+        "Bobbin Size: Class 15",
+        "Bobbin Winding: Standard",
+        "Side Thread Cutter"
+      ],
+      "Workspace & Display": [
+        "Knee Lift / Hands-Free Lift: Knee lift",
+        "Workspace Right of Needle: 12\" to the right of the needle",
+        "Lighting: 6 LED Lights",
+        "Dimensions: 25.2 x 12.2 x 9.45 in."
+      ],
+      "Included Feet": [
+        "1/4\" Quilting Foot",
+        "All Purpose Foot",
+        "Blind Hem Foot",
+        "Buttonhole Foot",
+        "Darning/Free Motion Quilting Foot",
+        "Open Toe Foot",
+        "Overcasting Foot",
+        "Straight Stitch Foot",
+        "Zipper Foot"
+      ],
+      "Included Accessories": [
+        "Needle Set",
+        "4 Bobbins",
+        "Spool Cap (Large and Small)",
+        "Needle Plate Screwdriver",
+        "Screwdrivers",
+        "Seam Ripper with Brush",
+        "Knee Lifter",
+        "Quilting Guide",
+        "Vertical Spool Pin",
+        "Spool Pin Felt (2)",
+        "Dust Cover"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Sewing Bed Width: 12\"",
+        "Auto Needle Up/Down (Programmable)",
+        "Accessory Storage Box",
+        "Optional Extension Table"
+      ]
+    },
+    "weightLbs": 27.5,
+    "dimensions": "25.2 x 12.2 x 9.45 in.",
+    "ks": {
+      "stitchCount": "28",
+      "maxSpeed": "1,000 SPM",
+      "buttonholes": "1",
+      "needleThreader": "Automatic",
+      "threadCutter": "Manual",
+      "throatSpace": "12\"",
+      "includedFeet": "9",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "kneeLift": "Knee lift",
+      "workspace": "12\" to the right of the needle",
+      "lighting": "6 LED Lights",
+      "dimensions": "25.2 x 12.2 x 9.45 in."
+    }
+  },
+  {
     "handle": "babylock-joy",
     "title": "Baby Lock Joy Sewing Machine from the Genuine Collection",
     "brand": "Baby Lock",
@@ -3099,6 +4656,108 @@
       "workspace": "6\" to the right of the needle",
       "lighting": "1 Standard Light",
       "dimensions": "14-7/8 x 10-1/4 x 6-1/4 in. (W x H x D)"
+    }
+  },
+  {
+    "handle": "baby-lock-joy-open-box",
+    "title": "Baby Lock Joy Sewing Machine from the Genuine Collection (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-joy-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-joy-sewing-machine-from-the-genuine-collection-sewing-serger-embroidery-machines-9362259.jpg?v=1774888270",
+    "price": 269.1,
+    "compareAtPrice": 399.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Sewing",
+      "Quilting"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 19,
+      "embroideryArea": null,
+      "maxSpeed": 750,
+      "screenSize": null,
+      "includedFeet": 4,
+      "throatSpace": "6\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "19 Built-in Stitches",
+        "1 Buttonholes",
+        "750 SPM",
+        "Needle Threader: Built-in",
+        "Thread Cutter: Manual (Side)",
+        "6\" Throat Space to the right of the needle",
+        "4 Presser Feet Included",
+        "Top-loading Quick-Set Drop-in Bobbin",
+        "25/2 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "Total Built-in Stitches: 19",
+        "Buttonhole: 1 Four-Step",
+        "Adjustable Stitch Width: 0-5mm",
+        "Adjustable Stitch Length: 0-4mm",
+        "Needle Positions: 2"
+      ],
+      "Threading & Convenience": [
+        "Built-in Needle Threader",
+        "Drop-in Bobbin",
+        "Bobbin Size: Class 15",
+        "Convenient Thread Cutter",
+        "Manual Tension System"
+      ],
+      "Workspace & Display": [
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 6\" to the right of the needle",
+        "Lighting: 1 Standard Light"
+      ],
+      "Included Feet": [
+        "Blind Hem Foot",
+        "Sliding Buttonhole Foot",
+        "Zigzag Foot",
+        "Zipper Foot"
+      ],
+      "Included Accessories": [
+        "3 Bobbins",
+        "Needle Package",
+        "Seam Ripper",
+        "Spool Caps (Large and Small)",
+        "Screwdriver"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Sewing Bed Width: 6\"",
+        "Drop Feed for Free-Motion Techniques",
+        "Built-in Accessory Storage",
+        "Electronic Foot Control",
+        "Machine Dimensions: 14-7/8\"W x 10-1/4\"H x 6-1/4\"D"
+      ]
+    },
+    "weightLbs": 11.5,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "19",
+      "maxSpeed": "750 SPM",
+      "buttonholes": "1",
+      "needleThreader": "Built-in",
+      "threadCutter": "Manual",
+      "throatSpace": "6\"",
+      "includedFeet": "4",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "freeArm": "Yes",
+      "workspace": "6\" to the right of the needle",
+      "lighting": "1 Standard Light"
     }
   },
   {
@@ -3229,11 +4888,11 @@
   },
   {
     "handle": "babylock-jubilant-open-box",
-    "title": "Baby Lock Jubilant Sewing Machine (Classroom Model)",
+    "title": "Baby Lock Jubilant Sewing Machine (Open Box)",
     "brand": "Baby Lock",
     "url": "/products/babylock-jubilant-open-box",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Jubilant-AK6194-GAR-8041-LOK_6c89913e-a6b2-4879-bb0c-10830e55d9c4.jpg?v=1793834643",
-    "price": 630.0,
+    "price": 629.1,
     "compareAtPrice": 799.0,
     "isOnSale": true,
     "isQuoteRequest": false,
@@ -3533,6 +5192,177 @@
     }
   },
   {
+    "handle": "baby-lock-luna-open-box",
+    "title": "Baby Lock Luna Sewing and Embroidery Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-luna-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/luna_BLA-SR.jpg?v=1792621905",
+    "price": 6299.1,
+    "compareAtPrice": 7999.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Sewing",
+      "Quilting",
+      "Embroidery"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 791,
+      "embroideryArea": "8\" x 14\"",
+      "maxSpeed": 850,
+      "screenSize": "7\"",
+      "includedFeet": 10,
+      "throatSpace": "10\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "791 built-in stitches",
+        "914 built-in embroidery designs",
+        "8\" x 14\" (200mm x 360mm) embroidery field",
+        "Maximum speed: 850 SPM",
+        "10 snap-on presser feet included",
+        "25/2 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "179 utility stitches and 612 decorative stitches",
+        "30 new decorative stitch patterns",
+        "Stitch Tapering",
+        "14 one-touch buttonholes",
+        "Maximum stitch width: 7mm",
+        "Maximum stitch length: 5mm",
+        "5 sewing fonts",
+        "Laser Guideline Marker with scale and cord guide",
+        "Pivot sew function",
+        "Free arm",
+        "Needle plate with scale in inches and millimeters",
+        "Presser foot adapter"
+      ],
+      "Embroidery Features": [
+        "914 built-in designs across quilting, French knot, couching, crochet lace and 3-D applique categories",
+        "Needle Beam for previewing design position",
+        "8\" x 14\" (200mm x 360mm) embroidery field",
+        "23 standard fonts plus 7 large decorative fonts",
+        "Reads .pes, .phc and .dst files",
+        "2-Point Positioning with LED pointer foot",
+        "Matrix copy in embroidery"
+      ],
+      "Threading & Convenience": [
+        "Advanced Needle Threading System",
+        "Automatic thread cutter with on/off capability",
+        "Quick-Set top-loading bobbin with sensor",
+        "Alternate bobbin case and bobbin center pin for use with prewound bobbins",
+        "Easy removal of metal needle plate"
+      ],
+      "Workspace & Display": [
+        "Display: 7\" Touchscreen",
+        "Knee Lift / Hands-Free Lift: Automatic presser foot lift",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 10\" to the right of the needle",
+        "Lighting: 4 LED lights"
+      ],
+      "Smart Features": [
+        "IQ Intuition Monitoring® App",
+        "WLAN connectivity for machine updates and design transfers",
+        "Innovative Curve Sewing adjusts presser foot pressure to the fabric and the tightness of the curve",
+        "Stitch regulator compatible (optional accessory)",
+        "12 on-screen languages",
+        "22-23/32\" W x 11-7/32\" H x 12-21/32\" D"
+      ],
+      "Included Feet": [
+        "1/4\" Quilting foot with guide",
+        "Blind stitch foot \"R\"",
+        "Button fitting foot \"M\"",
+        "Buttonhole foot \"A\"",
+        "Compact digital dual feed foot",
+        "Embroidery couching foot \"Y\"",
+        "Embroidery foot \"UH+\" with LED pointer",
+        "Free motion open toe quilting foot \"O\"",
+        "Monogramming foot \"N\"",
+        "Overcasting foot \"G\"",
+        "Straight stitch foot",
+        "Zigzag foot \"J\"",
+        "Zipper foot \"I\""
+      ],
+      "Included Hoops": [
+        "8\" x 14\" (200mm x 360mm) Embroidery Frame Set",
+        "5\" x 7\" (130mm x 180mm) Embroidery Frame Set"
+      ],
+      "Included Accessories": [
+        "Bobbins (10, one in machine)",
+        "Needle set",
+        "Ball point needle set",
+        "Twin needle",
+        "Embroidery bobbin thread (#60, white)",
+        "Standard bobbin case (green marking on the screw)",
+        "Alternate bobbin case for prewound bobbins",
+        "Bobbin center pin and instruction sheet",
+        "Bobbin cover (plain)",
+        "Bobbin cover (with mark)",
+        "Cord guide bobbin cover",
+        "Straight stitch needle plate",
+        "Embroidery needle plate cover",
+        "Knee lifter",
+        "External guideline marker with guideline scale and cord guide",
+        "Yarn guide",
+        "Yarn threader",
+        "Spool net",
+        "Spool cap (large)",
+        "Spool cap (medium, 2)",
+        "Spool cap (small)",
+        "Thread spool insert (mini king thread spool)",
+        "Horizontal spool pin",
+        "Extra spool pin and instruction sticker",
+        "2-thread spool stand for larger cones and yarn couching",
+        "Touch pen (stylus)",
+        "Seam ripper",
+        "Scissors",
+        "Cleaning brush",
+        "Eyelet punch",
+        "Screwdriver (large)",
+        "Screwdriver (small)",
+        "L-shaped screwdriver",
+        "Disc-shaped screwdriver",
+        "Stabilizer material",
+        "Foot controller",
+        "Power cord",
+        "Accessory bag",
+        "Dust cover",
+        "Quick Reference Instruction Guide"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 39,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "791",
+      "maxSpeed": "850 SPM",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "914",
+      "embroideryArea": "8\" x 14\"",
+      "display": "7\" Touchscreen",
+      "throatSpace": "10\"",
+      "includedFeet": "10",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "7\" Touchscreen",
+      "kneeLift": "Automatic presser foot lift",
+      "freeArm": "Yes",
+      "workspace": "10\" to the right of the needle",
+      "lighting": "4 LED lights"
+    }
+  },
+  {
     "handle": "baby-lock-lyric-sewing-and-quilting-machine",
     "title": "Baby Lock Lyric Sewing and Quilting Machine",
     "brand": "Baby Lock",
@@ -3683,6 +5513,148 @@
     }
   },
   {
+    "handle": "baby-lock-lyric-open-box",
+    "title": "Baby Lock Lyric Sewing and Quilting Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-lyric-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-lyric-sewing-and-quilting-machine-sewing-serger-embroidery-machines-6661621.jpg?v=1774888268",
+    "price": 2159.1,
+    "compareAtPrice": 2999.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Sewing",
+      "Quilting"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 250,
+      "embroideryArea": null,
+      "maxSpeed": 850,
+      "screenSize": null,
+      "includedFeet": 14,
+      "throatSpace": "11.88\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "250 Built-in Stitches",
+        "10 Buttonholes",
+        "850 SPM",
+        "Needle Threader: Advanced",
+        "Thread Cutter: Automatic",
+        "LCD Display",
+        "11.88\" Throat Space to the right of the needle",
+        "14 Presser Feet Included",
+        "25/2 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "Total Built-in Stitches: 250",
+        "Utility Stitches: 99",
+        "Combined Utility Stitches: 58",
+        "Decorative Stitches: 50",
+        "Satin Stitches: 17",
+        "Buttonholes: 10 One-Step",
+        "Fonts: 5",
+        "Max Sewing Speed: 850 stitches per minute",
+        "Max Stitch Width: 7mm",
+        "Max Stitch Length: 5mm",
+        "Variable Needle Positions",
+        "Lateral Diagonal Feeding",
+        "Mirror Image Capability",
+        "Programmable Needle Up/Down",
+        "Snap-On Presser Foot System"
+      ],
+      "Threading & Convenience": [
+        "Advanced Needle Threader",
+        "Quick-Set Top-Loading Bobbin",
+        "Bobbin Size: Class 15",
+        "Automatic Thread Cutter",
+        "Manual Tension System"
+      ],
+      "Workspace & Display": [
+        "Display: 3.3125\" LCD",
+        "Speed Control: Speed control",
+        "Knee Lift / Hands-Free Lift: Knee lift",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 11.88\" to the right of the needle",
+        "Lighting: 2 LED Lights",
+        "Dimensions: 17.75 x 11.75 x 8.375 in."
+      ],
+      "Included Feet": [
+        "1/4\" Quilting Foot with Guide",
+        "Adjustable Zipper/Piping Foot",
+        "Blind Stitch Foot \"R\"",
+        "Button Fitting Foot \"M\"",
+        "Buttonhole Foot \"A\"",
+        "Monogramming Foot \"N\"",
+        "Non-Stick Foot",
+        "Open Toe Foot",
+        "Overcasting Foot \"G\"",
+        "Quilting Foot",
+        "Stitch Guide Foot \"P\"",
+        "Walking Foot",
+        "Zigzag Foot \"J\"",
+        "Zipper Foot \"I\""
+      ],
+      "Included Accessories": [
+        "Extension Table",
+        "Knee Lifter",
+        "Needle Set and Twin Needle",
+        "4 Bobbins (1 on machine)",
+        "Bobbin Case and Bobbin Covers",
+        "Quilting Guide",
+        "Seam Ripper and Scissors (listed as included accessory)",
+        "Cleaning Brush",
+        "Eyelet Punch",
+        "3 Screwdrivers (large, L-shaped, disc-shaped)",
+        "Horizontal Spool Pin",
+        "Spool Caps: Large, Medium (2), Small, Mini King Thread Spool Insert",
+        "Spool Net",
+        "Foot Controller",
+        "Accessory Bag",
+        "Dust Cover",
+        "Power Cord",
+        "Instruction and Reference Guide",
+        "Quick Reference Guide"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Sewing Bed Width: 11.88\"",
+        "Accessory Storage"
+      ]
+    },
+    "weightLbs": 21.3,
+    "dimensions": "17.75 x 11.75 x 8.375 in.",
+    "ks": {
+      "stitchCount": "250",
+      "maxSpeed": "850 SPM",
+      "buttonholes": "10",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "display": "3.3125\" LCD",
+      "throatSpace": "11.88\"",
+      "includedFeet": "14",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "3.3125\" LCD",
+      "speedControl": "Speed control",
+      "kneeLift": "Knee lift",
+      "freeArm": "Yes",
+      "workspace": "11.88\" to the right of the needle",
+      "lighting": "2 LED Lights",
+      "dimensions": "17.75 x 11.75 x 8.375 in."
+    }
+  },
+  {
     "handle": "baby-lock-meridian-2-dedicated-embroidery-machine",
     "title": "Baby Lock Meridian 2 Dedicated Embroidery Machine",
     "brand": "Baby Lock",
@@ -3805,6 +5777,121 @@
     }
   },
   {
+    "handle": "baby-lock-meridian-2-open-box",
+    "title": "Baby Lock Meridian 2 Dedicated Embroidery Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-meridian-2-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-meridian-2-dedicated-embroidery-machine-sewing-serger-embroidery-machines-1396932.jpg?v=1774888268",
+    "price": 7649.1,
+    "compareAtPrice": 10499.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Embroidery"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": "9.5 x 14\"",
+      "maxSpeed": 1050,
+      "screenSize": "10.1\"",
+      "includedFeet": 2,
+      "throatSpace": "11.25\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "534 Built-in Embroidery Designs",
+        "9.5 x 14\" Max Embroidery Area",
+        "1,050 SPM",
+        "Needle Threader: Built-in Needle Threading System",
+        "Thread Cutter: Automatic",
+        "Touchscreen",
+        "11.25\" Throat Space to the right of the needle",
+        "25/2 Year Limited Warranty"
+      ],
+      "Embroidery Features": [
+        "Built-in Designs: 534 (includes 200 exclusive Baby Lock designs)",
+        "IQ Designer for Custom Embroidery Creation",
+        "Max Embroidery Area: 9.5\" x 14\" (240mm x 360mm)",
+        "Fancy Fonts for Monogramming",
+        "Wireless Connectivity (compatible with Palette v11+)",
+        "2-Point Positioning with Needle Beam",
+        "Embroidery Positioning Stickers Included",
+        "Color Visualizer (random, vivid, gradient, soft settings)",
+        "Add Stippling and Echo Quilting Around Patterns",
+        "Multi-Color and Monochrome Monogramming"
+      ],
+      "Threading & Convenience": [
+        "Quick-Set Top-Loading Bobbin with Sensor",
+        "Quick-Set Independent Bobbin Winding System with Variable Speed",
+        "NeverMiss Automatic Advanced Needle Threading System",
+        "Automatic Thread Cutter with On/Off Capability",
+        "Alternate Bobbin Case for Pre-Wound Bobbins"
+      ],
+      "Workspace & Display": [
+        "Display: 10.1\" Touchscreen",
+        "Speed Control: Speed control",
+        "Knee Lift / Hands-Free Lift: Automatic presser foot lift",
+        "Workspace Right of Needle: 11.25\" to the right of the needle"
+      ],
+      "Smart Features": [
+        "IQ Intuition Positioning App (wireless design transfer)",
+        "IQ Intuition Monitoring App (alerts for bobbin changes and thread issues)",
+        "Lens Calibration Sheet for Positioning App"
+      ],
+      "Included Feet": [
+        "Couching Foot and Guide",
+        "Embroidery Foot with LED Pointer"
+      ],
+      "Included Hoops": [
+        "9.5\" x 14\" (240mm x 360mm) with Grid",
+        "5\" x 7\" (130mm x 180mm) with Grid"
+      ],
+      "Included Accessories": [
+        "Touch Pen (Stylus)",
+        "Soft Canvas Cover",
+        "Alternate Bobbin Case and Center Pin",
+        "Embroidery Bobbin Thread",
+        "10 Bobbins",
+        "Embroidery Positioning Stickers (4 sheets of 64)",
+        "Lens Calibration Sheet",
+        "Needle Set",
+        "5 Spool Caps",
+        "Spool Felt and Spool Nets (2)",
+        "Embroidery Needle Plate Cover"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "Dedicated embroidery",
+      "maxSpeed": "1,050 SPM",
+      "needleThreader": "Built-in",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "534",
+      "embroideryArea": "9.5\" x 14\"",
+      "display": "10.1\" Touchscreen",
+      "throatSpace": "11.25\"",
+      "includedFeet": "2",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "10.1\" Touchscreen",
+      "speedControl": "Speed control",
+      "kneeLift": "Automatic presser foot lift",
+      "workspace": "11.25\" to the right of the needle"
+    }
+  },
+  {
     "handle": "baby-lock-presto-2-sewing-quilting-machine",
     "title": "Baby Lock Presto 2 Sewing & Quilting Machine",
     "brand": "Baby Lock",
@@ -3912,6 +5999,106 @@
       "freeArm": "Yes",
       "workspace": "8.3\" to the right of the needle",
       "dimensions": "18.9 x 11.81 x 9.82 in. (W x H x D)"
+    }
+  },
+  {
+    "handle": "baby-lock-presto-2-open-box",
+    "title": "Baby Lock Presto 2 Sewing & Quilting Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-presto-2-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Presto2_LiftOffCatalog.jpg?v=1783543224",
+    "price": 899.1,
+    "compareAtPrice": 1499.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Sewing",
+      "Quilting"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 100,
+      "embroideryArea": null,
+      "maxSpeed": 850,
+      "screenSize": null,
+      "includedFeet": 7,
+      "throatSpace": "8.3\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "100 Built-in Stitches",
+        "7 Buttonholes",
+        "850 SPM",
+        "Needle Threader: Advanced",
+        "Thread Cutter: Automatic",
+        "Touchscreen",
+        "8.3\" Throat Space to the right of the needle",
+        "7 Presser Feet Included",
+        "25/2 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "Built-in Stitches: 100",
+        "Built-in Utility Stitches: 69",
+        "Built-in Decorative Stitches: 31",
+        "Built-in Fonts: 4",
+        "One-Step Buttonholes: 7",
+        "Max Sewing Speed: 850 stitches per minute",
+        "Max Stitch Width: 7 mm",
+        "Max Stitch Length: 5 mm",
+        "Total Feet Included: 7"
+      ],
+      "Threading & Convenience": [
+        "Needle Threader: Advanced",
+        "Thread Cutter: Automatic",
+        "Thread Tension: Manual",
+        "Bobbin Winding: Quick-Set",
+        "Bobbin Loading: Quick-Set, Top loading",
+        "Bobbin Size: Class 15"
+      ],
+      "Workspace & Display": [
+        "Display: 2.4\" Touchscreen",
+        "Speed Control: Speed control",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 8.3\" to the right of the needle",
+        "Dimensions: 18.9 x 11.81 x 9.82 in."
+      ],
+      "Smart Features": [
+        "Auto Needle Up/Down",
+        "Variable Speed Control",
+        "Retractable Feed Dogs",
+        "Feeding System: Standard",
+        "Needle to Right of Machine: 8.3 in.",
+        "Accessory Storage"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 20.4,
+    "dimensions": "18.9 x 11.81 x 9.82 in.",
+    "ks": {
+      "stitchCount": "100",
+      "maxSpeed": "850 SPM",
+      "buttonholes": "7",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "display": "2.4\" Touchscreen",
+      "throatSpace": "8.3\"",
+      "includedFeet": "7",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "2.4\" Touchscreen",
+      "speedControl": "Speed control",
+      "freeArm": "Yes",
+      "workspace": "8.3\" to the right of the needle",
+      "dimensions": "18.9 x 11.81 x 9.82 in."
     }
   },
   {
@@ -4213,6 +6400,117 @@
       "throatSpace": "11.25\"",
       "includedFeet": "1",
       "warranty": "25/10/5/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "10.1\" Touchscreen",
+      "speedControl": "Speed control",
+      "kneeLift": "Automatic presser foot lift",
+      "workspace": "11.25\" to the right of the needle",
+      "lighting": "Enhanced Stadium Lighting",
+      "dimensions": "24.1 x 13.7 x 12.5 in."
+    }
+  },
+  {
+    "handle": "baby-lock-reflection-open-box",
+    "title": "Baby Lock Reflection Embroidery Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-reflection-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-reflection-embroidery-machine-sewing-serger-embroidery-machines-6328797.jpg?v=1775170320",
+    "price": 5399.1,
+    "compareAtPrice": 7999.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Embroidery"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": "9.5\" x 14\"",
+      "maxSpeed": 1050,
+      "screenSize": "10.1\"",
+      "includedFeet": 1,
+      "throatSpace": "11.25\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "24 Designs and 32 Embroidery Fonts Built-in Stitches",
+        "24 Built-in Embroidery Designs",
+        "Maximum Embroidery Field: 9.5\" x 14\"",
+        "Needle Threader: Push-Button, Automatic",
+        "Thread Cutter: Automatic",
+        "10.1\" Touchscreen",
+        "11.25\" Throat Space to the right of the needle",
+        "Includes 2 Embroidery Hoops Presser Feet Included",
+        "Includes Embroidery Foot",
+        "25/2 Year Limited Warranty"
+      ],
+      "Embroidery Features": [
+        "Built-in Designs: 24",
+        "Max Embroidery Speed: 1,050 stitches per minute",
+        "Max Embroidery Area: 9.5 x 14 in. (240 x 360 mm)",
+        "Built-in Fonts: 26 + 6 Large Decorative Alphabets",
+        "Frame Combinations: 140",
+        "Supported Formats: .pes, .phc, .pec, .dst"
+      ],
+      "Threading & Convenience": [
+        "Needle Threader: NeverMiss Automatic",
+        "Thread Cutter: Automatic (with on/off capability)",
+        "Bobbin: Quick-Set, top-loading with sensor",
+        "Bobbin Winding: Independent system with variable speed",
+        "Needle System: 15x1",
+        "Bobbin Style: Class 15"
+      ],
+      "Workspace & Display": [
+        "Display: 10.1\" Touchscreen",
+        "Speed Control: Speed control",
+        "Knee Lift / Hands-Free Lift: Automatic presser foot lift",
+        "Workspace Right of Needle: 11.25\" to the right of the needle",
+        "Lighting: Enhanced Stadium Lighting",
+        "Dimensions: 24.1 x 13.7 x 12.5 in."
+      ],
+      "Smart Features": [
+        "IQ Intuition Monitoring App (tracks progress, alerts for thread breaks/changes)",
+        "Wireless Design Transfer (via Palette 11+)",
+        "Embroidery Pattern Memory",
+        "2-Point Positioning",
+        "Matrix Copy",
+        "Color Visualizer",
+        "Stitch Simulator Preview",
+        "Needle Beam",
+        "With Embroidery Unit: 36.1 x 13.7 x 20.6 in."
+      ],
+      "Included Accessories": [
+        "Embroidery Hoop 9.5 x 14 in. (240 x 360 mm) with Grid",
+        "Embroidery Hoop 5 x 7 in. (130 x 180 mm) with Grid",
+        "Touch Pen (Stylus)"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Included Feet": [
+        "Embroidery Foot with LED Pointer"
+      ]
+    },
+    "weightLbs": 33.1,
+    "dimensions": "24.1 x 13.7 x 12.5 in.",
+    "ks": {
+      "stitchCount": "Dedicated embroidery",
+      "maxSpeed": "1,050 SPM",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "24",
+      "embroideryArea": "9.5\" x 14\"",
+      "display": "10.1\" Touchscreen",
+      "throatSpace": "11.25\"",
+      "includedFeet": "1",
+      "warranty": "25/2 Year Limited Warranty"
     },
     "ws": {
       "display": "10.1\" Touchscreen",
@@ -4641,6 +6939,106 @@
     }
   },
   {
+    "handle": "baby-lock-sashiko-2-open-box",
+    "title": "Baby Lock Sashiko 2 Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-sashiko-2-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-sashiko-2-machine-sewing-serger-embroidery-machines-5801230.jpg?v=1774889468",
+    "price": 2384.1,
+    "compareAtPrice": 3499.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Sewing",
+      "Quilting"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": null,
+      "maxSpeed": 400,
+      "screenSize": null,
+      "includedFeet": 1,
+      "throatSpace": "9\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "400 SPM",
+        "Thread Cutter: Manual (Side)",
+        "9\" Throat Space to the right of the needle",
+        "Includes 1 Presser Foot",
+        "1 Built-in Specialty Sashiko Stitch",
+        "Manual Threading",
+        "Unique Needle and Latch Wire System",
+        "25/2 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "Precise Sashiko Stitches",
+        "Stitch Length: 2-5 mm (adjustable)",
+        "Stitch Spacing: 2-5 mm (adjustable)",
+        "Thread Compatibility: 30-weight or lighter threads",
+        "Presser Foot Pressure: Adjustable",
+        "Presser Foot Height: Adjustable"
+      ],
+      "Threading & Convenience": [
+        "Bobbin System: Side loading, oscillating bobbin",
+        "Bobbin Winder",
+        "Bobbins: 3 included",
+        "Electronic Foot Control: Adjusts and sets speed of bobbin winding"
+      ],
+      "Workspace & Display": [
+        "Display: LCD",
+        "Workspace Right of Needle: 9\" to the right of the needle",
+        "Lighting: U-Shaped Fluorescent Lamp"
+      ],
+      "Smart Features": [
+        "Free-Flow Sewing",
+        "Stitch Length Control",
+        "Stitch Spacing Control",
+        "Electronic Foot Control: Adjustable speed",
+        "LED Monitor",
+        "Accessory Storage Space",
+        "Needle Plate Seam Markings: Inches and millimeters"
+      ],
+      "Included Accessories": [
+        "Exclusive Baby Lock Creative Project Book and Kit",
+        "Extra Needles (3)",
+        "Extra Latch Wires (3)",
+        "Quilting Guide",
+        "Screwdrivers (2)",
+        "Tweezers",
+        "Spool Caps (Small, Medium, Large)",
+        "Bobbins (3)",
+        "Cleaning Brush",
+        "Thumb Screws for Optional Attachments"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "maxSpeed": "400 SPM",
+      "threadCutter": "Manual",
+      "display": "LCD",
+      "throatSpace": "9\"",
+      "includedFeet": "1",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "LCD",
+      "workspace": "9\" to the right of the needle",
+      "lighting": "U-Shaped Fluorescent Lamp"
+    }
+  },
+  {
     "handle": "baby-lock-serenity-serger",
     "title": "Baby Lock Serenity Serger",
     "brand": "Baby Lock",
@@ -4753,6 +7151,107 @@
       "kneeLift": "Knee lift",
       "workspace": "2\" to the right of the needle",
       "dimensions": "16.5 x 12 x 12 in. (W x H x D)"
+    }
+  },
+  {
+    "handle": "baby-lock-serenity-open-box",
+    "title": "Baby Lock Serenity Serger (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-serenity-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-serenity-new_c87021b3-d741-4d92-af9c-9bac6e679382.jpg?v=1789488713",
+    "price": 2969.1,
+    "compareAtPrice": 4299.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Serger"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": null,
+      "maxSpeed": 1500,
+      "screenSize": null,
+      "includedFeet": null,
+      "throatSpace": null,
+      "threadCount": "4 Thread"
+    },
+    "specs": {
+      "Key Specs": [
+        "4-thread serger",
+        "1,500 stitches per minute",
+        "RevolutionAir® threading with Snap-on Needle System",
+        "Exclusive Wave Stitch and Flatlock Wave",
+        "Adjustable stitch width: 1.5mm to 7.5mm",
+        "Adjustable stitch length: 0.75mm to 4mm",
+        "25/2 Year Limited Warranty"
+      ],
+      "Threading": [
+        "RevolutionAir® threading: position the needle thread and press the push-to-thread button",
+        "Looper threading system",
+        "Automatic Thread Delivery System, no tension adjustments needed",
+        "Automatic subsidiary looper for two-thread conversion",
+        "Bypass port for specialty threads",
+        "Fine Tuning Knob for upper and lower thread delivery",
+        "Snap-on Needle System for tool-free needle changes"
+      ],
+      "Workspace & Display": [
+        "Speed Control: Speed buttons",
+        "Knee Lift / Hands-Free Lift: Knee lift"
+      ],
+      "Smart Features": [
+        "Digital Speed Control",
+        "Needle Positioning Button stops the needle up or down",
+        "Drop Feed System for accurate fabric placement",
+        "Advanced Cutting System",
+        "Rolled hemming with 3 threads",
+        "Flatlock stitching with 2 or 3 threads",
+        "Adjustable built-in rolled hem dial",
+        "Adjustable presser foot pressure dial",
+        "Adjustable presser foot height up to 6mm",
+        "Safety features on the presser foot lever, side door and front cover",
+        "LED indicator lights show the selected sewing speed",
+        "Accessory compartment",
+        "Two magnetic needle storage positions",
+        "Compact Overlock Table for specialty serger attachments"
+      ],
+      "Included Accessories": [
+        "Foot control and power cord",
+        "Lint brush and needle insert tool",
+        "Package of assorted-sized needles",
+        "Screwdriver",
+        "Tweezers",
+        "Upper cutting blade for replacement",
+        "Looper threading tool",
+        "Machine soft cover",
+        "Four thread nets",
+        "Four spool caps",
+        "Four sponge disks",
+        "Four cone holders",
+        "Deluxe Trim Bin",
+        "Compact Overlock Table",
+        "Two white screws"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "maxSpeed": "1,500 SPM",
+      "threadingSystem": "RevolutionAir Needle & Looper Air Threading",
+      "threadCount": "4 Thread",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "speedControl": "Speed buttons",
+      "kneeLift": "Knee lift"
     }
   },
   {
@@ -5525,6 +8024,167 @@
     }
   },
   {
+    "handle": "baby-lock-soprano-open-box",
+    "title": "Baby Lock Soprano Sewing & Quilting Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-soprano-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Soprano_LiftOffCatalog.jpg?v=1783543336",
+    "price": 2699.1,
+    "compareAtPrice": 3999.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Sewing",
+      "Quilting"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 300,
+      "embroideryArea": null,
+      "maxSpeed": 850,
+      "screenSize": null,
+      "includedFeet": 16,
+      "throatSpace": "8.3\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "300 Built-in Stitches",
+        "10 Buttonholes",
+        "850 SPM",
+        "Needle Threader: Advanced",
+        "Thread Cutter: Automatic",
+        "LCD Display",
+        "8.3\" Throat Space to the right of the needle",
+        "16 Presser Feet Included",
+        "Advanced Pivoting Feature",
+        "25/2 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "Built-in Stitches: 300",
+        "Built-in Utility Stitches: 99",
+        "Built-in Combined Utility Stitches: 58",
+        "Built-in Cross Stitches: 14",
+        "Built-in Decorative Stitches: 94",
+        "Built-in Satin Stitches: 17",
+        "Built-in Fonts: 5",
+        "One-Step Buttonholes: 10",
+        "Max Sewing Speed: 850 stitches per minute",
+        "Max Stitch Width: 7 mm",
+        "Max Stitch Length: 5 mm",
+        "Needle Positions: Variable",
+        "Total Feet Included: 16"
+      ],
+      "Threading & Convenience": [
+        "Needle Threader: Advanced",
+        "Thread Cutter: Automatic",
+        "Thread Tension: Automatic",
+        "Bobbin Winding: Quick Set",
+        "Bobbin Loading: Quick-Set, Top loading",
+        "Bobbin Size: Class 15",
+        "Bobbins: 4 included (1 on machine)",
+        "Bobbin Case: Included"
+      ],
+      "Workspace & Display": [
+        "Display: 3.3125\" Touchscreen",
+        "Speed Control: Speed control",
+        "Knee Lift / Hands-Free Lift: Automatic presser foot lift",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 8.3\" to the right of the needle",
+        "Lighting: 2 LEDs",
+        "Dimensions: 18.875 x 11.875 x 9.875 in."
+      ],
+      "Smart Features": [
+        "Auto Needle Up/Down",
+        "Knee Lift/Hands-Free Presser Foot Lift",
+        "Variable Speed Control",
+        "Lateral Diagonal Feeding",
+        "Mirror Image Capability",
+        "Retractable Feed Dogs: Standard",
+        "Feeding System: Standard",
+        "Needle to Right of Machine: 8.3 in.",
+        "Accessory Storage"
+      ],
+      "Included Feet": [
+        "1/4 in. Quilting Foot with Guide",
+        "Adjustable Zipper/Piping Foot",
+        "Blind Stitch Foot R",
+        "Button Fitting Foot M",
+        "Buttonhole Foot A",
+        "Free Motion Echo Quilting Foot E",
+        "Free Motion Open Toe Quilting Foot O",
+        "Free Motion Quilting Foot C",
+        "Monogramming Foot N",
+        "Non Stick Foot",
+        "Open Toe Foot",
+        "Overcasting Foot G",
+        "Presser Foot Type: Snap-on",
+        "Stitch Guide Foot P",
+        "Walking Foot",
+        "Zigzag Foot J",
+        "Zipper Foot I"
+      ],
+      "Included Accessories": [
+        "Quilting Extension Table: 12-5/8 in. x 20-3/4 in.",
+        "Extension Table",
+        "Knee Lifter",
+        "Foot Controller",
+        "Accessory Bag",
+        "Needle Set",
+        "Twin Needle",
+        "Quilting Guide",
+        "Seam Ripper",
+        "Cleaning Brush",
+        "Eyelet Punch",
+        "Screwdriver (Large)",
+        "L-Shaped Screwdriver",
+        "Disc-Shaped Screwdriver",
+        "Horizontal Spool Pin",
+        "Spool Cap (Large)",
+        "Spool Caps (Medium, 2, 1 on machine)",
+        "Spool Cap (Small)",
+        "Thread Spool Insert (Mini King Thread Spool)",
+        "Spool Net",
+        "Bobbin Cover (with mark, on machine)",
+        "Bobbin Cover",
+        "Dust Cover",
+        "Power Cord",
+        "Instruction and Reference Guide",
+        "Quick Reference Guide"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 21.3,
+    "dimensions": "18.875 x 11.875 x 9.875 in.",
+    "ks": {
+      "stitchCount": "300",
+      "maxSpeed": "850 SPM",
+      "buttonholes": "10",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "display": "3.3125\" Touchscreen",
+      "throatSpace": "8.3\"",
+      "includedFeet": "16",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "3.3125\" Touchscreen",
+      "speedControl": "Speed control",
+      "kneeLift": "Automatic presser foot lift",
+      "freeArm": "Yes",
+      "workspace": "8.3\" to the right of the needle",
+      "lighting": "2 LEDs",
+      "dimensions": "18.875 x 11.875 x 9.875 in."
+    }
+  },
+  {
     "handle": "baby-lock-splendor-overlock",
     "title": "Baby Lock Splendor Overlock & Coverstitch Machine",
     "brand": "Baby Lock",
@@ -5632,6 +8292,107 @@
     }
   },
   {
+    "handle": "baby-lock-splendor-open-box",
+    "title": "Baby Lock Splendor Overlock & Coverstitch Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-splendor-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Splendor-9118-BL-LOK.jpg?v=1793735988",
+    "price": 3599.1,
+    "compareAtPrice": 5499.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Serger",
+      "Coverstitch"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 87,
+      "embroideryArea": null,
+      "maxSpeed": null,
+      "screenSize": null,
+      "includedFeet": 2,
+      "throatSpace": "2\"",
+      "threadCount": "8/7/6 Thread"
+    },
+    "specs": {
+      "Key Specs": [
+        "87 Stitch Combinations",
+        "Needle Threader: ExtraordinAir™ Looper Air Threading",
+        "2\" to the Right of the Needle",
+        "Includes 2 Standard Feet",
+        "8/7/6 Thread Serging, Coverstitch & Wave Stitch",
+        "RevolutionAir™ Threading System",
+        "Automatic Thread Delivery™ (No Tension Dials)",
+        "25/2 Year Limited Warranty"
+      ],
+      "Threading": [
+        "Looper Threading: ExtraordinAir (jet-air, all 3 loopers at once)",
+        "Needle Threading: RevolutionAir (push-button automatic)",
+        "Thread Tension: Automatic Thread Delivery System",
+        "Thread Cutter: Side thread cutter",
+        "Looper Drive System (prevents misalignment)"
+      ],
+      "Workspace & Display": [
+        "Knee Lift / Hands-Free Lift: Knee lift",
+        "Workspace Right of Needle: 2\" to the right of the needle",
+        "Lighting: 4 LEDs"
+      ],
+      "Included Accessories": [
+        "Chain/Cover Flat Sewing Table",
+        "Deluxe Trim Bin",
+        "Knee Lifter",
+        "Foot Control",
+        "Soft Cover",
+        "Eight Cone Holders",
+        "Eight Thread Nets",
+        "Eight Spool Caps",
+        "Eight Sponge Disks",
+        "Upper Cutting Blade (replacement)",
+        "Looper Threading Tool",
+        "Needle Threader",
+        "Allen Wrench",
+        "Screwdriver",
+        "Tweezers",
+        "Two Needle Clamp Screws",
+        "Needle Assortment",
+        "Lint Brush/Needle Insert Tool",
+        "Quick Reference Threading Guide"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Heavy Duty Cutting System",
+        "Presser Foot Height: Up to 6 mm",
+        "Presser Foot Pressure: Adjustable dial",
+        "Snap-On Presser Feet"
+      ]
+    },
+    "weightLbs": 27,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "87",
+      "needleThreader": "Automatic",
+      "threadCutter": "Manual",
+      "threadingSystem": "ExtraordinAir Looper Air Threading",
+      "throatSpace": "2\"",
+      "threadCount": "8/7/6 Thread",
+      "includedFeet": "2",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "kneeLift": "Knee lift",
+      "workspace": "2\" to the right of the needle",
+      "lighting": "4 LEDs"
+    }
+  },
+  {
     "handle": "baby-lock-triumph-serger",
     "title": "Baby Lock Triumph Serger",
     "brand": "Baby Lock",
@@ -5721,7 +8482,7 @@
   },
   {
     "handle": "baby-lock-triumph-serger-classroom-model",
-    "title": "Baby Lock Triumph Serger (Classroom Model)",
+    "title": "Baby Lock Triumph Serger (Open Box)",
     "brand": "Baby Lock",
     "url": "/products/baby-lock-triumph-serger-classroom-model",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Triumph-9118-BL-BLE8W-STWB-LOK_4b78ff9b-379c-4df7-b1be-e8623d634b97.jpg?v=1793736573",
@@ -5958,6 +8719,136 @@
       "display": "7\" Touchscreen",
       "workspace": "10\" to the right of the needle",
       "dimensions": "21-23/32 x 11-7/32 x 12-21/32 in. (W x H x D)"
+    }
+  },
+  {
+    "handle": "baby-lock-ursa-open-box",
+    "title": "Baby Lock Ursa Embroidery Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-ursa-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Ursa-BLRSA-BUN-LOK-NewCallout.jpg?v=1790794126",
+    "price": 4499.1,
+    "compareAtPrice": 6399.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Embroidery"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": "8\" x 14\"",
+      "maxSpeed": 850,
+      "screenSize": "7\"",
+      "includedFeet": 2,
+      "throatSpace": "10\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "8\" x 14\" (200mm x 360mm) embroidery field",
+        "914 built-in embroidery designs",
+        "Maximum embroidery speed: 850 SPM",
+        "7\" LCD color touchscreen",
+        "25/2 Year Limited Warranty"
+      ],
+      "Embroidery Features": [
+        "914 built-in designs across quilting, French knot, couching, crochet lace and 3-D applique categories",
+        "Needle Beam for checking points of a design",
+        "Embroidery couching alphabet and crochet couching designs",
+        "23 standard fonts plus 7 large decorative fonts",
+        "140 frame patterns",
+        "On-screen editing and mirror image",
+        "Reads .pes, .phc and .dst files",
+        "2-Point Positioning with LED pointer foot",
+        "Resizing with stitch recalculation from 60% to 200% with consistent density",
+        "Matrix copy in embroidery"
+      ],
+      "Threading & Convenience": [
+        "Advanced Needle Threading System",
+        "Automatic thread cutter with on/off capability",
+        "Quick-Set top-loading bobbin with thread sensor",
+        "Bobbin center pin for use with prewound bobbins",
+        "Easy removal of metal needle plate"
+      ],
+      "Workspace & Display": [
+        "Display: 7\" Touchscreen",
+        "Workspace Right of Needle: 10\" to the right of the needle"
+      ],
+      "Smart Features": [
+        "IQ Intuition Monitoring® App",
+        "WLAN connectivity for machine updates and design transfers",
+        "Design Database Transfer compatible (free download)",
+        "Palette 11 compatible (sold separately)",
+        "12 on-screen languages",
+        "21-23/32\" W x 11-7/32\" H x 12-21/32\" D"
+      ],
+      "Included Feet": [
+        "Embroidery couching foot Y with guide",
+        "Embroidery Foot \"UH+\" with LED pointer"
+      ],
+      "Included Hoops": [
+        "8\" x 14\" (200mm x 360mm) Embroidery Frame Set",
+        "5\" x 7\" (130mm x 180mm) Embroidery Frame Set"
+      ],
+      "Included Accessories": [
+        "Bobbins (10, one in machine)",
+        "Ball point needle set",
+        "Needle set: 75/11 (3) and 90/14 (1)",
+        "Embroidery bobbin thread (#90, white)",
+        "Bobbin case (no color on the screw)",
+        "Bobbin cover",
+        "Bobbin center pin and instruction sheet",
+        "Embroidery needle plate cover",
+        "Yarn guide",
+        "Yarn threader",
+        "Spool net",
+        "Spool cap (large)",
+        "Spool cap (medium)",
+        "Spool cap (small)",
+        "Thread spool insert (mini king thread spool)",
+        "2-thread spool stand for larger cones and yarn couching",
+        "Extra spool pin and instruction sticker",
+        "Touch pen (stylus)",
+        "Seam ripper",
+        "Scissors",
+        "Cleaning brush",
+        "Screwdriver (large)",
+        "Screwdriver (small)",
+        "L-shaped screwdriver",
+        "Disc-shaped screwdriver",
+        "Stabilizer material",
+        "Power cord",
+        "Accessory bag",
+        "Dust cover",
+        "Quick Reference Instruction Guide"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 36,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "Dedicated embroidery",
+      "maxSpeed": "850 SPM",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "914",
+      "embroideryArea": "8\" x 14\"",
+      "display": "7\" Touchscreen",
+      "throatSpace": "10\"",
+      "includedFeet": "2",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "7\" Touchscreen",
+      "workspace": "10\" to the right of the needle"
     }
   },
   {
@@ -6415,6 +9306,134 @@
     }
   },
   {
+    "handle": "baby-lock-vesta-open-box",
+    "title": "Baby Lock Vesta Sewing and Embroidery Machine (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-vesta-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-vesta-sewing-and-embroidery-machine-sewing-serger-embroidery-machines-8904353.jpg?v=1774889531",
+    "price": 3239.1,
+    "compareAtPrice": 5499.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Sewing",
+      "Embroidery"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 301,
+      "embroideryArea": "6.25\" x 10.25\"",
+      "maxSpeed": 1050,
+      "screenSize": null,
+      "includedFeet": 13,
+      "throatSpace": "8.3\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "14 One-Step Buttonholes",
+        "301 Stitches & 293 Embroidery Designs, Including 14 Embroidery Alphabets",
+        "Maximum Embroidery Field: 6.25\" x 10.25\"",
+        "1,050 SPM",
+        "Needle Threader: Advanced",
+        "Thread Cutter: Automatic",
+        "8.3\" Throat Space to the right of the needle",
+        "Includes 13 Presser Feet",
+        "25/2 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "Throat Space: 8 in.",
+        "Automatic Presser Foot Lift",
+        "Ergonomic Hands-Free Presser Foot Lift"
+      ],
+      "Embroidery Features": [
+        "Built-in Designs: 293",
+        "Max Embroidery Area: 6.25 in. x 10.25 in. (160mm x 260mm)",
+        "File Formats: .pes, .phc, .dst"
+      ],
+      "Threading & Convenience": [
+        "Bobbin Winder: Quick-Set",
+        "Low Bobbin Thread Indicator",
+        "Bobbin Covers: 2 (with and without seam markings)",
+        "Bobbin Center Pin: Included",
+        "Embroidery Bobbin Thread: Included",
+        "Twin Needle: Included",
+        "Alternate Bobbin Case: Included",
+        "Thread Spool Insert: Included"
+      ],
+      "Workspace & Display": [
+        "Knee Lift / Hands-Free Lift: Automatic presser foot lift",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 8.3\" to the right of the needle"
+      ],
+      "Smart Features": [
+        "Convenient One-Touch Buttons: Start/Stop, Reverse Sewing, Needle Up/Down, Reinforcement Key, Thread Cutter",
+        "Programmable Needle Up/Down",
+        "Electronic Foot Control",
+        "Drop Feed Lever",
+        "Needle Plate: Scale in inches and centimeters",
+        "Accessory Storage Compartments: 2"
+      ],
+      "Included Feet": [
+        "Adjustable Zipper/Piping Foot",
+        "Blind Stitch Foot",
+        "Button Fitting Foot",
+        "Buttonhole Foot",
+        "Embroidery Foot",
+        "Free-Motion Open Toe Foot",
+        "Monogramming Foot",
+        "Open Toe Foot",
+        "Overcasting Foot",
+        "Stitch Guide Foot",
+        "Teflon Foot",
+        "Zigzag Foot",
+        "Zipper Foot"
+      ],
+      "Included Hoops": [
+        "6-1/4 in. x 10-1/4 in. (160mm x 260mm) with grid",
+        "5 in. x 7 in. (130mm x 180mm) with grid"
+      ],
+      "Included Accessories": [
+        "Soft Cover Case with Storage",
+        "Two Accessory Storage Compartments",
+        "2 Embroidery Hoops with Grids",
+        "Bobbin Covers (2)",
+        "Bobbin Center Pin",
+        "Embroidery Bobbin Thread",
+        "Twin Needle",
+        "Alternate Bobbin Case",
+        "Thread Spool Insert"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "301",
+      "maxSpeed": "1,050 SPM",
+      "buttonholes": "14",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "293",
+      "embroideryArea": "6.25\" x 10.25\"",
+      "throatSpace": "8.3\"",
+      "includedFeet": "13",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "kneeLift": "Automatic presser foot lift",
+      "freeArm": "Yes",
+      "workspace": "8.3\" to the right of the needle"
+    }
+  },
+  {
     "handle": "babylock-vibrant",
     "title": "Baby Lock Vibrant Serger",
     "brand": "Baby Lock",
@@ -6489,6 +9508,82 @@
     "ws": {
       "lighting": "1 LED",
       "dimensions": "12.6 x 12.6 x 11 in. (W x H x D)"
+    }
+  },
+  {
+    "handle": "baby-lock-vibrant-open-box",
+    "title": "Baby Lock Vibrant Serger (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-vibrant-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-vibrant-serger-sewing-serger-embroidery-machines-875626.jpg?v=1776890847",
+    "price": 449.1,
+    "compareAtPrice": 799.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Serger"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 15,
+      "embroideryArea": null,
+      "maxSpeed": 1300,
+      "screenSize": null,
+      "includedFeet": 1,
+      "throatSpace": null,
+      "threadCount": "4/3/2 Thread"
+    },
+    "specs": {
+      "Key Specs": [
+        "15 Built-in Stitches",
+        "1,300 SPM",
+        "Needle Threader: Easy Color-Coded Threading",
+        "Thread Cutter: Retractable Thread Cutter with Lever",
+        "Includes 1 Presser Foot",
+        "4/3/2 Thread Serging Built-in Stitches",
+        "Manual Color-Coded Threading System",
+        "Manual Color-Coded Lay-in Threading System",
+        "25/2 Year Limited Warranty"
+      ],
+      "Threading": [
+        "Needle Threader: Color-coded",
+        "Tension System: Lay-in Tension Disc"
+      ],
+      "Workspace & Display": [
+        "Lighting: 1 LED",
+        "Dimensions: 12.6 x 12.6 x 11 in."
+      ],
+      "Included Accessories": [
+        "General purpose presser foot (snap-on)",
+        "General purpose presser foot"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ],
+      "Smart Features": [
+        "Accessory Storage"
+      ]
+    },
+    "weightLbs": 19.8,
+    "dimensions": "12.6 x 12.6 x 11 in.",
+    "ks": {
+      "stitchCount": "15",
+      "maxSpeed": "1,300 SPM",
+      "needleThreader": "Built-in",
+      "threadCutter": "Built-in",
+      "threadingSystem": "Color-Coded Threading",
+      "threadCount": "4/3/2 Thread",
+      "includedFeet": "1",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "lighting": "1 LED",
+      "dimensions": "12.6 x 12.6 x 11 in."
     }
   },
   {
@@ -6585,11 +9680,11 @@
   },
   {
     "handle": "babylock-victory-4-3-2-serger",
-    "title": "Baby Lock Victory Serger (Classroom Model)",
+    "title": "Baby Lock Victory Serger (Open Box)",
     "brand": "Baby Lock",
     "url": "/products/babylock-victory-4-3-2-serger",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Victory-9118-BL-STWB-LOK_b6ef11ac-60c1-4bc4-b14b-46f05d902665.jpg?v=1793735020",
-    "price": 1710.0,
+    "price": 1709.1,
     "compareAtPrice": 2599.0,
     "isOnSale": true,
     "isQuoteRequest": false,
@@ -6794,11 +9889,11 @@
   },
   {
     "handle": "babylock-zeal-open-box",
-    "title": "Baby Lock Zeal Sewing Machine from the Genuine Collection (Classroom Model)",
+    "title": "Baby Lock Zeal Sewing Machine from the Genuine Collection (Open Box)",
     "brand": "Baby Lock",
     "url": "/products/babylock-zeal-open-box",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-zeal-sewing-machine-from-the-genuine-collection-open-box-sewing-serger-embroidery-machines-1973402.jpg?v=1774888268",
-    "price": 369.0,
+    "price": 368.1,
     "compareAtPrice": 549.0,
     "isOnSale": true,
     "isQuoteRequest": false,
@@ -6907,6 +10002,100 @@
       "workspace": "6\" to the right of the needle",
       "lighting": "1 Standard Light",
       "dimensions": "16-1/8 x 10-3/4 x 8 in. (W x H x D)"
+    }
+  },
+  {
+    "handle": "baby-lock-zest-open-box",
+    "title": "Baby Lock Zest Sewing Machine from the Genuine Collection (Open Box)",
+    "brand": "Baby Lock",
+    "url": "/products/baby-lock-zest-open-box",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/baby-lock-zest-sewing-machine-from-the-genuine-collection-with-free-online-classes-ba-lok60d-sewing-serger-embroidery-machines-672204.png?v=1762441098",
+    "price": 188.1,
+    "compareAtPrice": 299.0,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": true,
+    "types": [
+      "Sewing",
+      "Quilting"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 15,
+      "embroideryArea": null,
+      "maxSpeed": 750,
+      "screenSize": null,
+      "includedFeet": 4,
+      "throatSpace": "6\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "15 Built-in Stitches",
+        "1 Buttonhole (Four-Step)",
+        "750 SPM",
+        "Needle Threader: No",
+        "Thread Cutter: Manual (Side)",
+        "6\" Throat Space",
+        "Includes 4 Presser Feet",
+        "Manual Threading",
+        "25/2 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "Built-in Stitches: 15 (including four-step buttonhole)",
+        "Adjustable Stitch Length: 0-4 mm"
+      ],
+      "Threading & Convenience": [
+        "Bobbin System: Front-Loading",
+        "Thread Cutter: Convenient",
+        "Bobbins: 3 included"
+      ],
+      "Workspace & Display": [
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 6\" to the right of the needle"
+      ],
+      "Smart Features": [
+        "Darning Plate: For free-motion techniques",
+        "Electronic Foot Control",
+        "Built-in Accessory Storage"
+      ],
+      "Included Feet": [
+        "Blind Hem Foot",
+        "Sliding Buttonhole Foot",
+        "Zigzag Foot",
+        "Zipper Foot"
+      ],
+      "Included Accessories": [
+        "Darning Plate",
+        "Bobbins (3)",
+        "Needle Package",
+        "Seam Ripper",
+        "Spool Cap",
+        "Screwdriver"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "2-Year Limited Warranty on Electrical Components",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "15",
+      "maxSpeed": "750 SPM",
+      "buttonholes": "1",
+      "needleThreader": "Built-in",
+      "threadCutter": "Manual",
+      "throatSpace": "6\"",
+      "includedFeet": "4",
+      "warranty": "25/2 Year Limited Warranty"
+    },
+    "ws": {
+      "freeArm": "Yes",
+      "workspace": "6\" to the right of the needle"
     }
   },
   {
@@ -25044,7 +28233,7 @@
     "title": "Handi Quilter Amara 20-inch Longarm Machine and Frame",
     "brand": "Handi Quilter",
     "url": "/products/handi-quilter-amara-20-long-arm-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/handi-quilter-amara-20-inch-longarm-machine-and-frame-sewing-serger-embroidery-machines-426687.jpg?v=1752174712",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/HQAmara20-Nov2026Bundle.jpg?v=1793914406",
     "price": 12995.0,
     "compareAtPrice": null,
     "isOnSale": false,
@@ -25151,7 +28340,7 @@
     "title": "Handi Quilter Amara 24-inch Longarm Quilting Machine and Frame",
     "brand": "Handi Quilter",
     "url": "/products/handi-quilter-amara-24-inch-longarm-quilting-machine-and-frame",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/handi-quilter-amara-24-inch-longarm-quilting-machine-and-frame-sewing-serger-embroidery-machines-170587.jpg?v=1762442121",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/HQAmara24-Nov2026Bundle.jpg?v=1793914462",
     "price": 17995.0,
     "compareAtPrice": 19995.0,
     "isOnSale": true,
@@ -25262,7 +28451,7 @@
     "title": "Handi Quilter Amara ST Sit Down Longarm Quilting Machine and Table",
     "brand": "Handi Quilter",
     "url": "/products/handi-quilter-amara-st-sit-down-long-arm-quilting-machine-with-table",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/handi-quilter-amara-st-sit-down-long-arm-quilting-machine-and-table-sewing-serger-embroidery-machines-504130.jpg?v=1779214985",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/HQAmaraST-Nov2026Bundle.jpg?v=1793914371",
     "price": 8495.0,
     "compareAtPrice": null,
     "isOnSale": false,
@@ -25930,7 +29119,7 @@
     "title": "Handi Quilter Moxie 15\" Longarm Quilting Machine",
     "brand": "Handi Quilter",
     "url": "/products/moxie-quilting-machine-handi-quilter",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/moxie-quilting-machine-sewing-serger-embroidery-machines-367416.jpg?v=1762442124",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/HQMoxie-Nov2026Bundle.jpg?v=1793913835",
     "price": 5495.0,
     "compareAtPrice": null,
     "isOnSale": false,
@@ -26046,7 +29235,7 @@
     "title": "Handi Quilter Moxie ST 18\" Sit Down Longarm Quilting Machine",
     "brand": "Handi Quilter",
     "url": "/products/handi-quilter-moxie-st-18-sit-down-longarm-quilting-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/handi-quilter-moxie-st-18-sit-down-longarm-quilting-machine-sewing-serger-embroidery-machines-359221.jpg?v=1762444346",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/HQMoxieST-Nov2026Bundle.jpg?v=1793913333",
     "price": 6495.0,
     "compareAtPrice": null,
     "isOnSale": false,
@@ -26144,7 +29333,7 @@
     "title": "Handi Quilter Moxie XL 18-Inch Longarm and Frame",
     "brand": "Handi Quilter",
     "url": "/products/handi-quilter-moxie-xl-longarm-and-frame",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/handi-quilter-moxie-xl-18-inch-longarm-and-frame-sewing-serger-embroidery-machines-499223.png?v=1762443656",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/HQMoxieXL-Nov2026Bundle.jpg?v=1793913792",
     "price": 8495.0,
     "compareAtPrice": null,
     "isOnSale": false,
@@ -33276,6 +36465,119 @@
       "workspace": "8.5\" to the right of the needle",
       "lighting": "Bright white LED",
       "dimensions": "17.75 x 9 x 8.5 in. (W x H x D)"
+    }
+  },
+  {
+    "handle": "baby-lock-acclaim-serger",
+    "title": "Baby Lock Acclaim Serger (Classroom Model)",
+    "brand": "NLA",
+    "url": "/products/baby-lock-acclaim-serger",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Acclaim_WhatNewCatalog.jpg?v=1787179857",
+    "price": 2849.0,
+    "compareAtPrice": 3849.0,
+    "isOnSale": true,
+    "isQuoteRequest": true,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Serger"
+    ],
+    "tagline": "This machine comes with 60 Days of FREE Online Classes with Baby Lock! *Click HERE to register!",
+    "highlights": [
+      "Baby Lock Serger Tool Kit (BLSGTK)",
+      "Baby Lock Acclaim Inspirational Guide (STWB-BLES4)"
+    ],
+    "cardSpecs": {
+      "stitchCount": 0,
+      "embroideryArea": null,
+      "maxSpeed": 1500,
+      "screenSize": null,
+      "includedFeet": 1,
+      "throatSpace": "2\"",
+      "threadCount": "4/3/2 Thread"
+    },
+    "specs": {
+      "Key Specs": [
+        "Needle Threader: RevolutionAir™ Needle & Looper Air Threading",
+        "2\" to the Right of the Needle",
+        "Includes 1 Presser Foot",
+        "4/3/2 Thread Serging & Wave Stitch",
+        "RevolutionAir™ Threading System (Loopers & Needles)",
+        "Automatic Thread Delivery™ (No Tension Dials)",
+        "25/10/5/1 Year Limited Warranty"
+      ],
+      "Threading": [
+        "RevolutionAir Threading System",
+        "Automatic Thread Delivery System",
+        "Looper Threading Tool: Included",
+        "Needle System: Household",
+        "Enhanced Telescopic Antennae: With thread guides",
+        "4-Thread RevolutionAir Needle Threading Guide: Included"
+      ],
+      "Workspace & Display": [
+        "Workspace Right of Needle: 2\" W x 3\" H",
+        "Lighting: Pure Lighting with 3 LEDs",
+        "Dimensions: 17-1/8 x 13-7/8 x 12-3/4 in. (W x H x D)"
+      ],
+      "Smart Features": [
+        "Heavy-Duty Cutting System",
+        "Patented System: Easier sewing around curves",
+        "Bypass Port: For specialty threads",
+        "Built-in Ribbon/Tape Guide",
+        "Needle Clamp Safety Plate: Prevents lost needle screws",
+        "Safety Switches: Side door cover, front door cover, presser foot, needle threader",
+        "Power Cord Manager: On machine base",
+        "Electronic Foot Control",
+        "Full-Color Quick Reference Threading Chart",
+        "Built-in Accessory Storage",
+        "Needle Drop Tray: With magnet",
+        "Thread Stand Tray: With magnet"
+      ],
+      "Included Accessories": [
+        "Multi-Purpose Presser Foot: Snap-on",
+        "Presser Foot Pressure: Adjustable dial",
+        "Presser Foot Height: Adjustable up to 6.0 mm",
+        "Presser Foot Lever: On the right",
+        "Foot Control",
+        "Power Cord",
+        "Machine Soft Cover",
+        "Lint Brush/Needle Insert Tool",
+        "Assorted Sized Needles Package",
+        "Allen Screwdriver",
+        "Allen Wrench",
+        "Screwdriver",
+        "Tweezers",
+        "Upper Cutting Blade for Replacement",
+        "Looper Threading Tool",
+        "Thread Nets (4)",
+        "Spool Caps (4)",
+        "Sponge Disks (4)",
+        "Cone Holders (4)",
+        "4-Thread RevolutionAir Needle Threading Guide"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Product Casting",
+        "10-Year Limited Warranty on Defective Parts",
+        "5-Year Limited Warranty on Electrical Components",
+        "1-Year Labor Warranty",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": 24.7,
+    "dimensions": "17-1/8 x 13-7/8 x 12-3/4 in. (W x H x D)",
+    "ks": {
+      "maxSpeed": "1,500 SPM",
+      "needleThreader": "Automatic",
+      "threadingSystem": "RevolutionAir Needle & Looper Air Threading",
+      "throatSpace": "2\"",
+      "threadCount": "4/3/2 Thread",
+      "includedFeet": "1",
+      "warranty": "25/10/5/1 Year Limited Warranty"
+    },
+    "ws": {
+      "workspace": "2\" W x 3\" H",
+      "lighting": "Pure Lighting with 3 LEDs",
+      "dimensions": "17-1/8 x 13-7/8 x 12-3/4 in. (W x H x D)"
     }
   },
   {
