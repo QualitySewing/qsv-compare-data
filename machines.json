@@ -21952,6 +21952,121 @@
     }
   },
   {
+    "handle": "brother-pe545-embroidery-machine",
+    "title": "Brother PE545 Embroidery Machine",
+    "brand": "Brother",
+    "url": "/products/brother-pe545-embroidery-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/18464_20_PE545_front_2-png.jpg?v=1794249676",
+    "price": 499.99,
+    "compareAtPrice": null,
+    "isOnSale": false,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Embroidery"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": null,
+      "embroideryArea": "4\" x 4\"",
+      "maxSpeed": 400,
+      "screenSize": "3.7\"",
+      "includedFeet": 1,
+      "throatSpace": null,
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "135 built-in embroidery designs",
+        "Maximum embroidery area: 4\" x 4\"",
+        "Maximum embroidery speed: 400 SPM",
+        "Needle Threader: Advanced",
+        "Thread Cutter: Automatic",
+        "3.7\" color LCD touchscreen",
+        "25/2/1 Year Limited Warranty"
+      ],
+      "Embroidery Features": [
+        "135 built-in embroidery designs (75 motif designs, 60 alphabet and frame designs)",
+        "Realistic design preview",
+        "Drag and drop design positioning on the touchscreen",
+        "Maximum embroidery area: 4\" x 4\" (100 mm x 100 mm)",
+        "Maximum embroidery speed: 400 SPM",
+        "10 built-in embroidery fonts",
+        "On-screen editing"
+      ],
+      "Threading & Convenience": [
+        "Advanced needle threading system",
+        "Automatic thread cutter",
+        "Quick-set bobbin",
+        "Upper thread sensor",
+        "Bobbin thread sensor",
+        "Needle position key",
+        "Presser foot leveling"
+      ],
+      "Workspace & Display": [
+        "Display: 3.7\" Touchscreen",
+        "Dimensions: 7.76 x 16.50 x 12.09 in."
+      ],
+      "Smart Features": [
+        "Wireless LAN",
+        "Design Database Transfer software (free, no USB required)",
+        "Start/stop button",
+        "Artspira app compatible, with pen and eraser drawing tools for designs up to 4\" x 4\"",
+        "Built-in memory"
+      ],
+      "Included Feet": [
+        "Embroidery Foot (Q)"
+      ],
+      "Included Hoops": [
+        "4\" x 4\" embroidery frame (10 cm x 10 cm)"
+      ],
+      "Included Accessories": [
+        "Needle set",
+        "2 bobbins (1 on machine)",
+        "3 pre-wound bobbins (90 weight white embroidery bobbin thread)",
+        "4 bobbin clips",
+        "Bobbin case",
+        "Seam ripper",
+        "Scissors",
+        "Cleaning brush",
+        "Screwdriver",
+        "Disc-shaped screwdriver",
+        "Spool caps (large, medium on machine, small)",
+        "Thread spool insert (mini king thread spool)",
+        "Spool net",
+        "Accessory bag",
+        "Dust cover",
+        "Operation manual",
+        "Quick reference guide",
+        "Embroidery design guide"
+      ],
+      "Warranty": [
+        "25-Year Limited Warranty on Chassis Casting",
+        "2-Year Limited Warranty on Electronic Components and Circuit Boards (replacement labor excluded)",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": "7.76 x 16.50 x 12.09 in.",
+    "ks": {
+      "stitchCount": "Dedicated embroidery",
+      "maxSpeed": "400 SPM",
+      "needleThreader": "Automatic",
+      "threadCutter": "Automatic",
+      "embroideryDesigns": "135",
+      "embroideryArea": "4\" x 4\"",
+      "display": "3.7\" Touchscreen",
+      "includedFeet": "1",
+      "warranty": "25/2/1 Year Limited Warranty"
+    },
+    "ws": {
+      "display": "3.7\" Touchscreen",
+      "dimensions": "7.76 x 16.50 x 12.09 in."
+    }
+  },
+  {
     "handle": "brother-pe900-dedicated-embroidery-machine",
     "title": "Brother PE900 Dedicated Embroidery Machine",
     "brand": "Brother",
