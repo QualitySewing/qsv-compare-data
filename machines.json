@@ -10201,11 +10201,11 @@
     "brand": "Bernette",
     "url": "/products/bernette-05-academy",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/bernette-05-academy-sewing-machine-sewing-serger-embroidery-machines-459612.png?v=1762441135",
-    "price": 499.0,
+    "price": 399.0,
     "compareAtPrice": 649.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Sewing"
@@ -11353,11 +11353,11 @@
     "brand": "Bernette",
     "url": "/products/bernette-b44-funlock-overlock-serger-machine",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/bernette-b44-funlock-overlock-serger-machine-sewing-serger-embroidery-machines-734086.png?v=1762441141",
-    "price": 699.0,
+    "price": 599.0,
     "compareAtPrice": 899.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Serger"
@@ -11858,11 +11858,11 @@
     "brand": "Bernette",
     "url": "/products/bernina-bernette-b77-sewing-and-quilting-machine",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/bernette-b77-sewing-and-quilting-machine-sewing-serger-embroidery-machines-739754.jpg?v=1762441151",
-    "price": 1699.0,
+    "price": 1199.0,
     "compareAtPrice": 2249.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Quilting",
@@ -12270,7 +12270,7 @@
     "compareAtPrice": null,
     "isOnSale": false,
     "isQuoteRequest": true,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Sewing"
@@ -12677,7 +12677,7 @@
     "compareAtPrice": null,
     "isOnSale": false,
     "isQuoteRequest": true,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Quilting",
@@ -13215,7 +13215,7 @@
     "compareAtPrice": null,
     "isOnSale": false,
     "isQuoteRequest": true,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Quilting",
@@ -16041,7 +16041,7 @@
     "compareAtPrice": null,
     "isOnSale": false,
     "isQuoteRequest": true,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Quilting",
@@ -16822,7 +16822,7 @@
     "compareAtPrice": null,
     "isOnSale": false,
     "isQuoteRequest": true,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Serger"
