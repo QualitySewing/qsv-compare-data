@@ -17382,7 +17382,7 @@
     "compareAtPrice": 10999.0,
     "isOnSale": true,
     "isQuoteRequest": true,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Quilting",
@@ -17474,7 +17474,7 @@
     "compareAtPrice": 11999.0,
     "isOnSale": true,
     "isQuoteRequest": true,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Quilting",
@@ -29296,118 +29296,6 @@
     }
   },
   {
-    "handle": "pink-limited-edition-handi-quilter-amara-20",
-    "title": "Handi Quilter Limited Edition Pink Amara 20 with 12-Foot Frame",
-    "brand": "Handi Quilter",
-    "url": "/products/pink-limited-edition-handi-quilter-amara-20",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/limited-edition-pink-handi-quilter-amara-20-with-12-foot-frame-sewing-serger-embroidery-machines-5007146.png?v=1781627112",
-    "price": 28990.0,
-    "compareAtPrice": null,
-    "isOnSale": false,
-    "isQuoteRequest": true,
-    "isPromo": true,
-    "isPreOwned": false,
-    "types": [
-      "Quilting",
-      "Longarm"
-    ],
-    "tagline": "✨ Back to School with HQ! ✨",
-    "highlights": [
-      "Pro-Stitcher Premium computerized quilting included",
-      "HQ Studio3 12-foot frame included (no smaller size with this edition)",
-      "20\" throat with stitch regulation up to 2,500 stitches per minute",
-      "QuiltMaster LED lighting at the throat, needlebar, and bobbin",
-      "Single unit available. Contact us to reserve it."
-    ],
-    "cardSpecs": {
-      "stitchCount": null,
-      "embroideryArea": null,
-      "maxSpeed": 2500,
-      "screenSize": "7\"",
-      "includedFeet": 2,
-      "throatSpace": "20.5\"",
-      "threadCount": null
-    },
-    "specs": {
-      "Key Specs": [
-        "20\" Throat Space",
-        "2,500 Stitches Per Minute",
-        "QuiltMaster Servo-Controlled Stitch Regulation (Precision & Cruise)",
-        "7\" Color Touchscreen",
-        "Pro-Stitcher Premium Included",
-        "10/5/5 Year Limited Warranty"
-      ],
-      "Features": [
-        "Max Stitching Speed: 2,500 stitches per minute",
-        "Stitch Regulation: QuiltMaster Servo-Controlled",
-        "Stitch Range: 4-24 stitches per inch",
-        "Regulation Modes: Precision and Cruise",
-        "Manual Mode: 3 customizable preset speeds",
-        "Built-in Tie-off Stitches",
-        "Stitch Counter"
-      ],
-      "Threading & Convenience": [
-        "Hook System: High-Speed Rotary",
-        "Bobbin Type: Large-Capacity M-Class",
-        "Thread Tension: Easy-Set Tension",
-        "Thread-Break Sensor and Alarm",
-        "Bobbin-Use Estimator",
-        "Easy Needle Change",
-        "Needle Stop Up/Down Control"
-      ],
-      "Workspace & Display": [
-        "Display: 7\" Touchscreen",
-        "Workspace Right of Needle: 20.5\" to the right of the needle",
-        "Lighting: QuiltMaster LED Package (throat, needle bar, bobbin)"
-      ],
-      "Smart Features": [
-        "Pro-Stitcher Ready (cabling pre-installed)",
-        "Front Power Switch",
-        "Stitch Counter",
-        "Easy Needle Change",
-        "Magnetic Tool Minder Collar",
-        "Handlebars: QuiltMaster Front (independently adjustable, ergonomic micro handles)",
-        "Pinpoint Needle Laser",
-        "Programmable Handlebar Buttons",
-        "On-Screen Hand Wheel"
-      ],
-      "Included Feet": [
-        "Closed-toe hopping foot (installed)",
-        "Open-toe hopping foot"
-      ],
-      "Compatible Frames": [
-        "HQ Studio3 Frame (included; 12-foot, only size for this edition)"
-      ],
-      "Included Accessories": [
-        "Ruler foot",
-        "Open-toe foot",
-        "Pro-Stitcher Premium computerized quilting system",
-        "HQ bobbin winder"
-      ],
-      "Warranty": [
-        "10-Year Limited Warranty on Sewing Head Casting",
-        "5-Year Limited Warranty on Mechanical Parts",
-        "5-Year Limited Warranty on Electronic and Electrical Components",
-        "90-Day Limited Warranty on Parts and Labor",
-        "1-Year Quality Sewing Warranty"
-      ]
-    },
-    "weightLbs": null,
-    "dimensions": null,
-    "ks": {
-      "maxSpeed": "2,500 SPM",
-      "display": "7\" Touchscreen",
-      "throatSpace": "20.5\"",
-      "includedFeet": "2",
-      "warranty": "10/5/5 Year Limited Warranty"
-    },
-    "ws": {
-      "display": "7\" Touchscreen",
-      "workspace": "20.5\" to the right of the needle",
-      "lighting": "QuiltMaster LED Package (throat, needle bar, bobbin)"
-    }
-  },
-  {
     "handle": "moxie-quilting-machine-handi-quilter",
     "title": "Handi Quilter Moxie 15\" Longarm Quilting Machine",
     "brand": "Handi Quilter",
@@ -29859,7 +29747,7 @@
     "compareAtPrice": 269.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Sewing"
@@ -29958,7 +29846,7 @@
     "compareAtPrice": 1099.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Quilting",
@@ -32126,7 +32014,7 @@
     "compareAtPrice": 559.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Sewing",
@@ -32898,7 +32786,7 @@
     "compareAtPrice": 7999.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Embroidery",
@@ -33011,7 +32899,7 @@
     "compareAtPrice": 1799.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Sewing",
@@ -33167,7 +33055,7 @@
     "compareAtPrice": 1299.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Embroidery"
@@ -33288,7 +33176,7 @@
     "compareAtPrice": 3499.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Embroidery"
@@ -34113,7 +34001,7 @@
     "compareAtPrice": 899.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Serger"
@@ -34508,7 +34396,7 @@
     "compareAtPrice": 1399.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Sewing"
@@ -34893,7 +34781,7 @@
     "compareAtPrice": 1499.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Sewing",
@@ -35014,7 +34902,7 @@
     "compareAtPrice": 2299.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Sewing",
@@ -44186,7 +44074,7 @@
     "brand": "Viking Husqvarna",
     "url": "/products/re-certified-designer-epic-3-sewing-and-embroidery-machine",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/viking-designer-epic-3-sewing-and-embroidery-machine-sewing-serger-embroidery-machines-827928.png?v=1762443695",
-    "price": 15999.0,
+    "price": 12999.0,
     "compareAtPrice": 25999.0,
     "isOnSale": true,
     "isQuoteRequest": true,
@@ -45667,7 +45555,7 @@
     "title": "Viking Onyx 30 Sewing Machine",
     "brand": "Viking Husqvarna",
     "url": "/products/husqvarna-viking-onyx-30-sewing-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/husqvarna-viking-onyx-30-01.jpg?v=1789764534",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/husqvarna-viking-onyx-30-01.jpg?v=1794943969",
     "price": 579.0,
     "compareAtPrice": 749.0,
     "isOnSale": true,
