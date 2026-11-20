@@ -42744,6 +42744,115 @@
     }
   },
   {
+    "handle": "singer-smart-heavy-duty-9120-sewing-machine",
+    "title": "Singer Smart Heavy Duty 9120 Sewing Machine",
+    "brand": "Singer",
+    "url": "/products/singer-smart-heavy-duty-9120-sewing-machine",
+    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/Singer-SmartHD-360-Sewing-2026-00_2.jpg?v=1795200463",
+    "price": 399.99,
+    "compareAtPrice": 499.99,
+    "isOnSale": true,
+    "isQuoteRequest": false,
+    "isPromo": false,
+    "isPreOwned": false,
+    "types": [
+      "Sewing"
+    ],
+    "tagline": null,
+    "highlights": [],
+    "cardSpecs": {
+      "stitchCount": 200,
+      "embroideryArea": null,
+      "maxSpeed": 900,
+      "screenSize": null,
+      "includedFeet": 5,
+      "throatSpace": "6.3\"",
+      "threadCount": null
+    },
+    "specs": {
+      "Key Specs": [
+        "200+ stitches via the CREATIVATE app, plus a built-in straight stitch",
+        "One-step buttonhole, multiple styles via the app",
+        "Maximum sewing speed: 900 SPM",
+        "Needle Threader: built-in",
+        "6.3\" Throat Space to the right of the needle (160 mm)",
+        "5 presser feet included",
+        "1 Year Limited Warranty"
+      ],
+      "Sewing Features": [
+        "Built-in straight stitch, plus 200+ stitches via the CREATIVATE app (utility, stretch, decorative and lettering)",
+        "One-step buttonhole, multiple styles via the app",
+        "Adjustable stitch width (7 mm)",
+        "Adjustable stitch length (4.5 mm)",
+        "29 needle positions",
+        "Maximum sewing speed: 900 SPM",
+        "Drop feed for free-motion sewing",
+        "Adjustable presser foot pressure",
+        "Full metal interior frame and DC motor",
+        "Embroidery capable with the optional Singer 900E Embroidery Attachment (sold separately)"
+      ],
+      "Threading & Convenience": [
+        "Built-in needle threader",
+        "Drop & Sew bobbin system (Class 15 transparent)",
+        "Upper thread and bobbin thread sensors",
+        "Stitch tie-off"
+      ],
+      "Workspace & Display": [
+        "Speed Control: Speed control",
+        "Free Arm: Yes",
+        "Workspace Right of Needle: 6.3\" W x 4.2\" H",
+        "Lighting: StayBright LED lighting"
+      ],
+      "Smart Features": [
+        "CREATIVATE app control (iOS and Android)",
+        "Recommended stitch settings and presser foot shown in the app",
+        "Tutorials and guided projects in the app",
+        "Speed control",
+        "Start/stop button",
+        "Eco mode turns off the light after 15 idle minutes"
+      ],
+      "Included Feet": [
+        "All-Purpose Foot",
+        "Blind Hem Foot",
+        "Decorative Stitch Foot",
+        "One-Step Buttonhole Foot",
+        "Zipper Foot"
+      ],
+      "Included Accessories": [
+        "Bobbins (Class 15 transparent)",
+        "Pack of needles",
+        "Small screwdriver",
+        "Seam ripper",
+        "Lint brush",
+        "Large spool cap",
+        "Small spool cap",
+        "Auxiliary spool pin"
+      ],
+      "Warranty": [
+        "Lifetime limited warranty (metal frame): free replacement parts and labor, shipping at your cost",
+        "1-year limited warranty (parts and adjustments): parts and labor covered, shipping at your cost",
+        "1-Year Quality Sewing Warranty"
+      ]
+    },
+    "weightLbs": null,
+    "dimensions": null,
+    "ks": {
+      "stitchCount": "200",
+      "maxSpeed": "900 SPM",
+      "buttonholes": "1 (one-step)",
+      "needleThreader": "Built-in",
+      "throatSpace": "6.3\"",
+      "includedFeet": "5",
+      "warranty": "1 Year Limited Warranty"
+    },
+    "ws": {
+      "speedControl": "Speed control",
+      "freeArm": "Yes",
+      "workspace": "6.3\" W x 4.2\" H",
+      "lighting": "StayBright LED lighting"
+    }
+  },
+  {
     "handle": "viking-designer-epic-2",
     "title": "Husqvarna Viking Designer Epic 2 Sewing, Quilting & Embroidery Machine",
     "brand": "Viking Husqvarna",
