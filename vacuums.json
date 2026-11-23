@@ -438,7 +438,7 @@
     "filterType": "Canister",
     "cardSpecs": {
       "vacuumType": "Canister",
-      "weightLbs": 17,
+      "weightLbs": 18,
       "suctionPower": "1200 Watts",
       "filtration": "HEPA",
       "bagType": "Bagless",
@@ -461,8 +461,8 @@
         "All floor types: hard floors and low-pile carpet",
         "Operating Radius: 32 ft (10 m)",
         "Cord Length: 21 ft (6.5 m)",
-        "Weight: 17 lbs (7.7 kg) without accessories",
-        "Noise Level: 75 dB (carpet) / 78 dB (hard floors)"
+        "Weight: 18 lbs (7.8 kg)",
+        "Noise Level: 78 dB"
       ],
       "Bags & Filtration": [
         "Bagless system with hygienic dust disposal",
@@ -482,7 +482,7 @@
         "3 Year Bumper to Bumper"
       ]
     },
-    "weightLbs": 17,
+    "weightLbs": 18,
     "tagline": "Powerful bagless cleaning with HEPA filtration for pet owners and allergy sufferers",
     "highlights": [
       "TrackDrive wheels keep the vacuum stable and on course",
@@ -1892,7 +1892,7 @@
       "suctionPower": null,
       "filtration": "HEPA",
       "bagType": "Bagged",
-      "cordType": "Cordless (50 min)",
+      "cordType": "Cordless (55 min)",
       "petFriendly": false,
       "cleaningPath": null
     },
@@ -1901,7 +1901,7 @@
         "Black"
       ],
       "Features": [
-        "Runtime: Up to 50 minutes per charge",
+        "Runtime: Up to 55 minutes per charge",
         "Weight: 19.3 lbs",
         "Headlight: LED",
         "Belt: Lifetime with jam sensor protection"
@@ -3082,7 +3082,7 @@
       "Features": [
         "Automatic brush height adjustment (sensor-controlled)",
         "Boost mode for deeper carpet cleaning",
-        "12-inch cleaning path",
+        "10.5-inch cleaning path",
         "Automatic obstruction detection with shut-off",
         "Tool-free brush roller removal",
         "Lifetime belt warranty",
@@ -3166,7 +3166,7 @@
       ],
       "Features": [
         "Automatic brush height adjustment (sensor-controlled)",
-        "12-inch cleaning path",
+        "10.5-inch cleaning path",
         "S-Class pre-motor filtration",
         "HEPA filtration available",
         "Tool-free brush roller access",
@@ -3255,7 +3255,7 @@
         "Brush obstruction sensor with automatic shut-off",
         "Soft-start feature",
         "40-foot power cord",
-        "12-inch cleaning path",
+        "10.5-inch cleaning path",
         "S-Class hospital-grade filtration",
         "Lifetime belt warranty",
         "1.4-gallon Ultra Bag capacity"
@@ -3333,7 +3333,7 @@
         "Instant-use cleaning wand with 6 ft hose",
         "Soft-start feature for motor longevity",
         "40-foot power cord",
-        "12-inch cleaning path",
+        "10.5-inch cleaning path",
         "S-Class filtration (captures 99.97% of 0.3-micron particles)",
         "HEPA filtration available",
         "Automatic brush wear compensation",
@@ -3482,7 +3482,7 @@
       "suctionPower": "8 Amps",
       "filtration": "HEPA",
       "bagType": "Bagged",
-      "cordType": "Corded (32 ft)",
+      "cordType": "Corded (31 ft)",
       "petFriendly": true,
       "cleaningPath": "12\""
     },
@@ -3521,8 +3521,9 @@
         "Body Weight: 15.4 lbs",
         "Sound Level: 68 dBA",
         "Bag Capacity: 0.92 gallons",
-        "Cord Length: 32 ft",
-        "Cleaning Path: 12 inches"
+        "Cord Length: 31 ft",
+        "Power Head Width: 12 inches",
+        "Cleaning Path: 10.5 inches"
       ],
       "Warranty": [
         "7 years on motor",
