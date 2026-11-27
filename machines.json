@@ -28996,7 +28996,7 @@
     "brand": "Handi Quilter",
     "url": "/products/moxie-quilting-machine-handi-quilter",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/HQMoxie-Nov2026Bundle.jpg?v=1793913835",
-    "price": 4945.5,
+    "price": 3995.0,
     "compareAtPrice": 5495.0,
     "isOnSale": true,
     "isQuoteRequest": false,
@@ -35104,128 +35104,6 @@
       "kneeLift": "Automatic presser foot lift",
       "workspace": "8.3\" to the right of the needle",
       "dimensions": "20 x 12.5 x 8.6 in. (W x H x D)"
-    }
-  },
-  {
-    "handle": "juki-f600-sewing-quilting-machine",
-    "title": "Juki Exceed HZL-F600 Quilt & Pro Special Computerized Sewing & Quilting Machine",
-    "brand": "Juki",
-    "url": "/products/juki-f600-sewing-quilting-machine",
-    "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/juki-exceed-hzl-f600-quilt-pro-special-computerized-sewing-quilting-machine-sewing-serger-embroidery-machines-192492.jpg?v=1762442216",
-    "price": 1549.0,
-    "compareAtPrice": 2369.0,
-    "isOnSale": true,
-    "isQuoteRequest": false,
-    "isPromo": false,
-    "isPreOwned": false,
-    "types": [
-      "Quilting",
-      "Sewing"
-    ],
-    "tagline": "Powerful, precise, and perfect for quilting pros.",
-    "highlights": [
-      "255 built-in stitches with decorative and utility options",
-      "Box Feed System for superior fabric handling",
-      "Automatic thread cutter and programmable foot control",
-      "Wide table and knee lift for quilting comfort"
-    ],
-    "cardSpecs": {
-      "stitchCount": 225,
-      "embroideryArea": null,
-      "maxSpeed": 900,
-      "screenSize": null,
-      "includedFeet": 12,
-      "throatSpace": "8\"",
-      "threadCount": null
-    },
-    "specs": {
-      "Key Specs": [
-        "225 Built-in Stitches",
-        "16 Sensor One-Step Buttonholes",
-        "900 SPM",
-        "Needle Threader: Automatic",
-        "Thread Cutter: Automatic (Button & Foot)",
-        "LCD Display with Dial Navigation",
-        "8\" Throat Space to the right of the needle",
-        "12 Presser Feet Included",
-        "5/2 Year Limited Warranty"
-      ],
-      "Sewing Features": [
-        "Built-in Stitches: 225",
-        "Max Sewing Speed: 900 stitches per minute",
-        "Max Stitch Width: 7mm (0.3 in.)",
-        "Max Stitch Length: 5mm (0.2 in.)",
-        "Buttonholes: 16 styles",
-        "Presser Foot Lift: Manual",
-        "Foot Pressure: Adjustable",
-        "Shank Type: Low"
-      ],
-      "Threading & Convenience": [
-        "Needle System: 130R / 705H",
-        "Bobbin Type: 15 Class",
-        "Programmable foot control with heel tap functions"
-      ],
-      "Workspace & Display": [
-        "Display: LCD",
-        "Knee Lift / Hands-Free Lift: Knee lift",
-        "Workspace Right of Needle: 8\" to the right of the needle",
-        "Dimensions: 17.5 x 11.5 x 8.25 in. (W x H x D)"
-      ],
-      "Included Feet": [
-        "Blind Stitch Presser Foot",
-        "Buttonhole Presser Foot",
-        "Edge Sewing Presser Foot",
-        "Manual Buttonhole Presser Foot",
-        "Open Toe Presser Foot",
-        "Overcasting Presser Foot",
-        "Patchwork Presser Foot",
-        "Quilt Presser Foot",
-        "Smooth Presser Foot",
-        "Standard Presser Foot",
-        "Walking Foot",
-        "Zipper Presser Foot"
-      ],
-      "Included Accessories": [
-        "Hard case",
-        "Wide table",
-        "12 presser feet (Blind Stitch, Buttonhole, Edge Sewing, Manual Buttonhole, Open Toe, Overcasting, Patchwork, Quilt, Smooth, Standard, Walking Foot, Zipper)",
-        "Knee lift lever",
-        "4 bobbins",
-        "Eyelet punch",
-        "Quilt guide",
-        "Small, medium, and large spool caps",
-        "T-shape screwdriver",
-        "Auxiliary spool pin",
-        "Seam ripper",
-        "Twin needles"
-      ],
-      "Warranty": [
-        "5-Year Limited Warranty on All Other Parts",
-        "2-Year Limited Warranty on Motors, Light Assembly, Wiring, Switches, Circuit Boards and Speed Control",
-        "1-Year Quality Sewing Warranty"
-      ],
-      "Smart Features": [
-        "Wide Table: Included"
-      ]
-    },
-    "weightLbs": 21.6,
-    "dimensions": "17.5 x 11.5 x 8.25 in. (W x H x D)",
-    "ks": {
-      "stitchCount": "225",
-      "maxSpeed": "900 SPM",
-      "buttonholes": "16",
-      "needleThreader": "Automatic",
-      "threadCutter": "Automatic",
-      "display": "LCD",
-      "throatSpace": "8\"",
-      "includedFeet": "12",
-      "warranty": "5/2 Year Limited Warranty"
-    },
-    "ws": {
-      "display": "LCD",
-      "kneeLift": "Knee lift",
-      "workspace": "8\" to the right of the needle",
-      "dimensions": "17.5 x 11.5 x 8.25 in. (W x H x D)"
     }
   },
   {
