@@ -23228,11 +23228,11 @@
     "brand": "Brother",
     "url": "/products/brother-sp1-sublimation-printer",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/brother-sp1-sublimation-printer-sewing-serger-embroidery-machines-2044510.webp?v=1781627592",
-    "price": 379.99,
+    "price": 429.99,
     "compareAtPrice": 459.99,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": true,
+    "isPromo": false,
     "isPreOwned": false,
     "types": [
       "Specialty"
@@ -35229,11 +35229,11 @@
     "brand": "Juki",
     "url": "/products/juki-hzl-dx7",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/juki-hzl-dx7-sewing-machine-sewing-serger-embroidery-machines-741808.jpg?v=1762442213",
-    "price": 1679.0,
+    "price": 1427.0,
     "compareAtPrice": 2369.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Sewing",
@@ -35367,11 +35367,11 @@
     "brand": "Juki",
     "url": "/products/juki-mo-2000qvp",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/juki-mo-2000qvp-sewing-serger-embroidery-machines-925729.jpg?v=1762442227",
-    "price": 1399.0,
+    "price": 1259.0,
     "compareAtPrice": 2299.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Serger"
@@ -35559,11 +35559,11 @@
     "brand": "Juki",
     "url": "/products/juki-mo-654de-portable-2-3-4-thread-serger",
     "image": "https://cdn.shopify.com/s/files/1/0667/3042/6603/files/juki-mo-654de-portable-234-thread-serger-sewing-serger-embroidery-machines-358996.jpg?v=1762442230",
-    "price": 549.0,
+    "price": 494.0,
     "compareAtPrice": 1399.0,
     "isOnSale": true,
     "isQuoteRequest": false,
-    "isPromo": false,
+    "isPromo": true,
     "isPreOwned": false,
     "types": [
       "Serger"
